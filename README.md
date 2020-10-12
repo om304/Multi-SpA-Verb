@@ -6,22 +6,13 @@ This repository contains the Supplementary Material for the COLING 2020 submissi
 
 ## Files
 
-- Appendices.pdf : The appendices for the submitted manuscript, including:
-
-	A Representation Models : information about representation models used in this work, including URLs to the specific model variants
-
-	B External Corpora : information about the external corpora used to extract contexts for the contextualised BERT embeddings
-
-	C WALS Features : full list of WALS typological features used in cross-lingual comparisons
-
-- Dataset/ : The complete data produced in this study and used for model evaluation, including the following language-specific folders:
+The complete language-specific data produced in the study and used for model evaluation:
 	fi/ (Finnish)
 	it/ (Italian)
 	ja/ (Japanese)
 	pl/ (Polish)
 	zh/ (Mandarin Chinese)
 	
-
 
 ## Dataset structure
 
