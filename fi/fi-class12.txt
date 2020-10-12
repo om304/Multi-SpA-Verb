@@ -1,0 +1,1129 @@
+Word1	Word2	Score
+huuhdella	täyttää	1.025978055
+raastaa	nuolla	0.791162853
+sekoittaa	grillata	0.765673571
+leipoa	sammuttaa	1.170930224
+pureskella	hotkaista	0.497374428
+pureskella	ruiskuttaa	1.016570193
+kokata	ruiskuttaa	0.766406748
+paistua	purra	0.97156224
+huuhdella	murskata	1.046339784
+huuhdella	sulattaa	1.032436915
+hauduttaa	juoda	1.130805975
+hotkaista	murskata	1.20787669
+kastaa	nuolla	0.951475931
+paistaa	keittää	0.460667973
+hauduttaa	keittää	0.633009324
+nuolla	nielaista	0.509722818
+juovuttaa	imeä	0.818268335
+nuolla	syöttää	0.631269102
+ruiskuttaa	ahmia	1.180440738
+siemailla	viipaloida	1.084146961
+jauhaa	siemailla	0.94420208
+ahmia	nielaista	0.390123907
+täyttää	nuolla	0.731364613
+laittaa ruokaa	kastaa	0.863215017
+syöttää	jauhaa	0.741625622
+paistua	tupakoida	1.284791239
+imaista	paloitella	1.029950048
+paloitella	roiskia	1.071131367
+nielaista	jäädyttää	1.377594159
+syödä	ryystää	0.771072425
+puristaa	huuhdella	0.949708269
+syöttää	pureskella	0.594094525
+nuolla	siemailla	0.592146731
+nuolla	imeä	0.566410281
+sulaa	paistua	0.864254717
+ryystää	ripotella	1.316777528
+ahmia	pureskella	0.431894806
+paahtaa	imaista	1.102424454
+sammuttaa	grillata	1.317971544
+paloitella	puristaa	1.038864561
+hauduttaa	maistaa	0.907088531
+hotkaista	läikkyä	1.101164882
+nostaa lasi	jäädyttää	1.311817562
+juoda	vatkata	1.137362542
+raastaa	sekoittaa	0.686955984
+raastaa	sammuttaa	1.297043904
+purra	paahtaa	0.960967223
+murskata	ryystää	1.275082626
+viipaloida	ruiskuttaa	0.858177056
+ryystää	sammuttaa	1.169780949
+maistaa	viipaloida	0.870727354
+laittaa ruokaa	paistua	0.468058711
+ruiskuttaa	leipoa	0.703402895
+juovuttaa	huuhdella	1.10853717
+paahtaa	sammuttaa	1.340005197
+sekoittaa	tupakoida	1.467452489
+keittää	ripotella	0.759960929
+hotkaista	ripotella	1.158782605
+täyttää	paistaa	0.937933628
+vatkata	ahmia	0.873911442
+pureskella	huuhdella	1.036455977
+raastaa	imeä	1.095900605
+paistua	viipaloida	0.765366284
+raastaa	imaista	1.043067166
+murskata	paistua	0.971347166
+kokata	raastaa	0.705187501
+imeä	syödä	0.825606885
+roiskia	keittää	1.002983168
+vatkata	haihtua	1.002152976
+huuhdella	imeä	1.226832556
+läikkyä	sammuttaa	1.256277136
+huuhdella	nostaa lasi	1.007264579
+paistaa	vuotaa yli	0.974747195
+maistua	ruiskuttaa	1.185458252
+vuotaa yli	maistua	1.127469697
+leipoa	imeä	1.06995252
+grillata	murskata	0.8919348
+sulaa	keittää	0.968793689
+paistua	ahmia	0.953338966
+siemailla	jäädyttää	1.31611716
+murskata	täyttää	1.125845247
+syödä	paloitella	0.867794263
+roiskia	nuolla	1.018565168
+purra	keittää	1.041223596
+ruiskuttaa	roiskia	0.4008604
+haihtua	paistaa	0.958234193
+jäädyttää	sulaa	0.881851705
+juovuttaa	roiskia	1.15015177
+ahmia	juovuttaa	0.995413993
+tupakoida	syöttää	1.014747825
+ahmia	raastaa	0.951536296
+nuolla	puristaa	1.066059017
+vatkata	puristaa	0.870953287
+syöttää	juoda	0.879682887
+puristaa	kokata	0.961743142
+keittää	syödä	1.126935383
+hauduttaa	laittaa ruokaa	0.663913556
+ripotella	ahmia	1.166685311
+nielaista	syödä	0.35771453
+sekoittaa	paistua	0.878716938
+sammuttaa	viipaloida	1.10216002
+ahmia	laittaa ruokaa	0.878792708
+jauhaa	nuolla	0.73478419
+kokata	sammuttaa	1.330351514
+kokata	hotkaista	1.048859471
+grillata	imaista	1.225653273
+ahmia	sammuttaa	1.304246712
+nuolla	laittaa ruokaa	0.932873173
+jauhaa	tupakoida	0.981027772
+juovuttaa	jauhaa	1.062565866
+raastaa	hotkaista	1.118835186
+hauduttaa	ahmia	0.946313639
+imeä	paistaa	1.146909832
+kokata	syödä	0.97520313
+paloitella	juovuttaa	1.07315803
+siemailla	maistua	0.750638685
+nostaa lasi	juoda	1.198526163
+ryystää	tupakoida	1.099646515
+vatkata	vuotaa yli	1.006146452
+huuhdella	ripotella	0.832482821
+viipaloida	puristaa	0.959084189
+paistua	leipoa	0.595326888
+täyttää	sulattaa	1.17374319
+keittää	sammuttaa	1.414964392
+purra	täyttää	1.027133963
+juoda	syödä	0.766379596
+nielaista	purra	0.547179565
+jauhaa	pureskella	0.542812638
+juovuttaa	paistaa	1.189044571
+jauhaa	laittaa ruokaa	0.717534325
+leipoa	kokata	0.365229058
+siemailla	purra	0.819330341
+sammuttaa	syöttää	1.148947985
+imaista	paistua	1.231801276
+imeä	tupakoida	1.18057926
+läikkyä	täyttää	0.965443053
+paahtaa	murskata	0.961168082
+kastaa	sulattaa	0.921410129
+sammuttaa	hauduttaa	1.040883713
+maistaa	kastaa	0.989607852
+sekoittaa	ripotella	0.812128074
+hauduttaa	sulaa	1.03520559
+pureskella	laittaa ruokaa	0.905301594
+ahmia	imeä	0.755752685
+ryystää	sulattaa	1.341885688
+paloitella	syöttää	0.993425559
+siemailla	paahtaa	1.205899409
+syödä	sekoittaa	1.01345603
+ahmia	kastaa	1.061896957
+vuotaa yli	paloitella	1.160234684
+imaista	purra	0.699114749
+maistua	ryystää	0.820420541
+syödä	siemailla	0.761456563
+jauhaa	sulattaa	1.100217992
+maistaa	nuolla	0.411120415
+imeä	maistaa	0.7114046
+täyttää	roiskia	1.155154373
+nostaa lasi	puristaa	0.951948343
+jauhaa	imaista	0.944450981
+pureskella	sekoittaa	0.892482361
+paloitella	sulaa	1.024666108
+leipoa	hotkaista	0.916445176
+läikkyä	sekoittaa	0.996954233
+paloitella	murskata	0.77925088
+grillata	syödä	0.995144733
+nostaa lasi	murskata	1.189113537
+ripotella	paahtaa	0.934007334
+jäädyttää	raastaa	1.1781352
+ripotella	roiskia	0.604173006
+läikkyä	syödä	0.994142793
+nuolla	hauduttaa	1.015043452
+paistua	juoda	1.266869636
+paloitella	kastaa	0.822033617
+ripotella	pureskella	1.12298178
+täyttää	maistua	0.964911324
+tupakoida	hotkaista	0.976767027
+juovuttaa	täyttää	1.105956515
+raastaa	haihtua	1.117282122
+purra	sekoittaa	1.064988721
+syödä	paistaa	0.91711719
+ryystää	grillata	1.182801499
+imeä	ruiskuttaa	1.136777774
+raastaa	paloitella	0.528129325
+imeä	ryystää	0.404076375
+paistua	paistaa	0.318309732
+raastaa	grillata	0.788034026
+keittää	puristaa	1.01295166
+vatkata	kokata	0.534321774
+juovuttaa	kokata	1.184803184
+jäädyttää	imaista	1.25168741
+juovuttaa	leipoa	1.048845985
+juovuttaa	sulattaa	1.332243156
+täyttää	laittaa ruokaa	0.863978231
+huuhdella	roiskia	0.614477709
+kokata	hauduttaa	0.591514492
+hotkaista	nuolla	0.465528158
+kastaa	viipaloida	0.811263202
+jauhaa	huuhdella	0.985045732
+nielaista	haihtua	1.316028281
+ripotella	sulattaa	0.855973226
+laittaa ruokaa	leipoa	0.383381441
+sekoittaa	juoda	1.285788404
+hauduttaa	syöttää	0.823648049
+ruiskuttaa	grillata	0.880529909
+keittää	leipoa	0.47301401
+nuolla	huuhdella	1.010933443
+maistua	maistaa	0.567952349
+roiskia	juoda	1.220570093
+juoda	sammuttaa	1.374964119
+tupakoida	juoda	1.105578992
+sulattaa	vatkata	0.913740247
+sulattaa	hauduttaa	0.834650345
+vuotaa yli	hotkaista	1.214409953
+syödä	maistaa	0.478020349
+läikkyä	vatkata	1.106651397
+paloitella	nostaa lasi	1.21302816
+murskata	leipoa	0.775982381
+purra	kokata	1.024010471
+murskata	jäädyttää	1.075066244
+hotkaista	ruiskuttaa	1.21022374
+kastaa	haihtua	0.998670264
+sulattaa	paloitella	0.879590411
+purra	roiskia	0.959254411
+imaista	vatkata	1.030591768
+paistaa	jauhaa	0.765910386
+syödä	maistua	0.681659333
+jauhaa	vuotaa yli	0.995208343
+viipaloida	sulaa	1.005228524
+sammuttaa	nuolla	1.133305627
+maistaa	siemailla	0.788570913
+läikkyä	ripotella	0.849233743
+juovuttaa	maistua	0.878818726
+nielaista	hauduttaa	1.00085972
+murskata	nuolla	1.065258697
+juovuttaa	läikkyä	0.978255444
+jäädyttää	ryystää	1.145060193
+syöttää	siemailla	0.808587595
+nostaa lasi	kokata	1.225677151
+nuolla	pureskella	0.458809089
+roiskia	imeä	1.162486091
+täyttää	kokata	0.848774418
+sammuttaa	huuhdella	0.951660151
+sammuttaa	maistaa	1.204957314
+nostaa lasi	sulaa	1.164099339
+nuolla	ahmia	0.435037702
+sekoittaa	ruiskuttaa	0.724308146
+huuhdella	läikkyä	0.824772995
+ryystää	leipoa	1.045047729
+raastaa	purra	0.939485201
+keittää	paloitella	0.679954644
+ripotella	paistaa	0.82770344
+nuolla	maistua	0.679012175
+hotkaista	puristaa	1.134896173
+imaista	vuotaa yli	1.256620113
+roiskia	imaista	1.087862463
+leipoa	sekoittaa	0.626457087
+viipaloida	leipoa	0.535032962
+haihtua	sekoittaa	0.919217927
+nuolla	kokata	0.9797653
+imaista	kastaa	1.192517889
+sulattaa	syödä	1.22922711
+hauduttaa	murskata	0.855237885
+ahmia	kokata	0.896334485
+sekoittaa	nuolla	0.932796151
+roiskia	vuotaa yli	0.625942315
+tupakoida	roiskia	1.36660148
+murskata	paistaa	0.856158666
+laittaa ruokaa	juoda	1.224918695
+nostaa lasi	sulattaa	1.21039718
+hauduttaa	leipoa	0.77439335
+nuolla	haihtua	1.139471526
+purra	vuotaa yli	1.14733037
+juovuttaa	hauduttaa	1.062720029
+pureskella	juoda	0.674176881
+leipoa	vatkata	0.559246492
+kokata	paistaa	0.412966986
+täyttää	jauhaa	0.797324213
+sulaa	siemailla	1.422641065
+sekoittaa	maistaa	0.971979229
+sulattaa	siemailla	1.455749572
+nuolla	leipoa	0.87878239
+sulattaa	hotkaista	1.320660426
+siemailla	huuhdella	1.285186545
+raastaa	murskata	0.861210654
+sulaa	purra	1.195733077
+puristaa	sekoittaa	0.853047953
+roiskia	haihtua	1.014251267
+jauhaa	puristaa	0.859276787
+tupakoida	leipoa	1.241011661
+jauhaa	ruiskuttaa	0.887780656
+juoda	täyttää	1.196403304
+hotkaista	sammuttaa	1.282795985
+kastaa	syödä	1.092131553
+raastaa	läikkyä	1.162943813
+sulaa	nielaista	1.279093352
+jäädyttää	purra	1.178343442
+maistua	murskata	1.127901174
+sulattaa	nuolla	1.104149456
+ripotella	maistua	1.002364769
+imaista	laittaa ruokaa	1.218765011
+ahmia	roiskia	1.078523833
+kokata	sulaa	0.883922272
+jauhaa	juoda	0.979423754
+maistaa	vatkata	0.905669941
+puristaa	imaista	1.083366029
+läikkyä	nostaa lasi	1.117940497
+sammuttaa	purra	1.29324486
+siemailla	grillata	1.212141831
+imaista	keittää	1.310330526
+paahtaa	ruiskuttaa	0.942822095
+juoda	ryystää	0.248333886
+murskata	syödä	1.039433786
+hauduttaa	ripotella	0.819771749
+paistua	ruiskuttaa	0.974181973
+syödä	tupakoida	0.903663776
+purra	paloitella	0.943296807
+syödä	paahtaa	0.966291344
+siemailla	vatkata	1.1327746
+grillata	läikkyä	1.025035373
+roiskia	jauhaa	1.016863148
+imeä	purra	0.779734301
+imaista	syöttää	1.114426297
+imeä	juoda	0.367429629
+raastaa	nostaa lasi	1.190268488
+grillata	täyttää	0.950758404
+ruiskuttaa	ripotella	0.605151698
+nielaista	keittää	1.197920552
+sulaa	leipoa	0.878917661
+maistua	roiskia	1.207695464
+tupakoida	nostaa lasi	1.203385198
+grillata	laittaa ruokaa	0.396961851
+vuotaa yli	syödä	1.147530702
+kokata	paahtaa	0.436448796
+sekoittaa	ahmia	1.020611109
+imaista	hauduttaa	1.045149598
+nielaista	maistaa	0.500145467
+haihtua	hauduttaa	1.067075007
+sammuttaa	tupakoida	1.351282897
+sekoittaa	roiskia	0.819705781
+leipoa	nielaista	0.974825152
+läikkyä	ryystää	1.156568835
+maistua	jauhaa	0.90836088
+sammuttaa	sulaa	1.162197611
+imaista	murskata	1.153924587
+juoda	läikkyä	1.165807263
+juoda	paloitella	1.093002489
+jauhaa	ripotella	0.953932881
+ahmia	maistaa	0.537291836
+hotkaista	jauhaa	0.791135773
+sammuttaa	imaista	1.194207919
+pureskella	paistua	1.000308429
+huuhdella	raastaa	1.105631871
+ruiskuttaa	syödä	1.124242481
+murskata	jauhaa	0.826271363
+sulaa	puristaa	0.999774748
+juovuttaa	syödä	0.95938646
+nostaa lasi	laittaa ruokaa	1.23644705
+murskata	juoda	1.249839383
+hauduttaa	pureskella	1.011917972
+ahmia	paloitella	0.837864813
+huuhdella	maistua	1.174779677
+kokata	ripotella	0.748510456
+roiskia	siemailla	1.160485884
+kastaa	juovuttaa	1.209917411
+paistaa	puristaa	1.094566229
+juovuttaa	imaista	0.894363253
+nielaista	roiskia	1.125557493
+nielaista	läikkyä	1.081985766
+syöttää	läikkyä	1.055900516
+laittaa ruokaa	roiskia	0.802880304
+purra	sulattaa	1.254191052
+sekoittaa	huuhdella	0.889059256
+tupakoida	juovuttaa	1.073560093
+ahmia	juoda	0.697613449
+jäädyttää	paloitella	0.950971824
+läikkyä	kokata	1.110912284
+viipaloida	vatkata	0.702457356
+keittää	maistaa	1.014565564
+grillata	maistaa	0.932896443
+viipaloida	täyttää	0.834340488
+pureskella	puristaa	0.960109999
+sekoittaa	sulaa	0.944380752
+sammuttaa	laittaa ruokaa	1.233844793
+paahtaa	juoda	1.188322914
+syödä	huuhdella	1.068429563
+imeä	viipaloida	1.040178078
+paistua	imeä	1.24074446
+jauhaa	vatkata	0.810413325
+haihtua	imaista	1.399880011
+viipaloida	juoda	1.129540587
+paistaa	jäädyttää	1.257002321
+hauduttaa	täyttää	1.04670456
+grillata	nuolla	0.975369902
+vuotaa yli	sulaa	0.883313759
+jäädyttää	huuhdella	0.932267761
+puristaa	sammuttaa	1.023031783
+syöttää	haihtua	1.341764689
+imeä	läikkyä	1.126182298
+murskata	sammuttaa	1.20263931
+haihtua	viipaloida	1.013329661
+pureskella	vuotaa yli	1.105586461
+puristaa	grillata	1.020729259
+grillata	jauhaa	0.701968697
+jauhaa	maistaa	0.717329881
+pureskella	paloitella	0.841204375
+paloitella	maistua	1.090242436
+vuotaa yli	puristaa	0.883382609
+sekoittaa	hauduttaa	0.799514966
+maistaa	ruiskuttaa	1.044358213
+juoda	siemailla	0.256282446
+juoda	leipoa	1.136693521
+paistua	kokata	0.467478982
+juoda	hotkaista	0.717794125
+raastaa	syöttää	1.08520083
+laittaa ruokaa	purra	0.943641098
+syöttää	jäädyttää	1.080047201
+kastaa	sekoittaa	0.798410559
+syöttää	purra	0.612075443
+imeä	nielaista	0.718051081
+sekoittaa	keittää	0.78455076
+täyttää	syöttää	0.882727556
+maistua	ahmia	0.507964375
+paahtaa	ryystää	1.149999549
+juovuttaa	paahtaa	1.173109948
+kastaa	maistua	1.11087038
+ahmia	siemailla	0.792636302
+syödä	laittaa ruokaa	0.934490281
+maistua	imeä	0.876493713
+vuotaa yli	leipoa	1.008891178
+syöttää	ahmia	0.547876834
+raastaa	siemailla	1.158445933
+ripotella	juovuttaa	1.211970081
+sulattaa	laittaa ruokaa	0.856305699
+imaista	sulaa	1.364552799
+ryystää	pureskella	0.71832073
+täyttää	maistaa	0.950371572
+raastaa	maistua	1.130785024
+roiskia	kokata	0.946190399
+paahtaa	maistaa	0.895130516
+paistaa	grillata	0.25962811
+tupakoida	sulaa	1.423912718
+jäädyttää	täyttää	1.183782209
+vuotaa yli	murskata	0.951731396
+sulaa	hotkaista	1.282000144
+hauduttaa	vuotaa yli	1.158990567
+haihtua	purra	1.252873035
+kastaa	hauduttaa	0.95643076
+kokata	tupakoida	1.354359812
+juoda	nielaista	0.543832226
+hotkaista	syöttää	0.575640773
+laittaa ruokaa	hotkaista	1.019191575
+tupakoida	viipaloida	1.258391355
+purra	nuolla	0.553400161
+hotkaista	paahtaa	1.109794027
+täyttää	ripotella	0.984437805
+sulaa	syöttää	1.268984121
+laittaa ruokaa	raastaa	0.626538927
+nuolla	imaista	0.742720159
+puristaa	roiskia	0.908342322
+ripotella	laittaa ruokaa	0.786793392
+pureskella	keittää	0.984088269
+läikkyä	puristaa	0.830604908
+nielaista	paahtaa	1.079989058
+sekoittaa	laittaa ruokaa	0.695807977
+syöttää	grillata	0.963365081
+hotkaista	nielaista	0.301554423
+syöttää	paistaa	1.016475852
+nuolla	ruiskuttaa	1.01456485
+purra	pureskella	0.194255321
+jäädyttää	tupakoida	1.691201436
+nielaista	huuhdella	1.28632922
+puristaa	jäädyttää	1.05915633
+nielaista	murskata	1.172110115
+siemailla	imeä	0.342353593
+tupakoida	läikkyä	1.247681295
+purra	maistua	0.579476547
+juovuttaa	syöttää	0.954951049
+raastaa	puristaa	0.716694718
+ripotella	nielaista	1.054400618
+paistua	täyttää	0.812005091
+syödä	haihtua	1.291562977
+sekoittaa	vatkata	0.559936227
+puristaa	sulattaa	1.049338385
+ryystää	purra	0.882032713
+huuhdella	purra	1.01917387
+murskata	pureskella	1.11402527
+jauhaa	paloitella	0.802210485
+kastaa	paistua	0.999320878
+ripotella	imeä	1.370579162
+siemailla	paloitella	1.017597467
+syöttää	paistua	1.108076968
+paahtaa	vatkata	0.726386458
+ryystää	sulaa	1.313961098
+grillata	juovuttaa	1.208838317
+viipaloida	paahtaa	0.63447141
+juoda	kastaa	1.287715878
+roiskia	läikkyä	0.543080188
+ahmia	tupakoida	0.929028536
+kokata	sekoittaa	0.658834044
+nostaa lasi	grillata	1.265799525
+maistua	viipaloida	1.137006258
+jauhaa	paahtaa	0.802497775
+ryystää	nostaa lasi	1.168880431
+huuhdella	tupakoida	1.201391504
+keittää	siemailla	1.368920833
+paahtaa	sulaa	0.899686396
+imaista	sulattaa	1.28333127
+purra	läikkyä	0.97602996
+paistaa	viipaloida	0.737151563
+täyttää	leipoa	0.779823108
+siemailla	pureskella	0.841389354
+vuotaa yli	juoda	1.347629002
+juovuttaa	nostaa lasi	1.215836448
+syödä	ripotella	1.227269689
+jauhaa	sammuttaa	1.160806867
+leipoa	puristaa	0.960455955
+paahtaa	syöttää	0.949307932
+maistaa	nostaa lasi	1.147258842
+paistaa	paahtaa	0.293533458
+maistaa	jäädyttää	1.089101347
+ruiskuttaa	laittaa ruokaa	0.720444691
+roiskia	hauduttaa	0.951166062
+haihtua	jauhaa	1.222929759
+leipoa	grillata	0.56293324
+siemailla	ruiskuttaa	1.150717622
+maistaa	leipoa	0.724281489
+hauduttaa	puristaa	1.048317236
+haihtua	täyttää	1.052009648
+laittaa ruokaa	maistua	1.061604524
+maistaa	sulattaa	1.130742511
+ahmia	purra	0.31873805
+juovuttaa	ryystää	0.659766899
+ruiskuttaa	murskata	0.902568511
+syödä	ahmia	0.291367674
+imaista	maistaa	0.747211073
+täyttää	sekoittaa	0.763001011
+raastaa	hauduttaa	0.740231963
+vuotaa yli	täyttää	0.909235862
+ripotella	viipaloida	0.963690764
+täyttää	raastaa	0.791301949
+hotkaista	maistua	0.58671609
+läikkyä	vuotaa yli	0.467472761
+täyttää	keittää	1.032254425
+sekoittaa	viipaloida	0.776940134
+ahmia	grillata	0.979831479
+ripotella	haihtua	0.954557532
+sulattaa	sulaa	0.652360368
+hotkaista	paistua	1.076840432
+sammuttaa	maistua	1.343942635
+sulaa	pureskella	1.119717573
+siemailla	nielaista	0.632207775
+maistua	paistaa	1.046496623
+paistua	keittää	0.588023106
+kastaa	paistaa	0.889613473
+vatkata	nuolla	0.970059158
+sulattaa	pureskella	1.164151328
+kokata	syöttää	0.937372032
+laittaa ruokaa	läikkyä	1.024431091
+nielaista	raastaa	1.094215637
+keittää	haihtua	0.967113802
+paistaa	sulaa	0.990019506
+juovuttaa	puristaa	1.11707323
+ryystää	hotkaista	0.767311137
+ripotella	jäädyttää	1.02727743
+leipoa	pureskella	0.865042792
+purra	ripotella	1.071649345
+jauhaa	paistua	0.845687404
+ahmia	huuhdella	1.060909841
+paistaa	tupakoida	1.319885253
+viipaloida	keittää	0.70917508
+pureskella	maistaa	0.535746068
+keittää	syöttää	1.134841452
+kokata	murskata	0.804752719
+nuolla	viipaloida	0.791450828
+laittaa ruokaa	syöttää	1.009321984
+jäädyttää	vuotaa yli	1.272738413
+täyttää	sammuttaa	1.127310456
+ahmia	paahtaa	0.927879345
+nielaista	imaista	0.711950119
+keittää	tupakoida	1.452108959
+ripotella	grillata	0.855997604
+paahtaa	imeä	1.058969018
+hotkaista	haihtua	1.271061989
+vuotaa yli	paistua	1.103320186
+sammuttaa	ruiskuttaa	0.96154915
+pureskella	syödä	0.473402272
+paistua	sammuttaa	1.497892007
+roiskia	paistua	1.093395175
+vatkata	ryystää	1.146330889
+keittää	murskata	0.845079235
+täyttää	ryystää	1.108414031
+kokata	vuotaa yli	1.023831
+kokata	huuhdella	0.921771793
+raastaa	sulaa	1.060521866
+paloitella	nielaista	0.940851871
+syöttää	roiskia	0.919843278
+juovuttaa	sekoittaa	1.195671152
+nielaista	sammuttaa	1.306558711
+kastaa	purra	1.092864687
+sulaa	jauhaa	1.075497785
+syöttää	maistaa	0.486219443
+juovuttaa	ruiskuttaa	0.982145142
+paloitella	hauduttaa	0.716896376
+imeä	syöttää	1.079388987
+ripotella	murskata	0.749925829
+kastaa	keittää	0.933238932
+juoda	puristaa	1.292504242
+juovuttaa	keittää	1.271613969
+roiskia	grillata	0.895327695
+jauhaa	jäädyttää	1.109836449
+sulattaa	paistaa	0.959446346
+raastaa	pureskella	0.873484263
+nostaa lasi	purra	1.282218388
+täyttää	sulaa	1.020640186
+puristaa	ruiskuttaa	0.810612772
+paistaa	maistaa	0.879520152
+hotkaista	huuhdella	1.147774956
+siemailla	laittaa ruokaa	1.16370138
+pureskella	sammuttaa	1.259361947
+leipoa	paistaa	0.621449908
+jauhaa	ahmia	0.653974484
+nuolla	jäädyttää	1.156644137
+murskata	purra	1.013511234
+sammuttaa	haihtua	1.190604184
+haihtua	maistaa	1.204471731
+imeä	sammuttaa	1.256435497
+tupakoida	paahtaa	1.321239888
+huuhdella	juoda	1.313627037
+laittaa ruokaa	haihtua	0.904788871
+imaista	pureskella	0.740982942
+juoda	kokata	1.294222275
+jäädyttää	keittää	1.217318687
+ruiskuttaa	vuotaa yli	0.703160056
+nostaa lasi	viipaloida	1.163072419
+grillata	jäädyttää	1.195594638
+ryystää	kokata	1.204196217
+siemailla	ripotella	1.151617811
+ruiskuttaa	jäädyttää	0.836122414
+vatkata	täyttää	0.83330824
+vuotaa yli	grillata	1.101250815
+kastaa	kokata	0.877631555
+juovuttaa	purra	0.765658977
+maistaa	sulaa	1.180338708
+vatkata	hauduttaa	0.788368066
+syödä	raastaa	0.899385104
+viipaloida	murskata	0.779939699
+haihtua	leipoa	0.943506364
+vatkata	raastaa	0.622843558
+maistua	sekoittaa	1.002067484
+sulaa	kastaa	0.973416025
+nielaista	juovuttaa	0.983127047
+leipoa	jauhaa	0.598190666
+jäädyttää	hauduttaa	1.020274381
+maistaa	juovuttaa	0.795003056
+haihtua	juovuttaa	1.280243542
+läikkyä	siemailla	1.168058228
+grillata	maistua	1.140816838
+hotkaista	purra	0.454984843
+kokata	maistaa	0.891726638
+juovuttaa	sulaa	1.130199329
+murskata	siemailla	1.360996098
+ripotella	imaista	1.362850585
+haihtua	puristaa	1.111144386
+sulattaa	kokata	0.890697668
+haihtua	ryystää	1.31662597
+maistua	läikkyä	1.14383555
+maistua	puristaa	1.194847179
+hauduttaa	läikkyä	1.273695459
+sekoittaa	imaista	1.136861335
+paloitella	laittaa ruokaa	0.628356634
+laittaa ruokaa	sulaa	0.905684945
+paahtaa	hauduttaa	0.608255937
+paistaa	siemailla	1.19643294
+raastaa	tupakoida	1.312229903
+murskata	kastaa	0.980832902
+hauduttaa	nostaa lasi	1.183563153
+vatkata	kastaa	0.755427447
+maistua	sulaa	1.198631884
+juovuttaa	sammuttaa	1.341898427
+nostaa lasi	paistaa	1.411228205
+paloitella	läikkyä	1.207375961
+sekoittaa	sammuttaa	1.089007304
+maistua	tupakoida	0.797976981
+imeä	grillata	1.155936926
+nuolla	nostaa lasi	1.152732473
+maistua	hauduttaa	0.930359554
+sekoittaa	vuotaa yli	0.956915155
+kastaa	vuotaa yli	0.823333686
+syöttää	viipaloida	1.026955611
+raastaa	sulattaa	1.012515628
+murskata	tupakoida	1.481686218
+laittaa ruokaa	ryystää	1.156666662
+paloitella	tupakoida	1.275535639
+laittaa ruokaa	viipaloida	0.575627592
+tupakoida	vuotaa yli	1.236889719
+imeä	hotkaista	0.776830765
+roiskia	raastaa	1.166744114
+nuolla	keittää	1.102825045
+ripotella	vuotaa yli	0.864980367
+puristaa	syödä	1.070871621
+ryystää	raastaa	1.129883856
+ahmia	keittää	0.9852837
+vuotaa yli	juovuttaa	1.012413426
+purra	syödä	0.446336237
+juovuttaa	murskata	1.12555353
+syöttää	nostaa lasi	1.217222921
+hotkaista	maistaa	0.611429377
+imaista	huuhdella	1.145248878
+ryystää	sekoittaa	1.152125824
+ryystää	hauduttaa	1.100269459
+imeä	paloitella	1.090468554
+paistaa	ruiskuttaa	0.893220671
+roiskia	syödä	1.042679135
+hauduttaa	siemailla	1.237336932
+sulattaa	vuotaa yli	1.131337216
+puristaa	paahtaa	1.114803481
+jäädyttää	imeä	1.364467659
+imeä	murskata	1.225019485
+sulattaa	jäädyttää	0.619773715
+paahtaa	paistua	0.376343374
+pureskella	juovuttaa	0.870875635
+ryystää	paloitella	0.989147298
+hotkaista	vatkata	1.069569069
+murskata	ahmia	1.076103005
+imaista	syödä	0.923133352
+raastaa	paahtaa	0.75251451
+ruiskuttaa	imaista	1.055655013
+laittaa ruokaa	juovuttaa	1.118725853
+murskata	vatkata	0.683333103
+viipaloida	ahmia	0.833608922
+sekoittaa	imeä	1.105859613
+sulattaa	murskata	1.092528748
+sammuttaa	vatkata	1.178494098
+vatkata	ripotella	0.807190794
+paloitella	täyttää	0.888470743
+ryystää	paistaa	1.109358407
+roiskia	viipaloida	1.086421735
+kastaa	ryystää	1.117862416
+haihtua	murskata	1.242772502
+jauhaa	läikkyä	0.958224263
+leipoa	paahtaa	0.619122236
+nielaista	paistaa	1.027309704
+pureskella	tupakoida	0.900635926
+läikkyä	paistua	1.08805943
+ripotella	nostaa lasi	1.266158106
+ruiskuttaa	sulaa	0.843519294
+nuolla	juovuttaa	0.829912829
+huuhdella	kastaa	0.331703481
+siemailla	haihtua	1.36614303
+sekoittaa	paloitella	0.865841434
+kokata	paloitella	0.661013871
+nostaa lasi	sekoittaa	0.949639439
+jäädyttää	pureskella	1.152257136
+paistua	jäädyttää	1.264388636
+sekoittaa	paahtaa	0.821616412
+viipaloida	nielaista	1.051018163
+täyttää	nostaa lasi	0.891622281
+nostaa lasi	maistua	1.19657055
+imaista	paistaa	1.13625447
+kastaa	roiskia	0.59671206
+hotkaista	siemailla	0.764567798
+paistua	vatkata	0.708070338
+puristaa	täyttää	0.90874535
+kokata	jäädyttää	1.211459306
+vuotaa yli	raastaa	0.968490455
+nielaista	sekoittaa	1.141431717
+juovuttaa	juoda	0.784198262
+kastaa	puristaa	0.917487337
+puristaa	tupakoida	1.447762283
+ryystää	siemailla	0.331354
+imaista	tupakoida	1.123801153
+murskata	maistaa	0.988962173
+sekoittaa	sulattaa	0.747409237
+maistaa	paloitella	0.849183135
+syödä	jäädyttää	1.16476401
+vatkata	ruiskuttaa	0.736060371
+syödä	nostaa lasi	1.238021488
+imeä	kokata	1.161612921
+juovuttaa	siemailla	0.779334136
+jauhaa	imeä	0.924696567
+haihtua	pureskella	1.163948822
+ahmia	leipoa	0.833423626
+ryystää	vuotaa yli	1.260414398
+tupakoida	purra	0.95366974
+viipaloida	sulattaa	0.921325789
+ripotella	juoda	1.371607787
+raastaa	kastaa	0.930960136
+syöttää	maistua	0.857611236
+jäädyttää	läikkyä	1.28579095
+raastaa	juoda	1.204862553
+ripotella	syöttää	1.126337329
+nielaista	ryystää	0.723950502
+roiskia	jäädyttää	0.975052451
+nostaa lasi	sammuttaa	1.141485081
+hotkaista	keittää	1.105433992
+paahtaa	vuotaa yli	1.085080242
+maistaa	laittaa ruokaa	0.909931386
+haihtua	kokata	0.914150159
+siemailla	sammuttaa	1.315005781
+tupakoida	ripotella	1.377183992
+sekoittaa	hotkaista	1.247494651
+paistua	ripotella	0.95932738
+pureskella	maistua	0.662105979
+siemailla	vuotaa yli	1.303955321
+raastaa	ruiskuttaa	0.975902974
+paistaa	hotkaista	1.059264752
+purra	viipaloida	0.969362384
+hotkaista	paloitella	0.970430975
+vatkata	sulaa	1.084576976
+maistaa	läikkyä	0.977026069
+hotkaista	nostaa lasi	1.362534691
+siemailla	imaista	0.404270756
+sulattaa	syöttää	1.099245308
+jäädyttää	viipaloida	0.945257234
+kokata	grillata	0.389255277
+sulattaa	grillata	0.94844861
+sulattaa	tupakoida	1.4783876
+sekoittaa	paistaa	0.836818854
+huuhdella	ruiskuttaa	0.523865492
+läikkyä	haihtua	0.964225037
+ryystää	maistaa	0.700855548
+paahtaa	grillata	0.319387424
+syöttää	syödä	0.459548263
+grillata	vatkata	0.751633039
+kokata	pureskella	0.975885942
+grillata	hauduttaa	0.596131483
+läikkyä	paahtaa	1.11319045
+tupakoida	nuolla	0.889335176
+täyttää	siemailla	1.059572498
+vatkata	syödä	1.002631246
+sulaa	roiskia	0.961569092
+keittää	sulattaa	0.987021456
+ahmia	sulaa	1.118011379
+imaista	maistua	0.849651126
+syöttää	nielaista	0.612460306
+grillata	paloitella	0.777947726
+haihtua	sulaa	0.577335711
+juovuttaa	paistua	1.096288379
+paistaa	raastaa	0.755734904
+viipaloida	jauhaa	0.812847544
+haihtua	tupakoida	1.456558716
+vuotaa yli	maistaa	1.058931066
+ahmia	nostaa lasi	1.218020564
+juoda	sulaa	1.372904131
+ruiskuttaa	juoda	1.229517912
+huuhdella	ryystää	1.212001207
+kokata	siemailla	1.241252956
+leipoa	imaista	1.087402197
+keittää	laittaa ruokaa	0.45710288
+laittaa ruokaa	jäädyttää	1.14962912
+keittää	huuhdella	1.064407193
+maistua	juoda	0.732830068
+roiskia	hotkaista	1.119676098
+syödä	paistua	0.975811951
+sulattaa	ruiskuttaa	0.747471668
+huuhdella	leipoa	0.850291012
+viipaloida	paloitella	0.263997806
+juoda	haihtua	1.4131734
+viipaloida	syödä	0.869882389
+paistua	hauduttaa	0.755449692
+imeä	hauduttaa	1.019580285
+paahtaa	roiskia	1.045442341
+nostaa lasi	leipoa	1.126916742
+haihtua	sulattaa	0.857942652
+nostaa lasi	kastaa	1.048028104
+huuhdella	maistaa	0.976276955
+nostaa lasi	roiskia	1.096991676
+sammuttaa	vuotaa yli	1.163144976
+imaista	imeä	0.257256384
+läikkyä	murskata	0.894097042
+paahtaa	keittää	0.506824494
+jäädyttää	juovuttaa	1.163692512
+hauduttaa	purra	1.038998371
+maistaa	puristaa	0.933054382
+paistaa	paloitella	0.696293534
+paloitella	sammuttaa	1.077787907
+tupakoida	ruiskuttaa	1.229221255
+imeä	sulattaa	1.325069639
+kokata	keittää	0.442819714
+grillata	haihtua	0.900153723
+huuhdella	paahtaa	1.0060114
+ryystää	imaista	0.406123233
+keittää	vuotaa yli	1.098629944
+pureskella	paistaa	0.89731351
+sammuttaa	paistaa	1.368597895
+grillata	hotkaista	1.140195571
+kastaa	tupakoida	1.179651517
+nuolla	juoda	0.520987775
+nielaista	puristaa	1.204701869
+keittää	jauhaa	0.86761774
+läikkyä	ahmia	1.015271522
+nuolla	paahtaa	0.92793062
+raastaa	paistua	0.72902917
+sulaa	ripotella	0.957991295
+puristaa	purra	0.939497056
+paahtaa	laittaa ruokaa	0.454636115
+jäädyttää	haihtua	1.002934987
+täyttää	ruiskuttaa	0.93699085
+ruiskuttaa	nielaista	1.270804467
+paistaa	hauduttaa	0.661036452
+ripotella	kastaa	0.621876731
+tupakoida	grillata	1.394206353
+viipaloida	raastaa	0.527731434
+ahmia	puristaa	1.045054703
+maistaa	raastaa	0.937894446
+roiskia	paistaa	0.990603423
+grillata	keittää	0.467521558
+hotkaista	kastaa	1.127157377
+jauhaa	kastaa	1.014327536
+imaista	läikkyä	1.104056515
+hotkaista	jäädyttää	1.299050011
+puristaa	imeä	1.24689127
+vuotaa yli	syöttää	1.195505338
+imeä	keittää	1.249578229
+siemailla	nostaa lasi	1.116339491
+vatkata	huuhdella	0.896564388
+paistua	huuhdella	1.0974625
+sulattaa	läikkyä	1.225892048
+leipoa	jäädyttää	1.102708594
+siemailla	tupakoida	1.056157832
+läikkyä	viipaloida	1.201133285
+paloitella	paistua	0.782873374
+siemailla	sekoittaa	1.2301911
+puristaa	murskata	0.470065477
+vatkata	keittää	0.749111547
+paloitella	vatkata	0.682601514
+syöttää	sekoittaa	1.005041358
+täyttää	hotkaista	0.905951345
+nuolla	ripotella	1.050251341
+murskata	sekoittaa	0.882828175
+sulaa	imeä	1.385621083
+tupakoida	nielaista	1.030285027
+kastaa	siemailla	1.241068298
+jauhaa	ryystää	0.887796854
+sammuttaa	ripotella	1.113084593
+sulattaa	paahtaa	0.939957774
+ahmia	sulattaa	1.162727825
+ripotella	paloitella	0.938111864
+vuotaa yli	huuhdella	0.859682294
+paloitella	haihtua	1.050276831
+nostaa lasi	vatkata	1.053382476
+viipaloida	kokata	0.65984708
+raastaa	jauhaa	0.505758409
+haihtua	vuotaa yli	0.800134318
+ahmia	imaista	0.67406008
+keittää	nostaa lasi	1.398819473
+murskata	sulaa	1.11310384
+roiskia	leipoa	0.885746674
+keittää	raastaa	0.737595183
+kokata	nielaista	1.124412659
+jäädyttää	maistua	1.359708281
+keittää	juoda	1.403511065
+leipoa	läikkyä	1.018499781
+maistaa	tupakoida	0.939353859
+grillata	kastaa	0.921152583
+pureskella	vatkata	0.895166116
+ruiskuttaa	kastaa	0.461763965
+nuolla	paistua	0.95293811
+paahtaa	jäädyttää	1.192755324
+ruiskuttaa	ryystää	1.056240779
+ruiskuttaa	läikkyä	0.714264594
+purra	maistaa	0.540550588
+ryystää	paistua	1.042682725
+paloitella	nuolla	0.861706561
+murskata	roiskia	0.898331
+huuhdella	paloitella	0.925658284
+leipoa	sulattaa	0.880514231
+syödä	hauduttaa	0.923957179
+maistua	haihtua	1.209185
+kastaa	syöttää	1.019493726
+kastaa	läikkyä	0.804868667
+haihtua	ruiskuttaa	0.85019865
+maistua	vatkata	1.081421547
+kokata	imaista	1.232647709
+vatkata	tupakoida	1.361487114
+laittaa ruokaa	tupakoida	1.314694314
+pureskella	grillata	0.991125903
+nostaa lasi	jauhaa	1.119068111
+laittaa ruokaa	murskata	0.77366961
+imeä	täyttää	1.136965638
+jäädyttää	sammuttaa	0.73082301
+viipaloida	pureskella	0.848387464
+imaista	viipaloida	0.980894319
+juoda	grillata	1.286299438
+leipoa	purra	0.864612426
+nostaa lasi	pureskella	1.161926067
+purra	grillata	1.06459978
+sulattaa	paistua	1.030066977
+vatkata	purra	1.07553608
+paistaa	juoda	1.182452125
+nostaa lasi	imeä	1.284168728
+juoda	jäädyttää	1.27988672
+sulattaa	nielaista	1.345762491
+paahtaa	nostaa lasi	1.378166016
+sulaa	grillata	0.812511055
+paahtaa	kastaa	0.884241893
+sammuttaa	sulattaa	0.918586042
+hauduttaa	tupakoida	1.244580496
+ahmia	ryystää	0.75735431
+sulaa	syödä	1.18319405
+ruiskuttaa	keittää	0.906595383
+nostaa lasi	nielaista	1.424127279
+haihtua	nostaa lasi	1.209900408
+nuolla	ryystää	0.533540872
+nielaista	täyttää	0.930929543
+paistaa	laittaa ruokaa	0.442344471
+laittaa ruokaa	nielaista	1.069179983
+nuolla	läikkyä	0.975248573
+laittaa ruokaa	vuotaa yli	0.969175426
+ryystää	syöttää	0.850249205
+juoda	maistaa	0.66650504
+huuhdella	hauduttaa	1.085343215
+roiskia	ryystää	1.113757151
+pureskella	paahtaa	0.992543314
+hauduttaa	jauhaa	0.916884086
+jäädyttää	sekoittaa	0.718008602
+grillata	viipaloida	0.776668153
+täyttää	imaista	1.204328941
+sulaa	läikkyä	0.973461921
+nostaa lasi	vuotaa yli	0.989609806
+juoda	imaista	0.368562692
+paistua	haihtua	0.902184571
+imeä	kastaa	1.187014083
+syödä	täyttää	0.813906817
+nielaista	vuotaa yli	1.292980943
+vatkata	juovuttaa	1.020337371
+jauhaa	kokata	0.768788639
+hotkaista	juovuttaa	1.040940648
+paistua	nielaista	1.260451345
+paloitella	ruiskuttaa	0.809602985
+laittaa ruokaa	vatkata	0.581302775
+puristaa	syöttää	1.061116998
+sulattaa	juoda	1.473662267
+imeä	haihtua	1.352099997
+imeä	pureskella	0.791576015
+kastaa	täyttää	1.005711611
+pureskella	läikkyä	0.978099935
+leipoa	syöttää	0.883852216
+ripotella	maistaa	1.005394985
+maistua	leipoa	1.077288796
+pureskella	nielaista	0.502879629
+maistaa	roiskia	0.949896323
+siemailla	puristaa	1.283895536
+vuotaa yli	ahmia	1.127362654
+keittää	läikkyä	1.123555945
+sulaa	nuolla	1.108592771
+jäädyttää	kastaa	0.94540299
+paistua	maistua	1.032456944
+vatkata	roiskia	1.032391041
+purra	jauhaa	0.644711951
+ahmia	paistaa	0.900251377
+siemailla	paistua	1.214305256
+paistaa	läikkyä	1.071560082
+paistaa	nuolla	0.957226198
+haihtua	paahtaa	0.991849654
+raastaa	ripotella	0.937036521
+laittaa ruokaa	kokata	0.20605841
+imeä	laittaa ruokaa	1.153151546
+syöttää	murskata	1.113791715
+hotkaista	viipaloida	1.012950577
+paloitella	paahtaa	0.688680337
+puristaa	ripotella	0.839891808
+raastaa	juovuttaa	1.1064692
+paahtaa	maistua	1.033161073
+täyttää	paahtaa	0.878895014
+hauduttaa	hotkaista	1.030294906
+syöttää	ruiskuttaa	0.967297104
+nielaista	maistua	0.61952458
+leipoa	siemailla	1.092064062
+ahmia	hotkaista	0.239778734
+huuhdella	laittaa ruokaa	0.951615724
+nielaista	vatkata	1.129559167
+keittää	ryystää	1.280983142
+grillata	nielaista	1.135067986
+purra	juoda	0.69572038
+vatkata	jäädyttää	0.968788978
+grillata	paistua	0.363913291
+imeä	vatkata	1.103161871
+sammuttaa	syödä	1.181035684
+roiskia	sammuttaa	1.111693764
+leipoa	kastaa	0.72618284
+täyttää	tupakoida	1.093470638
+viipaloida	juovuttaa	0.990610111
+hotkaista	syödä	0.33763152
+huuhdella	grillata	0.978775477
+nostaa lasi	paistua	1.33992978
+syödä	nuolla	0.428519618
+paistua	puristaa	1.178167216
+vuotaa yli	imeä	1.277655475
+roiskia	sulattaa	0.852328293
+purra	paistaa	0.924882966
+jauhaa	sekoittaa	0.765517935
+ahmia	haihtua	1.19577747
+ripotella	leipoa	0.743807485
+nostaa lasi	imaista	1.167263043
+syödä	jauhaa	0.646897754
+kastaa	sammuttaa	1.055031292
+jauhaa	nielaista	0.780814203
+ahmia	täyttää	0.840245517
+pureskella	roiskia	1.039616834
+ruiskuttaa	purra	1.032118047
+pureskella	kastaa	1.01714985
+haihtua	huuhdella	0.868244184
+keittää	maistua	1.146567
+kastaa	nielaista	1.241169625
+huuhdella	sulaa	0.878855481
+jäädyttää	ahmia	1.166440337
+hotkaista	imaista	0.764511973
+leipoa	paloitella	0.55778583
+vatkata	paistaa	0.749507488
+leipoa	raastaa	0.574819226
+viipaloida	ryystää	1.006070333
+viipaloida	vuotaa yli	1.143405459
+kokata	maistua	1.083471256
+viipaloida	huuhdella	0.957006854
+huuhdella	paistaa	1.018172912
+syöttää	huuhdella	1.072618346
+ruiskuttaa	hauduttaa	0.786800961
+syödä	leipoa	0.839026871
+maistaa	paistua	0.931653251
+puristaa	ryystää	1.089564172
+vatkata	syöttää	0.959193308
+puristaa	laittaa ruokaa	0.968957627
+nuolla	vuotaa yli	1.058827006
+täyttää	pureskella	0.913697481
+ruiskuttaa	nostaa lasi	1.001131929
+hauduttaa	viipaloida	0.726204989
+sulattaa	maistua	1.383201767

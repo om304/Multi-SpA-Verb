@@ -1,0 +1,667 @@
+Word1	Word2	Score
+inhottaa	ärsyttää	0.588115379
+pitää	huvittaa	0.669653929
+hämmästyttää	ihailla	0.777318101
+juhlia	itkeä	1.33365747
+ärsyttää	olla epätoivoinen	0.888907044
+vetää puoleensa	miellyttää	0.413524774
+katua	turhauttaa	0.817005468
+olla huolissaan	huvittaa	1.186290921
+kaivata	inhota	1.108665228
+epäröidä	vetää puoleensa	1.023448896
+riemuita	kaivata	1.054702844
+pelottaa	nauttia	1.352544194
+itkeä	epäröidä	0.831788416
+inhottaa	katua	0.755861397
+kaivata	sietää	0.95707804
+itkeä	turhauttaa	0.688437194
+katua	uskaltaa	1.10788819
+olla huolissaan	ärsyttää	0.94725615
+raivostuttaa	miellyttää	1.246122376
+olla huolissaan	juhlia	1.28276666
+olla varuillaan	toivoa	0.934224768
+itkeä	katua	0.879284655
+uskaltaa	tyrmistyttää	1.184254187
+tyrmistyttää	tarvita	1.070953369
+itkeä	ärsyttää	0.710106311
+vetää puoleensa	riemuita	0.722095432
+miellyttää	riemuita	0.804298481
+vihata	juhlia	1.530939406
+miellyttää	itkeä	1.296195522
+halveksia	olla huolissaan	0.936101581
+haltioitua	riemuita	0.695799671
+haluta	kaivata	0.658974683
+ihailla	haltioitua	0.542969702
+tarvita	vetää puoleensa	0.905690575
+halveksia	riemuita	1.576466856
+päästä yli	vetää puoleensa	0.968275605
+olla huolissaan	turhauttaa	0.912204306
+iloita	haltioitua	0.760726176
+tarvita	ihailla	0.833908311
+olla huolissaan	epäröidä	0.749801961
+juhlia	huvittaa	0.444640786
+tarvita	pitää	0.831792382
+raivostuttaa	hyväksyä	1.299977232
+ärsyttää	tuntea	0.718715063
+halveksia	vetää puoleensa	1.388410611
+uuvuttaa	pitää	1.053369797
+haltioitua	järkyttää	1.517526762
+ihailla	inhottaa	1.251513253
+miellyttää	nauttia	0.792100994
+uuvuttaa	ärsyttää	0.838541561
+tuntea	tarvita	0.566846231
+hämmästyttää	uuvuttaa	1.145699208
+haluta	ihailla	0.612478309
+olla epätoivoinen	katua	0.862870938
+olla huolissaan	tarvita	0.780399051
+epäröidä	tuntea	0.60759033
+haluta	tuntea	0.589112335
+miellyttää	uskaltaa	0.832881294
+uskaltaa	huvittaa	0.850421153
+juhlia	hyväksyä	0.829820115
+hämmästyttää	päästä yli	1.077778767
+tuntea	inhota	0.954265071
+riemuita	pitää	0.534803539
+hyväksyä	vetää puoleensa	0.935696057
+sietää	riemuita	1.267719717
+miellyttää	pelottaa	1.382759242
+hyväksyä	uskaltaa	0.901968159
+turhauttaa	olla epätoivoinen	0.872020226
+inhota	olla varuillaan	1.128291689
+haltioitua	epäröidä	1.025044682
+olla epätoivoinen	järkyttää	0.942747689
+raivostuttaa	riemuita	1.511351051
+halveksia	inhota	0.382690256
+kaivata	inhottaa	0.983331402
+pitää	sietää	1.104548168
+uuvuttaa	uskaltaa	0.998675052
+päästä yli	itkeä	1.107635425
+vetää puoleensa	olla epätoivoinen	1.197330906
+katua	vetää puoleensa	1.10408118
+järkyttää	haluta	1.201748987
+vihata	järkyttää	0.723666949
+uskaltaa	riemuita	0.976510019
+pitää	juhlia	0.644192085
+halveksia	raivostuttaa	0.60167578
+uuvuttaa	inhottaa	0.725392542
+hämmästyttää	vetää puoleensa	0.80826356
+riemuita	hyväksyä	0.660138219
+halveksia	iloita	1.492729919
+huvittaa	katua	0.981344327
+katua	olla huolissaan	0.845209968
+päästä yli	haluta	0.97835298
+tyrmistyttää	nauttia	1.273184237
+turhauttaa	tyrmistyttää	0.947503543
+juhlia	uskaltaa	0.951296062
+tyrmistyttää	hämmästyttää	1.105230432
+pelottaa	haluta	1.056275147
+haltioitua	pitää	0.535868274
+vetää puoleensa	inhottaa	1.292162718
+olla varuillaan	turhauttaa	1.054039629
+olla varuillaan	itkeä	0.946062788
+olla epätoivoinen	tarvita	0.938421934
+haluta	miellyttää	0.923453294
+turhauttaa	huvittaa	0.955667015
+iloita	raivostuttaa	1.46109678
+haltioitua	päästä yli	1.217164097
+toivoa	itkeä	1.072941669
+itkeä	inhottaa	0.64898463
+tuntea	raivostuttaa	0.765828222
+toivoa	ihailla	0.679046728
+haltioitua	katua	1.24800681
+haluta	halveksia	1.319601988
+raivostuttaa	hämmästyttää	1.276570128
+haluta	juhlia	0.709006974
+haltioitua	nauttia	0.672530495
+turhauttaa	hyväksyä	0.977087098
+tarvita	olla varuillaan	0.80216048
+iloita	haluta	0.674420526
+juhlia	uuvuttaa	1.259651083
+hämmästyttää	järkyttää	0.997402491
+ärsyttää	huvittaa	1.08703097
+nauttia	olla varuillaan	1.071348952
+pelottaa	ärsyttää	0.725011081
+raivostuttaa	juhlia	1.446230928
+järkyttää	olla varuillaan	1.058618239
+miellyttää	pitää	0.70329748
+nauttia	olla huolissaan	1.222291394
+huvittaa	inhottaa	1.262748307
+vetää puoleensa	iloita	0.855728551
+hämmästyttää	uskaltaa	0.983397335
+tarvita	itkeä	1.168458163
+iloita	juhlia	0.405740379
+hämmästyttää	riemuita	1.001251558
+haltioitua	turhauttaa	1.108066155
+ärsyttää	tarvita	1.067825613
+raivostuttaa	järkyttää	0.938084698
+riemuita	juhlia	0.392924002
+uuvuttaa	pelottaa	0.877351521
+uuvuttaa	olla epätoivoinen	0.766749918
+olla varuillaan	kaivata	0.907750506
+olla huolissaan	iloita	1.08672414
+vihata	miellyttää	1.373484384
+järkyttää	tuntea	0.763781091
+kaivata	vetää puoleensa	0.959457226
+vetää puoleensa	turhauttaa	0.944121748
+toivoa	iloita	0.64837272
+haluta	katua	0.950412129
+olla huolissaan	tuntea	0.689636635
+nauttia	ärsyttää	1.262489481
+tyrmistyttää	inhota	1.09330062
+päästä yli	ärsyttää	1.10596701
+olla epätoivoinen	juhlia	1.307343499
+nauttia	olla epätoivoinen	1.1175575
+riemuita	ärsyttää	1.369835358
+itkeä	huvittaa	1.223805799
+ihailla	juhlia	0.642858606
+järkyttää	riemuita	1.519541307
+itkeä	olla epätoivoinen	0.606689684
+turhauttaa	ihailla	0.88368659
+tarvita	katua	0.958269479
+pelottaa	toivoa	1.062940611
+olla huolissaan	itkeä	0.678086148
+kaivata	miellyttää	0.99521758
+riemuita	tyrmistyttää	1.327764515
+toivoa	inhota	1.267871992
+järkyttää	kaivata	1.06917133
+päästä yli	inhota	1.153492101
+raivostuttaa	uuvuttaa	0.96547202
+inhottaa	vihata	0.578122025
+ihailla	vihata	1.398665568
+sietää	itkeä	0.841621548
+kaivata	huvittaa	0.919238317
+epäröidä	juhlia	1.049718719
+huvittaa	ihailla	0.689744122
+halveksia	olla varuillaan	1.021674804
+miellyttää	tarvita	0.935670863
+raivostuttaa	huvittaa	1.230291628
+ihailla	järkyttää	1.328839676
+ärsyttää	halveksia	0.799451216
+hämmästyttää	pelottaa	0.991552826
+hämmästyttää	tarvita	1.211312128
+turhauttaa	halveksia	0.724453149
+hämmästyttää	olla epätoivoinen	1.074170332
+vihata	ärsyttää	0.673377983
+toivoa	ärsyttää	1.104868608
+haltioitua	huvittaa	0.637848606
+epäröidä	miellyttää	1.034570026
+tarvita	uskaltaa	0.84450058
+epäröidä	pelottaa	1.030298569
+vetää puoleensa	tuntea	0.686215005
+miellyttää	tyrmistyttää	1.085701992
+järkyttää	päästä yli	1.235415237
+järkyttää	miellyttää	1.415112914
+turhauttaa	päästä yli	1.024768687
+uskaltaa	tuntea	0.683165537
+pelottaa	turhauttaa	0.683498549
+päästä yli	nauttia	0.894489007
+sietää	raivostuttaa	0.735979757
+ihailla	katua	1.082372439
+vetää puoleensa	olla huolissaan	1.210071327
+inhottaa	nauttia	1.299357525
+inhota	vihata	0.475424405
+iloita	päästä yli	1.108851331
+inhota	hyväksyä	1.19559002
+iloita	ihailla	0.599389251
+juhlia	inhottaa	1.314888513
+huvittaa	inhota	1.306205416
+inhottaa	halveksia	0.521522901
+juhlia	miellyttää	0.697881421
+inhota	riemuita	1.615561036
+nauttia	sietää	1.099268071
+hyväksyä	päästä yli	0.90559185
+olla varuillaan	uuvuttaa	1.129906842
+hämmästyttää	sietää	0.995761966
+pelottaa	pitää	1.254133941
+olla huolissaan	uuvuttaa	0.734000851
+huvittaa	pelottaa	1.275185891
+tyrmistyttää	huvittaa	1.015152088
+sietää	ärsyttää	0.807469531
+turhauttaa	uskaltaa	0.974952193
+vihata	tarvita	1.107704844
+hyväksyä	hämmästyttää	0.814534503
+ihailla	epäröidä	0.883057285
+olla epätoivoinen	riemuita	1.259753674
+turhauttaa	toivoa	0.891881088
+tarvita	päästä yli	0.80105198
+inhottaa	järkyttää	0.628265189
+hyväksyä	ihailla	0.695214267
+iloita	vihata	1.550987099
+inhota	nauttia	1.395950138
+raivostuttaa	olla varuillaan	0.991139921
+epäröidä	huvittaa	1.085014519
+inhottaa	hyväksyä	1.108467225
+olla huolissaan	pitää	0.99407537
+vihata	huvittaa	1.183948056
+katua	pelottaa	0.969116874
+pelottaa	inhota	0.719198675
+ihailla	vetää puoleensa	0.642264367
+olla varuillaan	hyväksyä	1.085273117
+hyväksyä	toivoa	0.635581056
+kaivata	tarvita	0.614607748
+turhauttaa	vihata	0.766330032
+uuvuttaa	nauttia	1.194571755
+iloita	miellyttää	0.828247068
+järkyttää	juhlia	1.407544997
+sietää	uskaltaa	0.692280658
+tyrmistyttää	raivostuttaa	0.863523054
+pitää	uskaltaa	0.798123471
+huvittaa	olla varuillaan	1.09759653
+miellyttää	olla huolissaan	1.228672435
+itkeä	uuvuttaa	0.720969771
+toivoa	katua	0.974977214
+juhlia	ärsyttää	1.327832498
+turhauttaa	hämmästyttää	0.824584616
+katua	epäröidä	0.805926471
+vihata	halveksia	0.304251068
+uskaltaa	ärsyttää	1.113626042
+turhauttaa	kaivata	0.965272209
+uuvuttaa	tuntea	0.770955138
+uuvuttaa	katua	0.999295814
+olla varuillaan	olla epätoivoinen	0.526321004
+inhottaa	pelottaa	0.732369537
+pitää	olla varuillaan	0.870494664
+haltioitua	hyväksyä	0.901568954
+hyväksyä	olla epätoivoinen	0.992080926
+hämmästyttää	iloita	0.906803364
+epäröidä	toivoa	0.830476712
+huvittaa	vetää puoleensa	0.728035046
+huvittaa	sietää	1.07306292
+vetää puoleensa	pitää	0.752854033
+uuvuttaa	iloita	1.164490013
+epäröidä	inhottaa	0.855743342
+vihata	pelottaa	0.853921218
+juhlia	olla varuillaan	1.14547722
+olla varuillaan	vetää puoleensa	0.896353103
+pelottaa	olla varuillaan	0.930460792
+miellyttää	olla epätoivoinen	1.218525588
+inhota	juhlia	1.47393511
+vetää puoleensa	uuvuttaa	1.267409977
+tuntea	halveksia	0.948890578
+päästä yli	katua	0.94756181
+tarvita	pelottaa	1.178023766
+riemuita	vihata	1.559863413
+inhota	sietää	0.808075707
+itkeä	tuntea	0.736497713
+riemuita	iloita	0.301910199
+itkeä	vihata	0.793062689
+hämmästyttää	itkeä	1.016791736
+raivostuttaa	päästä yli	1.015865107
+olla epätoivoinen	uskaltaa	1.021649739
+nauttia	toivoa	0.692888572
+itkeä	iloita	1.330834292
+katua	nauttia	1.09061669
+hyväksyä	pelottaa	1.16511594
+pelottaa	juhlia	1.457657938
+uskaltaa	inhota	1.153354471
+haluta	olla varuillaan	1.061291655
+hämmästyttää	nauttia	0.911038381
+tuntea	pitää	0.64042321
+pelottaa	tuntea	0.751513462
+hyväksyä	pitää	0.600448517
+raivostuttaa	ärsyttää	0.453830197
+juhlia	toivoa	0.673082065
+turhauttaa	ärsyttää	0.547440476
+olla varuillaan	ärsyttää	0.944191012
+nauttia	kaivata	0.889914135
+järkyttää	pelottaa	0.588535033
+ärsyttää	ihailla	1.073396668
+halveksia	katua	0.824455281
+haltioitua	uuvuttaa	1.295899098
+olla epätoivoinen	sietää	0.910914219
+päästä yli	uskaltaa	0.763119322
+katua	tuntea	0.687167141
+katua	riemuita	1.186961359
+haluta	hyväksyä	0.584260505
+hyväksyä	itkeä	1.19192824
+olla epätoivoinen	vihata	1.093038192
+iloita	tarvita	0.884039845
+juhlia	kaivata	0.932092213
+kaivata	epäröidä	0.768103058
+tuntea	turhauttaa	0.662675133
+hämmästyttää	miellyttää	0.941408245
+turhauttaa	pitää	1.090122656
+pelottaa	raivostuttaa	0.881369194
+nauttia	juhlia	0.405617482
+uskaltaa	raivostuttaa	1.167886793
+miellyttää	olla varuillaan	1.035653545
+nauttia	ihailla	0.557706216
+nauttia	epäröidä	1.0071004
+iloita	inhota	1.367447715
+sietää	haluta	1.052376269
+hämmästyttää	halveksia	1.075007749
+epäröidä	hämmästyttää	0.837603077
+haluta	uskaltaa	0.719915955
+ihailla	itkeä	1.070202936
+halveksia	toivoa	1.238078042
+pelottaa	olla huolissaan	0.684145879
+inhottaa	päästä yli	1.158437756
+päästä yli	pitää	0.88362905
+haltioitua	juhlia	0.707978724
+haltioitua	toivoa	0.829562864
+riemuita	toivoa	0.68531283
+epäröidä	järkyttää	0.950549593
+uuvuttaa	huvittaa	1.110705011
+juhlia	päästä yli	0.940993389
+turhauttaa	tarvita	1.04604589
+huvittaa	tuntea	0.638407169
+pitää	tyrmistyttää	1.215875589
+ihailla	pelottaa	1.210018733
+ihailla	tuntea	0.703382507
+sietää	tarvita	0.836666859
+nauttia	vihata	1.422307072
+miellyttää	inhota	1.309953675
+iloita	tuntea	0.812181494
+juhlia	hämmästyttää	0.852928334
+raivostuttaa	vihata	0.514644195
+raivostuttaa	haltioitua	1.350101731
+ärsyttää	haltioitua	1.274938717
+tarvita	halveksia	1.187531868
+tuntea	kaivata	0.575729385
+tyrmistyttää	olla varuillaan	0.835339943
+ärsyttää	hyväksyä	1.126644959
+haluta	toivoa	0.4813551
+kaivata	raivostuttaa	1.032021184
+juhlia	vetää puoleensa	0.668433554
+kaivata	haltioitua	1.1244756
+nauttia	turhauttaa	1.080110223
+haltioitua	tyrmistyttää	1.243039023
+vihata	uskaltaa	1.14802806
+raivostuttaa	olla epätoivoinen	0.933012639
+raivostuttaa	itkeä	0.953186764
+vihata	toivoa	1.25147128
+halveksia	kaivata	1.078161769
+haluta	tyrmistyttää	1.174741929
+iloita	kaivata	0.982006242
+toivoa	pitää	0.611643421
+riemuita	pelottaa	1.471469791
+miellyttää	hyväksyä	1.04844646
+tyrmistyttää	uuvuttaa	1.132708839
+sietää	vihata	0.784122128
+epäröidä	uskaltaa	0.949449975
+nauttia	halveksia	1.444873096
+raivostuttaa	olla huolissaan	0.836061665
+vihata	kaivata	1.081785381
+tarvita	juhlia	0.91250541
+uuvuttaa	turhauttaa	0.65673716
+katua	sietää	0.918650568
+uuvuttaa	hyväksyä	1.014645653
+sietää	ihailla	1.057495627
+haltioitua	itkeä	1.308667106
+hyväksyä	tarvita	0.893363177
+kaivata	toivoa	0.66993412
+juhlia	halveksia	1.570131759
+pitää	inhottaa	1.209915001
+katua	raivostuttaa	0.83694629
+tuntea	sietää	0.70277437
+hyväksyä	sietää	0.952772057
+toivoa	raivostuttaa	1.16679818
+olla varuillaan	sietää	0.802613105
+haltioitua	tuntea	0.834014685
+iloita	tyrmistyttää	1.393107942
+ärsyttää	vetää puoleensa	1.193260324
+järkyttää	ärsyttää	0.707381395
+toivoa	huvittaa	0.646334913
+inhottaa	raivostuttaa	0.73016133
+epäröidä	vihata	0.91461064
+hyväksyä	olla huolissaan	0.993116083
+tarvita	raivostuttaa	1.108858366
+ihailla	olla varuillaan	0.949187093
+halveksia	olla epätoivoinen	1.000695975
+pitää	järkyttää	1.340413999
+halveksia	itkeä	0.696405653
+miellyttää	inhottaa	1.264358177
+sietää	toivoa	0.829279714
+olla epätoivoinen	inhota	1.031299308
+haluta	huvittaa	0.768670745
+haluta	itkeä	1.189701066
+tarvita	epäröidä	0.950566635
+järkyttää	toivoa	1.109708883
+olla varuillaan	päästä yli	0.930341522
+turhauttaa	sietää	0.63712898
+nauttia	riemuita	0.470106494
+tyrmistyttää	vihata	0.930157115
+epäröidä	olla epätoivoinen	0.772017373
+huvittaa	tarvita	0.815375457
+ärsyttää	iloita	1.262090733
+järkyttää	olla huolissaan	1.040836189
+olla varuillaan	tuntea	0.703932618
+olla huolissaan	ihailla	0.986486828
+inhottaa	iloita	1.348545922
+tuntea	juhlia	0.770482963
+halveksia	hyväksyä	1.279317531
+raivostuttaa	turhauttaa	0.708899287
+inhottaa	turhauttaa	0.611651877
+inhottaa	tuntea	0.774208367
+riemuita	päästä yli	0.909087187
+olla huolissaan	haluta	0.875064797
+sietää	haltioitua	1.140799714
+päästä yli	vihata	1.166839894
+huvittaa	riemuita	0.661450417
+ärsyttää	kaivata	0.937135279
+vihata	pitää	1.235319496
+ärsyttää	hämmästyttää	1.095231574
+inhottaa	olla huolissaan	0.981697853
+nauttia	tarvita	0.929932936
+tuntea	hyväksyä	0.60615792
+miellyttää	ihailla	0.698123028
+sietää	halveksia	0.758491759
+järkyttää	iloita	1.446552722
+epäröidä	uuvuttaa	1.06305215
+järkyttää	tyrmistyttää	0.613126648
+haltioitua	pelottaa	1.402483241
+hämmästyttää	olla huolissaan	1.040507502
+tyrmistyttää	inhottaa	0.950323935
+sietää	pelottaa	0.848047104
+tyrmistyttää	olla huolissaan	1.09299075
+uuvuttaa	toivoa	1.011836494
+tyrmistyttää	pelottaa	0.963486168
+nauttia	huvittaa	0.560133051
+pelottaa	olla epätoivoinen	0.819291896
+halveksia	haltioitua	1.454112993
+itkeä	tyrmistyttää	0.983666945
+iloita	uskaltaa	0.920438892
+hyväksyä	vihata	1.202854206
+haltioitua	olla varuillaan	1.036563794
+pelottaa	päästä yli	1.116101009
+kaivata	hämmästyttää	0.972808959
+järkyttää	itkeä	0.833976355
+halveksia	järkyttää	0.751410068
+tuntea	riemuita	0.846870049
+pitää	olla epätoivoinen	0.956725932
+vetää puoleensa	uskaltaa	0.689471542
+iloita	sietää	1.181915525
+nauttia	haluta	0.550132534
+olla huolissaan	olla epätoivoinen	0.31746045
+olla epätoivoinen	iloita	1.212206932
+katua	hyväksyä	0.942588517
+tarvita	inhota	1.302367585
+vetää puoleensa	tyrmistyttää	0.974142197
+katua	miellyttää	1.0087338
+päästä yli	olla huolissaan	1.022449596
+päästä yli	miellyttää	1.05412092
+epäröidä	haluta	0.989760857
+ärsyttää	haluta	1.09338839
+sietää	epäröidä	0.88543592
+itkeä	riemuita	1.406893687
+kaivata	itkeä	1.063144234
+haltioitua	tarvita	0.998566964
+iloita	hyväksyä	0.671606718
+haluta	inhottaa	1.190995111
+hyväksyä	nauttia	0.758591925
+haltioitua	vihata	1.440908309
+katua	tyrmistyttää	0.912622748
+sietää	päästä yli	0.831766978
+päästä yli	olla epätoivoinen	1.083480229
+riemuita	tarvita	0.968366415
+huvittaa	päästä yli	1.01934812
+haluta	haltioitua	0.862217007
+itkeä	nauttia	1.217721847
+ihailla	päästä yli	0.946929926
+haltioitua	inhota	1.494101634
+vetää puoleensa	inhota	1.466678918
+tyrmistyttää	olla epätoivoinen	1.007502066
+miellyttää	halveksia	1.347831801
+olla epätoivoinen	kaivata	0.981122067
+uskaltaa	haltioitua	0.908590667
+pelottaa	uskaltaa	1.075377584
+olla varuillaan	katua	0.972029431
+inhottaa	olla varuillaan	1.056979203
+raivostuttaa	epäröidä	1.026884996
+katua	inhota	0.813963277
+päästä yli	tyrmistyttää	1.140368283
+turhauttaa	juhlia	1.16121964
+olla huolissaan	haltioitua	1.257534747
+uuvuttaa	vihata	0.944903326
+haluta	uuvuttaa	1.014329434
+uskaltaa	itkeä	0.904080341
+iloita	pelottaa	1.309123232
+kaivata	hyväksyä	0.797923894
+halveksia	huvittaa	1.24676758
+pelottaa	kaivata	1.04876561
+järkyttää	hyväksyä	1.283950593
+vetää puoleensa	pelottaa	1.368335889
+tuntea	hämmästyttää	0.766668918
+hämmästyttää	katua	0.947972799
+riemuita	olla huolissaan	1.388551729
+inhottaa	toivoa	1.184219642
+kaivata	olla huolissaan	0.749437956
+itkeä	vetää puoleensa	1.285583053
+pitää	inhota	1.29701299
+uskaltaa	halveksia	1.198693806
+huvittaa	hyväksyä	0.975637302
+inhota	järkyttää	0.617891805
+pitää	kaivata	0.915286691
+toivoa	olla huolissaan	0.956575426
+olla varuillaan	uskaltaa	1.012599649
+tuntea	päästä yli	0.627115688
+pitää	nauttia	0.519209336
+vihata	tuntea	0.960987356
+epäröidä	pitää	0.787932938
+inhottaa	uskaltaa	1.143585753
+olla epätoivoinen	haltioitua	1.186886174
+vihata	haluta	1.284149955
+toivoa	vetää puoleensa	0.676287035
+turhauttaa	järkyttää	0.769633719
+turhauttaa	haluta	1.078181446
+inhota	hämmästyttää	1.001444533
+ihailla	halveksia	1.338469072
+ihailla	riemuita	0.645775732
+huvittaa	iloita	0.528116572
+tyrmistyttää	toivoa	1.007870802
+kaivata	uskaltaa	0.815159067
+katua	järkyttää	1.034510557
+olla epätoivoinen	inhottaa	0.948973518
+inhota	itkeä	0.779144782
+pelottaa	itkeä	0.727139527
+olla epätoivoinen	ihailla	0.970354178
+uuvuttaa	halveksia	0.925806493
+järkyttää	tarvita	1.221977692
+sietää	olla huolissaan	0.915417238
+tyrmistyttää	kaivata	1.083955473
+tyrmistyttää	sietää	0.899062801
+olla varuillaan	epäröidä	0.68300613
+katua	vihata	0.789777416
+huvittaa	hämmästyttää	0.964192949
+pitää	itkeä	1.044047933
+tuntea	toivoa	0.575141344
+riemuita	epäröidä	1.091685909
+uskaltaa	ihailla	0.86881625
+inhottaa	hämmästyttää	1.034223921
+miellyttää	huvittaa	0.607778793
+järkyttää	uskaltaa	1.099235301
+inhota	inhottaa	0.341449125
+kaivata	katua	0.944625521
+ihailla	uuvuttaa	1.053265494
+järkyttää	nauttia	1.402467593
+järkyttää	vetää puoleensa	1.292063241
+turhauttaa	epäröidä	0.946035576
+vihata	hämmästyttää	1.0645892
+tyrmistyttää	ihailla	1.16362825
+sietää	uuvuttaa	0.765779373
+tyrmistyttää	tuntea	0.751685101
+uuvuttaa	riemuita	1.35543917
+nauttia	uskaltaa	0.806764438
+tuntea	miellyttää	0.717661859
+epäröidä	tyrmistyttää	1.197366942
+vetää puoleensa	haluta	0.763069239
+haltioitua	hämmästyttää	1.029577174
+uskaltaa	olla huolissaan	0.859486842
+olla epätoivoinen	tuntea	0.721162956
+pelottaa	halveksia	0.82911207
+halveksia	epäröidä	1.058499525
+toivoa	tarvita	0.593670863
+turhauttaa	miellyttää	1.06605732
+uuvuttaa	tarvita	1.055934044
+ihailla	raivostuttaa	1.376330017
+epäröidä	ärsyttää	0.827651354
+pitää	halveksia	1.329375968
+hämmästyttää	pitää	0.803308339
+tuntea	nauttia	0.703384599
+juhlia	tyrmistyttää	1.229949622
+miellyttää	uuvuttaa	1.341475662
+inhota	ihailla	1.305360741
+toivoa	olla epätoivoinen	1.030745215
+uuvuttaa	inhota	0.875964978
+turhauttaa	inhota	0.740027002
+olla epätoivoinen	haluta	1.045612809
+riemuita	olla varuillaan	1.211522037
+miellyttää	ärsyttää	1.110265113
+hyväksyä	tyrmistyttää	1.322721658
+haluta	hämmästyttää	0.867136183
+vetää puoleensa	nauttia	0.877806713
+ihailla	kaivata	0.876870313
+toivoa	uskaltaa	0.608530321
+pitää	raivostuttaa	1.240489868
+vihata	vetää puoleensa	1.29985744
+vetää puoleensa	sietää	1.088924648
+inhota	ärsyttää	0.693715968
+haluta	inhota	1.328041419
+toivoa	hämmästyttää	0.870422066
+iloita	epäröidä	1.001733322
+miellyttää	haltioitua	0.683914076
+ärsyttää	katua	0.74825584
+turhauttaa	iloita	1.041838714
+juhlia	katua	1.102924782
+vihata	olla huolissaan	0.948531842
+haltioitua	vetää puoleensa	0.640073665
+tarvita	inhottaa	1.087771949
+iloita	katua	1.137107806
+pitää	ärsyttää	1.139023921
+haltioitua	inhottaa	1.411894174
+tyrmistyttää	halveksia	1.00141473
+haluta	tarvita	0.776092594
+riemuita	haluta	0.61314622
+juhlia	sietää	1.225607679
+inhottaa	riemuita	1.500474961
+katua	pitää	1.045374502
+nauttia	raivostuttaa	1.387395696
+päästä yli	uuvuttaa	1.169430832
+epäröidä	päästä yli	0.980446111
+haluta	pitää	0.530023608
+halveksia	päästä yli	1.069901961
+huvittaa	järkyttää	1.254682151
+olla varuillaan	olla huolissaan	0.56474107
+turhauttaa	riemuita	1.195303545
+raivostuttaa	haluta	1.270884371
+iloita	olla varuillaan	1.170914476
+uuvuttaa	kaivata	0.932563392
+sietää	miellyttää	1.061928555
+inhota	epäröidä	1.065646185
+olla varuillaan	vihata	1.024758245
+sietää	järkyttää	0.910629339
+epäröidä	hyväksyä	0.839223465
+miellyttää	toivoa	0.76949249
+tyrmistyttää	ärsyttää	0.760061471
+hämmästyttää	olla varuillaan	1.193505713
+toivoa	päästä yli	0.701673158
+järkyttää	uuvuttaa	0.95647734
+kaivata	päästä yli	0.867451939
+inhottaa	sietää	0.684300961
+huvittaa	olla epätoivoinen	1.109454995
+iloita	pitää	0.59683416
+inhota	raivostuttaa	0.801758172
+ihailla	pitää	0.282345737
+raivostuttaa	vetää puoleensa	1.283185158
+olla huolissaan	inhota	1.15699304
+nauttia	iloita	0.425139833

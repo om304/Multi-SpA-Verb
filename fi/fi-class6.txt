@@ -1,0 +1,2347 @@
+Word1	Word2	Score
+vannoa	totella	0.846887499
+pyytää	huijata	0.908506689
+protestoida	keksiä tekosyy	1.105050431
+pyytää	evakuoida	0.958910598
+ohjeistaa	ajaa takaa	0.914217272
+pidättäytyä	valvoa	1.000886389
+sallia	hypnotisoida	0.987331701
+kontrolloida	rangaista	0.771731824
+vannoa	kieltää	1.053920387
+taipua	osoittaa mieltään	0.973842623
+vapauttaa	seurata	0.95426472
+taipua	pyytää	0.756621232
+lopettaa	viivästyttää	1.031820809
+syyttää	vaatia	0.952226112
+ohjata	estää	0.806924942
+vapauttaa	yllyttää	1.197861242
+osoittaa taipumusta	nostaa syyte	0.821894675
+ohjeistaa	totella	0.903244643
+tuomita	dominoida	0.846511343
+hallita	takavarikoida	0.922841379
+nostaa syyte	todistaa	0.924497014
+kidnapata	mitätöidä	1.220111608
+määrätä	rajata	0.768374066
+ajaa takaa	johtaa	1.022226254
+ajaa takaa	pyytää	1.176622711
+häätää	haitata	0.905245805
+kidnapata	tuomita	1.239772401
+varastaa	osoittaa taipumusta	1.088481318
+hallita	antautua	0.867137128
+käyttää hyväkseen	hallita	1.081279472
+rajata	varastaa	1.1050365
+vehkeillä	ajaa takaa	1.041968732
+sallia	yllyttää	0.895816886
+taipua	haastaa	0.897356864
+todistaa	rajoittaa	1.04833757
+salametsästää	rangaista	1.075045012
+vaatia	anoa	0.642869737
+estää	protestoida	0.985096389
+kapinoida	taipua	0.909591604
+seurata	syyttää	0.905769763
+leimata	siepata	1.344877512
+anoa	syyttää	0.978606947
+lopettaa	varastaa	1.074676333
+dominoida	pidättää	0.793568137
+rangaista	huijata	1.031916537
+syyttää	suostutella	0.972639059
+pyytää	mitätöidä	1.002704987
+nostaa syyte	kohdata	0.960244989
+ohjeistaa	yllyttää	0.989398972
+palvella	protestoida	1.020920386
+suostutella	protestoida	0.714302944
+ajaa takaa	varmistaa	1.007532377
+hallita	ajaa takaa	1.009803768
+dominoida	todistaa	0.97631071
+kaapata	tehdä tyhjäksi	1.293143014
+siepata	vaikuttaa	1.034689533
+johtaa	osoittaa taipumusta	0.993366524
+rajoittaa	kaapata	0.935425901
+pidättäytyä	ohjata	0.823850742
+pidättäytyä	varastaa	1.110795486
+käyttää hyväkseen	häätää	1.362552219
+sallia	anastaa	1.12756507
+huijata	evakuoida	1.134878714
+yllyttää	haastaa	0.767196611
+ryöstää	sallia	1.185824908
+sallia	haastaa	1.083591522
+vapauttaa	salametsästää	1.278738016
+hypnotisoida	anoa	1.192417975
+kohdata	määrätä	0.951977718
+ajaa takaa	anoa	0.991756238
+vapauttaa	todistaa	0.8967032
+evakuoida	kohdata	0.619742406
+antautua	seurata	0.944027175
+määrätä	syyttää	0.798665735
+rajoittaa	varastaa	0.948393286
+kumota	estää	0.500113088
+haastaa	tehdä tyhjäksi	1.00052305
+pyytää	johtaa	1.058679715
+leimata	salametsästää	1.345347822
+voittaa	kapinoida	1.100768786
+osoittaa mieltään	voittaa	1.072357763
+pyytää	rajoittaa	1.083394454
+vapauttaa	kapinoida	1.037810456
+pidättäytyä	ajaa takaa	1.131770078
+ohjata	taipua	0.895683951
+haastaa	pidättää	0.698440251
+antautua	haitata	0.928305663
+anastaa	vaikuttaa	0.935283583
+kaapata	anoa	1.312767336
+johtaa	haastaa	1.006416114
+pidättäytyä	kohdata	0.865463798
+käyttää hyväkseen	pyytää	0.747755679
+viivästyttää	varmistaa	1.221499502
+keksiä tekosyy	jäljittää	0.982253744
+huijata	määrätä	0.94660317
+sallia	ohjata	1.078545202
+valvoa	kaapata	0.903663996
+totella	pidättäytyä	0.836745883
+tunnustaa	haitata	1.133574542
+huijata	ohjata	0.866401457
+haastaa oikeuteen	ryöstää	1.456396909
+totella	valvoa	0.890778657
+ohjeistaa	vapauttaa	1.145399173
+todistaa	evätä	1.049692113
+haastaa	kaapata	1.252424773
+keksiä tekosyy	kontrolloida	1.008109414
+hallita	leimata	1.134172991
+osoittaa taipumusta	hypnotisoida	1.058977359
+kontrolloida	osoittaa taipumusta	0.885933973
+vapauttaa	tuomita	1.278506265
+nostaa syyte	komentaa	0.934675328
+kohdata	huijata	1.128789454
+kapinoida	rangaista	0.930736756
+vapauttaa	ohjata	1.111190938
+taipua	ajaa takaa	1.247009916
+tunnustaa	hypnotisoida	1.286719444
+palvella	suostutella	0.750849236
+tehdä tyhjäksi	totella	1.057621789
+palvella	dominoida	0.904355105
+varmistaa	vannoa	0.512557629
+dominoida	rajoittaa	0.696995713
+ajaa takaa	antautua	0.968173706
+suostutella	pidättää	0.851553006
+rangaista	hypnotisoida	1.160637839
+evakuoida	varastaa	1.208642669
+yllyttää	ohjata	0.776969471
+estää	kidnapata	1.063653363
+kapinoida	takavarikoida	0.926804271
+nostaa syyte	pidättäytyä	0.923848227
+rajata	rangaista	0.721117047
+jäljittää	hypnotisoida	1.091662629
+taipua	yllyttää	0.934536873
+osoittaa mieltään	kontrolloida	1.036918097
+lopettaa	keksiä tekosyy	1.142292856
+leimata	yllyttää	0.975270386
+määrätä	kidnapata	1.018588286
+viivästyttää	ohjata	1.03775496
+kapinoida	syyttää	1.190327397
+osoittaa mieltään	hypnotisoida	0.927522926
+varmistaa	hallita	0.653108494
+voittaa	rajoittaa	1.181185114
+jäljittää	tuomita	1.013216106
+protestoida	määrätä	0.78670296
+hypnotisoida	voittaa	0.99671392
+häätää	dominoida	1.019814046
+ohjeistaa	valvoa	0.641689803
+kohdata	evätä	1.054896438
+rajoittaa	viivästyttää	0.839872722
+vehkeillä	jäljittää	0.846965365
+vapauttaa	haastaa	1.135355026
+hypnotisoida	määrätä	0.972282177
+voittaa	protestoida	1.03373486
+dominoida	nostaa syyte	1.099555668
+estää	kontrolloida	0.837727983
+salametsästää	sallia	1.24575953
+kidnapata	taipua	1.489058892
+nostaa syyte	anastaa	1.509215088
+hallita	sallia	1.113240791
+käyttää hyväkseen	ajaa takaa	1.053369378
+haitata	määrätä	1.010220509
+anastaa	viivästyttää	1.132000489
+kontrolloida	valvoa	0.657656113
+rajata	rajoittaa	0.498023089
+seurata	pidättäytyä	0.935935358
+häätää	haastaa oikeuteen	1.00081273
+evätä	pidättää	0.604224261
+rangaista	viivästyttää	0.907073986
+rajoittaa	takavarikoida	0.839927594
+todistaa	haitata	1.022937664
+syyttää	kontrolloida	0.937207972
+evätä	kaapata	1.028756679
+kapinoida	mitätöidä	1.00301844
+kaapata	häätää	1.179584653
+syyttää	pidättää	1.007659465
+evätä	totella	0.979597923
+yllyttää	varastaa	1.300485481
+käyttää hyväkseen	rajoittaa	1.009953359
+takavarikoida	leimata	1.165296802
+kapinoida	johtaa	1.043492935
+ohjeistaa	pidättää	0.963478275
+protestoida	leimata	1.181865631
+voittaa	vaatia	0.967670414
+yllyttää	voittaa	0.967045779
+seurata	varmistaa	0.929154812
+osoittaa mieltään	evätä	1.016438965
+taipua	vapauttaa	0.88493212
+kieltää	ohjata	0.784943469
+osoittaa mieltään	anastaa	1.067428983
+hypnotisoida	kaapata	1.005548964
+vaikuttaa	viivästyttää	1.241132213
+rangaista	osoittaa mieltään	0.938490826
+hallita	pyytää	0.869270579
+ryöstää	anastaa	0.231611471
+kumota	dominoida	0.86822585
+evakuoida	rangaista	0.977878796
+takavarikoida	tunnustaa	1.103572111
+pidättää	pyytää	0.981046602
+antautua	varmistaa	0.813756929
+käyttää hyväkseen	kontrolloida	1.063033071
+kapinoida	ryöstää	0.971676674
+nostaa syyte	tuomita	0.950070674
+kapinoida	ajaa takaa	1.179491865
+totella	tunnustaa	0.995238293
+käyttää hyväkseen	rajata	1.050970731
+takavarikoida	vehkeillä	1.047049612
+takavarikoida	dominoida	0.683442613
+anastaa	kidnapata	0.487149407
+vaikuttaa	leimata	0.941157747
+seurata	yllyttää	0.997426423
+seurata	pyytää	1.127138024
+huijata	tuomita	1.078512419
+kumota	kieltää	0.513850382
+salametsästää	syyttää	1.198396632
+kidnapata	ryöstää	0.542651537
+johtaa	varastaa	1.271806299
+evakuoida	seurata	0.995929522
+viivästyttää	taipua	1.255694592
+kontrolloida	vapauttaa	1.372954948
+huijata	haitata	0.988632532
+johtaa	voittaa	1.264932713
+vaikuttaa	suostutella	0.793880615
+rajata	häätää	0.817091439
+hallita	häätää	0.95614703
+varastaa	vehkeillä	0.896568446
+rajata	takavarikoida	1.063316951
+komentaa	johtaa	0.841615708
+dominoida	ryöstää	1.086554006
+keksiä tekosyy	komentaa	1.049448745
+dominoida	haastaa oikeuteen	1.038706887
+rangaista	häätää	0.937884169
+rajoittaa	evätä	0.482540541
+käyttää hyväkseen	komentaa	0.906257836
+vehkeillä	pyytää	1.000831946
+pyytää	antautua	0.981147175
+kieltää	protestoida	0.965372616
+varastaa	kumota	0.98140562
+komentaa	jäljittää	0.821470482
+vehkeillä	syyttää	1.265496793
+hallita	vapauttaa	1.222893254
+rajata	osoittaa taipumusta	1.027240676
+leimata	valvoa	1.358137075
+johtaa	pidättäytyä	0.887952011
+yllyttää	lopettaa	1.084577095
+jäljittää	antautua	0.945217222
+siepata	osoittaa taipumusta	1.265101646
+protestoida	lopettaa	1.1223527
+lopettaa	dominoida	1.048761281
+käyttää hyväkseen	taipua	1.09468055
+totella	yllyttää	0.925670585
+kaapata	siepata	0.352024667
+ohjeistaa	vannoa	0.7275476
+hallita	salametsästää	0.951175242
+rajoittaa	vehkeillä	1.039982943
+ohjata	valvoa	0.564318931
+hypnotisoida	syyttää	1.140710743
+tehdä tyhjäksi	tuomita	0.954871985
+kohdata	rajoittaa	0.964083829
+vapauttaa	palvella	0.937906916
+rajoittaa	vaikuttaa	0.809089345
+pyytää	haastaa oikeuteen	1.089355766
+ohjata	tehdä tyhjäksi	1.047082049
+keksiä tekosyy	hypnotisoida	1.005704382
+jäljittää	taipua	1.167128102
+voittaa	nostaa syyte	1.086712609
+tehdä tyhjäksi	hypnotisoida	1.257856423
+määrätä	osoittaa mieltään	0.812614233
+ajaa takaa	kontrolloida	1.055530818
+hallita	hypnotisoida	1.117546596
+rajoittaa	kieltää	0.54444197
+jäljittää	todistaa	0.953334407
+tehdä tyhjäksi	kieltää	0.724228007
+määrätä	taipua	0.95619326
+yllyttää	vannoa	0.747458828
+anoa	hallita	0.84441676
+vaatia	anastaa	1.110837765
+antautua	lopettaa	0.989665877
+voittaa	kumota	1.222091354
+evakuoida	ajaa takaa	1.198839769
+salametsästää	takavarikoida	0.929005545
+varastaa	palvella	1.056289259
+osoittaa taipumusta	taipua	0.768374206
+pidättäytyä	huijata	1.093723281
+tunnustaa	nostaa syyte	0.981064432
+ohjeistaa	lopettaa	0.852035324
+ryöstää	huijata	0.875543355
+määrätä	leimata	0.930440225
+komentaa	varastaa	0.847105298
+leimata	varastaa	1.324966616
+rajata	haastaa	0.980308438
+komentaa	seurata	0.747763127
+palvella	huijata	0.924518699
+kontrolloida	haastaa oikeuteen	1.030128114
+rajata	ohjeistaa	0.755464683
+haitata	seurata	0.792926366
+protestoida	kohdata	0.743934984
+tehdä tyhjäksi	leimata	1.015557465
+häätää	johtaa	1.210411779
+rangaista	haastaa oikeuteen	0.806344034
+rajata	siepata	1.021084413
+keksiä tekosyy	totella	1.139707259
+vannoa	nostaa syyte	0.676536816
+ohjata	hypnotisoida	1.048548367
+todistaa	anastaa	1.177060288
+sallia	evätä	1.367345812
+siepata	haastaa oikeuteen	1.425408104
+ohjeistaa	rangaista	0.814017959
+kapinoida	ohjeistaa	0.769543906
+anastaa	evakuoida	1.23025292
+ryöstää	pidättäytyä	1.105936328
+anastaa	rajata	1.017720611
+kontrolloida	tuomita	0.909245338
+osoittaa taipumusta	sallia	0.971411152
+kontrolloida	vehkeillä	1.140069148
+haastaa	totella	1.118168607
+protestoida	dominoida	0.935468612
+todistaa	palvella	0.849494401
+ohjata	evätä	0.86495689
+yllyttää	ryöstää	1.413195194
+suostutella	kidnapata	1.017487647
+huijata	kumota	1.108596924
+yllyttää	salametsästää	1.322636218
+vaatia	pyytää	0.825024103
+pidättäytyä	mitätöidä	0.935507669
+siepata	antautua	1.33508831
+vehkeillä	antautua	1.108052583
+ajaa takaa	häätää	0.959331038
+kaapata	anastaa	0.501293878
+käyttää hyväkseen	kieltää	1.264395089
+rajata	vannoa	1.030730011
+varmistaa	määrätä	0.701836284
+osoittaa mieltään	varastaa	1.050646001
+kieltää	sallia	1.287961335
+vaikuttaa	tehdä tyhjäksi	0.996088245
+pyytää	varastaa	1.055450598
+jäljittää	mitätöidä	1.089613926
+rangaista	seurata	0.961367104
+varmistaa	anoa	0.633074651
+vaatia	antautua	0.820747175
+häätää	mitätöidä	0.913902233
+jäljittää	ohjata	0.66369031
+varmistaa	todistaa	0.60835022
+kapinoida	haastaa	0.922982306
+estää	haastaa	0.778746999
+dominoida	kohdata	0.986218359
+huijata	totella	1.060853197
+anastaa	kohdata	1.219361423
+valvoa	ajaa takaa	1.03457022
+totella	haastaa oikeuteen	1.156563082
+totella	ryöstää	0.965257324
+anoa	viivästyttää	0.996060736
+haastaa	hypnotisoida	0.965873239
+varmistaa	kapinoida	0.970327148
+salametsästää	huijata	0.795563121
+rajata	kapinoida	0.821062876
+antautua	pidättäytyä	0.701480962
+rajata	evakuoida	1.102102455
+kumota	tehdä tyhjäksi	0.559995314
+rajata	lopettaa	0.598477433
+evätä	hallita	0.735579884
+vehkeillä	komentaa	0.934433289
+pidättää	vapauttaa	1.321643813
+viivästyttää	osoittaa taipumusta	1.09038228
+suostutella	leimata	1.327740168
+syyttää	siepata	1.368653367
+tunnustaa	taipua	0.735356859
+mitätöidä	ryöstää	1.209840622
+suostutella	vannoa	0.76173904
+varmistaa	valvoa	0.689377859
+kaapata	kieltää	1.125475273
+anoa	leimata	1.315104965
+antautua	komentaa	0.869297614
+rajoittaa	vannoa	1.137268475
+vannoa	todistaa	0.624255222
+todistaa	vehkeillä	1.133820883
+siepata	kapinoida	1.088092264
+rajoittaa	tehdä tyhjäksi	0.713118812
+protestoida	häätää	1.251673911
+rajoittaa	leimata	1.060278985
+johtaa	viivästyttää	1.397053581
+varmistaa	mitätöidä	0.818239834
+rajoittaa	haitata	1.004146127
+leimata	kidnapata	1.318279016
+ajaa takaa	suostutella	1.156937802
+syyttää	palvella	0.793173396
+leimata	rangaista	1.141126661
+evakuoida	ohjeistaa	0.843989542
+evätä	kumota	0.31686804
+rangaista	syyttää	0.797175168
+haastaa oikeuteen	kieltää	0.957929057
+siepata	todistaa	1.279658005
+tunnustaa	mitätöidä	0.98116071
+yllyttää	haitata	1.056772117
+ajaa takaa	kidnapata	1.066878289
+palvella	rangaista	0.947135792
+siepata	suostutella	1.043570799
+käyttää hyväkseen	haastaa	0.995227085
+rangaista	keksiä tekosyy	1.255561919
+osoittaa mieltään	pidättää	0.85479267
+osoittaa taipumusta	häätää	1.056795375
+todistaa	estää	1.08667074
+seurata	palvella	0.878397081
+huijata	viivästyttää	1.184811876
+suostutella	rajata	0.788709273
+anoa	dominoida	0.929625762
+haastaa oikeuteen	huijata	1.078189089
+salametsästää	tunnustaa	1.340476018
+syyttää	voittaa	1.153532816
+suostutella	osoittaa taipumusta	0.955464571
+kapinoida	palvella	0.892400392
+syyttää	keksiä tekosyy	1.144383148
+vaikuttaa	rajata	1.042032124
+pidättää	yllyttää	0.831930835
+osoittaa mieltään	käyttää hyväkseen	0.94946598
+sallia	määrätä	1.15369338
+varmistaa	ohjeistaa	0.659215995
+kumota	vannoa	1.076849188
+hallita	kieltää	0.812761051
+häätää	pidättäytyä	0.953323873
+määrätä	kaapata	0.989080868
+lopettaa	ajaa takaa	1.046107279
+pyytää	syyttää	1.147810336
+tunnustaa	määrätä	0.819481937
+haastaa	valvoa	0.851309486
+vapauttaa	kieltää	1.413265321
+häätää	varastaa	1.373100378
+haastaa oikeuteen	anastaa	1.443373495
+huijata	osoittaa mieltään	0.982686018
+antautua	viivästyttää	0.909697256
+varmistaa	kumota	0.948850404
+keksiä tekosyy	viivästyttää	0.960640937
+kohdata	viivästyttää	0.92537726
+vaatia	todistaa	0.816178905
+antautua	taipua	0.849684955
+ohjeistaa	kumota	0.865960461
+haastaa	viivästyttää	1.11818082
+antautua	dominoida	0.994459623
+kumota	taipua	1.195104275
+ohjeistaa	viivästyttää	0.96776006
+kohdata	ohjata	0.969615836
+ryöstää	häätää	1.272367088
+ajaa takaa	mitätöidä	1.087328273
+tunnustaa	ohjata	0.927655501
+mitätöidä	kumota	0.613214398
+kohdata	rangaista	0.902084923
+evakuoida	kapinoida	1.116291329
+varmistaa	vaatia	0.714830077
+jäljittää	tunnustaa	1.152308258
+siepata	hallita	0.985576439
+sallia	varastaa	1.223863202
+anoa	komentaa	0.802075249
+totella	rajoittaa	1.062924152
+ajaa takaa	sallia	0.929894714
+jäljittää	syyttää	1.045001372
+kapinoida	antautua	1.045089359
+evakuoida	antautua	0.97590288
+rajata	komentaa	0.804036088
+ryöstää	anoa	1.266454563
+antautua	käyttää hyväkseen	1.145271779
+syyttää	osoittaa taipumusta	0.71938911
+kieltää	keksiä tekosyy	0.943267167
+salametsästää	komentaa	0.79452196
+tunnustaa	kaapata	1.276007165
+pidättää	määrätä	1.000172987
+haastaa oikeuteen	leimata	0.89223722
+kohdata	kaapata	1.315912184
+kontrolloida	dominoida	0.295380082
+evakuoida	hallita	1.094754935
+mitätöidä	totella	1.133849608
+sallia	häätää	1.444239353
+salametsästää	hypnotisoida	0.979954019
+taipua	tuomita	1.127222172
+vannoa	vaatia	0.819795201
+kapinoida	totella	0.868593379
+ryöstää	leimata	1.24874167
+tunnustaa	haastaa	0.909549336
+häätää	lopettaa	0.670928193
+osoittaa mieltään	estää	0.915912935
+käyttää hyväkseen	vaikuttaa	0.997873837
+siepata	lopettaa	1.112608772
+voittaa	käyttää hyväkseen	1.188232426
+yllyttää	jäljittää	0.95927435
+rajoittaa	varmistaa	1.024588337
+kumota	anoa	0.991209177
+totella	vehkeillä	1.129927214
+dominoida	vehkeillä	1.08788447
+kontrolloida	vaatia	0.694249582
+todistaa	käyttää hyväkseen	1.114811517
+salametsästää	pidättäytyä	1.233998174
+käyttää hyväkseen	evätä	1.257509505
+vehkeillä	rajata	1.08711641
+kontrolloida	hypnotisoida	1.189371687
+kohdata	tehdä tyhjäksi	0.865936853
+evätä	dominoida	0.841017285
+tehdä tyhjäksi	yllyttää	1.056328308
+pyytää	kidnapata	1.27200948
+siepata	jäljittää	0.915935615
+nostaa syyte	pyytää	1.09079902
+voittaa	ajaa takaa	0.923600579
+vannoa	määrätä	0.736794859
+kontrolloida	komentaa	0.53901114
+palvella	sallia	0.934728364
+siepata	varastaa	0.533871259
+viivästyttää	leimata	1.10374538
+takavarikoida	hypnotisoida	1.15973401
+syyttää	haastaa oikeuteen	0.613958468
+todistaa	ohjeistaa	0.779465966
+rajoittaa	haastaa oikeuteen	0.981007013
+suostutella	vapauttaa	0.929559103
+valvoa	osoittaa mieltään	0.847170272
+lopettaa	ohjata	0.887494612
+sallia	lopettaa	1.412994469
+palvella	määrätä	0.947011643
+kohdata	ryöstää	1.209293425
+osoittaa taipumusta	rajoittaa	0.968459018
+pidättää	estää	0.697705457
+suostutella	määrätä	0.668349089
+kontrolloida	pidättäytyä	0.992814724
+dominoida	rajata	0.787273228
+rajoittaa	kontrolloida	0.785811368
+viivästyttää	ajaa takaa	1.205207392
+rangaista	määrätä	0.657282126
+salametsästää	palvella	1.022250421
+viivästyttää	tunnustaa	1.082079324
+takavarikoida	evätä	0.78550767
+pidättäytyä	jäljittää	0.93853523
+kidnapata	hypnotisoida	1.034426147
+siepata	vaatia	1.186942308
+ajaa takaa	haastaa	0.831534762
+dominoida	vaikuttaa	0.70112089
+vaikuttaa	rangaista	0.835047505
+osoittaa mieltään	osoittaa taipumusta	0.862969638
+viivästyttää	totella	1.057375356
+tuomita	varmistaa	0.684875496
+dominoida	mitätöidä	1.022097804
+antautua	haastaa	0.900648685
+evätä	komentaa	0.719284998
+rangaista	kidnapata	1.154237045
+vaikuttaa	kumota	1.079933898
+palvella	voittaa	0.89690653
+ryöstää	lopettaa	1.133825611
+seurata	vaikuttaa	0.744165524
+seurata	tuomita	1.005900934
+sallia	vannoa	0.866415303
+siepata	vapauttaa	1.129593176
+seurata	mitätöidä	0.917612566
+anoa	evakuoida	1.064789926
+antautua	kontrolloida	1.020612753
+mitätöidä	leimata	1.140491556
+ohjata	seurata	0.778335564
+vehkeillä	ryöstää	0.978904439
+nostaa syyte	jäljittää	1.031291226
+rajata	viivästyttää	0.816237742
+mitätöidä	osoittaa mieltään	0.973029463
+varastaa	tehdä tyhjäksi	1.207183988
+vannoa	taipua	0.787641641
+yllyttää	antautua	0.911209041
+keksiä tekosyy	haastaa oikeuteen	1.089502227
+totella	johtaa	0.897856037
+keksiä tekosyy	suostutella	1.124898574
+sallia	voittaa	1.053960676
+estää	rajoittaa	0.409109967
+huijata	ajaa takaa	0.944525568
+varmistaa	pidättää	0.748363401
+vaikuttaa	totella	0.870829384
+palvella	pidättäytyä	1.090948924
+takavarikoida	osoittaa mieltään	1.081613291
+jäljittää	kaapata	0.863391439
+palvella	valvoa	0.82624342
+voittaa	kieltää	1.1613816
+anastaa	suostutella	0.968354348
+kontrolloida	viivästyttää	1.027193859
+todistaa	pidättää	0.897934207
+rajata	huijata	1.025799329
+seurata	kontrolloida	0.853372875
+pidättää	leimata	1.103448278
+sallia	kidnapata	1.231563907
+leimata	nostaa syyte	0.920117902
+kohdata	komentaa	1.008363282
+todistaa	komentaa	0.841435427
+vaikuttaa	hypnotisoida	0.868081806
+anoa	vannoa	0.685740593
+evätä	osoittaa taipumusta	0.995840943
+leimata	vannoa	1.177478978
+vannoa	mitätöidä	0.971521768
+hallita	varastaa	0.993799035
+nostaa syyte	ohjata	0.81129627
+varmistaa	jäljittää	0.991324774
+kaapata	rajata	1.004192984
+siepata	dominoida	1.135902341
+nostaa syyte	keksiä tekosyy	1.085715377
+seurata	leimata	0.881948285
+johtaa	rajoittaa	1.083504115
+protestoida	varmistaa	0.952762684
+ohjata	todistaa	0.739567017
+osoittaa taipumusta	pidättää	0.822413885
+valvoa	komentaa	0.594842958
+hallita	ryöstää	0.941524069
+todistaa	keksiä tekosyy	0.968080972
+palvella	häätää	1.201678287
+hallita	nostaa syyte	1.152253065
+valvoa	dominoida	0.612671938
+yllyttää	palvella	0.868842546
+huijata	komentaa	1.038885483
+jäljittää	leimata	1.218852425
+lopettaa	leimata	1.086659449
+määrätä	voittaa	0.879284532
+varastaa	haitata	1.077614078
+jäljittää	estää	0.874031715
+rajata	kumota	0.54934485
+hypnotisoida	ajaa takaa	0.946068115
+ajaa takaa	rajata	1.080678957
+kapinoida	kohdata	0.818535882
+siepata	ryöstää	0.501243154
+siepata	palvella	1.141388601
+mitätöidä	takavarikoida	0.736634169
+rajoittaa	pidättää	0.630797354
+määrätä	tehdä tyhjäksi	0.865103713
+siepata	haitata	1.118063042
+todistaa	ajaa takaa	1.015138863
+viivästyttää	komentaa	0.95064292
+osoittaa mieltään	pyytää	1.053954475
+taipua	vaikuttaa	1.005886039
+hypnotisoida	evakuoida	1.232224592
+ajaa takaa	syyttää	0.947569634
+viivästyttää	pidättää	0.865792271
+häätää	suostutella	1.215726806
+yllyttää	rajoittaa	1.152452183
+keksiä tekosyy	vaikuttaa	0.874628047
+evakuoida	leimata	1.369400179
+mitätöidä	sallia	1.27669129
+hallita	vannoa	0.836693182
+hallita	haastaa	0.78836236
+antautua	voittaa	1.04614872
+rangaista	tuomita	0.377978066
+kontrolloida	tehdä tyhjäksi	0.647567849
+rajata	hallita	0.635690604
+keksiä tekosyy	kidnapata	1.419747953
+kumota	palvella	0.913561561
+haastaa	haastaa oikeuteen	0.363578029
+todistaa	protestoida	1.053515671
+pyytää	kohdata	0.734120087
+tehdä tyhjäksi	valvoa	0.88690171
+tunnustaa	komentaa	0.980179164
+rajoittaa	salametsästää	0.860339701
+syyttää	viivästyttää	1.386304532
+haastaa	kidnapata	1.225938223
+nostaa syyte	seurata	0.977004343
+voittaa	mitätöidä	1.21047846
+lopettaa	vaatia	0.868747882
+anoa	ohjata	0.829660305
+ajaa takaa	leimata	1.050898548
+nostaa syyte	takavarikoida	1.015000864
+varastaa	keksiä tekosyy	1.330167943
+osoittaa mieltään	kapinoida	0.598127021
+seurata	lopettaa	0.862231765
+vaatia	leimata	1.198998434
+haitata	suostutella	1.083455875
+kidnapata	valvoa	0.891228837
+tunnustaa	pidättäytyä	0.932137772
+suostutella	jäljittää	0.929611188
+rajoittaa	tunnustaa	1.168939175
+suostutella	varastaa	0.955778908
+komentaa	määrätä	0.395156488
+varmistaa	lopettaa	1.065241553
+vaatia	tunnustaa	1.074227016
+leimata	pyytää	1.534276206
+palvella	tunnustaa	0.915928124
+hallita	määrätä	0.493845112
+yllyttää	rajata	1.090351481
+palvella	käyttää hyväkseen	1.031178536
+hallita	tunnustaa	1.003761789
+anoa	osoittaa taipumusta	1.081662371
+huijata	ohjeistaa	0.868178631
+kieltää	ryöstää	1.1685979
+evakuoida	syyttää	0.712999739
+estää	sallia	1.366076064
+kumota	haastaa oikeuteen	0.959112366
+käyttää hyväkseen	takavarikoida	1.117440351
+kapinoida	komentaa	0.869027767
+kohdata	lopettaa	0.962580013
+vaikuttaa	valvoa	0.844286486
+syyttää	hallita	1.111578912
+komentaa	tuomita	0.671498721
+totella	hypnotisoida	1.289516247
+komentaa	pidättäytyä	0.849644895
+nostaa syyte	evakuoida	1.107408473
+seurata	suostutella	0.989575389
+vaikuttaa	jäljittää	0.727287567
+pidättää	ryöstää	1.288141588
+anoa	takavarikoida	1.032621362
+antautua	suostutella	0.933001579
+johtaa	siepata	1.295758574
+evätä	rangaista	0.681365391
+osoittaa mieltään	kohdata	0.625449788
+valvoa	evakuoida	0.938071025
+käyttää hyväkseen	evakuoida	1.296416646
+haitata	vannoa	1.026411067
+vannoa	palvella	0.694208986
+nostaa syyte	syyttää	0.611351065
+takavarikoida	osoittaa taipumusta	0.675854559
+vehkeillä	hallita	1.008957588
+evakuoida	voittaa	1.212341583
+salametsästää	kumota	0.999885348
+vaatia	huijata	0.939036852
+määrätä	keksiä tekosyy	0.955372628
+seurata	kohdata	0.994878856
+ryöstää	määrätä	1.072753428
+ohjata	hallita	0.428970323
+evätä	haastaa	0.930921243
+kohdata	vannoa	0.762617901
+todistaa	osoittaa taipumusta	0.88384375
+vehkeillä	kieltää	1.206730087
+antautua	ryöstää	1.309434086
+hypnotisoida	seurata	0.925005855
+ohjeistaa	evätä	0.773001696
+johtaa	leimata	1.081229186
+sallia	valvoa	1.181685736
+nostaa syyte	määrätä	0.709588121
+siepata	komentaa	0.977955325
+kapinoida	dominoida	1.032709524
+anoa	evätä	1.20487743
+varmistaa	haitata	1.271097236
+varastaa	kidnapata	0.52801165
+taipua	kieltää	1.229870551
+anastaa	syyttää	1.204952922
+käyttää hyväkseen	vannoa	1.149816112
+syyttää	johtaa	0.910860459
+varastaa	dominoida	1.15723753
+häätää	anoa	1.220641981
+ohjeistaa	häätää	0.923271358
+siepata	evätä	1.077631863
+vehkeillä	ohjeistaa	0.824194057
+vaikuttaa	vapauttaa	1.227515556
+tunnustaa	siepata	1.338781094
+syyttää	kohdata	0.908389306
+pidättäytyä	vaikuttaa	0.884168057
+pidättäytyä	rajoittaa	1.085117729
+evakuoida	määrätä	0.862722955
+kontrolloida	varmistaa	0.828800536
+jäljittää	evakuoida	1.119164612
+vaatia	varastaa	1.095157071
+pyytää	ohjeistaa	0.616215663
+todistaa	kapinoida	1.072059633
+kieltää	kohdata	1.041168963
+anoa	rajoittaa	1.090443627
+kapinoida	hallita	0.821029689
+siepata	totella	1.029420617
+määrätä	käyttää hyväkseen	0.97160265
+mitätöidä	haastaa oikeuteen	0.882250137
+ajaa takaa	keksiä tekosyy	0.883592805
+estää	vapauttaa	1.411264528
+vaatia	tuomita	0.83880095
+totella	leimata	1.153831841
+hallita	ohjeistaa	0.465581421
+johtaa	tuomita	1.049616065
+tuomita	varastaa	1.162629245
+totella	haitata	1.129234408
+kumota	jäljittää	1.030431954
+syyttää	valvoa	0.927331056
+jäljittää	pidättää	1.046675618
+huijata	seurata	0.758836123
+taipua	anastaa	1.395980083
+estää	ajaa takaa	1.005634948
+johtaa	salametsästää	1.119800888
+estää	pyytää	1.011649403
+johtaa	vehkeillä	1.019672374
+lopettaa	vehkeillä	1.23128011
+häätää	evätä	0.674316739
+vannoa	johtaa	0.90149719
+haastaa	takavarikoida	0.954160086
+sallia	haastaa oikeuteen	1.06862827
+haastaa oikeuteen	antautua	0.930067129
+viivästyttää	kaapata	1.069547534
+hallita	tuomita	0.724535147
+sallia	huijata	0.929396558
+sallia	viivästyttää	1.364113537
+varmistaa	ohjata	0.707281356
+keksiä tekosyy	kapinoida	1.257139494
+anoa	rangaista	0.963270671
+dominoida	hallita	0.465550205
+lopettaa	tuomita	0.777450087
+protestoida	takavarikoida	1.123461205
+lopettaa	komentaa	0.764519252
+tehdä tyhjäksi	vehkeillä	1.37450415
+pidättää	haitata	1.055016736
+valvoa	haastaa oikeuteen	1.108592646
+haitata	kumota	1.067018273
+evakuoida	yllyttää	0.73120251
+keksiä tekosyy	käyttää hyväkseen	1.076542568
+vapauttaa	kaapata	1.184751575
+vehkeillä	kapinoida	0.878797669
+kaapata	takavarikoida	0.882933239
+kontrolloida	anastaa	1.155651479
+vaikuttaa	kohdata	0.996119282
+häätää	estää	0.671718526
+valvoa	vehkeillä	0.973123175
+haitata	takavarikoida	1.075569344
+hypnotisoida	varastaa	1.137615885
+yllyttää	huijata	1.222031982
+taipua	johtaa	0.85461725
+tuomita	kohdata	0.929283239
+leimata	taipua	1.484856176
+vaikuttaa	voittaa	1.153128985
+haastaa oikeuteen	protestoida	1.002965476
+huijata	syyttää	1.099827776
+evakuoida	rajoittaa	1.048725337
+kumota	käyttää hyväkseen	1.221264852
+anastaa	salametsästää	0.784031666
+kontrolloida	tunnustaa	1.092918564
+jäljittää	palvella	0.796733354
+osoittaa taipumusta	antautua	0.982448072
+valvoa	evätä	0.855904491
+tuomita	osoittaa taipumusta	1.027559842
+varastaa	estää	1.105833095
+palvella	osoittaa mieltään	0.964563541
+kieltää	haastaa	0.856506452
+vannoa	osoittaa mieltään	0.880002508
+pidättää	protestoida	0.92324305
+vannoa	tuomita	0.906419853
+salametsästää	keksiä tekosyy	1.215504497
+vehkeillä	palvella	1.029206094
+varmistaa	häätää	1.258445373
+osoittaa mieltään	seurata	0.922957625
+kaapata	haastaa oikeuteen	1.46727079
+vehkeillä	kohdata	1.022040287
+hypnotisoida	mitätöidä	1.095939143
+määrätä	kieltää	0.759015132
+haitata	sallia	1.017296728
+vaatia	pidättää	0.786020317
+varastaa	voittaa	1.188009767
+leimata	sallia	1.075733122
+totella	takavarikoida	0.901704972
+hypnotisoida	johtaa	1.172222413
+varmistaa	vapauttaa	1.157457652
+käyttää hyväkseen	haitata	1.069524653
+vehkeillä	haastaa oikeuteen	1.091718385
+haitata	mitätöidä	1.149427287
+käyttää hyväkseen	vehkeillä	0.468720416
+kontrolloida	haitata	1.075447722
+kieltää	ohjeistaa	0.814412046
+ryöstää	tuomita	1.223079617
+haastaa	palvella	0.929603505
+vaikuttaa	varastaa	0.990541532
+tunnustaa	vehkeillä	1.197317548
+rajoittaa	ryöstää	0.991793447
+keksiä tekosyy	valvoa	1.155143678
+osoittaa taipumusta	kidnapata	1.216975198
+pidättää	anoa	0.856213902
+seurata	tunnustaa	1.058842227
+kidnapata	vaikuttaa	0.965422353
+osoittaa taipumusta	salametsästää	1.084037
+viivästyttää	evätä	0.927088833
+vapauttaa	vannoa	1.080477541
+kieltää	todistaa	1.088922628
+tehdä tyhjäksi	taipua	1.154843694
+palvella	estää	0.933726324
+palvella	osoittaa taipumusta	1.094443333
+rajoittaa	komentaa	0.532196524
+voittaa	haastaa	0.959612833
+kontrolloida	siepata	1.086872966
+vannoa	tunnustaa	0.72928771
+tehdä tyhjäksi	rajata	0.658427294
+siepata	kohdata	1.303492335
+taipua	haitata	1.162597059
+evätä	syyttää	1.131038285
+osoittaa mieltään	syyttää	0.976941118
+valvoa	siepata	0.883514836
+yllyttää	kohdata	0.997869757
+haastaa oikeuteen	salametsästää	1.23217077
+mitätöidä	yllyttää	0.942673758
+kaapata	haitata	1.05584936
+ohjeistaa	määrätä	0.434539069
+haastaa	todistaa	0.908185729
+evätä	vapauttaa	1.379108484
+vannoa	ohjata	0.775075098
+tehdä tyhjäksi	siepata	1.250897254
+leimata	kohdata	1.255436254
+takavarikoida	häätää	0.929065452
+varmistaa	yllyttää	1.009359754
+keksiä tekosyy	pidättäytyä	0.867303873
+haitata	kidnapata	1.164552553
+vannoa	valvoa	0.992984791
+johtaa	palvella	0.902073089
+huijata	valvoa	1.007963486
+evätä	estää	0.469043765
+kumota	komentaa	0.715901384
+varmistaa	evätä	1.018235466
+taipua	kaapata	1.473572492
+kieltää	vaikuttaa	1.034316897
+tehdä tyhjäksi	vannoa	1.093698041
+tuomita	ajaa takaa	0.9951765
+kaapata	lopettaa	1.030729121
+siepata	vehkeillä	0.971482505
+salametsästää	tehdä tyhjäksi	1.197345811
+totella	kieltää	0.947193198
+antautua	vannoa	0.72245845
+ohjata	rajata	0.804192446
+vaikuttaa	määrätä	0.612835457
+salametsästää	mitätöidä	1.050736034
+antautua	leimata	0.964274763
+kidnapata	siepata	0.262656745
+keksiä tekosyy	huijata	1.071548665
+syyttää	ryöstää	1.290365879
+hypnotisoida	pyytää	1.022986401
+vaatia	ajaa takaa	0.825724502
+anoa	kohdata	0.844033992
+tehdä tyhjäksi	häätää	0.871684636
+määrätä	kumota	0.720980435
+totella	kidnapata	0.980762964
+johtaa	dominoida	1.024320235
+vannoa	siepata	1.523507664
+leimata	tuomita	0.980163257
+voittaa	ryöstää	1.199922224
+rangaista	voittaa	1.155875816
+ryöstää	takavarikoida	0.900401679
+jäljittää	anastaa	0.973266596
+kieltää	estää	0.470211897
+kumota	todistaa	0.987971615
+tunnustaa	dominoida	1.056858269
+siepata	anastaa	0.469840606
+anastaa	antautua	1.318342866
+haitata	evätä	1.074569771
+evätä	yllyttää	1.014697871
+pyytää	palvella	0.78264634
+kumota	syyttää	1.070447733
+häätää	salametsästää	1.0994724
+keksiä tekosyy	antautua	0.894613377
+sallia	dominoida	1.126606807
+hallita	todistaa	0.916458566
+sallia	seurata	0.980652183
+hypnotisoida	evätä	1.14019478
+protestoida	hypnotisoida	1.069636123
+pidättäytyä	evakuoida	0.956836104
+lopettaa	haastaa	0.942912015
+huijata	vapauttaa	1.09918113
+kaapata	ryöstää	0.457542593
+hypnotisoida	yllyttää	1.232668796
+protestoida	tuomita	0.939716204
+estää	kaapata	1.048589318
+evätä	suostutella	0.942962923
+keksiä tekosyy	yllyttää	0.890134884
+estää	nostaa syyte	0.963277812
+pyytää	anastaa	1.130540897
+tuomita	mitätöidä	0.97682774
+häätää	pidättää	0.881145108
+todistaa	haastaa oikeuteen	0.898712611
+sallia	taipua	1.146288286
+takavarikoida	siepata	0.999300098
+osoittaa taipumusta	käyttää hyväkseen	1.002389656
+mitätöidä	varastaa	1.086185714
+rajoittaa	suostutella	0.920505868
+haastaa oikeuteen	anoa	0.919114401
+seurata	kaapata	0.662188467
+tuomita	osoittaa mieltään	0.958302052
+pidättää	käyttää hyväkseen	1.169859531
+taipua	kontrolloida	1.120098184
+komentaa	hallita	0.367237077
+ryöstää	valvoa	0.84460953
+vapauttaa	voittaa	1.107064031
+hallita	mitätöidä	0.83389919
+vapauttaa	haitata	1.023813669
+dominoida	kidnapata	1.129801872
+rangaista	vaatia	0.689139236
+ohjata	osoittaa taipumusta	0.823506376
+salametsästää	kapinoida	0.985804581
+varastaa	antautua	1.284439236
+tehdä tyhjäksi	komentaa	0.744761687
+ajaa takaa	dominoida	1.065704421
+keksiä tekosyy	osoittaa mieltään	1.099669723
+osoittaa taipumusta	ohjeistaa	0.716473799
+kidnapata	häätää	1.160995963
+tehdä tyhjäksi	osoittaa taipumusta	0.954583051
+leimata	käyttää hyväkseen	1.320309901
+häätää	anastaa	1.363363321
+kumota	lopettaa	0.498363536
+vaatia	haastaa	0.851610777
+anoa	haastaa	0.824143732
+pidättäytyä	haitata	0.864670864
+rangaista	ajaa takaa	0.974872877
+sallia	pidättäytyä	1.030798439
+ryöstää	ajaa takaa	1.041288363
+taipua	nostaa syyte	1.011247672
+anastaa	keksiä tekosyy	1.337916703
+kapinoida	estää	1.10165644
+haastaa	varmistaa	0.9325029
+ajaa takaa	kieltää	1.020636329
+johtaa	haastaa oikeuteen	1.023402759
+varastaa	haastaa	1.202618613
+estää	syyttää	1.127871797
+takavarikoida	viivästyttää	1.022280112
+pidättäytyä	ohjeistaa	0.839507213
+pyytää	rajata	0.895725619
+lopettaa	määrätä	0.828162968
+viivästyttää	kieltää	0.979034903
+huijata	anoa	1.046029376
+huijata	tunnustaa	1.205213448
+tuomita	salametsästää	1.153865786
+kohdata	todistaa	0.934758112
+totella	estää	0.91730897
+keksiä tekosyy	vapauttaa	1.06086105
+protestoida	kumota	0.933505229
+vaatia	ohjeistaa	0.567467897
+anoa	yllyttää	1.041092282
+viivästyttää	hypnotisoida	1.158372182
+haitata	ajaa takaa	0.936458856
+salametsästää	osoittaa mieltään	1.15438764
+määrätä	häätää	0.845444405
+sallia	vehkeillä	1.01784852
+ajaa takaa	kohdata	1.082148187
+kidnapata	johtaa	1.270379696
+haastaa	pyytää	0.918488793
+käyttää hyväkseen	protestoida	0.875133868
+hallita	kumota	0.721997899
+hallita	rangaista	0.639925207
+antautua	rajoittaa	1.002339086
+vaikuttaa	kaapata	0.988783071
+protestoida	valvoa	0.889386651
+kapinoida	kumota	1.01491993
+kohdata	taipua	0.623480053
+kieltää	palvella	1.015938754
+siepata	haastaa	1.275370547
+antautua	mitätöidä	1.011249922
+yllyttää	haastaa oikeuteen	0.748515279
+ohjata	rajoittaa	0.663613677
+tehdä tyhjäksi	vapauttaa	1.232777763
+kaapata	leimata	1.264425403
+evätä	pidättäytyä	1.042223834
+salametsästää	viivästyttää	1.186134071
+protestoida	rajoittaa	0.869362976
+anoa	anastaa	1.241537966
+hallita	kaapata	0.987580469
+dominoida	keksiä tekosyy	1.027130998
+totella	evakuoida	1.08264678
+tehdä tyhjäksi	estää	0.663955231
+kohdata	käyttää hyväkseen	1.060219317
+estää	seurata	0.840463328
+hypnotisoida	estää	1.034090104
+johtaa	hallita	0.977467293
+nostaa syyte	totella	1.204174541
+osoittaa mieltään	lopettaa	1.09393423
+pidättää	komentaa	0.784154717
+vannoa	voittaa	1.011754458
+tuomita	kapinoida	0.954809867
+osoittaa mieltään	antautua	0.896377254
+kumota	anastaa	1.02949088
+häätää	siepata	1.259594038
+anoa	lopettaa	1.147735916
+lopettaa	rangaista	0.712215066
+anoa	tunnustaa	0.756226719
+ohjata	palvella	0.726469457
+anoa	määrätä	0.823827735
+vehkeillä	kumota	1.108109239
+protestoida	taipua	0.981520524
+ryöstää	tunnustaa	1.345368515
+pidättäytyä	hallita	0.915043372
+suostutella	tunnustaa	0.78252662
+dominoida	seurata	0.920889957
+kontrolloida	leimata	1.022012723
+tehdä tyhjäksi	hallita	0.82979602
+yllyttää	todistaa	0.724041777
+vaikuttaa	palvella	0.891479295
+vaatia	kapinoida	0.818144013
+häätää	voittaa	1.294549764
+palvella	totella	0.836273032
+todistaa	hypnotisoida	1.261371848
+taipua	voittaa	1.251443638
+mitätöidä	siepata	1.198984743
+anoa	pidättäytyä	0.877529719
+osoittaa taipumusta	huijata	1.05835486
+evakuoida	haastaa oikeuteen	0.992457538
+valvoa	mitätöidä	0.769384922
+osoittaa taipumusta	pyytää	0.948155195
+osoittaa taipumusta	ajaa takaa	0.961274074
+käyttää hyväkseen	huijata	0.460118181
+ryöstää	jäljittää	0.972933266
+pidättäytyä	varmistaa	1.073356502
+tuomita	palvella	0.74308984
+vapauttaa	anoa	1.067646074
+salametsästää	käyttää hyväkseen	0.8032284
+sallia	pyytää	1.203355253
+kontrolloida	evakuoida	1.081583131
+suostutella	ohjeistaa	0.533151759
+taipua	estää	1.197452649
+voittaa	tuomita	1.110862763
+komentaa	voittaa	1.047486768
+osoittaa mieltään	vapauttaa	1.020376332
+haastaa oikeuteen	osoittaa taipumusta	0.793512208
+varastaa	evätä	1.100715311
+mitätöidä	evakuoida	1.043997413
+todistaa	evakuoida	0.760290044
+tuomita	valvoa	0.89523901
+kieltää	evakuoida	1.121378023
+anoa	voittaa	0.872050289
+leimata	tunnustaa	1.212605384
+protestoida	ohjeistaa	0.784492335
+huijata	suostutella	0.840988758
+rajata	seurata	1.061005153
+johtaa	todistaa	0.865780977
+pidättää	kohdata	0.871537062
+kontrolloida	huijata	1.091202435
+vannoa	dominoida	0.917275322
+leimata	vehkeillä	1.307884156
+tehdä tyhjäksi	haastaa oikeuteen	1.076146728
+keksiä tekosyy	sallia	0.869956024
+tuomita	käyttää hyväkseen	1.164210173
+osoittaa mieltään	yllyttää	0.964281336
+vannoa	kidnapata	1.502742175
+osoittaa mieltään	rajata	0.72219848
+viivästyttää	protestoida	0.836661577
+hallita	kontrolloida	0.545475617
+rangaista	dominoida	0.730965605
+haitata	ohjata	1.104096956
+jäljittää	johtaa	0.909459324
+tehdä tyhjäksi	ohjeistaa	0.705639305
+vapauttaa	mitätöidä	1.202172506
+haastaa oikeuteen	evätä	0.997729833
+vehkeillä	taipua	0.936865733
+taipua	palvella	0.84500377
+voittaa	anastaa	1.094225791
+sallia	anoa	1.0730564
+suostutella	nostaa syyte	0.912989014
+evätä	vehkeillä	1.270199636
+taipua	dominoida	1.078348194
+ryöstää	haitata	1.174449791
+tehdä tyhjäksi	antautua	0.999937575
+tuomita	todistaa	0.791887944
+komentaa	ajaa takaa	0.837392088
+ohjata	totella	0.866182194
+protestoida	ohjata	0.782163211
+määrätä	seurata	0.699187622
+todistaa	osoittaa mieltään	0.936026341
+haastaa	määrätä	0.709466855
+taipua	keksiä tekosyy	1.167637561
+pidättää	evakuoida	0.944741782
+takavarikoida	kohdata	0.758081092
+todistaa	leimata	1.253017096
+rangaista	takavarikoida	1.074773914
+johtaa	ohjeistaa	0.819898126
+salametsästää	vaikuttaa	0.991712593
+vannoa	rangaista	0.882233428
+anastaa	rajoittaa	0.925091608
+rajoittaa	häätää	0.7632808
+rangaista	ohjata	0.787685976
+kontrolloida	protestoida	1.015094835
+anastaa	haastaa	1.237124663
+ohjeistaa	rajoittaa	0.667199235
+yllyttää	käyttää hyväkseen	1.28293477
+varastaa	anoa	1.22362119
+varmistaa	vehkeillä	1.020053846
+kontrolloida	palvella	0.951763284
+haastaa	pidättäytyä	0.830089303
+salametsästää	varastaa	0.72726511
+ohjata	ohjeistaa	0.335136764
+haastaa	suostutella	0.961563787
+ohjata	johtaa	0.832675033
+kaapata	vaatia	1.170565904
+käyttää hyväkseen	syyttää	1.206223739
+antautua	määrätä	0.783773363
+anastaa	vannoa	1.41322564
+rajata	haastaa oikeuteen	1.086505292
+johtaa	antautua	0.800970411
+hallita	jäljittää	0.879529799
+vaikuttaa	protestoida	0.834676383
+totella	pidättää	0.967191341
+kidnapata	todistaa	1.232557506
+seurata	kidnapata	0.686960065
+kieltää	anoa	1.102074674
+anoa	käyttää hyväkseen	1.058726699
+ohjeistaa	anoa	0.720697714
+ohjata	osoittaa mieltään	0.885688946
+voittaa	rajata	1.08807511
+estää	anastaa	1.1290573
+hypnotisoida	rajata	0.976729768
+palvella	ajaa takaa	0.932443772
+ohjeistaa	kontrolloida	0.589937014
+viivästyttää	vaatia	1.051063711
+varastaa	kieltää	1.112538364
+kumota	kaapata	1.011601856
+jäljittää	haitata	0.906213729
+suostutella	kohdata	0.731036852
+syyttää	varmistaa	0.84562607
+keksiä tekosyy	haastaa	1.095231993
+todistaa	rajata	1.132164611
+vehkeillä	suostutella	0.767176985
+takavarikoida	varastaa	0.803747466
+viivästyttää	jäljittää	1.197468631
+kapinoida	pyytää	0.935240583
+ohjata	komentaa	0.394052142
+seurata	protestoida	0.917000057
+kaapata	komentaa	0.957445995
+kapinoida	leimata	1.257520169
+tuomita	vaikuttaa	0.824161749
+kidnapata	kohdata	1.314835297
+tehdä tyhjäksi	varmistaa	0.946948041
+vehkeillä	estää	1.065561562
+vaikuttaa	osoittaa mieltään	0.853158871
+dominoida	pidättäytyä	0.91062664
+mitätöidä	käyttää hyväkseen	1.169219751
+kumota	rangaista	0.746855788
+vehkeillä	ohjata	0.964117221
+protestoida	huijata	0.877015126
+dominoida	hypnotisoida	1.196899399
+syyttää	todistaa	0.716080738
+antautua	pidättää	0.703110939
+palvella	tehdä tyhjäksi	1.057521504
+johtaa	osoittaa mieltään	1.029339766
+viivästyttää	ryöstää	1.092266437
+syyttää	totella	1.087014493
+kidnapata	kumota	1.021903518
+vaikuttaa	anoa	0.952983835
+tunnustaa	käyttää hyväkseen	1.233855494
+todistaa	mitätöidä	0.98191066
+osoittaa mieltään	leimata	1.117593991
+kieltää	pyytää	1.203594699
+nostaa syyte	lopettaa	0.997113749
+kumota	johtaa	1.103574936
+mitätöidä	suostutella	0.806210375
+anoa	protestoida	0.790664233
+hypnotisoida	rajoittaa	1.083662702
+protestoida	anastaa	1.015172863
+tehdä tyhjäksi	pyytää	1.141144174
+jäljittää	varastaa	0.915248515
+salametsästää	haastaa	1.077353779
+häätää	kieltää	0.67518666
+kidnapata	evätä	1.069622293
+estää	salametsästää	0.938938716
+haitata	vaikuttaa	0.90136087
+viivästyttää	pyytää	1.111121386
+siepata	protestoida	1.029377569
+vaikuttaa	varmistaa	0.74388771
+suostutella	varmistaa	0.771481647
+kumota	ryöstää	1.023539332
+haastaa oikeuteen	jäljittää	0.980763718
+pidättää	ohjata	0.827892713
+salametsästää	jäljittää	0.732522289
+viivästyttää	hallita	0.92544427
+haastaa oikeuteen	viivästyttää	1.227430633
+hallita	lopettaa	0.747424613
+evakuoida	lopettaa	1.093266172
+kieltää	varmistaa	1.011807187
+ryöstää	haastaa	1.232495375
+keksiä tekosyy	estää	1.126493565
+pyytää	haitata	1.285512462
+protestoida	syyttää	1.093414099
+siepata	pidättäytyä	1.136683419
+evätä	tuomita	0.677360846
+estää	rangaista	0.619658878
+tunnustaa	rajata	1.147797116
+ajaa takaa	varastaa	1.099981939
+kohdata	rajata	0.829308532
+haastaa	syyttää	0.72782196
+ryöstää	ohjeistaa	0.932126343
+takavarikoida	kumota	0.682507969
+haitata	hypnotisoida	0.911228195
+takavarikoida	syyttää	0.901404404
+vaikuttaa	pyytää	0.97562415
+suostutella	pyytää	0.743283767
+lopettaa	kapinoida	1.104487103
+yllyttää	kidnapata	1.358714148
+johtaa	kohdata	0.70067231
+estää	voittaa	1.074458922
+käyttää hyväkseen	johtaa	1.181041495
+ajaa takaa	kumota	1.115371097
+kidnapata	pidättäytyä	1.083432483
+evakuoida	vaikuttaa	0.976434547
+kapinoida	jäljittää	1.044745238
+pidättää	pidättäytyä	1.00334428
+osoittaa taipumusta	tunnustaa	0.886753619
+estää	yllyttää	1.014633386
+protestoida	vannoa	0.876643723
+jäljittää	kohdata	1.152007355
+takavarikoida	kidnapata	0.935846776
+palvella	vaatia	0.807246512
+anastaa	vehkeillä	0.962728373
+ryöstää	evätä	1.053404578
+vehkeillä	hypnotisoida	0.738780959
+ohjeistaa	palvella	0.811363462
+kieltää	kontrolloida	0.843147068
+vaatia	yllyttää	1.016182944
+ajaa takaa	siepata	1.110563082
+suostutella	salametsästää	1.019215567
+osoittaa taipumusta	yllyttää	0.908945604
+dominoida	jäljittää	0.846517565
+tunnustaa	estää	1.098094191
+takavarikoida	määrätä	0.942999635
+tehdä tyhjäksi	ryöstää	1.247054526
+anastaa	kieltää	1.177774752
+syyttää	mitätöidä	0.867569513
+kaapata	kontrolloida	1.089865692
+viivästyttää	osoittaa mieltään	0.869661676
+hypnotisoida	palvella	1.222065514
+tehdä tyhjäksi	haitata	1.22087762
+tunnustaa	anastaa	1.272894356
+leimata	syyttää	1.040320395
+komentaa	takavarikoida	0.82775577
+määrätä	rajoittaa	0.635635149
+rajoittaa	huijata	0.961480758
+vehkeillä	rangaista	1.09851319
+viivästyttää	haitata	0.971492974
+suostutella	anoa	0.687335832
+kidnapata	ohjeistaa	0.940426792
+dominoida	kaapata	1.070840531
+haitata	palvella	1.126609813
+pidättää	ajaa takaa	0.905414494
+komentaa	palvella	0.888687823
+haastaa oikeuteen	nostaa syyte	0.23800362
+valvoa	hallita	0.648983141
+käyttää hyväkseen	kidnapata	0.847450774
+osoittaa taipumusta	kumota	0.96405135
+osoittaa mieltään	totella	1.038270337
+mitätöidä	vehkeillä	1.14205077
+kumota	vaatia	0.754222048
+evätä	protestoida	0.930316671
+yllyttää	vaikuttaa	0.681705835
+totella	taipua	0.977485064
+nostaa syyte	rajata	1.116781134
+todistaa	antautua	0.80517402
+osoittaa mieltään	kieltää	0.996115204
+osoittaa taipumusta	vehkeillä	1.036973939
+estää	leimata	0.929900813
+suostutella	tuomita	0.882933183
+salametsästää	kohdata	1.22325204
+tunnustaa	evätä	1.157539882
+seurata	todistaa	0.939182829
+ohjata	ryöstää	1.003917512
+kidnapata	jäljittää	0.887288412
+varmistaa	osoittaa mieltään	0.926284399
+ohjeistaa	jäljittää	0.894276267
+sallia	todistaa	0.882059163
+mitätöidä	kontrolloida	0.964962621
+anoa	mitätöidä	1.164957943
+rajata	antautua	0.895495756
+suostutella	tehdä tyhjäksi	0.984811203
+hallita	kohdata	0.854043648
+tunnustaa	tuomita	0.892714182
+pidättää	mitätöidä	0.782434094
+protestoida	vaatia	0.89215506
+rajata	anoa	0.925159864
+pyytää	varmistaa	0.873837241
+nostaa syyte	kontrolloida	1.09304161
+ajaa takaa	vannoa	1.013336462
+mitätöidä	anastaa	1.105104307
+rangaista	vapauttaa	1.247558695
+ohjata	takavarikoida	0.773933794
+pyytää	häätää	1.33119895
+valvoa	nostaa syyte	1.180264439
+ryöstää	osoittaa mieltään	1.074652319
+lopettaa	kieltää	0.471081541
+varmistaa	komentaa	0.773922635
+yllyttää	tuomita	1.144759776
+palvella	kidnapata	1.145829213
+rajoittaa	tuomita	0.79517001
+anoa	taipua	0.897131669
+kontrolloida	pidättää	0.704991712
+pidättää	kidnapata	1.329103266
+ohjeistaa	haastaa oikeuteen	0.768234171
+jäljittää	käyttää hyväkseen	0.873005114
+takavarikoida	kontrolloida	0.670641321
+voittaa	kaapata	1.151403869
+leimata	kieltää	0.896796057
+totella	vapauttaa	1.036645361
+nostaa syyte	vaatia	0.883160126
+kapinoida	viivästyttää	0.898063257
+hypnotisoida	kieltää	1.072603776
+tehdä tyhjäksi	jäljittää	1.273956046
+ohjeistaa	varastaa	0.943526
+salametsästää	pidättää	1.016648435
+mitätöidä	palvella	1.067015084
+vaikuttaa	haastaa oikeuteen	0.735412081
+kieltää	seurata	0.933936011
+anoa	haitata	1.169800998
+voittaa	hallita	1.089489122
+valvoa	suostutella	0.714592451
+evätä	huijata	1.200167665
+totella	kumota	0.949643197
+vapauttaa	pidättäytyä	0.871956951
+haitata	hallita	1.106608277
+valvoa	viivästyttää	0.993487592
+viivästyttää	mitätöidä	0.99587106
+rajoittaa	siepata	0.891196341
+siepata	seurata	0.769428462
+siepata	anoa	1.378688215
+kaapata	vehkeillä	1.073349915
+evätä	kontrolloida	0.860465436
+rangaista	varastaa	1.262519286
+jäljittää	voittaa	0.819398586
+totella	salametsästää	1.058452779
+rangaista	yllyttää	1.036403115
+anoa	estää	0.876228414
+tuomita	evakuoida	0.905987415
+todistaa	viivästyttää	1.20887934
+protestoida	pyytää	1.047562328
+kumota	evakuoida	1.015024896
+tehdä tyhjäksi	mitätöidä	0.486809198
+haastaa	protestoida	0.794650248
+vehkeillä	vaatia	1.013328772
+haastaa oikeuteen	estää	0.890692216
+vapauttaa	vehkeillä	1.02300096
+käyttää hyväkseen	seurata	0.920232996
+vaatia	tehdä tyhjäksi	0.997982931
+lopettaa	syyttää	1.080736419
+tehdä tyhjäksi	rangaista	0.792917742
+palvella	kohdata	0.753886295
+evätä	mitätöidä	0.714347184
+vapauttaa	jäljittää	1.078671461
+lopettaa	palvella	1.071628602
+valvoa	osoittaa taipumusta	0.876760117
+haastaa oikeuteen	lopettaa	0.990233358
+salametsästää	ajaa takaa	0.826626358
+hypnotisoida	taipua	1.109818464
+kapinoida	varastaa	0.918288606
+seurata	rajoittaa	0.914223813
+ohjata	mitätöidä	0.911010845
+evakuoida	viivästyttää	1.075862404
+ohjata	dominoida	0.52117723
+hallita	osoittaa taipumusta	0.994892962
+totella	häätää	1.140133782
+hallita	vaikuttaa	0.658464656
+tuomita	anastaa	1.1691455
+vannoa	hypnotisoida	1.092771619
+vapauttaa	kidnapata	1.124895943
+evätä	vaatia	0.901883504
+evätä	taipua	1.393850063
+salametsästää	kieltää	0.984695136
+haitata	vaatia	1.036932327
+pyytää	vannoa	0.851817729
+ajaa takaa	jäljittää	0.736798891
+vapauttaa	evakuoida	0.777923178
+jäljittää	lopettaa	1.140474942
+pidättää	varastaa	1.305838222
+tunnustaa	haastaa oikeuteen	0.982923369
+evakuoida	suostutella	0.820065986
+todistaa	määrätä	0.704516068
+kumota	kontrolloida	0.788914135
+määrätä	tuomita	0.644114108
+kieltää	yllyttää	1.018994374
+todistaa	tehdä tyhjäksi	1.069386144
+vaikuttaa	estää	1.055868862
+kohdata	estää	0.950286256
+kontrolloida	johtaa	1.033820718
+taipua	siepata	1.478943007
+hypnotisoida	leimata	1.035453167
+hypnotisoida	vapauttaa	1.221657725
+pyytää	jäljittää	1.073197182
+seurata	häätää	0.965174922
+keksiä tekosyy	rajata	1.068656799
+anastaa	komentaa	0.841977256
+evakuoida	osoittaa taipumusta	0.930235262
+kieltää	jäljittää	0.915291627
+protestoida	tehdä tyhjäksi	0.983504367
+pyytää	salametsästää	0.988998614
+todistaa	voittaa	0.939659964
+viivästyttää	määrätä	1.064601438
+rajata	valvoa	0.885969776
+ohjeistaa	takavarikoida	0.778043185
+pidättää	huijata	1.156410638
+todistaa	kaapata	1.258979862
+sallia	käyttää hyväkseen	1.017091507
+sallia	varmistaa	0.927784311
+tuomita	kieltää	0.849053341
+lopettaa	johtaa	1.162609277
+estää	lopettaa	0.72736119
+siepata	sallia	1.258138467
+komentaa	pyytää	0.827795524
+takavarikoida	evakuoida	0.824754711
+kapinoida	anastaa	0.906023506
+suostutella	käyttää hyväkseen	0.866939038
+protestoida	osoittaa taipumusta	0.993621592
+voittaa	tunnustaa	1.021056647
+viivästyttää	yllyttää	1.1218873
+kieltää	osoittaa taipumusta	0.922516227
+leimata	ohjata	1.145055707
+vaikuttaa	vannoa	0.809316033
+evakuoida	keksiä tekosyy	1.19821461
+kapinoida	huijata	0.858938825
+takavarikoida	haastaa oikeuteen	0.937294828
+johtaa	anoa	1.059003496
+johtaa	seurata	0.824567323
+varastaa	nostaa syyte	1.442823044
+palvella	nostaa syyte	1.044905757
+huijata	tehdä tyhjäksi	1.362815781
+kidnapata	haastaa oikeuteen	1.384364449
+evakuoida	kaapata	1.379083244
+vaatia	pidättäytyä	0.999827353
+osoittaa taipumusta	seurata	0.871833518
+syyttää	tehdä tyhjäksi	1.180486362
+pidättää	johtaa	1.148298919
+huijata	dominoida	1.1229742
+kaapata	keksiä tekosyy	1.336404846
+totella	kohdata	0.947821968
+evätä	anastaa	1.072710527
+ohjeistaa	mitätöidä	0.738338966
+haitata	keksiä tekosyy	0.879335686
+kapinoida	pidättäytyä	0.98662886
+dominoida	voittaa	1.055157879
+hypnotisoida	ryöstää	1.057928649
+haastaa	komentaa	0.814967979
+leimata	haastaa	0.872109824
+ohjata	keksiä tekosyy	1.046982448
+keksiä tekosyy	tunnustaa	0.914913371
+rajata	syyttää	1.20601922
+siepata	evakuoida	1.37356574
+kaapata	protestoida	0.978567365
+varmistaa	taipua	0.976343498
+kontrolloida	pyytää	1.136815719
+viivästyttää	käyttää hyväkseen	1.298320854
+kaapata	vannoa	1.487708515
+takavarikoida	pyytää	0.974038313
+pidättää	kumota	0.724585286
+palvella	hallita	0.804757233
+antautua	hypnotisoida	1.170790001
+evätä	rajata	0.557653567
+viivästyttää	vapauttaa	1.187324114
+taipua	haastaa oikeuteen	0.966098819
+salametsästää	siepata	0.736805976
+häätää	keksiä tekosyy	0.880275208
+jäljittää	takavarikoida	0.862211676
+mitätöidä	huijata	1.111094983
+kieltää	siepata	1.109137091
+pidättäytyä	todistaa	0.97236474
+käyttää hyväkseen	estää	1.180860977
+dominoida	osoittaa mieltään	1.031594582
+viivästyttää	suostutella	0.94568644
+varastaa	kohdata	1.164736569
+vaatia	komentaa	0.525195862
+pyytää	määrätä	0.889818987
+viivästyttää	kumota	0.96709687
+sallia	antautua	1.153976174
+seurata	kumota	0.802703458
+tuomita	anoa	0.947830914
+leimata	osoittaa taipumusta	1.129274069
+komentaa	osoittaa taipumusta	0.894745178
+vannoa	huijata	1.139592158
+kieltää	haitata	0.964460894
+siepata	osoittaa mieltään	1.140285968
+suostutella	estää	0.980820241
+mitätöidä	rangaista	0.703165014
+ohjata	käyttää hyväkseen	0.94165887
+tehdä tyhjäksi	anastaa	1.195237554
+sallia	tuomita	1.157563337
+osoittaa mieltään	nostaa syyte	0.935056781
+käyttää hyväkseen	totella	1.102510927
+kaapata	syyttää	1.381957667
+mitätöidä	osoittaa taipumusta	0.762588509
+suostutella	pidättäytyä	1.062378874
+salametsästää	todistaa	1.238786937
+varmistaa	rangaista	0.822190976
+vaatia	kieltää	0.907061243
+häätää	tunnustaa	1.201172347
+anoa	nostaa syyte	0.933767786
+siepata	ohjeistaa	0.954932619
+rajata	kieltää	0.700119155
+mitätöidä	kaapata	1.249338593
+vapauttaa	komentaa	1.147170075
+hypnotisoida	tuomita	1.048470879
+valvoa	lopettaa	0.860285292
+vehkeillä	viivästyttää	1.272565397
+takavarikoida	vaatia	0.963943592
+ohjeistaa	haastaa	0.814184904
+totella	antautua	0.953992652
+ohjeistaa	syyttää	0.843755337
+vaatia	keksiä tekosyy	1.145092919
+dominoida	yllyttää	0.885945924
+ryöstää	varastaa	0.250775813
+varmistaa	kaapata	1.312250905
+valvoa	kieltää	0.879703835
+keksiä tekosyy	vehkeillä	1.073696928
+antautua	syyttää	0.905244235
+vapauttaa	valvoa	1.130253739
+totella	ajaa takaa	0.984339828
+rangaista	siepata	1.203513998
+kidnapata	voittaa	1.159585452
+huijata	varastaa	0.779264877
+seurata	jäljittää	0.647678942
+ohjeistaa	estää	0.783887423
+haastaa oikeuteen	tuomita	0.852028395
+vehkeillä	vannoa	1.073804687
+seurata	viivästyttää	1.125149385
+leimata	ohjeistaa	1.170957553
+pyytää	valvoa	0.874048919
+pidättäytyä	yllyttää	0.845508949
+siepata	ohjata	0.942568771
+pidättää	hypnotisoida	1.071220414
+komentaa	suostutella	0.734080154
+määrätä	vapauttaa	1.05627514
+hypnotisoida	lopettaa	1.336655862
+hallita	yllyttää	1.095636913
+kumota	pyytää	1.026107706
+dominoida	totella	0.877683714
+vapauttaa	dominoida	1.327493401
+käyttää hyväkseen	kapinoida	0.859650804
+yllyttää	tunnustaa	0.854903957
+keksiä tekosyy	kumota	1.024185204
+haastaa	tuomita	0.823553055
+ryöstää	keksiä tekosyy	1.30850896
+estää	vannoa	1.034570691
+suostutella	osoittaa mieltään	0.725245683
+tunnustaa	protestoida	1.004577905
+kapinoida	kieltää	1.104319235
+rajoittaa	osoittaa mieltään	0.861015355
+estää	mitätöidä	0.778282061
+vehkeillä	määrätä	0.955518573
+pidättäytyä	osoittaa taipumusta	0.799861798
+viivästyttää	pidättäytyä	0.805132395
+käyttää hyväkseen	rangaista	1.139091513
+vannoa	seurata	1.071903971
+syyttää	tuomita	0.900346334
+keksiä tekosyy	hallita	1.119094375
+rangaista	pyytää	0.972442398
+kontrolloida	jäljittää	0.864047158
+johtaa	määrätä	0.74076761
+hypnotisoida	nostaa syyte	1.210063909
+totella	todistaa	0.918930634
+ohjata	tuomita	0.882483986
+nostaa syyte	vehkeillä	1.164111711
+vehkeillä	kidnapata	1.045504479
+vaikuttaa	evätä	1.037216419
+määrätä	kontrolloida	0.529579923
+haastaa oikeuteen	vapauttaa	1.241281363
+haitata	nostaa syyte	0.917348621
+kohdata	kumota	0.863369501
+salametsästää	lopettaa	1.095131004
+syyttää	häätää	1.14247793
+vannoa	pidättää	0.804255696
+haastaa	häätää	1.068121032
+ohjeistaa	käyttää hyväkseen	0.875139795
+määrätä	yllyttää	0.873401927
+haitata	dominoida	1.212019904
+hypnotisoida	komentaa	1.007078413
+vaatia	seurata	0.844989124
+suostutella	ohjata	0.553242933
+tuomita	kaapata	1.212657673
+leimata	komentaa	1.047777984
+kontrolloida	anoa	1.115973833
+vapauttaa	vaatia	1.233428755
+estää	vaatia	0.860135402
+pyytää	ohjata	0.834851993
+rangaista	jäljittää	1.012515916
+pidättää	sallia	1.10128365
+takavarikoida	vaikuttaa	0.965658105
+kohdata	ohjeistaa	0.787102558
+vapauttaa	antautua	1.049315425
+kohdata	tunnustaa	0.831395423
+pidättää	rajata	0.701500887
+estää	hallita	0.675746182
+hallita	haastaa oikeuteen	1.04181737
+anastaa	totella	0.956175084
+rajata	kidnapata	1.039396578
+antautua	protestoida	0.992792326
+tuomita	vehkeillä	1.124086116
+pidättäytyä	estää	0.917688638
+kaapata	kapinoida	1.016806573
+nostaa syyte	kidnapata	1.434913871
+kohdata	vaatia	0.838734423
+protestoida	mitätöidä	0.959391079
+huijata	haastaa	0.898177554
+haastaa	ohjata	0.787210134
+kapinoida	vannoa	1.015303025
+pidättää	haastaa oikeuteen	0.898878038
+antautua	valvoa	0.912791991
+syyttää	pidättäytyä	0.993499659
+haastaa	vehkeillä	0.970155405
+lopettaa	käyttää hyväkseen	1.248457522
+komentaa	syyttää	0.881882288
+pidättäytyä	takavarikoida	0.736043154
+dominoida	haastaa	0.935540929
+ohjeistaa	anastaa	0.899750093
+käyttää hyväkseen	vaatia	1.056833177
+taipua	salametsästää	1.29690362
+keksiä tekosyy	anoa	1.097295358
+estää	siepata	1.074125678
+mitätöidä	johtaa	1.153646441
+takavarikoida	huijata	0.97066096
+anastaa	leimata	1.315673033
+salametsästää	rajata	0.824519001
+voittaa	osoittaa taipumusta	1.205603537
+anastaa	dominoida	1.033634373
+määrätä	evätä	0.748184971
+todistaa	valvoa	0.896375869
+viivästyttää	nostaa syyte	1.236389465
+varastaa	syyttää	1.25067517
+osoittaa mieltään	komentaa	0.807016803
+rajata	johtaa	1.186814627
+rangaista	antautua	0.879700133
+takavarikoida	voittaa	1.068919313
+kapinoida	ohjata	0.77587536
+tuomita	antautua	0.686210422
+todistaa	kontrolloida	0.923754813
+valvoa	rajoittaa	0.816402627
+hallita	anastaa	0.952633521
+osoittaa taipumusta	totella	1.135398393
+taipua	lopettaa	1.314375177
+ohjeistaa	komentaa	0.393999521
+vehkeillä	seurata	0.805114308
+vaikuttaa	komentaa	0.55098275
+haitata	estää	0.949392743
+estää	valvoa	0.896922174
+sallia	totella	0.856492553
+lopettaa	evätä	0.392648462
+mitätöidä	kieltää	0.854056476
+pyytää	kaapata	1.277030922
+tuomita	ohjeistaa	0.721917529
+häätää	taipua	1.306031443
+syyttää	dominoida	0.991261766
+seurata	voittaa	0.868692979
+rangaista	protestoida	0.919046687
+estää	viivästyttää	0.799482157
+rangaista	todistaa	0.945028688
+jäljittää	haastaa	0.864856302
+taipua	rajata	1.140344493
+taipua	seurata	1.185251164
+tehdä tyhjäksi	johtaa	1.21489715
+viivästyttää	tehdä tyhjäksi	0.860884006
+huijata	siepata	0.924997016
+osoittaa mieltään	protestoida	0.358850921
+rangaista	komentaa	0.617004397
+kontrolloida	salametsästää	1.102662887
+pidättää	nostaa syyte	0.937641435
+kapinoida	häätää	1.280974809
+vannoa	pidättäytyä	0.953734562
+tuomita	rajata	0.823157588
+varmistaa	kohdata	0.836800345
+evakuoida	kidnapata	1.347447136
+taipua	vaatia	1.008170157
+tunnustaa	varastaa	1.40342138
+mitätöidä	lopettaa	0.830861269
+suostutella	voittaa	1.046494826
+vaatia	häätää	1.097506971
+suostutella	haastaa oikeuteen	0.849458856
+suostutella	hypnotisoida	0.934119147
+salametsästää	antautua	1.125400582
+haastaa	vannoa	0.727129383
+vannoa	osoittaa taipumusta	0.842191415
+kontrolloida	kidnapata	1.095603057
+osoittaa taipumusta	vapauttaa	1.151283816
+jäljittää	rajoittaa	0.981991977
+ryöstää	osoittaa taipumusta	1.12979445
+seurata	kapinoida	0.907852935
+tuomita	häätää	0.988206854
+takavarikoida	yllyttää	0.793982627
+siepata	pyytää	1.236453253
+varmistaa	käyttää hyväkseen	1.138576674
+osoittaa mieltään	haitata	0.895536172
+häätää	kohdata	1.162381606
+sallia	osoittaa mieltään	0.983562484
+pidättäytyä	määrätä	1.010597
+salametsästää	ohjata	0.786525745
+syyttää	kieltää	1.109729635
+lopettaa	huijata	1.259600441
+suostutella	ryöstää	0.970845793
+yllyttää	kapinoida	1.007967292
+voittaa	siepata	1.198651574
+pidättäytyä	hypnotisoida	1.10681391
+mitätöidä	haastaa	0.750351063
+syyttää	vapauttaa	1.013223952
+kohdata	kontrolloida	1.037069142
+anastaa	valvoa	0.89421135
+salametsästää	vehkeillä	0.832322092
+voittaa	leimata	1.069861733
+ajaa takaa	anastaa	1.001349537
+vaatia	rajoittaa	0.768971871
+valvoa	johtaa	0.862722067
+tehdä tyhjäksi	dominoida	0.996601677
+ajaa takaa	yllyttää	1.081886848
+kohdata	haastaa	0.861751121
+anoa	osoittaa mieltään	0.971251432
+varastaa	protestoida	0.934934173
+antautua	kieltää	0.864544858
+käyttää hyväkseen	haastaa oikeuteen	1.219203681
+huijata	johtaa	1.095203063
+kaapata	kidnapata	0.285935282
+vaatia	valvoa	0.818948537
+leimata	haitata	0.792249315
+seurata	tehdä tyhjäksi	0.964229013
+kontrolloida	vaikuttaa	0.695911167
+takavarikoida	vapauttaa	1.105143589
+kontrolloida	sallia	1.14228117
+todistaa	suostutella	0.865042767
+huijata	vehkeillä	0.371031777
+kohdata	haastaa oikeuteen	0.948493417
+voittaa	lopettaa	1.206980675
+rangaista	sallia	1.171276577
+pidättää	taipua	1.012686286
+totella	lopettaa	1.091894934
+käyttää hyväkseen	dominoida	1.020439086
+määrätä	jäljittää	0.816796707
+komentaa	protestoida	0.792590589
+takavarikoida	suostutella	0.931807265
+lopettaa	tehdä tyhjäksi	0.78689205
+ohjata	vaatia	0.567509919
+anastaa	osoittaa taipumusta	1.133477918
+hallita	protestoida	0.77810086
+vapauttaa	varastaa	1.086431672
+osoittaa taipumusta	jäljittää	1.111210051
+ryöstää	rajata	0.917133656
+kontrolloida	häätää	0.933103383
+ohjeistaa	kaapata	0.950894573
+huijata	kieltää	1.130360456
+protestoida	ryöstää	0.977664141
+syyttää	vannoa	0.752450776
+kapinoida	haitata	0.987855336
+kohdata	antautua	0.857325665
+protestoida	johtaa	1.173488058
+vapauttaa	lopettaa	1.25866636
+kumota	tunnustaa	1.104663665
+pidättää	siepata	1.250006916
+nostaa syyte	kieltää	0.945088085
+seurata	haastaa	0.75762256
+hallita	osoittaa mieltään	0.816494565
+vannoa	salametsästää	1.250591834
+todistaa	taipua	0.971588592
+viivästyttää	häätää	0.870090062
+valvoa	rangaista	0.847548371
+osoittaa taipumusta	määrätä	0.783264562
+keksiä tekosyy	evätä	1.091912788
+anastaa	haitata	1.139684853
+kumota	yllyttää	1.068619218
+tunnustaa	osoittaa mieltään	0.950992537
+evakuoida	häätää	1.270665068
+evätä	evakuoida	1.267110683
+kidnapata	rajoittaa	0.966029933
+häätää	huijata	1.317840317
+ryöstää	rangaista	1.139680427
+evakuoida	varmistaa	0.913973853
+vaikuttaa	häätää	1.17067297
+sallia	johtaa	1.240613946
+salametsästää	evakuoida	1.357001689
+vehkeillä	protestoida	1.008707006
+sallia	rajoittaa	1.327203117
+voittaa	haitata	1.044139706
+haastaa oikeuteen	määrätä	0.689267808
+vaikuttaa	haastaa	0.732802768
+varastaa	todistaa	1.186274533
+pidättäytyä	lopettaa	0.997855453
+takavarikoida	palvella	0.882887467
+nostaa syyte	käyttää hyväkseen	1.313997583
+ajaa takaa	vapauttaa	1.306514662
+vehkeillä	osoittaa mieltään	1.039477241
+dominoida	leimata	1.155672254
+takavarikoida	pidättää	0.979074705
+salametsästää	anoa	1.244271966
+pidättää	vaikuttaa	1.002789635
+haitata	komentaa	1.024348401
+haastaa oikeuteen	ohjata	0.797171275
+ajaa takaa	määrätä	0.720109647
+seurata	takavarikoida	0.817968105
+kontrolloida	haastaa	0.919287925
+anastaa	johtaa	1.324012643
+takavarikoida	todistaa	0.992418585
+määrätä	vaatia	0.573372417
+rajata	vaatia	0.740261219
+rangaista	haastaa	0.747034261
+valvoa	jäljittää	0.95921866
+ohjeistaa	salametsästää	0.782332638
+tunnustaa	syyttää	0.719194065
+haastaa oikeuteen	osoittaa mieltään	0.894037383
+totella	tuomita	0.859810888
+vaikuttaa	ohjata	0.49764224
+ajaa takaa	seurata	0.753936517
+anoa	todistaa	0.757079171
+häätää	yllyttää	1.070993162
+protestoida	haitata	0.916161541
+komentaa	kidnapata	0.953165136
+pidättäytyä	tehdä tyhjäksi	0.896194812
+kumota	vapauttaa	1.310058239
+vaikuttaa	vehkeillä	0.940666481
+kumota	nostaa syyte	0.981953131
+komentaa	dominoida	0.455902958
+rajoittaa	haastaa	0.862920859
+nostaa syyte	antautua	0.944029523
+takavarikoida	antautua	0.951915649
+dominoida	määrätä	0.491485573
+haastaa	kumota	0.846565273
+kontrolloida	ohjata	0.588685455
+haastaa oikeuteen	seurata	0.923112062
+ohjata	syyttää	0.805169449
+kumota	pidättäytyä	0.909715571
+vaikuttaa	antautua	1.013431984
+kieltää	evätä	0.530535513
+rajata	totella	0.9682221
+evakuoida	vannoa	0.868029272
+ohjata	häätää	1.021932033
+vaatia	suostutella	0.724920121
+evakuoida	protestoida	1.073936433
+salametsästää	protestoida	1.11775931
+varmistaa	palvella	0.632152837
+seurata	keksiä tekosyy	0.921790541
+häätää	osoittaa mieltään	1.145261166
+johtaa	evätä	1.244053461
+häätää	leimata	0.995319455
+tehdä tyhjäksi	anoa	1.099401131
+haitata	ohjeistaa	0.966957337
+ajaa takaa	tunnustaa	1.086249466
+pidättäytyä	protestoida	0.850079384
+tehdä tyhjäksi	ajaa takaa	1.211920916
+nostaa syyte	häätää	1.026401772
+vaatia	hallita	0.540042063
+varmistaa	osoittaa taipumusta	0.989770047
+keksiä tekosyy	mitätöidä	1.252900773
+yllyttää	valvoa	1.039785963
+rajata	varmistaa	0.96107089
+johtaa	kieltää	1.206135771
+keksiä tekosyy	rajoittaa	1.06016111
+varastaa	kontrolloida	1.147306535
+anastaa	varmistaa	1.170410222
+ryöstää	salametsästää	0.784245627
+huijata	todistaa	1.097131557
+lopettaa	takavarikoida	0.871109249
+ryöstää	komentaa	0.946826393
+seurata	anoa	1.154677322
+kidnapata	ohjata	0.99923099
+evakuoida	haitata	1.036894744
+vannoa	komentaa	0.863258856
+kaapata	nostaa syyte	1.509265833
+kaapata	totella	0.931150956
+evakuoida	tehdä tyhjäksi	1.118496812
+osoittaa taipumusta	estää	1.046489479
+määrätä	valvoa	0.667603975
+suostutella	kumota	0.948761586
+evakuoida	taipua	0.945089514
+ryöstää	vaatia	1.118981426
+ryöstää	taipua	1.408711467
+ohjata	evakuoida	0.955719245
+keksiä tekosyy	tuomita	1.151027307
+ohjata	ajaa takaa	0.873002918
+leimata	kumota	1.025443686
+siepata	määrätä	0.965903887
+kapinoida	evätä	1.116111931
+kumota	tuomita	0.81501511
+ohjeistaa	dominoida	0.628546147
+kaapata	pidättää	1.243710194
+vapauttaa	leimata	1.234370317
+palvella	antautua	0.823779024
+pyytää	lopettaa	1.229513792
+seurata	hallita	0.818064276
+varmistaa	estää	0.97348706
+varmistaa	dominoida	0.87003003
+haastaa oikeuteen	vannoa	0.690834353
+haastaa	osoittaa taipumusta	0.868868798
+evakuoida	estää	1.072921397
+dominoida	salametsästää	0.992831064
+haitata	salametsästää	1.132907845
+leimata	rajata	1.101729935
+tehdä tyhjäksi	voittaa	1.230410108
+kapinoida	protestoida	0.364706865
+anastaa	hypnotisoida	1.103663829
+rajoittaa	hallita	0.576451905
+kidnapata	kieltää	1.132137194
+pidättäytyä	leimata	0.889155651
+kaapata	huijata	0.947477125
+dominoida	vaatia	0.650954555
+pidättää	kieltää	0.740002269
+totella	jäljittää	0.864498773
+rajata	protestoida	0.799852071
+keksiä tekosyy	siepata	1.450318741
+vaatia	osoittaa mieltään	0.864455656
+häätää	antautua	0.918124747
+hypnotisoida	siepata	1.059816546
+anoa	vehkeillä	1.115775748
+jäljittää	protestoida	1.022634402
+palvella	haastaa oikeuteen	1.002841155
+ryöstää	evakuoida	1.202921059
+syyttää	sallia	0.888413073
+pyytää	evätä	1.243517595
+sallia	vapauttaa	0.913485331
+taipua	suostutella	0.67415275
+protestoida	vapauttaa	1.052437845
+protestoida	totella	0.878481162
+anastaa	pidättäytyä	1.110858746
+evätä	vannoa	1.22228983
+tehdä tyhjäksi	sallia	1.429386438
+käyttää hyväkseen	pidättäytyä	1.102298425
+hallita	pidättää	0.678213936
+pidättäytyä	osoittaa mieltään	0.829688873
+totella	pyytää	1.047479107
+kapinoida	tehdä tyhjäksi	1.007574566
+sallia	kapinoida	1.12029705
+ryöstää	varmistaa	1.197561251
+takavarikoida	johtaa	0.949861785
+estää	takavarikoida	0.855440651
+valvoa	salametsästää	0.9839522
+valvoa	haitata	1.152326191
+haastaa	evakuoida	0.902659489
+tunnustaa	pidättää	1.015790357
+rajata	haitata	0.90745592
+komentaa	estää	0.812065993
+komentaa	totella	0.910574792
+ryöstää	vapauttaa	1.098974775
+tunnustaa	evakuoida	0.903799179
+rajoittaa	taipua	1.289579596
+sallia	nostaa syyte	1.132698421
+voittaa	ohjata	0.842942404
+salametsästää	evätä	0.96746167
+ajaa takaa	protestoida	1.054061844
+kapinoida	anoa	0.837753045
+jäljittää	vaatia	0.939924773
+hallita	taipua	1.025625222
+kidnapata	viivästyttää	1.129171494
+keksiä tekosyy	kohdata	0.979672426
+voittaa	pyytää	1.238394948
+totella	varmistaa	0.836590627
+yllyttää	kontrolloida	0.910656559
+rangaista	kieltää	0.83187404
+kidnapata	syyttää	1.368612035
+suostutella	sallia	0.991924306
+rangaista	kaapata	1.182845591
+lopettaa	vaikuttaa	1.080239862
+rajoittaa	syyttää	1.093239627
+antautua	tunnustaa	0.600661266
+viivästyttää	dominoida	1.134586234
+kidnapata	huijata	0.971390602
+sallia	kohdata	1.049556246
+vaikuttaa	syyttää	0.76020417
+haitata	vehkeillä	1.027888891
+anoa	antautua	0.774452992
+anastaa	seurata	0.827483971
+rajata	mitätöidä	0.728157229
+siepata	tuomita	1.295329326
+lopettaa	anastaa	1.218373191
+voittaa	varmistaa	0.940168721
+seurata	varastaa	0.949623169
+hypnotisoida	häätää	1.132266948
+nostaa syyte	siepata	1.478871639
+protestoida	nostaa syyte	1.05655942
+estää	dominoida	0.820084168
+nostaa syyte	yllyttää	0.777619555
+vannoa	jäljittää	1.061610998
+sallia	evakuoida	1.078998635
+rajoittaa	vapauttaa	1.439359135
+nostaa syyte	ryöstää	1.513326636
+vaatia	johtaa	0.839600711
+mitätöidä	kohdata	0.884589125
+voittaa	pidättäytyä	1.092726533
+komentaa	häätää	0.913115493
+huijata	antautua	1.113054333
+varastaa	viivästyttää	1.165170224
+johtaa	yllyttää	1.118151441
+evätä	voittaa	1.133971634
+häätää	vehkeillä	1.332068236
+tehdä tyhjäksi	osoittaa mieltään	0.929254505
+häätää	valvoa	1.113388197
+pidättäytyä	haastaa oikeuteen	0.895482327
+tunnustaa	johtaa	0.773604752
+keksiä tekosyy	pyytää	1.247387318
+palvella	rajoittaa	1.016457238
+määrätä	mitätöidä	0.916245305
+pidättäytyä	rajata	0.944707859
+anastaa	vapauttaa	1.117811327
+johtaa	varmistaa	0.997926252
+komentaa	haastaa oikeuteen	0.871768101
+anoa	palvella	0.583443438
+osoittaa mieltään	haastaa	0.73345451
+varmistaa	huijata	1.019875645
+vaikuttaa	kapinoida	0.865911366
+evakuoida	dominoida	1.027762437
+anastaa	käyttää hyväkseen	0.720404115
+ajaa takaa	evätä	0.936749505
+nostaa syyte	rajoittaa	0.961697792
+siepata	käyttää hyväkseen	0.792554222
+vannoa	häätää	1.092477089
+osoittaa taipumusta	kapinoida	1.025615401
+valvoa	käyttää hyväkseen	1.028684458
+valvoa	tunnustaa	0.884850059
+anastaa	rangaista	1.191963583
+leimata	evätä	0.922037569
+nostaa syyte	salametsästää	1.282994861
+nostaa syyte	tehdä tyhjäksi	1.089872593
+nostaa syyte	vapauttaa	1.245773153
+vaatia	kidnapata	1.188756606
+siepata	viivästyttää	1.171674136
+todistaa	tunnustaa	0.62491546
+palvella	kaapata	1.163567132
+haastaa oikeuteen	kapinoida	1.097214183
+ryöstää	vaikuttaa	1.013489659
+nostaa syyte	varmistaa	1.003321773
+vaikuttaa	huijata	0.904726108
+häätää	jäljittää	1.102195229
+vaatia	osoittaa taipumusta	0.960775183
+jäljittää	sallia	1.025617935
+ohjeistaa	keksiä tekosyy	0.985651877
+taipua	ohjeistaa	0.814998415
+anastaa	varastaa	0.275279826
+evätä	antautua	0.937821922
+tehdä tyhjäksi	takavarikoida	0.7123643
+tuomita	takavarikoida	0.964484893
+anastaa	yllyttää	1.324491149
+yllyttää	syyttää	0.692286644
+kontrolloida	totella	0.846933943
+kaapata	ajaa takaa	1.05704832
+rangaista	pidättäytyä	1.076720626
+lopettaa	kontrolloida	0.915640995
+anoa	kidnapata	1.358644948
+valvoa	seurata	0.664760106
+kohdata	vapauttaa	0.829966777
+antautua	ohjeistaa	0.875402733
+osoittaa mieltään	ohjeistaa	0.783544949
+rajoittaa	kumota	0.563066732
+takavarikoida	kieltää	0.72269223
+nostaa syyte	huijata	1.130775513
+kieltää	komentaa	0.84002722
+osoittaa mieltään	evakuoida	1.160537014
+protestoida	kidnapata	0.992292985
+takavarikoida	vannoa	0.93749488
+keksiä tekosyy	vannoa	0.941798403
+keksiä tekosyy	tehdä tyhjäksi	1.183405557
+kumota	siepata	1.003102156
+salametsästää	määrätä	0.932614577
+lopettaa	tunnustaa	1.157321325
+osoittaa mieltään	ajaa takaa	0.990682652
+hypnotisoida	käyttää hyväkseen	0.806913839
+ohjeistaa	hypnotisoida	0.919719318
+varmistaa	leimata	1.360990656
+viivästyttää	tuomita	0.888524713
+totella	voittaa	0.890314175
+ohjeistaa	nostaa syyte	0.879158244
+tunnustaa	sallia	0.91814153
+pidättää	keksiä tekosyy	1.155212972
+rangaista	johtaa	1.082408012
+ohjeistaa	seurata	0.778334645
+seurata	salametsästää	0.826141962
+osoittaa taipumusta	keksiä tekosyy	0.895111311
+vaatia	hypnotisoida	1.066955257
+kapinoida	kontrolloida	1.073291135
+osoittaa taipumusta	haitata	1.043303227
+johtaa	ryöstää	1.305100611
+kontrolloida	suostutella	0.937221912
+tunnustaa	kapinoida	1.09875495
+haastaa	nostaa syyte	0.500128946
+käyttää hyväkseen	tehdä tyhjäksi	1.319119183
+seurata	ryöstää	0.731250575
+evätä	seurata	0.850195185
+syyttää	taipua	0.991183621
+kumota	sallia	1.372492104
+rajoittaa	mitätöidä	0.699306851
+vaikuttaa	osoittaa taipumusta	0.827825533
+palvella	leimata	1.275948226
+rangaista	nostaa syyte	0.84878207
+tuomita	pidättää	0.562173847
+suostutella	kapinoida	0.90606585
+takavarikoida	anastaa	0.828115451
+pidättää	rangaista	0.498752763
+anastaa	huijata	0.83301336
+johtaa	vaikuttaa	0.754810138
+pyytää	tunnustaa	0.910269804
+varmistaa	siepata	1.274722717
+anoa	jäljittää	1.138280925
+kidnapata	kapinoida	1.081585161
+haastaa oikeuteen	varastaa	1.384484863
+yllyttää	vehkeillä	1.229523313
+ohjeistaa	sallia	1.215853984
+tunnustaa	vaikuttaa	0.971698484
+kontrolloida	voittaa	1.161384249
+kapinoida	hypnotisoida	1.054344007
+vannoa	lopettaa	1.150275685
+palvella	evakuoida	0.916480664
+todistaa	ryöstää	1.236750943
+antautua	kaapata	1.34181942
+pidättäytyä	tuomita	1.003274364
+rajoittaa	lopettaa	0.536424805
+kapinoida	määrätä	0.835805681
+valvoa	pidättää	0.827237095
+kontrolloida	ryöstää	1.099890556
+kumota	häätää	0.754443427
+dominoida	pyytää	0.973405534
+kidnapata	lopettaa	1.114990687
+haitata	rangaista	1.094745415
+voittaa	haastaa oikeuteen	1.048385245
+rangaista	taipua	1.022762668
+vaatia	vaikuttaa	0.707407589
+mitätöidä	taipua	0.942843669
+jäljittää	huijata	0.786252084
+nostaa syyte	evätä	1.000378548
+ryöstää	estää	1.24333074
+johtaa	vapauttaa	1.115415486
+varastaa	totella	1.015813893
+rajoittaa	rangaista	0.673067478
+komentaa	mitätöidä	0.729254778
+kieltää	suostutella	1.015208769
+voittaa	huijata	1.01755964
+kontrolloida	rajata	0.950156738
+seurata	totella	0.773888046
+kaapata	varastaa	0.451692071
+takavarikoida	varmistaa	0.886609976
+keksiä tekosyy	takavarikoida	1.115421662
+ryöstää	pyytää	1.139988772
+rangaista	totella	1.058030299
+palvella	anastaa	0.994699383
+haastaa oikeuteen	varmistaa	0.970263729
+ajaa takaa	rajoittaa	0.913781841
+rajata	estää	0.62684682
+syyttää	haitata	1.122920018
+sallia	takavarikoida	1.048915404
+haastaa	haitata	0.859322793
+rangaista	tunnustaa	1.001692453
+rajata	jäljittää	0.984701669
+voittaa	vehkeillä	1.139136072
+antautua	estää	0.788674419
+ajaa takaa	vaikuttaa	0.749743756
+pyytää	pidättäytyä	1.12738516
+haastaa oikeuteen	ajaa takaa	0.955173116
+lopettaa	haitata	1.131443104
+valvoa	taipua	0.953447602
+pidättää	palvella	0.908513453
+kaapata	käyttää hyväkseen	0.792451812
+hypnotisoida	huijata	0.773233545
+kidnapata	tunnustaa	1.358733509
+hypnotisoida	haastaa oikeuteen	1.131574998
+vehkeillä	evakuoida	1.12758937
+yllyttää	siepata	1.418652976
+totella	hallita	0.810140707
+voittaa	valvoa	1.086070266
+kaapata	sallia	1.197263651
+yllyttää	pyytää	1.260577551
+yllyttää	protestoida	0.906489864
+osoittaa mieltään	kidnapata	1.126980198
+haitata	haastaa oikeuteen	0.86899097
+valvoa	varastaa	0.844002262
+valvoa	takavarikoida	0.855472948
+evätä	jäljittää	1.013937515
+vaatia	sallia	1.11735452
+keksiä tekosyy	johtaa	0.902812547
+pidättää	anastaa	1.243047132
+vannoa	varastaa	1.379040771
+kontrolloida	vannoa	0.921213679
+salametsästää	kidnapata	0.784226313
+osoittaa mieltään	kaapata	1.127984763
+johtaa	kaapata	1.292362639
+tunnustaa	kieltää	1.094606026
+vaatia	salametsästää	0.981027513
+varmistaa	kidnapata	1.304391417
+ohjata	antautua	0.920180256
+voittaa	pidättää	1.058059686
+lopettaa	osoittaa taipumusta	1.084006743
+hallita	suostutella	0.665787736
+kohdata	valvoa	0.78966308
+määrätä	estää	0.859038959
+tuomita	pyytää	1.060998519
+nostaa syyte	ajaa takaa	0.95983069
+huijata	hallita	1.010215801
+varmistaa	hypnotisoida	1.195363078
+kidnapata	antautua	1.287558558
+huijata	leimata	1.239678857
+vaatia	haastaa oikeuteen	0.925701742
+suostutella	rangaista	0.854214799
+todistaa	lopettaa	1.076990503
+evätä	palvella	1.135666954
+nostaa syyte	mitätöidä	0.864157438
+ohjata	kumota	0.90142384
+nostaa syyte	vaikuttaa	0.786880025
+kohdata	voittaa	1.216744016
+keksiä tekosyy	leimata	0.869515426
+nostaa syyte	johtaa	1.01977575
+käyttää hyväkseen	ryöstää	0.754473549
+seurata	pidättää	0.971545701
+totella	määrätä	0.891166201
+anastaa	määrätä	0.987620162
+huijata	taipua	1.029982296
+osoittaa taipumusta	kaapata	1.221421934
+vehkeillä	pidättäytyä	1.145589505
+hallita	kidnapata	1.004081889
+pyytää	vapauttaa	1.126544819
+kaapata	salametsästää	0.753372871
+salametsästää	voittaa	1.08915918
+takavarikoida	taipua	0.899906546
+varastaa	ohjata	0.939084885
+voittaa	ohjeistaa	0.976448681
+suostutella	lopettaa	1.024981076
+taipua	pidättäytyä	0.913895481
+kieltää	pidättäytyä	0.888535817
+palvella	ryöstää	1.092786942
+kapinoida	nostaa syyte	1.143948399
+totella	anoa	0.842234473
+määrätä	varastaa	0.957465776
+tuomita	haitata	1.108124902
+tunnustaa	tehdä tyhjäksi	1.076980761
+todistaa	häätää	1.171265567
+rajata	palvella	0.982651651
+totella	vaatia	0.794609053
+ohjata	määrätä	0.43252787
+kapinoida	pidättää	0.935164884
+sallia	komentaa	1.134463083
+osoittaa mieltään	kumota	1.041311884
+ryöstää	vannoa	1.465683063
+johtaa	suostutella	0.920984268
+häätää	vapauttaa	1.521285455
+estää	tuomita	0.750723676
+totella	suostutella	0.951509471
+kidnapata	tehdä tyhjäksi	1.321118012
+kaapata	suostutella	1.013257763
+suostutella	dominoida	0.904697347
+vaatia	mitätöidä	0.931080933
+voittaa	keksiä tekosyy	1.002064234
+valvoa	kumota	0.738606346
+kaapata	yllyttää	1.343416418
+kumota	antautua	0.923797853
+yllyttää	komentaa	0.903997727
+johtaa	evakuoida	1.030853701
+rajata	vapauttaa	1.315813665
+komentaa	taipua	1.019554146
+pidättää	lopettaa	0.797042779
+rajata	sallia	1.207309294
+rangaista	osoittaa taipumusta	1.001709584
+haitata	johtaa	1.072278853
+varastaa	käyttää hyväkseen	0.694958008
+tehdä tyhjäksi	evätä	0.661283173
+yllyttää	suostutella	0.893838363
+tehdä tyhjäksi	pidättää	0.755406183
+johtaa	estää	1.149649599
+varmistaa	keksiä tekosyy	1.157676127
+kumota	hypnotisoida	1.168788832
+protestoida	sallia	0.953147831
+varastaa	taipua	1.37289763
+vaatia	evakuoida	1.105955219
+vaikuttaa	ohjeistaa	0.788280733
+osoittaa taipumusta	kohdata	0.78011695
+valvoa	hypnotisoida	1.066701417
+pidättäytyä	kaapata	1.103571109
+dominoida	osoittaa taipumusta	0.933594863
+dominoida	kieltää	0.96765133
+kapinoida	valvoa	0.861642444
+palvella	viivästyttää	1.101518282
+vapauttaa	tunnustaa	0.825440572
+osoittaa mieltään	jäljittää	1.182596443
+viivästyttää	voittaa	1.325986808
+vapauttaa	käyttää hyväkseen	1.215973997
+valvoa	anoa	1.029502751
+mitätöidä	vaikuttaa	0.877591549
+ajaa takaa	takavarikoida	1.052799762
+huijata	estää	1.038630066
+kapinoida	rajoittaa	1.023240581
+salametsästää	varmistaa	1.133604851
+pyytää	todistaa	1.041408268
+keksiä tekosyy	palvella	1.148031005
+sallia	vaikuttaa	1.110770526
+viivästyttää	vannoa	1.137770699
+anoa	pyytää	0.559777107
+haitata	kohdata	1.008192789
+hypnotisoida	kohdata	1.061632276
+varastaa	varmistaa	1.172951464
+todistaa	vaikuttaa	0.80197979
+pidättää	vehkeillä	1.095654986
+tunnustaa	varmistaa	0.85701016
+ohjata	anastaa	0.965650795
+ohjata	kaapata	1.07677884
+komentaa	evakuoida	0.950043851
+ohjeistaa	tunnustaa	0.812727808

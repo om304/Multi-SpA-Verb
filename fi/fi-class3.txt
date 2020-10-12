@@ -1,0 +1,2017 @@
+Word1	Word2	Score
+elää	selvitä	0.603536825
+särkeä	hengittää ulos	1.094840654
+hengittää sisään	vetää puoleensa	1.03099621
+selvitä	parantua	0.836902745
+yllättää	nuolla	0.812341622
+etsiä	huonontua	1.019145835
+lemuta	suudella	1.093057123
+tuijottaa	aivastaa	1.140594061
+synnyttää	haista	1.249504457
+lemuta	rentoutua	0.972931186
+siristää silmiään	hehkua	0.864639656
+aivastaa	hengittää ulos	0.543642451
+oksentaa	tuijottaa	1.14813567
+kutea	ottaa torkut	1.290133949
+ottaa torkut	tarkkailla	1.030960788
+vetää puoleensa	kutea	0.984216585
+puhaltaa	selviytyä	0.8649449
+mulkoilla	siristää silmiään	0.7224556
+haurastua	lorvailla	1.080495714
+itkeä	särkeä	0.951844529
+nuolla	kuulla	1.110326707
+herätä	pureskella	0.8034715
+tarkkailla	huomata	0.342479638
+yskiä	mulkoilla	1.279381359
+imeä	synnyttää	1.244683554
+laiduntaa	itkeä	1.061952302
+rentoutua	torkkua	0.428897334
+itkeä	selvitä	0.708261951
+havaita	vetää puoleensa	1.022442346
+tarttua lujasti	tukehtua	1.01113118
+haista	pyörtyä	1.05496895
+havaita	yskiä	1.124718021
+elää	ilmestyä	1.028586406
+tarkkailla	väsyttää	1.1358405
+uuvuttaa	haista	1.244251785
+havaita	kuulla	0.574802631
+maistua	esikatsella	1.007853805
+elää	valua pois	0.786807122
+yskiä	venytellä	1.291636224
+pyörtyä	selviytyä	0.90788994
+haurastua	venytellä	1.177863239
+uuvuttaa	katsoa	1.029840672
+yllättää	purra	0.928991599
+vetää puoleensa	imaista	0.902225989
+hikoilla	haistaa	0.819473917
+katsella	yllättää	0.934867629
+hikoilla	synnyttää	1.306300558
+purra	aivastaa	0.927521942
+mulkoilla	havaita	0.335696098
+lorvailla	haista	1.068878964
+pyörtyä	torkkua	0.727872947
+nuolla	etsiä	1.003074131
+hengittää ulos	tuijottaa	1.148523425
+huonontua	valua pois	0.807537114
+esikatsella	punastua	1.10873391
+tuijottaa	suudella	1.005994539
+haukotella	purra	0.964492557
+mulkoilla	maistua	0.917263508
+huonontua	pureskella	1.142402675
+ottaa torkut	nuolla	1.020861086
+hehkua	ilmestyä	0.964210703
+haista	kuulla	0.857674054
+silmäillä	etsiä	0.533059559
+rentoutua	tuijottaa	0.818695254
+selviytyä	imaista	0.969275886
+nuolla	parantua	0.780043578
+katsoa	silmäillä	0.350014875
+oksentaa	ilmestyä	1.155718549
+esikatsella	pyörtyä	1.245665592
+hengittää ulos	kutea	1.314638565
+synnyttää	haukotella	1.250459627
+hengittää ulos	pureskella	1.013727763
+venytellä	ilmestyä	1.155391961
+punastua	maistua	0.833345188
+laiduntaa	venytellä	0.81127289
+hehkua	punastua	0.777550542
+siristää silmiään	hikoilla	1.067660652
+tukehtua	haurastua	1.123961631
+katsella	hengittää	1.196330593
+punastua	imeä	0.898571123
+puhaltaa	suudella	0.973329116
+punastua	tuijottaa	1.155091917
+tarttua lujasti	herätä	0.843142742
+puhaltaa	kuulla	1.158390179
+vetää puoleensa	tukehtua	1.033492339
+siristää silmiään	laiduntaa	1.117129795
+selvitä	etsiä	0.973358884
+herätä	aivastaa	1.009903851
+näyttää	väläyttää	0.893239028
+näyttää	oksentaa	1.231804284
+havaita	hehkua	0.888650517
+etsiä	kuulla	0.814713156
+purra	tuijottaa	0.992059975
+venytellä	oksentaa	1.140646864
+itkeä	herättää	1.040672648
+esikatsella	huonontua	0.988317333
+haistaa	torkkua	1.094488897
+imeä	haista	0.937226128
+purra	suudella	0.882917516
+selviytyä	väsyttää	0.875455854
+laiduntaa	näyttää	1.176754954
+kuulla	herätä	1.160574426
+uuvuttaa	vetää puoleensa	0.932799048
+maistua	tukehtua	1.024531331
+hengittää sisään	mulkoilla	1.261276865
+imeä	ottaa torkut	1.035701855
+huonontua	selvitä	1.070121523
+purra	hengittää ulos	1.012894144
+haistaa	suudella	0.883901845
+haukotella	maistua	1.140340727
+lemuta	kutea	1.179030451
+tarttua lujasti	purra	0.927561059
+oksentaa	etsiä	1.290204435
+löytää	väläyttää	0.76419264
+hengittää sisään	väläyttää	1.225227772
+purra	herättää	0.831616627
+väsyttää	haukotella	0.711201042
+havaita	katsella	0.354491531
+maistua	silmäillä	0.995643531
+tarkkailla	pureskella	1.287574431
+suudella	etsiä	1.076851368
+selvitä	imaista	0.940541806
+selvitä	mulkoilla	0.88423144
+tarttua lujasti	tuijottaa	1.132220575
+hehkua	haurastua	1.097259463
+nuolla	väsyttää	1.140479582
+etsiä	lorvailla	0.9966204
+hehkua	venytellä	0.9337897
+oksentaa	suudella	1.165667194
+imaista	hengittää ulos	0.822163681
+parantua	puhaltaa	0.784868868
+tarkkailla	maistua	0.929673784
+uuvuttaa	kutea	1.266068417
+hengittää sisään	aivastaa	0.715118717
+tarttua lujasti	haukotella	1.000639332
+imaista	purra	0.785726314
+tuijottaa	selvitä	0.90209517
+etsiä	hehkua	0.913161822
+laiduntaa	ilmestyä	1.252015967
+nuolla	haukotella	0.93687578
+herättää	elää	0.880349449
+väläyttää	huonontua	0.970701695
+venytellä	punastua	0.895795726
+esikatsella	särkeä	1.152718526
+hengittää	valua pois	1.155688559
+kuulla	huonontua	1.001989215
+uuvuttaa	itkeä	0.90013852
+kuulla	löytää	0.733911337
+haista	kutea	1.246901792
+maistua	kutea	0.974814646
+herättää	tuijottaa	0.890186962
+aivastaa	etsiä	1.336153139
+parantua	väsyttää	1.132014571
+esikatsella	selvitä	0.822948781
+esikatsella	elää	0.848799655
+mulkoilla	esikatsella	0.402829582
+vetää puoleensa	pyörtyä	1.012145481
+itkeä	haukotella	0.864534909
+aivastaa	haistaa	1.083557674
+selviytyä	siristää silmiään	0.778674254
+pyörtyä	nuolla	1.031714809
+siristää silmiään	maistua	1.01354873
+selvitä	laiduntaa	0.936057078
+suudella	lorvailla	1.087779294
+pyörtyä	yskiä	0.802623648
+väläyttää	synnyttää	1.146416002
+laiduntaa	elää	0.919243508
+hengittää	oksentaa	0.72000831
+hehkua	katsella	1.049279283
+hengittää ulos	tarkkailla	1.37296795
+tuijottaa	tarkkailla	0.372614823
+hikoilla	punastua	1.039426025
+ottaa torkut	esikatsella	0.962430314
+lemuta	tuijottaa	0.962961325
+katsoa	torkkua	0.808637129
+väläyttää	purra	0.940044235
+purra	vetää puoleensa	0.892834821
+vetää puoleensa	hikoilla	1.074649315
+herättää	imaista	1.124742368
+punastua	herätä	0.96679033
+parantua	siristää silmiään	0.944232248
+hengittää sisään	kuulla	1.16558558
+lemuta	nähdä	1.016728844
+huonontua	elää	1.023239131
+selvitä	haurastua	1.161131982
+uuvuttaa	havaita	1.087283638
+lemuta	punastua	0.957348676
+hikoilla	ilmestyä	0.831692999
+itkeä	pyörtyä	0.922621338
+katsella	huomata	0.359736025
+lorvailla	synnyttää	0.968694151
+torkkua	ilmestyä	1.138261401
+mulkoilla	katsella	0.327510293
+imeä	löytää	0.890404507
+hengittää ulos	esikatsella	1.129425473
+haurastua	hengittää sisään	1.210726223
+hikoilla	nähdä	0.964928091
+silmäillä	hikoilla	1.031682698
+herätä	siristää silmiään	0.950380655
+uuvuttaa	imeä	1.040639974
+tarttua lujasti	särkeä	1.054416708
+valua pois	parantua	0.960680595
+imeä	pyörtyä	0.976762873
+venytellä	tarkkailla	1.263234015
+näyttää	itkeä	0.912084231
+pyörtyä	herättää	1.000373294
+herätä	hikoilla	1.036493164
+hengittää	mulkoilla	1.221277925
+haukotella	yskiä	0.842855056
+nähdä	puhaltaa	1.09961688
+suudella	hengittää ulos	1.049505588
+särkeä	lemuta	0.975138815
+synnyttää	havaita	1.02211044
+vetää puoleensa	synnyttää	1.087889662
+parantua	löytää	1.064258616
+esikatsella	herättää	0.974482701
+lorvailla	hengittää ulos	1.024434904
+lorvailla	esikatsella	0.901928502
+huonontua	ilmestyä	0.875300477
+haistaa	esikatsella	0.993871826
+haurastua	puhaltaa	1.236651586
+tuijottaa	hengittää sisään	1.150619828
+herättää	etsiä	0.981577761
+mulkoilla	oksentaa	1.273270725
+hehkua	hengittää ulos	1.317752275
+väläyttää	kuulla	0.938395252
+vetää puoleensa	nähdä	1.101473901
+rentoutua	yskiä	0.866854961
+haurastua	oksentaa	1.074728358
+suudella	huomata	0.909895804
+rentoutua	huomata	0.930535996
+maistua	selvitä	0.944223715
+hehkua	herättää	0.904516976
+suudella	yskiä	1.030094647
+kuulla	tarttua lujasti	0.994138727
+hengittää	aivastaa	0.676432552
+rentoutua	tarttua lujasti	0.906096079
+elää	puhaltaa	0.849793683
+vetää puoleensa	hengittää ulos	0.984550408
+väsyttää	imaista	1.011359952
+itkeä	kuulla	0.976254343
+punastua	selviytyä	0.992874207
+herätä	yllättää	0.929333047
+imeä	herätä	0.947112516
+etsiä	elää	0.930246795
+herättää	venytellä	0.924605745
+venytellä	puhaltaa	0.891637013
+valua pois	kuulla	0.980636239
+imaista	lorvailla	0.981039389
+purra	haista	1.200542056
+löytää	puhaltaa	1.240436769
+siristää silmiään	väläyttää	1.027991104
+imeä	itkeä	0.869307626
+aivastaa	väläyttää	1.196872778
+aivastaa	yllättää	1.095055501
+särkeä	ottaa torkut	1.155522655
+tarttua lujasti	suudella	0.891612215
+herätä	haukotella	0.889474457
+huonontua	näyttää	1.065626318
+etsiä	purra	1.137198683
+siristää silmiään	ottaa torkut	0.780182224
+imaista	hehkua	1.056145583
+haistaa	tarkkailla	1.083611029
+herättää	rentoutua	0.839683138
+imaista	imeä	0.220262742
+siristää silmiään	yskiä	1.013319028
+haista	mulkoilla	0.870950344
+katsoa	suudella	1.057365248
+haukotella	huonontua	1.242689563
+tukehtua	uuvuttaa	0.948248398
+itkeä	puhaltaa	0.962425561
+esikatsella	kuulla	0.773215359
+tukehtua	mulkoilla	1.184553707
+punastua	mulkoilla	1.076714577
+imaista	tuijottaa	1.056628424
+huonontua	nuolla	1.173026366
+yskiä	elää	0.85244162
+pyörtyä	hengittää ulos	0.894980084
+havaita	nähdä	0.40110088
+purra	punastua	0.921118367
+hengittää ulos	silmäillä	1.305163326
+suudella	elää	0.780873528
+siristää silmiään	puhaltaa	0.844470027
+väsyttää	etsiä	1.12566774
+oksentaa	hengittää ulos	0.735721709
+herätä	venytellä	0.874408297
+tarttua lujasti	siristää silmiään	0.776326397
+oksentaa	huomata	1.241738453
+vetää puoleensa	katsoa	1.153526307
+yllättää	yskiä	1.200635079
+haistaa	nähdä	1.084800271
+herätä	väsyttää	0.793580247
+siristää silmiään	katsoa	0.724067593
+hengittää sisään	väsyttää	0.961543264
+haistaa	selviytyä	0.991607662
+yllättää	nähdä	0.956865487
+tarkkailla	uuvuttaa	1.194622619
+valua pois	särkeä	0.794357655
+valua pois	hehkua	1.045453119
+selviytyä	ilmestyä	0.954634408
+hehkua	vetää puoleensa	0.849203259
+hengittää sisään	synnyttää	1.199254668
+synnyttää	oksentaa	1.001782339
+uuvuttaa	yskiä	0.995031746
+haurastua	pureskella	1.004371841
+hengittää sisään	haukotella	0.522907239
+väläyttää	tukehtua	0.895730815
+mulkoilla	itkeä	0.942167217
+vetää puoleensa	herättää	1.08012725
+hengittää ulos	selvitä	0.945242745
+tuijottaa	lorvailla	0.853629273
+tarttua lujasti	väsyttää	0.92970602
+katsoa	tukehtua	1.194828793
+tarttua lujasti	lorvailla	0.968025273
+purra	hikoilla	1.073417961
+rentoutua	valua pois	1.110014929
+selvitä	tarttua lujasti	0.901197516
+esikatsella	nähdä	0.469853973
+rentoutua	pureskella	0.980350312
+tarkkailla	rentoutua	1.040570579
+kuulla	pureskella	1.18108296
+maistua	yskiä	1.106864807
+herätä	mulkoilla	1.01637819
+yllättää	valua pois	0.948516601
+venytellä	suudella	1.034700342
+selviytyä	herättää	0.954519665
+herättää	katsoa	0.969322731
+rentoutua	selvitä	0.996753001
+synnyttää	punastua	1.303936873
+väsyttää	tuijottaa	0.939859517
+kutea	torkkua	1.285871415
+rentoutua	imeä	1.041932131
+särkeä	nuolla	0.951084581
+laiduntaa	kutea	1.039155021
+katsoa	puhaltaa	1.138488092
+huonontua	hengittää	1.334832049
+selvitä	väläyttää	0.897808517
+huonontua	pyörtyä	0.995544874
+lemuta	haista	0.11274398
+hengittää	pyörtyä	0.887860968
+särkeä	uuvuttaa	1.032951408
+havaita	tukehtua	1.04992611
+elää	haista	1.075121725
+uuvuttaa	ilmestyä	1.171521599
+kuulla	herättää	1.187143864
+synnyttää	lemuta	1.289226706
+näyttää	vetää puoleensa	1.046904311
+uuvuttaa	väsyttää	0.249014991
+puhaltaa	purra	0.988062303
+tukehtua	rentoutua	1.118445706
+selvitä	lemuta	1.039541915
+synnyttää	puhaltaa	1.235691766
+venytellä	haukotella	0.95673033
+oksentaa	lemuta	1.269727827
+huonontua	itkeä	0.863246416
+puhaltaa	etsiä	1.235435011
+haukotella	parantua	1.068909516
+ilmestyä	näyttää	0.793999544
+oksentaa	hengittää sisään	0.742736285
+punastua	nuolla	0.963340969
+hengittää	hikoilla	1.274201558
+kuulla	hengittää	1.235015211
+tuijottaa	torkkua	0.816746082
+kutea	herättää	1.274296158
+venytellä	aivastaa	1.131475155
+silmäillä	selviytyä	0.904106193
+nuolla	tuijottaa	0.924824094
+mulkoilla	valua pois	0.963363904
+laiduntaa	lorvailla	0.940994383
+hengittää	laiduntaa	1.294392396
+hikoilla	torkkua	1.137243229
+tukehtua	siristää silmiään	0.925769431
+siristää silmiään	yllättää	0.97817775
+näyttää	elää	0.90584242
+hehkua	rentoutua	0.971136109
+rentoutua	pyörtyä	0.814815217
+selviytyä	tarttua lujasti	0.933627808
+särkeä	yllättää	1.045526092
+elää	nuolla	0.816492312
+nuolla	tukehtua	1.110133291
+ottaa torkut	hengittää sisään	1.045177982
+kutea	parantua	0.923924913
+katsoa	tarkkailla	0.381034976
+laiduntaa	havaita	1.066191951
+vetää puoleensa	huomata	0.973721973
+parantua	tuijottaa	0.942669035
+esikatsella	puhaltaa	0.987329031
+näyttää	havaita	0.648458366
+katsella	rentoutua	0.886820561
+herätä	särkeä	1.073013015
+hehkua	hengittää	1.277505212
+aivastaa	huomata	1.292674147
+purra	selviytyä	0.968687365
+lorvailla	kutea	1.251866708
+hengittää ulos	hengittää sisään	0.271531421
+pureskella	parantua	0.728609679
+uuvuttaa	maistua	1.212933003
+imaista	puhaltaa	0.903107648
+tukehtua	väsyttää	0.869800186
+suudella	imaista	0.723553752
+ilmestyä	lemuta	0.841720184
+suudella	kutea	1.032430781
+puhaltaa	ilmestyä	1.105883128
+pureskella	lorvailla	0.87346845
+rentoutua	laiduntaa	1.112293383
+torkkua	nuolla	1.009355603
+huomata	maistua	0.763688545
+lorvailla	huomata	0.857921012
+tuijottaa	pyörtyä	1.15996006
+löytää	hengittää	1.332048769
+herättää	ilmestyä	1.213206262
+aivastaa	synnyttää	1.12101586
+yllättää	hengittää sisään	1.101682747
+synnyttää	itkeä	0.887402615
+lorvailla	itkeä	1.005730055
+väläyttää	väsyttää	0.981309799
+tuijottaa	haukotella	1.063223241
+imeä	elää	0.753877485
+valua pois	katsoa	1.022519761
+maistua	imeä	0.771744914
+silmäillä	katsella	0.252377629
+hengittää	herättää	0.963291177
+yskiä	haistaa	1.116995733
+haurastua	haukotella	1.355184416
+lorvailla	silmäillä	0.954157601
+ottaa torkut	hehkua	0.940341382
+lemuta	valua pois	0.843746038
+maistua	havaita	0.855392353
+aivastaa	imaista	0.996942696
+venytellä	esikatsella	1.069703131
+suudella	hikoilla	1.136974993
+etsiä	parantua	1.144836152
+punastua	aivastaa	1.289139977
+haukotella	pureskella	0.943705383
+lorvailla	hikoilla	1.101884791
+lorvailla	nähdä	0.874754259
+hengittää	huomata	1.138936221
+haurastua	torkkua	1.019285612
+havaita	särkeä	1.07172578
+etsiä	särkeä	1.075557371
+lemuta	katsella	0.999118285
+venytellä	löytää	1.061539123
+oksentaa	tukehtua	0.966104196
+haista	punastua	0.972647261
+särkeä	punastua	1.294069178
+nuolla	imaista	0.7577511
+rentoutua	hengittää ulos	0.857712485
+purra	tarkkailla	1.256622593
+silmäillä	tuijottaa	0.477952194
+haistaa	näyttää	0.864186656
+tarkkailla	herättää	1.068022677
+katsoa	mulkoilla	0.327859034
+väsyttää	pureskella	1.004299462
+ilmestyä	yllättää	0.789882043
+imeä	hikoilla	1.161912376
+purra	pureskella	0.108917884
+tukehtua	suudella	1.16365161
+maistua	pyörtyä	0.875571415
+aivastaa	väsyttää	0.962886873
+punastua	hengittää ulos	1.246738043
+haistaa	hehkua	1.029103178
+särkeä	puhaltaa	1.156200675
+elää	synnyttää	0.650726362
+imeä	laiduntaa	1.046823484
+herätä	lorvailla	0.66162039
+puhaltaa	katsella	1.152339455
+hengittää ulos	yskiä	0.440769123
+hikoilla	väsyttää	1.090277203
+vetää puoleensa	huonontua	0.978695961
+selvitä	tukehtua	0.892233276
+väläyttää	herätä	0.876391734
+tarttua lujasti	oksentaa	1.157311148
+väsyttää	haista	1.174310298
+huomata	haistaa	0.941692323
+särkeä	hikoilla	1.00087338
+katsella	maistua	0.951421798
+nähdä	elää	0.854342872
+etsiä	mulkoilla	0.533622651
+mulkoilla	purra	1.124316396
+kuulla	hengittää ulos	1.210413302
+tarttua lujasti	imaista	0.944362944
+imeä	yskiä	0.999296762
+selviytyä	herätä	0.831011479
+tukehtua	hehkua	1.131049766
+väläyttää	ilmestyä	0.805176395
+imeä	selvitä	0.857863373
+imaista	pyörtyä	1.024719383
+herättää	pureskella	0.776249657
+haista	näyttää	0.773498618
+haista	särkeä	1.04327317
+ilmestyä	imeä	0.911157182
+kutea	puhaltaa	1.309118019
+haukotella	rentoutua	0.942503971
+etsiä	lemuta	0.931744241
+laiduntaa	huomata	1.012373454
+tuijottaa	pureskella	1.065311565
+ottaa torkut	oksentaa	1.001041945
+purra	selvitä	0.993449583
+haistaa	huonontua	0.90464493
+silmäillä	ilmestyä	0.935052805
+rentoutua	siristää silmiään	0.804739212
+hikoilla	hengittää sisään	1.207819036
+haurastua	nähdä	0.962398058
+herättää	löytää	1.096328118
+särkeä	tarkkailla	1.039392467
+torkkua	hengittää sisään	0.974030136
+lorvailla	näyttää	1.184763899
+katsella	esikatsella	0.369643969
+selviytyä	venytellä	0.982488444
+valua pois	ilmestyä	0.882854721
+lorvailla	puhaltaa	1.09514157
+hengittää ulos	väläyttää	1.222801426
+särkeä	synnyttää	1.0622541
+katsella	lorvailla	0.904689698
+nähdä	maistua	0.926035324
+lemuta	hengittää sisään	1.208518085
+valua pois	tukehtua	1.139750802
+rentoutua	esikatsella	0.893610397
+huonontua	katsoa	1.007760462
+kutea	väsyttää	1.244717728
+elää	hengittää sisään	0.716507613
+haukotella	siristää silmiään	0.708930051
+tuijottaa	ottaa torkut	0.847356967
+kutea	näyttää	1.198529056
+tarttua lujasti	etsiä	1.024386062
+huonontua	parantua	1.235795798
+tarttua lujasti	esikatsella	1.050407446
+väsyttää	siristää silmiään	0.894198999
+elää	hehkua	1.093801332
+tuijottaa	kuulla	0.679834154
+huonontua	hengittää sisään	1.284682595
+nähdä	silmäillä	0.446821913
+havaita	hikoilla	0.967955807
+silmäillä	torkkua	0.975521068
+pureskella	hehkua	1.027504794
+hengittää sisään	tarkkailla	1.283015819
+punastua	kuulla	0.988280701
+uuvuttaa	hehkua	1.068737616
+kuulla	haukotella	1.07832281
+haista	huonontua	0.851110222
+hengittää sisään	nuolla	1.045546473
+purra	laiduntaa	0.845000372
+lorvailla	ilmestyä	1.154189189
+punastua	ottaa torkut	1.074012754
+katsoa	väsyttää	1.078973306
+nuolla	uuvuttaa	1.107315544
+esikatsella	vetää puoleensa	1.007635822
+haista	rentoutua	0.936854207
+maistua	vetää puoleensa	0.914165254
+väläyttää	selviytyä	0.921621483
+katsoa	punastua	1.089259823
+parantua	väläyttää	1.298931894
+pyörtyä	siristää silmiään	0.985003263
+esikatsella	hikoilla	0.994260266
+pureskella	oksentaa	0.888966978
+selviytyä	huomata	0.828164436
+purra	yskiä	0.852448802
+lemuta	imeä	0.975826825
+herättää	parantua	1.09323758
+synnyttää	hehkua	1.358051751
+kuulla	venytellä	1.214479717
+esikatsella	laiduntaa	1.056835285
+hengittää ulos	imeä	0.927356563
+huonontua	synnyttää	0.84869545
+katsella	nuolla	1.039915143
+rentoutua	havaita	0.869114666
+katsella	ottaa torkut	0.864939964
+hengittää ulos	itkeä	1.013438593
+katsella	yskiä	1.193545869
+siristää silmiään	herättää	0.994053629
+rentoutua	nähdä	0.892254611
+herätä	laiduntaa	0.847924736
+haurastua	itkeä	1.016623323
+hengittää ulos	näyttää	1.188167562
+katsoa	haista	0.826593179
+särkeä	parantua	0.962639082
+väläyttää	oksentaa	1.274064672
+elää	haurastua	1.135810733
+kutea	yllättää	1.048575098
+hengittää ulos	nähdä	1.259716054
+selviytyä	oksentaa	1.028871288
+hengittää	puhaltaa	0.349618734
+pureskella	katsella	1.108048536
+lemuta	uuvuttaa	1.271262868
+löytää	haurastua	0.949283718
+katsella	tarkkailla	0.306091752
+hikoilla	valua pois	0.905727032
+huonontua	yskiä	1.244839003
+imeä	silmäillä	1.238717911
+imaista	mulkoilla	1.113018408
+väläyttää	vetää puoleensa	0.688102818
+särkeä	herättää	1.062752163
+valua pois	purra	1.05420946
+löytää	lemuta	0.872820556
+ottaa torkut	nähdä	0.888916324
+imaista	punastua	0.88843188
+etsiä	pyörtyä	1.101984676
+elää	kuulla	0.825466881
+puhaltaa	lemuta	1.169038947
+venytellä	purra	0.941510287
+kuulla	rentoutua	1.111560004
+pyörtyä	haukotella	1.016631113
+esikatsella	väsyttää	1.08765046
+selviytyä	uuvuttaa	0.946116232
+ilmestyä	mulkoilla	0.946094489
+havaita	tarttua lujasti	1.054317074
+venytellä	tarttua lujasti	0.644847439
+yllättää	maistua	1.067603725
+pyörtyä	lorvailla	0.883835813
+silmäillä	näyttää	0.736893163
+väläyttää	itkeä	0.844240949
+särkeä	kuulla	1.219269712
+tarkkailla	puhaltaa	1.204691764
+nähdä	selvitä	0.834557062
+vetää puoleensa	nuolla	0.867016957
+oksentaa	nähdä	1.247160438
+yskiä	nähdä	1.234082155
+kuulla	katsoa	0.703206092
+lemuta	laiduntaa	1.128683987
+särkeä	vetää puoleensa	1.016852497
+havaita	parantua	0.953977127
+hengittää ulos	ilmestyä	1.127496556
+katsella	löytää	0.602034805
+tukehtua	punastua	1.209353752
+torkkua	suudella	1.013477213
+siristää silmiään	selvitä	0.72011326
+itkeä	yllättää	0.798331222
+maistua	elää	0.907352825
+huomata	parantua	1.020112771
+venytellä	hikoilla	1.241102163
+maistua	särkeä	1.096275652
+särkeä	löytää	0.959468576
+haukotella	uuvuttaa	0.819553909
+yllättää	vetää puoleensa	0.690948808
+kuulla	näyttää	0.694074864
+suudella	havaita	1.017186531
+hehkua	särkeä	1.063509915
+hengittää sisään	katsella	1.166440463
+imaista	kutea	1.125652616
+uuvuttaa	siristää silmiään	0.856816933
+hengittää sisään	suudella	1.088102456
+tuijottaa	väläyttää	1.06396984
+selviytyä	yllättää	1.014418369
+siristää silmiään	kutea	1.094344031
+etsiä	yskiä	1.313457244
+aivastaa	katsella	1.198046792
+esikatsella	haukotella	1.057627277
+huonontua	särkeä	0.832875925
+parantua	mulkoilla	1.047209792
+lemuta	pyörtyä	0.997588414
+esikatsella	hengittää sisään	1.117073175
+haurastua	valua pois	0.780591494
+kutea	aivastaa	1.344782061
+väläyttää	nuolla	1.021248638
+tukehtua	nähdä	1.141539666
+lorvailla	selviytyä	0.923456249
+särkeä	aivastaa	0.877292888
+tarkkailla	tukehtua	1.19879676
+etsiä	synnyttää	0.991417662
+pyörtyä	synnyttää	1.205864186
+uuvuttaa	rentoutua	0.735872383
+tarttua lujasti	parantua	1.111967976
+oksentaa	punastua	1.40325377
+itkeä	siristää silmiään	0.809373736
+väläyttää	valua pois	0.924187119
+esikatsella	imeä	1.111558358
+nähdä	pyörtyä	1.01270258
+kutea	rentoutua	1.330690692
+haukotella	suudella	0.933793386
+imaista	venytellä	1.010611158
+ilmestyä	maistua	0.876238247
+itkeä	ilmestyä	1.003561237
+synnyttää	herätä	1.019386724
+herättää	lorvailla	0.754369626
+synnyttää	katsoa	1.052696207
+hengittää sisään	hehkua	1.279133623
+tarttua lujasti	katsoa	1.058781759
+hehkua	lemuta	0.885183775
+hengittää	parantua	0.874893232
+maistua	tarttua lujasti	0.951641769
+torkkua	väsyttää	0.410113491
+itkeä	väsyttää	0.846692627
+yskiä	huomata	1.249288243
+haurastua	nuolla	1.081344073
+tarkkailla	silmäillä	0.3479114
+imaista	oksentaa	0.990184881
+silmäillä	oksentaa	1.288112582
+venytellä	katsella	1.171529845
+selviytyä	hengittää	0.864771573
+kuulla	imeä	1.06052872
+imaista	elää	0.789931428
+mulkoilla	lemuta	0.913300001
+lorvailla	katsoa	0.777413947
+herättää	haurastua	1.044195019
+yskiä	särkeä	0.89749182
+synnyttää	maistua	1.078466087
+silmäillä	imaista	1.117397984
+pyörtyä	kuulla	1.228913691
+pyörtyä	elää	0.858615084
+torkkua	puhaltaa	0.992852437
+siristää silmiään	punastua	0.996075585
+tukehtua	esikatsella	1.196447717
+kutea	särkeä	1.025041264
+oksentaa	tarkkailla	1.314318642
+etsiä	ilmestyä	0.946359851
+kutea	katsoa	0.960030395
+näyttää	selviytyä	0.905115241
+laiduntaa	huonontua	0.821703668
+katsella	kutea	0.891467541
+yskiä	hikoilla	1.101252878
+nähdä	mulkoilla	0.419347053
+katsella	väsyttää	1.09790058
+laiduntaa	hengittää ulos	1.379585575
+siristää silmiään	silmäillä	0.697434671
+nähdä	ilmestyä	0.897314105
+särkeä	huomata	1.038849152
+venytellä	pyörtyä	1.05527523
+hikoilla	näyttää	0.935947723
+lorvailla	hengittää sisään	1.057790004
+pureskella	mulkoilla	1.160129827
+tarkkailla	synnyttää	0.912498522
+lemuta	hengittää ulos	1.321140833
+venytellä	uuvuttaa	0.949983214
+väsyttää	löytää	1.079485689
+itkeä	venytellä	1.054230888
+etsiä	imeä	1.033385362
+esikatsella	yllättää	0.855900717
+siristää silmiään	torkkua	0.843956063
+etsiä	tuijottaa	0.598374692
+elää	haukotella	0.843240562
+yllättää	tarkkailla	1.167243382
+ilmestyä	haistaa	0.9254617
+rentoutua	maistua	0.993211534
+oksentaa	itkeä	0.995471427
+ottaa torkut	herättää	0.661236695
+aivastaa	nuolla	1.000698601
+haistaa	tuijottaa	1.05541211
+tuijottaa	itkeä	0.884798093
+tarttua lujasti	aivastaa	1.164036399
+selviytyä	hengittää sisään	0.920133061
+katsella	siristää silmiään	0.665548985
+hikoilla	ottaa torkut	1.095693436
+aivastaa	tarkkailla	1.365577337
+imaista	yskiä	0.917308009
+herätä	katsoa	1.04494917
+venytellä	hengittää sisään	1.097518482
+silmäillä	väsyttää	1.15986771
+venytellä	haista	1.269911665
+huomata	huonontua	0.964143302
+uuvuttaa	esikatsella	1.006887786
+aivastaa	oksentaa	0.690746406
+havaita	väläyttää	0.917874274
+lorvailla	yskiä	1.006882029
+laiduntaa	hengittää sisään	1.362975408
+imaista	uuvuttaa	1.000266857
+uuvuttaa	hengittää	1.047389504
+katsella	pyörtyä	1.062914991
+selvitä	särkeä	1.077834285
+nähdä	väsyttää	1.067114742
+esikatsella	siristää silmiään	0.651957454
+huomata	hikoilla	0.940061194
+yllättää	pureskella	0.918158514
+kuulla	suudella	0.975592409
+etsiä	venytellä	1.237028269
+tukehtua	yllättää	1.090528715
+pyörtyä	tukehtua	0.999539707
+väläyttää	suudella	0.850574091
+oksentaa	hehkua	1.325814799
+pureskella	vetää puoleensa	0.951677897
+parantua	hikoilla	1.338769498
+herättää	uuvuttaa	0.74512298
+katsoa	väläyttää	1.006148452
+haistaa	silmäillä	1.061433989
+silmäillä	haurastua	1.122883585
+haistaa	purra	0.885049003
+elää	katsella	0.821803404
+haurastua	suudella	1.165125682
+löytää	oksentaa	1.230054005
+haukotella	aivastaa	0.761864812
+rentoutua	imaista	0.967086713
+ottaa torkut	synnyttää	1.04093039
+oksentaa	valua pois	1.058776045
+valua pois	suudella	0.883175507
+selvitä	silmäillä	0.908167304
+puhaltaa	väläyttää	1.2428915
+väsyttää	purra	0.993105474
+valua pois	haistaa	0.872653684
+yllättää	synnyttää	1.05705702
+huomata	kutea	0.912691419
+haukotella	haista	1.268918224
+valua pois	pyörtyä	0.960884148
+laiduntaa	haurastua	0.853194052
+tarttua lujasti	haistaa	0.88807825
+herätä	elää	0.781242958
+ottaa torkut	väsyttää	0.495804322
+herätä	pyörtyä	0.873931762
+punastua	kutea	1.188008003
+hengittää sisään	maistua	1.076628609
+selviytyä	katsoa	0.880187688
+etsiä	vetää puoleensa	1.052779013
+katsoa	maistua	0.989408448
+etsiä	näyttää	0.659338042
+maistua	hehkua	0.985294349
+nähdä	selviytyä	0.786495281
+löytää	ottaa torkut	0.927375047
+selvitä	valua pois	0.814136196
+esikatsella	etsiä	0.786872584
+haukotella	torkkua	0.684879583
+oksentaa	kuulla	1.428046826
+imeä	katsoa	1.162847372
+suudella	aivastaa	1.056498146
+yllättää	havaita	0.913982805
+herätä	puhaltaa	1.076023531
+esikatsella	näyttää	0.813594854
+ilmestyä	haurastua	0.943135274
+hengittää	haukotella	0.591984831
+haurastua	hikoilla	0.852860182
+rentoutua	herätä	0.864332233
+kuulla	siristää silmiään	0.866652682
+elää	hengittää ulos	0.777336718
+imaista	maistua	0.734420812
+löytää	imaista	0.923870089
+aivastaa	tukehtua	0.889022461
+hengittää ulos	katsoa	1.290360388
+venytellä	katsoa	1.14798236
+rentoutua	särkeä	1.134518563
+väläyttää	pureskella	1.062225638
+itkeä	tukehtua	0.875723299
+vetää puoleensa	parantua	1.09008265
+yllättää	suudella	0.797929928
+parantua	torkkua	0.929907562
+vetää puoleensa	väsyttää	0.835064404
+oksentaa	pyörtyä	0.858302834
+katsella	selviytyä	0.770715634
+venytellä	väsyttää	0.849743684
+hengittää sisään	imaista	0.720384733
+esikatsella	pureskella	1.116500893
+lemuta	vetää puoleensa	1.092021684
+torkkua	kuulla	1.165196811
+ottaa torkut	puhaltaa	1.03870527
+huomata	itkeä	0.873814672
+ottaa torkut	herätä	0.640527404
+torkkua	vetää puoleensa	0.93613271
+haurastua	mulkoilla	1.047411568
+torkkua	selvitä	0.951784383
+silmäillä	venytellä	1.187611209
+suudella	selvitä	0.76618246
+rentoutua	ilmestyä	0.932031827
+ilmestyä	synnyttää	1.293090852
+purra	kuulla	1.216697736
+näyttää	ottaa torkut	1.080474808
+aivastaa	puhaltaa	0.448692618
+valua pois	maistua	0.957188683
+siristää silmiään	tarkkailla	0.807914934
+haistaa	hengittää	1.248240291
+itkeä	hengittää	1.008325584
+löytää	aivastaa	1.289987359
+väläyttää	huomata	0.831832232
+havaita	siristää silmiään	0.740628769
+särkeä	tuijottaa	0.943396041
+puhaltaa	yllättää	1.048083108
+lemuta	purra	1.15970749
+oksentaa	siristää silmiään	0.919761507
+uuvuttaa	tarttua lujasti	1.098603856
+maistua	hengittää ulos	1.158331413
+haista	hengittää ulos	1.265161474
+huomata	herättää	0.967325901
+silmäillä	hehkua	1.00604458
+huonontua	katsella	0.991270063
+selviytyä	löytää	0.909062857
+purra	oksentaa	0.895483421
+imaista	huomata	0.904799946
+ilmestyä	parantua	1.129365578
+pureskella	yskiä	0.853467113
+haurastua	esikatsella	1.040413734
+maistua	aivastaa	1.162646477
+suudella	ilmestyä	1.046560184
+katsoa	hehkua	0.942900964
+parantua	tarkkailla	1.029290083
+haukotella	puhaltaa	0.64179658
+kuulla	synnyttää	1.120094246
+silmäillä	kutea	1.038384692
+torkkua	aivastaa	0.875424203
+herättää	väläyttää	1.081327363
+uuvuttaa	hengittää ulos	1.082624684
+kuulla	aivastaa	1.29279464
+vetää puoleensa	löytää	1.010770857
+valua pois	tarkkailla	0.862035574
+parantua	oksentaa	0.876144126
+selvitä	hengittää sisään	0.954119385
+silmäillä	lemuta	0.937067846
+katsoa	särkeä	1.121060605
+yskiä	väläyttää	1.165421705
+huomata	synnyttää	0.943847811
+tarkkailla	etsiä	0.488923322
+nuolla	nähdä	1.031942673
+oksentaa	maistua	1.189440104
+tarttua lujasti	haurastua	0.893373065
+torkkua	herättää	0.690812207
+tukehtua	lorvailla	0.986502975
+tukehtua	herätä	1.00479107
+purra	kutea	1.115052008
+huonontua	silmäillä	1.025419463
+lorvailla	mulkoilla	0.952493601
+haista	herätä	1.088951799
+esikatsella	parantua	0.943701828
+uuvuttaa	punastua	1.121445585
+ottaa torkut	laiduntaa	0.976380575
+purra	torkkua	0.855593643
+väsyttää	elää	0.845225874
+pureskella	puhaltaa	0.977178188
+itkeä	tarttua lujasti	0.885955367
+aivastaa	nähdä	1.247958602
+haukotella	huomata	1.033266916
+torkkua	valua pois	1.162933302
+löytää	haukotella	1.237615459
+elää	haistaa	1.023382377
+synnyttää	nähdä	0.950383319
+kuulla	vetää puoleensa	0.984816284
+uuvuttaa	hengittää sisään	1.015244858
+itkeä	haista	1.024859713
+valua pois	hengittää sisään	1.095521192
+mulkoilla	tuijottaa	0.390367456
+synnyttää	herättää	1.031524759
+torkkua	maistua	1.017765673
+mulkoilla	nuolla	1.108824743
+huonontua	nähdä	0.966334631
+puhaltaa	herättää	0.973053018
+imaista	tarkkailla	1.169480685
+pyörtyä	ilmestyä	0.85574915
+hehkua	lorvailla	0.825795508
+selviytyä	huonontua	1.077086664
+oksentaa	selvitä	0.956408607
+valua pois	ottaa torkut	1.216669474
+punastua	etsiä	1.143648106
+haistaa	löytää	0.953686837
+imaista	haukotella	0.800998052
+valua pois	punastua	1.163873927
+herättää	huonontua	1.057645497
+parantua	lorvailla	1.082951884
+parantua	aivastaa	1.069659114
+maistua	etsiä	0.944385303
+hengittää ulos	väsyttää	0.933885936
+itkeä	pureskella	0.998172669
+väläyttää	imeä	0.856584826
+tarttua lujasti	ottaa torkut	0.951125112
+hikoilla	haukotella	1.238137969
+tukehtua	torkkua	1.095709166
+ottaa torkut	uuvuttaa	0.490699886
+hengittää sisään	pyörtyä	0.8630645
+hengittää	ilmestyä	1.133477598
+hikoilla	väläyttää	0.889220355
+herättää	punastua	1.147089414
+imeä	pureskella	0.72290279
+hengittää	tukehtua	1.008704608
+hehkua	nuolla	1.050232352
+siristää silmiään	haistaa	0.96306531
+yllättää	haurastua	0.99242413
+rentoutua	yllättää	1.077544777
+siristää silmiään	suudella	0.918304964
+ottaa torkut	purra	0.850744363
+purra	huomata	1.012481187
+esikatsella	selviytyä	0.780953467
+haista	suudella	1.059758285
+haistaa	haurastua	1.104173947
+imeä	hengittää sisään	0.823540328
+purra	nähdä	1.107370525
+haista	haistaa	0.453643887
+purra	rentoutua	0.891620479
+silmäillä	herättää	1.042292684
+näyttää	synnyttää	1.160921121
+selviytyä	tukehtua	0.942021461
+pureskella	havaita	1.146772347
+purra	itkeä	0.990763554
+yllättää	löytää	0.998822636
+lorvailla	elää	0.90746817
+löytää	kutea	1.10974447
+väläyttää	uuvuttaa	1.143633368
+herättää	mulkoilla	0.967370099
+pureskella	nähdä	1.105584924
+katsoa	purra	0.993990623
+tuijottaa	herätä	0.984836459
+parantua	suudella	0.92597894
+tuijottaa	huonontua	0.954043726
+puhaltaa	huomata	1.164589367
+parantua	kuulla	1.161746548
+kutea	venytellä	1.053422138
+etsiä	kutea	1.056278666
+synnyttää	siristää silmiään	1.118013847
+esikatsella	aivastaa	1.087034221
+itkeä	kutea	1.015343898
+hehkua	torkkua	0.800563645
+purra	hengittää	1.050470945
+lemuta	elää	1.125925612
+näyttää	pureskella	1.144738341
+imaista	esikatsella	1.114021005
+huomata	kuulla	0.539397098
+herätä	nähdä	0.874681367
+tarttua lujasti	katsella	1.059453013
+haukotella	imeä	0.787182448
+venytellä	tukehtua	1.089762037
+ilmestyä	särkeä	0.965461718
+huonontua	torkkua	0.979715874
+väsyttää	pyörtyä	0.747530595
+haurastua	väläyttää	0.870130768
+haistaa	maistua	0.809735688
+imaista	siristää silmiään	0.834012681
+pyörtyä	yllättää	1.161596641
+ottaa torkut	pureskella	0.863143517
+pureskella	huomata	1.035893858
+ilmestyä	esikatsella	1.015711448
+synnyttää	rentoutua	1.205609797
+ottaa torkut	lorvailla	0.287438227
+havaita	torkkua	1.005804707
+pureskella	tarttua lujasti	1.033824205
+synnyttää	väsyttää	1.069716089
+imaista	haurastua	1.050959329
+elää	hikoilla	1.163742574
+tarttua lujasti	laiduntaa	0.861929554
+itkeä	valua pois	0.889387269
+rentoutua	väsyttää	0.653734022
+pureskella	kutea	1.087659506
+ilmestyä	siristää silmiään	1.039489669
+rentoutua	etsiä	0.864303424
+valua pois	esikatsella	0.930593726
+silmäillä	yskiä	1.31636137
+valua pois	laiduntaa	1.18741896
+hikoilla	lemuta	0.568564401
+tarkkailla	hengittää	1.324388549
+aivastaa	selviytyä	0.913448886
+väläyttää	tarttua lujasti	0.893434798
+haistaa	imeä	0.716322531
+näyttää	rentoutua	1.002587162
+selviytyä	haista	1.056847841
+väsyttää	herättää	0.75976262
+kuulla	laiduntaa	1.168050262
+herättää	selvitä	1.01274612
+silmäillä	väläyttää	1.159068917
+yskiä	laiduntaa	1.379227263
+venytellä	tuijottaa	1.076374988
+tukehtua	silmäillä	1.142856499
+itkeä	hehkua	0.814505301
+huonontua	herätä	0.973378918
+huonontua	lorvailla	0.914452735
+laiduntaa	tuijottaa	1.088889757
+hengittää	vetää puoleensa	1.018998296
+imaista	hikoilla	1.153472549
+imeä	huonontua	1.156627803
+haurastua	rentoutua	1.039378323
+herättää	nuolla	0.878901077
+väsyttää	valua pois	1.008326683
+torkkua	nähdä	0.949502854
+ottaa torkut	torkkua	0.244085292
+hikoilla	tarttua lujasti	0.919288938
+haurastua	haista	0.902756571
+näyttää	herättää	1.185909942
+särkeä	pyörtyä	0.760501996
+yskiä	selviytyä	0.997700832
+haista	tarkkailla	0.872635734
+puhaltaa	punastua	1.163835722
+hikoilla	rentoutua	0.937129103
+elää	ottaa torkut	0.902806367
+vetää puoleensa	tarttua lujasti	0.627833465
+hengittää sisään	haistaa	1.136053243
+ilmestyä	kutea	1.184065423
+pyörtyä	parantua	1.158683123
+torkkua	pureskella	0.88217023
+väläyttää	tarkkailla	1.035786698
+tukehtua	katsella	1.138889783
+hengittää sisään	etsiä	1.317216028
+hengittää sisään	löytää	1.254482858
+väläyttää	katsella	1.117305112
+venytellä	nähdä	1.139753761
+katsoa	nuolla	1.10014248
+yskiä	puhaltaa	0.537757847
+maistua	venytellä	1.11846506
+kutea	huonontua	0.977096457
+itkeä	hengittää sisään	1.054450756
+huomata	imeä	0.902201512
+laiduntaa	uuvuttaa	0.982634098
+haurastua	tarkkailla	1.100750228
+uuvuttaa	silmäillä	1.088870706
+itkeä	yskiä	1.052067286
+hikoilla	aivastaa	1.105319944
+uuvuttaa	huonontua	1.090295164
+itkeä	ottaa torkut	0.832196761
+haurastua	lemuta	0.918742632
+nähdä	etsiä	0.547216678
+yllättää	imeä	0.978766152
+hehkua	aivastaa	1.286425467
+yllättää	huomata	0.858997301
+punastua	ilmestyä	1.057845497
+parantua	laiduntaa	1.210654051
+huonontua	löytää	0.866320345
+havaita	puhaltaa	1.096182385
+nuolla	yskiä	0.879654879
+purra	hengittää sisään	1.093608438
+silmäillä	yllättää	0.984605281
+imaista	havaita	1.0326212
+siristää silmiään	nähdä	0.70962828
+etsiä	siristää silmiään	0.767174171
+katsoa	haukotella	1.069954194
+imeä	tukehtua	0.991190607
+synnyttää	silmäillä	1.115970275
+haurastua	kuulla	1.244905004
+imaista	nähdä	1.131413381
+herätä	hengittää ulos	1.067960058
+särkeä	elää	1.027201825
+laiduntaa	pyörtyä	1.106782675
+haurastua	vetää puoleensa	1.056648694
+torkkua	imaista	0.947778499
+hehkua	mulkoilla	0.941204024
+mulkoilla	torkkua	0.871834758
+haurastua	väsyttää	0.894493777
+katsella	etsiä	0.491930985
+vetää puoleensa	suudella	0.909562936
+hehkua	tuijottaa	1.008084725
+löytää	herätä	1.065290551
+herättää	nähdä	0.909065646
+lorvailla	torkkua	0.3005969
+hehkua	selvitä	0.978649449
+hengittää sisään	näyttää	1.136738033
+vetää puoleensa	valua pois	0.950787897
+imaista	kuulla	1.034983336
+suudella	selviytyä	0.791062351
+löytää	yskiä	1.255315624
+kutea	hehkua	1.243762376
+hehkua	kuulla	0.944488067
+yllättää	hehkua	0.95974479
+löytää	huomata	0.496696007
+ilmestyä	haukotella	1.189925176
+puhaltaa	tukehtua	1.036349361
+valua pois	nähdä	0.973929503
+särkeä	silmäillä	1.110629979
+etsiä	haukotella	1.133168196
+herättää	hengittää ulos	1.070742297
+puhaltaa	mulkoilla	1.209125093
+laiduntaa	herättää	0.896244364
+huonontua	venytellä	1.061374974
+hikoilla	tarkkailla	1.045249535
+yskiä	synnyttää	1.189044066
+näyttää	herätä	1.09634735
+huomata	mulkoilla	0.395919355
+yskiä	haurastua	1.132446206
+haurastua	aivastaa	1.03659678
+mulkoilla	tarttua lujasti	1.118987214
+rentoutua	katsoa	0.776048144
+särkeä	purra	1.044892675
+maistua	haista	0.784620481
+elää	silmäillä	0.91339597
+kutea	haurastua	1.108005205
+herättää	tarttua lujasti	0.844443215
+tukehtua	huomata	1.086058747
+esikatsella	purra	0.993390679
+tarkkailla	laiduntaa	1.120124211
+itkeä	havaita	0.935713134
+synnyttää	haurastua	1.099399078
+vetää puoleensa	silmäillä	1.193524293
+aivastaa	katsoa	1.279239274
+haurastua	havaita	1.047959365
+etsiä	väläyttää	0.877370075
+nuolla	silmäillä	1.037429388
+särkeä	haurastua	0.674159079
+etsiä	huomata	0.447096567
+lorvailla	selvitä	0.918367342
+haurastua	hengittää ulos	1.197057226
+huonontua	yllättää	0.920430313
+maistua	suudella	0.931129593
+rentoutua	vetää puoleensa	1.064014613
+pureskella	hikoilla	1.100114893
+yskiä	väsyttää	0.936042546
+havaita	silmäillä	0.362253164
+katsoa	lemuta	0.868134543
+elää	yllättää	0.969870279
+purra	siristää silmiään	0.936557883
+tarkkailla	huonontua	0.966517497
+haurastua	tuijottaa	1.066927501
+uuvuttaa	lorvailla	0.516460393
+punastua	vetää puoleensa	0.752685972
+vetää puoleensa	selvitä	0.87891956
+venytellä	imeä	1.051199373
+pureskella	silmäillä	1.180799831
+venytellä	hengittää ulos	1.003175276
+elää	itkeä	0.876510809
+haurastua	maistua	0.982958824
+haukotella	väläyttää	1.154782199
+hikoilla	yllättää	1.062073024
+väläyttää	kutea	1.027429616
+laiduntaa	nuolla	0.831599012
+haista	silmäillä	0.886343952
+herätä	torkkua	0.692500259
+etsiä	havaita	0.474057216
+haukotella	katsella	1.124905445
+synnyttää	tukehtua	1.114254972
+selviytyä	selvitä	0.243718309
+näyttää	venytellä	1.27630395
+haukotella	laiduntaa	1.241010003
+hengittää	yskiä	0.624632767
+yllättää	uuvuttaa	1.13082329
+havaita	elää	0.829564478
+katsella	vetää puoleensa	1.118508491
+uuvuttaa	tuijottaa	0.883649617
+katsoa	ottaa torkut	0.782591626
+purra	herätä	0.864578024
+puhaltaa	silmäillä	1.173352568
+löytää	maistua	0.83913009
+laiduntaa	oksentaa	1.248099885
+huomata	näyttää	0.647950364
+lorvailla	hengittää	1.016590054
+selvitä	katsoa	0.972015358
+hengittää	suudella	1.045088146
+tarttua lujasti	hehkua	0.876998985
+hehkua	väsyttää	0.883263504
+katsoa	havaita	0.357498249
+mulkoilla	silmäillä	0.298527164
+suudella	uuvuttaa	1.097099265
+valua pois	hengittää ulos	1.140078203
+oksentaa	huonontua	1.270795088
+punastua	väsyttää	1.014361773
+puhaltaa	maistua	1.183271841
+punastua	parantua	1.342935402
+aivastaa	laiduntaa	1.234945218
+uuvuttaa	torkkua	0.535467494
+silmäillä	herätä	1.076909599
+selviytyä	havaita	0.860617541
+elää	venytellä	1.100939331
+selviytyä	tarkkailla	0.772402551
+ilmestyä	kuulla	0.850247873
+tuijottaa	tukehtua	1.113411147
+puhaltaa	valua pois	1.135659477
+haistaa	nuolla	0.906391939
+nähdä	hengittää	1.220439924
+yllättää	laiduntaa	0.860363996
+hikoilla	mulkoilla	0.976949186
+itkeä	tarkkailla	0.88141661
+ottaa torkut	havaita	1.007730896
+haista	siristää silmiään	0.99237562
+venytellä	pureskella	0.91781075
+itkeä	esikatsella	1.003670123
+tarttua lujasti	pyörtyä	0.884273223
+tarkkailla	herätä	1.060980483
+katsella	parantua	0.949463449
+rentoutua	suudella	1.167965689
+mulkoilla	rentoutua	0.825080164
+vetää puoleensa	siristää silmiään	0.799506135
+löytää	nähdä	0.606846551
+lemuta	pureskella	1.163907476
+torkkua	tarttua lujasti	0.785200083
+maistua	ottaa torkut	1.053218332
+torkkua	itkeä	0.880989266
+nuolla	selvitä	0.86861736
+yllättää	näyttää	1.008559934
+laiduntaa	puhaltaa	1.37054454
+tarkkailla	imeä	1.221720558
+siristää silmiään	haurastua	1.148506861
+selviytyä	kutea	0.923508078
+suudella	herättää	1.157520122
+aivastaa	uuvuttaa	1.02942466
+imaista	väläyttää	1.004787284
+yllättää	etsiä	1.027690827
+torkkua	väläyttää	0.883299006
+tuijottaa	synnyttää	1.045723121
+siristää silmiään	lemuta	0.97675955
+imeä	purra	0.700286054
+hikoilla	itkeä	0.94031058
+synnyttää	suudella	1.046168488
+herättää	tukehtua	1.136025704
+silmäillä	löytää	0.567171543
+katsella	haurastua	0.989121967
+huomata	uuvuttaa	1.046396312
+tukehtua	haistaa	1.252225236
+herätä	maistua	0.940731419
+uuvuttaa	selvitä	0.957615937
+hengittää ulos	haukotella	0.641712552
+lemuta	parantua	1.247257728
+pureskella	selvitä	0.948266635
+lorvailla	havaita	0.923295981
+esikatsella	hengittää	1.085360405
+hengittää	maistua	1.185147565
+selvitä	yllättää	0.96666645
+mulkoilla	venytellä	1.144815923
+kutea	nähdä	0.94057798
+yskiä	ilmestyä	1.105033653
+hengittää	imeä	0.770215373
+haista	selvitä	1.038728013
+näyttää	suudella	0.99939719
+herätä	katsella	0.999423784
+punastua	haurastua	1.154669781
+tukehtua	särkeä	0.841668598
+valua pois	löytää	0.919781449
+katsoa	pureskella	1.035782923
+hengittää sisään	silmäillä	1.244395116
+pyörtyä	tarkkailla	1.083587381
+puhaltaa	nuolla	1.054889637
+tarttua lujasti	nuolla	0.945576409
+väläyttää	särkeä	1.074630263
+selvitä	hengittää	0.891289836
+kuulla	hikoilla	0.995451104
+aivastaa	ilmestyä	1.096904417
+puhaltaa	hengittää sisään	0.42592055
+etsiä	imaista	0.890397233
+hikoilla	haista	0.561437024
+huonontua	punastua	1.006184307
+uuvuttaa	haistaa	1.257471733
+haista	nuolla	0.975940834
+maistua	nuolla	0.74115266
+torkkua	haista	1.125790594
+etsiä	torkkua	0.989068673
+uuvuttaa	valua pois	1.163990715
+oksentaa	hikoilla	1.17619061
+imeä	suudella	0.723520312
+aivastaa	lorvailla	1.017057158
+huomata	valua pois	0.898653673
+herätä	selvitä	0.892282005
+näyttää	hengittää	1.175820889
+tukehtua	laiduntaa	1.207429668
+ottaa torkut	pyörtyä	0.744447584
+ilmestyä	tarkkailla	0.961943851
+tarkkailla	näyttää	0.612703494
+haukotella	mulkoilla	1.161890368
+itkeä	suudella	0.886727469
+löytää	hehkua	0.921710845
+hengittää ulos	parantua	0.917010545
+särkeä	imaista	1.084031698
+haista	herättää	1.132898457
+tuijottaa	löytää	0.605991847
+esikatsella	tarkkailla	0.463419034
+katsoa	elää	0.86080663
+tarttua lujasti	yllättää	0.805928126
+imeä	herättää	1.077386677
+parantua	hengittää sisään	0.951075383
+löytää	uuvuttaa	1.064522563
+katsella	imaista	1.089233082
+valua pois	silmäillä	1.095037378
+haista	hengittää	1.26673308
+tukehtua	yskiä	0.762530236
+haistaa	herättää	1.148889792
+haukotella	ottaa torkut	0.672463701
+herätä	yskiä	1.054789915
+hengittää	hengittää sisään	0.190151434
+puhaltaa	huonontua	1.242978864
+hehkua	tarkkailla	1.027379094
+tuijottaa	selviytyä	0.933363895
+ilmestyä	katsella	1.015132651
+näyttää	selvitä	0.992067382
+tuijottaa	elää	0.901930417
+tarttua lujasti	silmäillä	1.071966037
+rentoutua	venytellä	0.865380749
+haistaa	parantua	1.123498294
+haurastua	selviytyä	1.087077032
+yskiä	haista	1.185667059
+hehkua	esikatsella	1.025768565
+imeä	valua pois	0.984405632
+nuolla	hengittää ulos	0.959440011
+yllättää	parantua	1.176458308
+esikatsella	kutea	0.990903009
+havaita	herättää	0.978898339
+nuolla	selviytyä	0.93144281
+yskiä	parantua	1.000210999
+herätä	lemuta	1.021233149
+selvitä	hikoilla	1.16556615
+esikatsella	lemuta	0.960099919
+huomata	pyörtyä	1.025515531
+hengittää	rentoutua	0.883631928
+synnyttää	hengittää ulos	1.196803538
+valua pois	imaista	0.99475649
+valua pois	herätä	1.099537904
+pureskella	punastua	0.926020969
+katsella	laiduntaa	1.072374195
+haista	katsella	0.96469323
+hengittää	ottaa torkut	0.917850176
+katsella	oksentaa	1.171255512
+löytää	synnyttää	1.052192009
+tuijottaa	huomata	0.498548304
+lorvailla	väläyttää	1.018133389
+punastua	katsella	1.081696177
+rentoutua	nuolla	0.978833721
+haistaa	kuulla	0.991324055
+lemuta	yllättää	0.960587688
+haukotella	hehkua	1.131271474
+katsella	imeä	1.174686551
+lorvailla	haukotella	0.689961594
+haistaa	selvitä	1.006274913
+etsiä	laiduntaa	0.968212519
+punastua	laiduntaa	1.212387585
+lemuta	torkkua	1.168462052
+väsyttää	haistaa	1.205988791
+huomata	haista	0.777889097
+haukotella	särkeä	1.252422518
+tukehtua	parantua	1.238898545
+havaita	selvitä	0.907832694
+esikatsella	synnyttää	1.066953871
+maistua	näyttää	0.882212204
+yskiä	vetää puoleensa	1.142096032
+torkkua	punastua	0.968455521
+valua pois	etsiä	1.072942087
+vetää puoleensa	tarkkailla	1.098744577
+imeä	oksentaa	0.928807203
+haukotella	nähdä	1.089033732
+tuijottaa	hikoilla	0.8647424
+lorvailla	väsyttää	0.435349139
+hikoilla	herättää	1.073278061
+huomata	väsyttää	1.028305586
+venytellä	yllättää	1.020388463
+itkeä	löytää	0.921609031
+venytellä	ottaa torkut	0.89816799
+tarkkailla	torkkua	1.054281164
+hikoilla	hengittää ulos	1.254189793
+löytää	siristää silmiään	0.812298782
+haurastua	imeä	1.11060761
+hengittää sisään	herätä	1.046687355
+torkkua	hengittää ulos	0.901571585
+nuolla	kutea	1.017451499
+kuulla	mulkoilla	0.687493032
+herätä	hengittää	0.96233675
+synnyttää	kutea	0.711510253
+hengittää ulos	mulkoilla	1.263560442
+esikatsella	suudella	1.076335205
+havaita	tarkkailla	0.319473335
+katsella	synnyttää	1.007322437
+elää	pureskella	0.934815594
+puhaltaa	haistaa	0.998194167
+kuulla	selviytyä	0.825302623
+löytää	katsoa	0.604619029
+pyörtyä	punastua	1.129032705
+hengittää ulos	siristää silmiään	0.827331067
+hengittää sisään	nähdä	1.192370271
+hengittää	etsiä	1.334011157
+hengittää	tarttua lujasti	1.071749327
+tuijottaa	katsella	0.438581158
+hehkua	suudella	1.039934456
+uuvuttaa	parantua	1.019770474
+haista	vetää puoleensa	1.066398431
+venytellä	lemuta	1.23885705
+särkeä	laiduntaa	1.194901755
+ottaa torkut	silmäillä	0.99717817
+punastua	tarkkailla	1.08842406
+kutea	elää	0.89927794
+mulkoilla	uuvuttaa	1.05253796
+huonontua	suudella	1.073723125
+venytellä	nuolla	0.890261628
+puhaltaa	haista	1.234597291
+ottaa torkut	ilmestyä	1.136428088
+ottaa torkut	tukehtua	0.935569607
+hengittää	torkkua	0.87597265
+valua pois	näyttää	0.847992849
+väläyttää	hehkua	0.817259428
+herätä	havaita	1.066968225
+pyörtyä	purra	0.915744732
+purra	haurastua	0.995622901
+selviytyä	särkeä	1.095129767
+tarttua lujasti	puhaltaa	1.055413293
+katsella	näyttää	0.723447984
+itkeä	nuolla	0.779105901
+imaista	hengittää	0.783933028
+suudella	löytää	1.054606885
+lorvailla	imeä	1.084051174
+selvitä	synnyttää	0.929525472
+oksentaa	uuvuttaa	1.086780242
+siristää silmiään	tuijottaa	0.684772366
+aivastaa	lemuta	1.230428998
+maistua	itkeä	0.851937818
+herätä	suudella	1.19985065
+haistaa	haukotella	1.280554737
+haistaa	laiduntaa	1.1304822
+selviytyä	parantua	0.838963043
+rentoutua	punastua	1.084789306
+kuulla	katsella	0.715649987
+hikoilla	pyörtyä	0.794740815
+lorvailla	rentoutua	0.54070096
+esikatsella	väläyttää	1.049769864
+parantua	haista	1.236265508
+kutea	imeä	1.181433549
+itkeä	rentoutua	1.062461312
+silmäillä	kuulla	0.716813487
+näyttää	löytää	0.840894393
+vetää puoleensa	oksentaa	1.126347044
+esikatsella	yskiä	1.155384024
+nähdä	laiduntaa	1.110316636
+tarkkailla	kutea	0.978090474
+kutea	valua pois	0.83363822
+näyttää	pyörtyä	0.982089449
+haistaa	yllättää	0.963965655
+hengittää sisään	havaita	1.158931939
+lorvailla	siristää silmiään	0.872307076
+huonontua	väsyttää	1.004764402
+maistua	huonontua	1.034001271
+nuolla	hengittää	0.947632948
+katsoa	hengittää	1.184433322
+yllättää	imaista	1.089514279
+itkeä	vetää puoleensa	0.955875183
+tuijottaa	vetää puoleensa	1.065487042
+selvitä	ottaa torkut	0.982571393
+pyörtyä	selvitä	0.975637368
+elää	oksentaa	0.793977128
+venytellä	synnyttää	1.237278775
+vetää puoleensa	selviytyä	0.884599082
+maistua	parantua	1.02419065
+väsyttää	ilmestyä	1.091555413
+aivastaa	rentoutua	0.855936691
+katsoa	itkeä	0.905737129
+silmäillä	parantua	1.189900644
+hengittää	pureskella	1.054930175
+pyörtyä	havaita	0.999571734
+punastua	väläyttää	0.847504406
+nähdä	uuvuttaa	1.014958334
+huonontua	siristää silmiään	1.061615109
+katsoa	huomata	0.368574609
+väläyttää	haista	0.942786591
+herätä	nuolla	0.997977817
+löytää	esikatsella	0.757500373
+aivastaa	imeä	1.028547467
+tarkkailla	selvitä	0.82424187
+venytellä	särkeä	1.153231326
+löytää	havaita	0.426075822
+yskiä	tarttua lujasti	1.185578075
+aivastaa	havaita	1.21689919
+vetää puoleensa	aivastaa	1.114644946
+kuulla	tukehtua	1.211963143
+imeä	vetää puoleensa	0.965213664
+näyttää	tarttua lujasti	0.993113266
+katsoa	laiduntaa	1.039629071
+ilmestyä	selvitä	0.999211874
+väläyttää	haistaa	1.107970062
+ilmestyä	imaista	0.819277265
+lemuta	selviytyä	1.05461031
+oksentaa	katsoa	1.258051447
+purra	löytää	1.195060399
+venytellä	haistaa	1.153809023
+selviytyä	hehkua	0.900555053
+haista	nähdä	0.980183387
+yllättää	ottaa torkut	0.978020288
+tarkkailla	nuolla	1.193590932
+hengittää ulos	löytää	1.350624721
+hengittää sisään	herättää	1.214578702
+tuijottaa	haista	0.907478287
+esikatsella	havaita	0.548179793
+esikatsella	tuijottaa	0.382433728
+kutea	yskiä	1.362490998
+herätä	esikatsella	0.935091055
+esikatsella	nuolla	0.988146988
+oksentaa	herättää	1.071311218
+haista	etsiä	0.928173336
+tuijottaa	yskiä	1.178785692
+purra	elää	0.944946146
+näyttää	haukotella	1.121171554
+imaista	laiduntaa	1.082094441
+kutea	hengittää sisään	1.295525689
+laiduntaa	torkkua	0.999642309
+särkeä	siristää silmiään	0.837457547
+uuvuttaa	näyttää	1.384366392
+nuolla	oksentaa	0.987067268
+puhaltaa	hehkua	1.317368458
+imeä	puhaltaa	0.901003698
+kuulla	selvitä	0.820982241
+pyörtyä	suudella	1.266173007
+synnyttää	mulkoilla	1.129953353
+mulkoilla	pyörtyä	1.093199164
+synnyttää	imaista	1.199774577
+ottaa torkut	hengittää ulos	0.971951753
+punastua	silmäillä	1.122421527
+pyörtyä	uuvuttaa	0.906146851
+herättää	maistua	0.968599504
+ottaa torkut	huonontua	0.938709512
+silmäillä	haukotella	1.150440803
+katsoa	tuijottaa	0.280358024
+esikatsella	silmäillä	0.325324323
+löytää	nuolla	1.008411212
+siristää silmiään	huomata	0.766684436
+haistaa	itkeä	0.9938475
+väsyttää	hengittää	0.87830508
+haurastua	etsiä	1.151737874
+rentoutua	parantua	1.017298358
+havaita	hengittää	1.190810333
+haista	ottaa torkut	1.119400501
+yllättää	tuijottaa	0.892317988
+vetää puoleensa	mulkoilla	1.057078405
+haistaa	oksentaa	1.169265083
+vetää puoleensa	haukotella	0.853673846
+nähdä	tarkkailla	0.327988607
+elää	mulkoilla	0.998521106
+mulkoilla	huonontua	0.958655326
+yllättää	haukotella	1.106887058
+näyttää	imaista	0.878497977
+vetää puoleensa	herätä	1.000594897
+katsoa	ilmestyä	0.928352947
+torkkua	selviytyä	0.851133234
+purra	silmäillä	1.12828933
+tarttua lujasti	huomata	0.909325902
+havaita	tuijottaa	0.425391339
+parantua	haurastua	1.066042162
+havaita	venytellä	1.106971937
+katsoa	katsella	0.318832891
+nähdä	tuijottaa	0.362963133
+hengittää	synnyttää	1.198097282
+hengittää ulos	yllättää	1.083216093
+tukehtua	näyttää	1.256615791
+torkkua	venytellä	0.783071876
+synnyttää	valua pois	0.943135229
+valua pois	venytellä	1.136840028
+imaista	huonontua	1.139740829
+mulkoilla	aivastaa	1.287343352
+näyttää	torkkua	1.126189451
+nähdä	väläyttää	1.016079728
+nuolla	hikoilla	1.210771816
+yllättää	kuulla	1.014729799
+synnyttää	purra	1.17137332
+hengittää	hengittää ulos	0.197760436
+haukotella	oksentaa	0.97076411
+huomata	ottaa torkut	0.897680489
+nähdä	huomata	0.416528285
+tukehtua	huonontua	0.977025083
+haista	tukehtua	1.236332506
+kutea	selvitä	0.821524505
+nähdä	tarttua lujasti	1.101949944
+katsella	herättää	0.901822642
+silmäillä	rentoutua	0.941408027
+ilmestyä	herätä	1.086594397
+haistaa	katsoa	1.02553949
+tarkkailla	tarttua lujasti	1.119707121
+tuijottaa	puhaltaa	1.028536674
+näyttää	katsoa	0.626722698
+imeä	havaita	1.031262196
+tukehtua	ilmestyä	1.055655593
+hikoilla	etsiä	0.958316216
+torkkua	katsella	0.924296058
+lemuta	tarttua lujasti	0.885832279
+imaista	pureskella	0.821297958
+imaista	herätä	0.973530238
+yskiä	torkkua	0.974022673
+hikoilla	löytää	0.938144535
+tarttua lujasti	haista	0.857763641
+ilmestyä	purra	1.038581094
+imaista	itkeä	0.87943116
+löytää	pyörtyä	0.996173866
+synnyttää	torkkua	1.066292378
+siristää silmiään	imeä	0.816350948
+lorvailla	oksentaa	1.033203527
+huomata	haurastua	1.073528606
+imeä	tarttua lujasti	0.932113573
+herätä	kutea	1.234369866
+löytää	ilmestyä	0.760764889
+tarttua lujasti	synnyttää	1.105624685
+herättää	herätä	0.634292262
+hengittää sisään	haista	1.195350319
+valua pois	selviytyä	0.891935206
+venytellä	hengittää	1.036502276
+tukehtua	elää	0.797688005
+siristää silmiään	valua pois	0.928929261
+laiduntaa	selviytyä	0.98648765
+oksentaa	rentoutua	0.992832229
+parantua	imaista	1.053514961
+pyörtyä	väläyttää	0.927117546
+ilmestyä	vetää puoleensa	0.896875843
+pureskella	tukehtua	1.115343761
+vetää puoleensa	laiduntaa	1.044592234
+tarttua lujasti	hengittää ulos	1.073909394
+yskiä	lemuta	1.223773238
+haistaa	vetää puoleensa	1.032990891
+mulkoilla	väsyttää	1.091116429
+kuulla	nähdä	0.565620775
+katsella	itkeä	0.841905842
+hengittää	väläyttää	1.234007666
+pureskella	selviytyä	0.936124671
+hikoilla	laiduntaa	1.024960357
+tuijottaa	kutea	0.888842162
+hengittää sisään	siristää silmiään	0.863569437
+näyttää	aivastaa	1.186120051
+siristää silmiään	aivastaa	1.032194079
+mulkoilla	löytää	0.618623194
+havaita	haistaa	0.952861115
+särkeä	katsella	1.092824377
+ottaa torkut	aivastaa	0.916134726
+huomata	ilmestyä	0.832337473
+pureskella	etsiä	1.044153954
+yllättää	punastua	0.894375683
+hehkua	imeä	0.896253825
+nähdä	imeä	1.149876361
+silmäillä	huomata	0.430069675
+tarttua lujasti	ilmestyä	1.022971259
+pureskella	haistaa	0.882357828
+yllättää	torkkua	0.917865142
+tarkkailla	kuulla	0.605489502
+maistua	purra	0.811187037
+silmäillä	itkeä	0.985690026
+herätä	huomata	0.925833941
+haurastua	uuvuttaa	1.055521621
+rentoutua	väläyttää	1.03019209
+näyttää	yskiä	1.114840207
+esikatsella	torkkua	0.934380084
+suudella	nuolla	0.557913332
+havaita	haista	0.881857753
+punastua	hengittää	1.209393656
+hikoilla	huonontua	0.949164995
+haurastua	pyörtyä	0.866727121
+pyörtyä	silmäillä	1.159428688
+aivastaa	silmäillä	1.288838575
+väläyttää	mulkoilla	1.066694597
+rentoutua	ottaa torkut	0.486591685
+parantua	ottaa torkut	0.981790619
+hengittää sisään	tukehtua	0.980498872
+hengittää sisään	katsoa	1.212428255
+parantua	nähdä	1.042626738
+kutea	havaita	1.047914997
+hehkua	laiduntaa	1.023821007
+haistaa	hengittää ulos	1.191943321
+suudella	tarkkailla	1.163500803
+etsiä	herätä	0.956260598
+pyörtyä	kutea	1.42311162
+hehkua	näyttää	0.988274924
+hengittää	silmäillä	1.250666886
+etsiä	katsoa	0.482897812
+selvitä	löytää	0.880148723
+hengittää sisään	yskiä	0.587118777
+herätä	itkeä	0.885324619
+punastua	nähdä	1.154772958
+etsiä	itkeä	0.978670873
+löytää	torkkua	0.911456477
+itkeä	lemuta	0.921412484
+lorvailla	venytellä	0.888768034
+huonontua	haurastua	0.664155184
+hikoilla	katsoa	0.870486924
+herätä	hehkua	0.816125018
+nuolla	lorvailla	0.923553999
+rentoutua	löytää	0.856471264
+väläyttää	laiduntaa	0.870329731
+puhaltaa	hikoilla	1.316413517
+synnyttää	parantua	1.002409674
+valua pois	tarttua lujasti	0.948284634
+siristää silmiään	pureskella	0.931663397
+haistaa	ottaa torkut	1.09587999
+selvitä	aivastaa	0.934091814
+nuolla	siristää silmiään	0.869792697
+väsyttää	suudella	1.145592569
+kuulla	väsyttää	1.243924332
+vetää puoleensa	lorvailla	1.018445807
+pureskella	aivastaa	0.923724761
+parantua	imeä	0.982298327
+ottaa torkut	lemuta	1.158410669
+väläyttää	yllättää	0.803928133
+lemuta	haistaa	0.444732961
+tuijottaa	hengittää	1.12738191
+punastua	tarttua lujasti	0.825168823
+pureskella	laiduntaa	0.848817819
+parantua	katsoa	1.007184147
+aivastaa	herättää	0.981362956
+nuolla	valua pois	0.930552762
+nuolla	huomata	0.96048744
+suudella	ottaa torkut	1.148080302
+lemuta	herättää	1.14429576
+etsiä	selviytyä	0.854169694
+haukotella	tarkkailla	1.18859435
+suudella	punastua	0.806718591
+silmäillä	suudella	1.101466697
+lemuta	näyttää	0.778306875
+nuolla	imeä	0.767786604
+maistua	väläyttää	0.662643702
+elää	huomata	0.796323239
+havaita	huomata	0.170701178
+haistaa	katsella	1.04141368
+hengittää ulos	puhaltaa	0.314543693
+tarttua lujasti	huonontua	0.924639525
+purra	uuvuttaa	0.877062097
+kutea	tukehtua	1.305686598
+huomata	hehkua	0.937685874
+laiduntaa	maistua	0.962891744
+haista	löytää	0.80107312
+ottaa torkut	haurastua	0.993950342
+siristää silmiään	elää	0.660751064
+havaita	oksentaa	1.156996465
+pureskella	uuvuttaa	0.865562613
+tarttua lujasti	kutea	0.921134453
+yllättää	mulkoilla	0.902925289
+hengittää sisään	tarttua lujasti	1.143409052
+haurastua	katsoa	1.044793186
+purra	katsella	1.039384377
+valua pois	tuijottaa	0.931397779
+haukotella	tukehtua	1.065184412
+hengittää sisään	rentoutua	0.869963418
+väsyttää	yllättää	0.998610558
+tukehtua	imaista	0.959570565
+herätä	uuvuttaa	0.728728327
+haistaa	herätä	1.094659251
+parantua	elää	0.807811529
+huonontua	hengittää ulos	1.298311545
+mulkoilla	haistaa	1.066494519
+selvitä	väsyttää	1.010712872
+hengittää ulos	huomata	1.167818316
+tarkkailla	elää	0.925180504
+lemuta	maistua	0.821583938
+imaista	haistaa	0.745987422
+imaista	katsoa	1.176940482
+imeä	torkkua	1.058252691
+yskiä	ottaa torkut	1.004318436
+hehkua	huonontua	0.959936986
+laiduntaa	väsyttää	0.918814079
+ilmestyä	tuijottaa	0.926134043
+selviytyä	hikoilla	1.196045206
+torkkua	särkeä	1.044321344
+elää	selviytyä	0.550165603
+laiduntaa	silmäillä	1.062903061
+haista	oksentaa	1.23025714
+lorvailla	yllättää	1.051314793
+haukotella	selvitä	0.80206642
+lorvailla	maistua	1.034513475
+selvitä	puhaltaa	0.937389892
+imeä	tuijottaa	1.180758221
+oksentaa	kutea	1.469759694
+pyörtyä	aivastaa	0.883422286
+hengittää sisään	huomata	1.136161128
+elää	torkkua	0.896269828
+hehkua	haista	0.93861911
+torkkua	huomata	0.954023807
+tuijottaa	maistua	0.982360395
+löytää	etsiä	0.3979684
+nuolla	näyttää	1.097329244
+hehkua	hikoilla	0.924521667
+yllättää	oksentaa	1.212378639
+hengittää sisään	punastua	1.250691124
+nähdä	suudella	1.001624013
+tukehtua	lemuta	1.185375493
+selviytyä	synnyttää	0.925282494
+etsiä	uuvuttaa	1.143413739
+löytää	elää	0.922724984
+huonontua	aivastaa	1.165813023
+ottaa torkut	imaista	0.959696686
+kuulla	ottaa torkut	1.126043752
+väläyttää	lemuta	0.915863933
+särkeä	imeä	1.054739253
+hehkua	nähdä	0.957027054
+haistaa	lorvailla	1.18123274
+parantua	näyttää	1.190788317
+purra	parantua	0.777466985
+näyttää	tuijottaa	0.693212526
+huonontua	purra	1.137049046
+kuulla	kutea	0.94636201
+väläyttää	venytellä	0.959763007
+oksentaa	torkkua	0.942077741
+puhaltaa	vetää puoleensa	1.096805011
+haurastua	hengittää	1.214289522
+näyttää	särkeä	1.141926134
+katsoa	yskiä	1.277236329
+hehkua	purra	1.099881854
+purra	näyttää	1.106716286
+kuulla	lemuta	0.872855152
+haista	laiduntaa	1.100382024
+itkeä	parantua	1.25250997
+elää	punastua	1.148387414
+väsyttää	maistua	1.134339735
+parantua	hehkua	1.42029408
+tukehtua	etsiä	1.161627226
+esikatsella	huomata	0.54373375
+huomata	lemuta	0.788994504
+hengittää	elää	0.703993611
+kutea	hengittää	1.257105063
+valua pois	haukotella	1.084879805
+valua pois	aivastaa	1.052963618
+valua pois	pureskella	1.042780359
+imeä	selviytyä	0.889308451
+haukotella	punastua	1.04628339
+tukehtua	hikoilla	1.057812488
+lemuta	nuolla	1.098557192
+maistua	hikoilla	0.898503967
+löytää	lorvailla	1.014532174
+imeä	mulkoilla	1.202239261
+yskiä	punastua	1.222961698
+haista	imaista	0.929296491
+hengittää ulos	selviytyä	0.877631075
+kutea	haistaa	1.159345611
+väsyttää	havaita	1.104517153
+mulkoilla	selviytyä	0.879030514
+lemuta	havaita	0.898437631
+nähdä	näyttää	0.549360185
+pureskella	haista	1.193597752
+pyörtyä	haistaa	1.004048261
+elää	tarttua lujasti	0.932568551
+väsyttää	oksentaa	1.055700866
+hehkua	pyörtyä	0.976141961
+ilmestyä	pureskella	1.095753445
+haista	aivastaa	1.210085483
+särkeä	mulkoilla	1.120025379
+mulkoilla	tarkkailla	0.287618482
+imaista	lemuta	1.006846323
+lorvailla	valua pois	1.14749896
+havaita	ilmestyä	0.810556606
+vetää puoleensa	elää	0.929110528
+lemuta	lorvailla	1.19051624
+suudella	särkeä	1.174649511
+särkeä	haistaa	1.081891607
+siristää silmiään	venytellä	0.963639848
+hengittää	särkeä	1.04048714
+parantua	herätä	1.23128592
+lorvailla	särkeä	1.162848258
+laiduntaa	synnyttää	0.980144742
+löytää	laiduntaa	1.038792598
+mulkoilla	laiduntaa	1.014598467
+näyttää	haurastua	1.124059325
+haista	esikatsella	0.876819997
+kuulla	lorvailla	1.144966937
+ilmestyä	hengittää sisään	1.060748564
+mulkoilla	kutea	1.083262738
+oksentaa	yskiä	0.552084664
+haukotella	kutea	1.263716805
+yskiä	valua pois	1.07280498
+selvitä	katsella	0.899381894
+katsoa	nähdä	0.314535885
+haukotella	lemuta	1.265354935
+särkeä	väsyttää	1.024282713
+väsyttää	lemuta	1.202760396
+haurastua	herätä	1.034619478
+herättää	yllättää	0.814590997
+yskiä	kuulla	1.244489229
+lemuta	huonontua	0.809657726
+huomata	punastua	0.972309039
+valua pois	haista	0.842542756
+hengittää	lemuta	1.253897357
+yskiä	selvitä	0.999060967
+maistua	pureskella	0.878471244
+katsella	hikoilla	1.01764824
+nähdä	itkeä	0.873233818
+väläyttää	ottaa torkut	0.973896968
+nuolla	purra	0.705167519
+laiduntaa	suudella	1.218626978
+elää	rentoutua	1.027439533
+kutea	hikoilla	1.2124428
+kuulla	maistua	0.931799384
+huomata	venytellä	1.048211283
+uuvuttaa	katsella	1.048764786
+itkeä	aivastaa	0.943973917
+etsiä	haistaa	1.142391072
+katsella	hengittää ulos	1.24025581
+näyttää	mulkoilla	0.690381497
+selvitä	venytellä	0.882864022
+oksentaa	särkeä	0.745465377
+imeä	väsyttää	1.062841701
+tarkkailla	lemuta	0.918571176
+rentoutua	puhaltaa	0.900226052
+lorvailla	tarkkailla	0.991025681
+selviytyä	maistua	0.859379062
+haista	yllättää	0.940520325
+etsiä	ottaa torkut	1.00512885
+yskiä	aivastaa	0.246123771
+puhaltaa	väsyttää	0.992635111
+punastua	löytää	1.140833951
+hengittää sisään	särkeä	1.151593533
+mulkoilla	suudella	1.102933171
+haukotella	selviytyä	0.847451913
+näyttää	siristää silmiään	0.944523223
+venytellä	parantua	1.252539903
+yskiä	tarkkailla	1.348685339
+elää	uuvuttaa	0.831998779
+etsiä	hengittää ulos	1.339830589
+yskiä	herättää	1.091837271
+hengittää sisään	pureskella	1.096651021
+haistaa	synnyttää	1.391056085
+pyörtyä	pureskella	0.957587772
+punastua	selvitä	1.009897649
+nuolla	ilmestyä	0.974415676
+puhaltaa	oksentaa	0.738544089
+valua pois	herättää	1.195671346
+katsella	nähdä	0.371340569
+näyttää	väsyttää	1.282101358
+nuolla	pureskella	0.718966453
+hengittää ulos	havaita	1.210968058
+havaita	haukotella	1.092875383
+särkeä	nähdä	1.010411095
+suudella	katsella	0.966909788
+väläyttää	elää	0.920174183
+huomata	selvitä	0.824631381
+uuvuttaa	kuulla	1.318354316
+hengittää	yllättää	1.077142089
+näyttää	imeä	0.980422727
+puhaltaa	pyörtyä	1.110432362
+lorvailla	punastua	0.966706754
+punastua	näyttää	1.078174389
+rentoutua	haistaa	1.043759262
+valua pois	katsella	0.958093235
+itkeä	punastua	0.958461989
+näyttää	puhaltaa	1.120708306
+uuvuttaa	puhaltaa	1.198874581
+haukotella	herättää	0.932626504
+punastua	haistaa	1.003392671
+havaita	valua pois	0.931459555
+tukehtua	löytää	1.034619825
+purra	lorvailla	0.859226942
+purra	tukehtua	1.116985113
+havaita	punastua	1.117437857
+rentoutua	huonontua	1.027810411
+pureskella	löytää	1.123383552
+vetää puoleensa	venytellä	0.714604707
+uuvuttaa	hikoilla	1.171955858
+elää	aivastaa	0.811270596
+pureskella	suudella	0.859105243
+selviytyä	ottaa torkut	0.939662512
+nuolla	synnyttää	1.053748435
+purra	havaita	1.162511507
+huonontua	havaita	0.874075342
+ilmestyä	haista	0.798825466
+tarkkailla	löytää	0.517736784
+selviytyä	itkeä	0.884497724
+tukehtua	hengittää ulos	1.000890493
+uuvuttaa	synnyttää	1.069487491
+hehkua	yskiä	1.213137347
+katsoa	pyörtyä	1.022424646
+ottaa torkut	vetää puoleensa	1.065258274
+löytää	tarttua lujasti	0.98856369
+katsoa	esikatsella	0.388629738
+nuolla	havaita	1.02937794
+rentoutua	selviytyä	0.98174072
+siristää silmiään	hengittää	0.866459372
+särkeä	pureskella	1.067911292
+herätä	oksentaa	1.099246004
+mulkoilla	ottaa torkut	0.923917478
+oksentaa	esikatsella	1.146551541
+pureskella	synnyttää	1.141360593
+yllättää	katsoa	0.872657103

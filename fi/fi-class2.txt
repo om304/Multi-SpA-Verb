@@ -1,0 +1,3742 @@
+Word1	Word2	Score
+vetäytyä	tasapainoilla	1.050041244
+romahtaa	kääntyä	1.127845288
+tulla	hypätä	0.842729266
+lentää	riippua	0.86035637
+kävellä	istua	0.754477737
+keinua	mennä	0.855591638
+käydä	jäljittää	1.00103227
+heilahtaa	pomppia	0.610685998
+ajelehtia	polvistua	1.431779227
+ratsastaa	polvistua	1.065856329
+kulkea	liikkua	0.515393109
+laskeutua	heilahtaa	1.039015708
+muuttaa	asettua aloilleen	0.86453532
+lähestyä	hiipiä	0.899769613
+matkustaa	astua	0.8798904
+vaeltaa	tulla	0.824370858
+keinua	uida	0.932816344
+tasapainoilla	mennä sisälle	1.218062347
+roikkua	luikerrella	1.145270557
+liikkua	vetäytyä	1.123532163
+tasapainoilla	roikkua	0.698022659
+harhailla	ajelehtia	0.977057378
+pomppia	ilmestyä	1.072114048
+vaeltaa	romahtaa	1.197441608
+jäljittää	pomppia	1.134099231
+asettua aloilleen	vaeltaa	0.958386971
+hyppiä	pomppia	0.652327853
+käpertyä	liftata	1.241685263
+edetä	heilahtaa	1.04253745
+tiputtaa	ylittää	1.470009627
+hypätä yli	pomppia	0.62509207
+väistää	uida	1.141963869
+edetä	juosta	0.426305832
+käpertyä	kulkea	0.962686458
+asettua aloilleen	jäädä	0.939278438
+kiirehtiä	ryömiä	1.002141036
+harhailla	liftata	0.949430647
+matkustaa	vaeltaa	0.838535184
+hypätä	romahtaa	1.058633374
+uida	ajelehtia	1.063639831
+ratsastaa	väistää	1.030899529
+tupsahtaa	lentää	0.987354708
+kellua	ratsastaa	1.169396872
+liikuttaa	kulkea	0.652652026
+väistää	ajelehtia	1.259978747
+luikerrella	retkeillä	1.160549541
+hölkätä	metsästää	0.948034738
+laskeutua	ponkaista	1.117419506
+jäädä jäljelle	asettua aloilleen	0.776835077
+heilua	hölkätä	0.989703723
+matkustaa	romahtaa	1.062419666
+seisoa	harhailla	1.05234582
+harhailla	vaeltaa	0.470587915
+laskeutua	pyöriä	1.146618079
+ratsastaa	taklata	1.226662251
+mennä	kiihdyttää	0.580188434
+vetäytyä	uida	1.118770249
+kiivetä	kiihdyttää	1.039001796
+lentää	kaatua	1.163382497
+hypätä	mennä läpi	1.010858639
+risteillä	harpata	1.027068378
+kiirehtiä	käpertyä	0.958736897
+liukua	mahtua	0.993348643
+lepattaa	kiihdyttää	0.710249405
+juosta	romahtaa	1.192237407
+laskeutua	juosta	1.129436879
+sukeltaa	kiiruhtaa	0.827633602
+kiiruhtaa	ajaa	0.676688398
+paeta	jäädä	1.083824197
+kellua	istua	1.178350327
+väistää	kompastella	0.828625602
+risteillä	vetää pois	1.255014797
+kiivetä	hyppiä	1.007172663
+liikkua	vetää pois	1.1490394
+lähestyä	kääntyä	0.748423358
+mennä	ylittää	0.935777867
+kellua	keinua	0.964826296
+vetää pois	vetäytyä	0.929041673
+nojata	kulkea	0.953295144
+ylittää	taklata	1.171908379
+tupsahtaa	saapua	0.855635057
+kellua	riippua	1.070439326
+juosta	ryömiä	0.793754451
+kääntyä	sukeltaa	1.211084591
+vetää pois	hiipiä	1.263356979
+kiiruhtaa	matkustaa	0.927115715
+kiihdyttää	heilua	0.826563188
+risteillä	lentää	0.829577537
+mennä sisälle	hiipiä	1.198370317
+jäljittää	paeta	1.112215004
+liitää	mennä läpi	0.943781164
+kävellä	liidellä	0.797078443
+lepattaa	metsästää	1.33507803
+lepattaa	mennä	0.796221787
+hölkätä	romahtaa	1.157482923
+romahtaa	tiputtaa	0.791429316
+vetää pois	mennä läpi	1.238178966
+maata	nojata	0.618026697
+käydä	väistää	1.084335864
+lähteä	kulkea	0.880844298
+liikuttaa	risteillä	0.9232247
+pinkaista	liftata	0.898336507
+kulkea	ajelehtia	1.021904883
+riippua	istua	0.97749596
+pyöriä	kääntyä	0.925698092
+kiiruhtaa	harpata	0.735832419
+pinkaista	ajelehtia	0.972093166
+taklata	harpata	1.093063591
+jäädä jäljelle	liikuttaa	0.840192337
+hypätä	seisoa	0.868573543
+jäljittää	kävellä	0.91347966
+tasapainoilla	juosta	1.029857752
+kiirehtiä	edetä	0.849687545
+liitää	ilmestyä	1.159456886
+sukeltaa	harpata	0.873017352
+harhailla	hyppiä	1.007800159
+jäädä jäljelle	mennä läpi	1.22948961
+touhuta	hypätä yli	0.962675326
+heilahtaa	liikkua	0.882106465
+käydä	ilmestyä uudelleen	0.803724079
+hiipiä	ylittää	1.19603598
+pinkaista	uida	0.821814477
+astua	vetäytyä	1.070063129
+liftata	heilua	0.992237758
+ilmestyä	nousta	0.927473368
+jäädä jäljelle	maata	0.723457332
+virrata	polvistua	1.013986095
+roikkua	hiipiä	0.905232247
+ajaa	ylittää	1.076931655
+vaeltaa	metsästää	0.978859957
+kulkea	jäädä	1.080490466
+heilahtaa	hyppiä	0.590202858
+risteillä	lähestyä	0.889272718
+taklata	ohittaa	1.045284674
+käpertyä	heilahtaa	0.850174893
+ilmestyä	saapua	0.870930896
+liikuttaa	tulla	1.009922366
+käpertyä	hyppiä	0.87108386
+hyppiä	tiputtaa	1.324015988
+vaeltaa	lentää	1.030194582
+nousta	hiipiä	0.830576403
+käydä	laskeutua	1.031947351
+kaatua	ratsastaa	1.084495987
+pinkaista	vaeltaa	0.876163959
+kompastella	keinua	1.057335291
+ratsastaa	kompastella	1.094372669
+asettua aloilleen	hyppiä	0.938065323
+kumartaa	ajelehtia	1.251042006
+mennä sisälle	roikkua	1.253456077
+matkustaa	ylittää	1.164784937
+ylittää	liikuttaa	0.996016135
+ilmestyä uudelleen	metsästää	1.064877039
+roikkua	metsästää	1.20414396
+touhuta	paeta	1.00861953
+metsästää	jäädä jäljelle	0.948886023
+saapua	hypätä yli	1.111292407
+romahtaa	hiipiä	1.223675645
+hypätä yli	tulla	0.95298568
+mennä läpi	kävellä	0.964491018
+paeta	hypätä	1.00944125
+retkeillä	vetäytyä	1.426647813
+jäljittää	tulla	0.937332123
+harpata	ponkaista	0.492045896
+lähteä	liidellä	0.810778515
+kaatua	pyöriä	1.003214735
+harhailla	touhuta	1.045406202
+ajelehtia	hiipiä	0.999978323
+astua	hölkätä	0.548713731
+mennä sisälle	risteillä	0.760413076
+tiputtaa	kaatua	1.02948206
+retkeillä	touhuta	1.002043405
+jäädä jäljelle	ilmestyä uudelleen	1.003673121
+lähestyä	mennä sisälle	0.865003985
+vetää pois	hypätä yli	1.004291473
+liidellä	muuttaa	0.875860226
+hypätä	heilua	0.948041086
+lähestyä	kiiruhtaa	0.965682186
+lähteä	ilmestyä	0.831412915
+pyöriä	tiputtaa	1.113837636
+kumartaa	käydä	1.053346959
+kompastella	lähteä	1.107836798
+ponkaista	liikkua	0.719346232
+pomppia	kellua	1.022255991
+virrata	heilahtaa	1.154454353
+heilahtaa	ylittää	1.032934167
+roikkua	liidellä	0.856327434
+kaatua	risteillä	1.178059028
+roikkua	vaeltaa	1.025912239
+riippua	maata	0.846577747
+ajelehtia	ilmestyä	1.083566729
+kompastella	maata	0.925945456
+istua	luikerrella	0.944815194
+ryömiä	laskeutua	1.207278167
+lähestyä	ajelehtia	1.079942647
+jäädä	nojata	0.749196774
+roikkua	jäädä	0.92522148
+hyppiä	retkeillä	1.029413163
+seisoa	liidellä	1.078155707
+ajelehtia	kiihdyttää	0.848575531
+hölkätä	kompastella	0.971855981
+tasapainoilla	lähteä	0.961578653
+vetää pois	uida	1.261918713
+ponkaista	touhuta	0.978171158
+lentää	lähestyä	0.960317627
+retkeillä	sukeltaa	1.137323014
+kaatua	lepattaa	1.29811519
+tulla	kaatua	1.002051969
+riippua	tasapainoilla	0.66620801
+vetäytyä	kiivetä	1.15112735
+taklata	mahtua	0.949368665
+kiirehtiä	kiivetä	1.147600287
+liikkua	kumartaa	0.938886735
+tasapainoilla	liftata	1.052912151
+kaatua	kiihdyttää	1.090859123
+istua	tasapainoilla	0.978140346
+saapua	vaeltaa	0.851235848
+sukeltaa	kävellä	0.817846037
+taklata	heilahtaa	1.150165734
+kompastella	sukeltaa	1.31325865
+kiiruhtaa	romahtaa	1.011001233
+tiputtaa	jäljittää	0.993965942
+taklata	kävellä	1.001573528
+retkeillä	saapua	0.836181448
+taklata	romahtaa	1.17893854
+väistää	nousta	1.120769244
+mennä sisälle	lepattaa	1.1043026
+vetää pois	retkeillä	1.26206069
+nojata	hiipiä	0.983292158
+jäljittää	mennä sisälle	1.066087869
+sukeltaa	romahtaa	1.099184451
+uida	lähestyä	0.938368728
+maata	saapua	1.049296907
+kiihdyttää	romahtaa	1.200418553
+liukua	pyöriä	0.944570645
+hypätä	mennä	0.817030775
+nousta	vaeltaa	1.060622686
+luikerrella	sukeltaa	1.259093538
+tupsahtaa	vetää pois	1.062351712
+kaatua	juosta	0.901805903
+kiiruhtaa	maata	0.818257744
+kellua	liikuttaa	0.878520913
+mennä	käpertyä	0.869880171
+kiirehtiä	risteillä	0.977296226
+harpata	kaatua	0.964996394
+tupsahtaa	tiputtaa	0.973244731
+uida	ylittää	0.977370291
+paeta	mahtua	1.106667222
+retkeillä	nousta	1.198707261
+harpata	liikkua	0.602654703
+ilmestyä	vetäytyä	1.212617291
+edetä	sukeltaa	0.823432049
+astua	istua	0.769626091
+touhuta	kulkea	0.93898356
+nousta	muuttaa	1.123868192
+istua	harhailla	1.114685932
+astua	liftata	0.718360311
+kulkea	hölkätä	0.508663111
+liftata	väistää	1.088967138
+kompastella	romahtaa	1.043038467
+ryömiä	käpertyä	0.454555858
+romahtaa	paeta	1.24860143
+harpata	vaeltaa	0.767697486
+kulkea	pomppia	0.914084828
+kaatua	ponkaista	1.036363972
+retkeillä	kiivetä	1.258858512
+väistää	jäädä jäljelle	0.898012453
+hypätä	liikuttaa	0.713460405
+kiirehtiä	heilahtaa	0.885865074
+juosta	ratsastaa	0.888930977
+luikerrella	touhuta	0.868893482
+ryömiä	heilahtaa	0.958491324
+kiiruhtaa	käpertyä	0.922618341
+edetä	jäljittää	1.049594406
+ponkaista	romahtaa	1.243683997
+taklata	asettua aloilleen	1.065846006
+kiivetä	ohittaa	1.160190089
+kiihdyttää	harhailla	0.854342525
+väistää	juosta	1.023794911
+polvistua	kiivetä	1.031704352
+retkeillä	ratsastaa	1.037615175
+maata	touhuta	1.065399678
+riippua	kumartaa	0.868435853
+tulla	ryömiä	1.079809659
+pomppia	jäädä jäljelle	0.917105913
+astua	ryömiä	0.713332231
+uida	risteillä	0.792658051
+seisoa	edetä	0.879144084
+hypätä	laskeutua	1.164126321
+ylittää	ajelehtia	1.318000153
+kulkea	hiipiä	0.568059315
+harhailla	mennä	0.69737565
+muuttaa	keinua	0.964614616
+nojata	kaatua	1.043033102
+kiihdyttää	mahtua	1.231133751
+kaatua	heilahtaa	1.218698158
+lähestyä	lähteä	1.041651219
+ajelehtia	retkeillä	0.833888934
+kiihdyttää	lentää	0.798644137
+kompastella	käydä	1.162731775
+vetää pois	kääntyä	1.105236664
+muuttaa	touhuta	1.116268488
+pyöriä	hypätä	1.032600843
+tasapainoilla	metsästää	0.966054237
+vaeltaa	muuttaa	0.990237696
+kävellä	heilahtaa	0.894092585
+ohittaa	tupsahtaa	0.945885707
+uida	liftata	0.876667139
+lentää	mennä sisälle	1.115244618
+mennä	ajelehtia	0.953652422
+ryömiä	hölkätä	0.859730189
+astua	harpata	0.604006717
+ohittaa	keinua	1.074764498
+ponkaista	ilmestyä	0.958097
+kiivetä	nojata	1.182932818
+jäädä jäljelle	hyppiä	1.097055679
+asettua aloilleen	ryömiä	0.984261443
+väistää	pyöriä	0.707850818
+ponkaista	käydä	0.735198604
+hölkätä	liikuttaa	0.727531415
+mahtua	virrata	1.157347679
+kellua	lentää	0.828887952
+istua	metsästää	1.070943204
+liftata	harpata	0.909447576
+taklata	kompastella	1.006977608
+ilmestyä uudelleen	hyppiä	0.861957581
+taklata	metsästää	0.942067992
+ilmestyä	romahtaa	1.174155906
+polvistua	sukeltaa	1.191326001
+nousta	keinua	0.840312006
+virrata	tulla	0.990056161
+laskeutua	kiirehtiä	0.90546893
+hypätä	liukua	0.852971359
+kiivetä	kävellä	0.95514003
+jäädä jäljelle	tasapainoilla	0.858011208
+jäädä	kumartaa	0.820329714
+taklata	lentää	1.181401708
+touhuta	tupsahtaa	0.947372374
+lähteä	kellua	0.847099257
+ilmestyä uudelleen	hölkätä	1.069167101
+kiihdyttää	maata	1.071278909
+matkustaa	liitää	0.874304796
+mennä	pinkaista	0.498979039
+nousta	touhuta	0.817396748
+maata	liftata	1.093125822
+metsästää	käpertyä	1.012344953
+roikkua	seisoa	0.816946326
+asettua aloilleen	liidellä	1.164554083
+polvistua	asettua aloilleen	0.721420004
+kääntyä	kiihdyttää	0.770172214
+juosta	ohittaa	1.142374127
+liikuttaa	kiiruhtaa	0.846312946
+edetä	paeta	0.967605951
+ylittää	lentää	1.270928853
+käpertyä	istua	0.717027978
+hypätä yli	ratsastaa	0.979876125
+kulkea	tasapainoilla	0.897736785
+käpertyä	jäädä jäljelle	0.846578566
+metsästää	muuttaa	1.092177468
+sukeltaa	hypätä	0.939457229
+hypätä	virrata	0.825961617
+istua	lähestyä	0.812599678
+virrata	saapua	0.941280076
+ohittaa	harpata	0.975002439
+astua	saapua	0.741618162
+hyppiä	virrata	1.039494196
+istua	muuttaa	1.002630174
+paeta	riippua	1.323041947
+kävellä	kumartaa	0.850125868
+tupsahtaa	liikuttaa	1.080320709
+heilua	kaatua	1.194742575
+kiiruhtaa	astua	0.743032588
+jäädä	touhuta	1.003902008
+hyppiä	väistää	1.046794257
+seisoa	polvistua	0.716199695
+saapua	käydä	0.572349869
+pinkaista	ylittää	1.255953161
+kulkea	maata	0.970991106
+kulkea	pinkaista	0.615784431
+hyppiä	kellua	0.953788585
+roikkua	kaatua	1.108542022
+kumartaa	lepattaa	1.104525806
+kiivetä	ryömiä	0.958980724
+ilmestyä	jäljittää	1.109908634
+liftata	ryömiä	1.062691644
+nojata	hypätä	0.947644237
+heilua	polvistua	0.918344465
+hiipiä	hypätä yli	0.76518603
+kiiruhtaa	edetä	0.783493054
+liikuttaa	vetää pois	0.872853717
+liidellä	virrata	1.115283737
+seisoa	luikerrella	0.896805639
+hölkätä	tulla	0.790983254
+kellua	liidellä	0.757444803
+kiihdyttää	liftata	0.93079006
+mennä	kumartaa	0.934225672
+pyöriä	maata	1.104257765
+ilmestyä	hiipiä	1.048856516
+harpata	ratsastaa	0.727926906
+vaeltaa	kiivetä	1.15123281
+käydä	kääntyä	0.942234764
+liitää	juosta	0.772321773
+juosta	mennä sisälle	1.05638619
+tulla	mahtua	0.888185807
+kiihdyttää	hypätä yli	0.860624942
+liikuttaa	touhuta	0.985648537
+jäädä jäljelle	nousta	1.095523419
+liidellä	sukeltaa	0.690351888
+seisoa	vetää pois	1.052199185
+kiivetä	asettua aloilleen	1.188475237
+hyppiä	polvistua	0.846451927
+vetäytyä	risteillä	1.533295558
+käpertyä	virrata	1.26472098
+pomppia	asettua aloilleen	1.021879929
+kävellä	kompastella	0.901273926
+uida	liidellä	0.88038848
+polvistua	metsästää	1.151707674
+ilmestyä	liikuttaa	1.052668452
+taklata	mennä	1.041885156
+ylittää	käydä	1.065336177
+kääntyä	kiiruhtaa	0.797761415
+hyppiä	pyöriä	1.042103831
+mennä sisälle	sukeltaa	1.036679348
+saapua	kiihdyttää	0.884430949
+metsästää	pyöriä	0.929817195
+mahtua	polvistua	1.172609252
+istua	ohittaa	0.970119271
+maata	ilmestyä	0.957186661
+kääntyä	ajaa	0.927494149
+harhailla	hypätä yli	1.063765608
+pinkaista	ratsastaa	0.96644527
+juosta	sukeltaa	0.854148355
+liftata	retkeillä	0.978075531
+pomppia	istua	0.90605886
+mennä	risteillä	0.860416893
+ajelehtia	ponkaista	1.011588833
+hypätä yli	nousta	0.775854108
+pyöriä	lentää	0.725231953
+kiirehtiä	hypätä	0.886238428
+jäädä	hypätä	1.113765821
+risteillä	liitää	0.982285174
+hölkätä	liikkua	0.432527794
+istua	liikuttaa	0.8990785
+hypätä	tupsahtaa	0.97459815
+heilua	heilahtaa	0.387219494
+kiivetä	taklata	1.056203254
+laskeutua	pomppia	1.173675737
+liikkua	ratsastaa	0.745060683
+pyöriä	kiihdyttää	0.714621851
+ajaa	heilahtaa	0.861864968
+jäljittää	risteillä	1.351627374
+asettua aloilleen	hypätä yli	0.968939437
+roikkua	polvistua	0.812192837
+liitää	muuttaa	0.854444785
+liidellä	kiivetä	0.755191266
+touhuta	vetää pois	0.853241936
+käydä	tupsahtaa	0.967140093
+tasapainoilla	tupsahtaa	1.03214699
+jäädä	heilahtaa	0.978642555
+mahtua	nousta	0.88797597
+riippua	liitää	0.896187062
+laskeutua	retkeillä	0.990861896
+lähestyä	ajaa	0.959079224
+kiiruhtaa	kulkea	0.800123095
+istua	laskeutua	1.282506692
+pinkaista	harhailla	0.917284951
+roikkua	sukeltaa	0.978168982
+tupsahtaa	virrata	1.086465515
+astua	kävellä	0.472439361
+roikkua	pyöriä	0.909916134
+polvistua	nojata	0.757885197
+riippua	laskeutua	0.941015743
+ilmestyä	liftata	1.0062677
+kiihdyttää	liidellä	0.823251809
+virrata	liftata	1.140096609
+käydä	retkeillä	0.8601146
+mennä läpi	polvistua	0.984838481
+muuttaa	heilahtaa	1.042344351
+lähteä	vaeltaa	0.766006399
+kiivetä	tasapainoilla	0.732621494
+jäädä	käpertyä	0.90780779
+mennä sisälle	edetä	0.913723501
+lentää	harhailla	0.94763054
+ajelehtia	touhuta	1.09202597
+roikkua	mennä läpi	0.919774498
+roikkua	paeta	1.133570673
+mahtua	astua	0.868367461
+liikuttaa	astua	0.688644062
+vetää pois	kaatua	0.91280924
+ajelehtia	seisoa	1.348185365
+matkustaa	vetäytyä	1.37605966
+liitää	kiivetä	0.856658796
+pyöriä	kävellä	0.818450813
+lähteä	nousta	1.083875082
+tiputtaa	kiivetä	1.262653089
+asettua aloilleen	seisoa	0.551977701
+istua	retkeillä	1.051477506
+mahtua	edetä	0.998847494
+hyppiä	vetäytyä	0.919541732
+liidellä	risteillä	0.933164163
+pinkaista	tulla	0.87031779
+harpata	asettua aloilleen	0.790688954
+vetää pois	hyppiä	1.139505295
+kumartaa	liikuttaa	0.948737617
+ilmestyä	ilmestyä uudelleen	0.766761104
+harhailla	vetäytyä	1.398468357
+romahtaa	ilmestyä uudelleen	1.076252218
+liitää	romahtaa	0.999800887
+riippua	ryömiä	0.971058538
+hiipiä	sukeltaa	0.850577412
+ilmestyä uudelleen	mennä läpi	1.213984892
+lentää	hypätä	1.174805755
+kiihdyttää	lähestyä	0.684982162
+edetä	mennä	0.451178775
+roikkua	nojata	0.859588872
+hiipiä	kaatua	1.232956892
+harpata	istua	0.812616908
+lähestyä	romahtaa	0.953905941
+kumartaa	ryömiä	0.778812985
+ponkaista	hölkätä	0.748757158
+uida	hölkätä	0.797597361
+touhuta	käpertyä	1.027920489
+ponkaista	pomppia	0.829968843
+edetä	liidellä	0.711690312
+riippua	keinua	0.550422491
+liikuttaa	seisoa	0.919928129
+heilahtaa	ilmestyä	0.977152703
+istua	vetää pois	0.911591613
+polvistua	liitää	1.210524517
+kävellä	virrata	1.028835108
+väistää	liikuttaa	0.883869469
+vetää pois	heilahtaa	1.201217236
+hypätä	hiipiä	0.84065656
+nojata	liidellä	1.038745404
+retkeillä	hypätä yli	1.010541071
+liitää	sukeltaa	0.768529615
+sukeltaa	risteillä	0.844599107
+ajelehtia	edetä	0.949845087
+luikerrella	taklata	1.113121214
+roikkua	ylittää	1.144156611
+lähteä	käydä	0.693271772
+heilahtaa	mahtua	1.027651408
+keinua	ilmestyä uudelleen	1.233930602
+liikkua	kiiruhtaa	0.782521576
+liidellä	kaatua	1.203604696
+väistää	virrata	1.164463395
+pinkaista	jäljittää	1.270929375
+virrata	seisoa	1.199405318
+jäädä jäljelle	vetää pois	0.881673323
+harhailla	ilmestyä uudelleen	0.940134798
+ilmestyä	liikkua	1.012654423
+istua	tiputtaa	1.13100569
+heilahtaa	kiiruhtaa	0.777664817
+pyöriä	kumartaa	1.049190059
+kaatua	jäljittää	0.9753158
+metsästää	lähestyä	0.765214947
+liftata	lähteä	0.794681663
+tiputtaa	pinkaista	1.155696566
+kompastella	virrata	1.280809602
+ilmestyä	mennä läpi	1.269008616
+jäädä jäljelle	hypätä	0.904915753
+juosta	saapua	0.784806311
+kiirehtiä	kävellä	0.870567822
+hölkätä	kaatua	0.999944485
+roikkua	ajelehtia	1.02154324
+ilmestyä	liukua	1.133884829
+mennä	hiipiä	0.799049645
+nojata	kääntyä	0.727051731
+saapua	mennä	0.636695931
+vetää pois	ilmestyä uudelleen	1.102171371
+jäädä jäljelle	retkeillä	1.033724534
+romahtaa	lepattaa	1.092687359
+pinkaista	sukeltaa	0.807236511
+hypätä	kiihdyttää	0.824101724
+ilmestyä uudelleen	kulkea	0.943795599
+roikkua	kulkea	0.741090204
+luikerrella	liftata	1.086568476
+mennä läpi	romahtaa	1.307125929
+käydä	riippua	1.078577193
+mennä sisälle	pomppia	1.291220295
+muuttaa	kumartaa	1.216201051
+nojata	uida	1.018920816
+mahtua	liidellä	1.068495535
+lepattaa	riippua	1.025855744
+saapua	käpertyä	0.992111937
+ratsastaa	mennä	0.824703064
+kävellä	ilmestyä uudelleen	0.899966216
+laskeutua	vetäytyä	1.391252872
+käpertyä	retkeillä	1.228768475
+ratsastaa	lentää	0.980689455
+vaeltaa	ryömiä	1.131518136
+kaatua	liukua	1.074847291
+lähestyä	harhailla	1.011823136
+hyppiä	saapua	1.014575438
+ylittää	hypätä	0.989368054
+asettua aloilleen	heilahtaa	1.036016133
+taklata	hölkätä	1.032516637
+käydä	mennä sisälle	0.852921585
+käydä	vetäytyä	1.120558917
+maata	pomppia	0.964517131
+pinkaista	romahtaa	1.136198908
+tiputtaa	kääntyä	1.109886426
+retkeillä	metsästää	0.879883725
+roikkua	muuttaa	1.020495348
+ajelehtia	hypätä yli	1.027843601
+saapua	kiivetä	0.938955387
+taklata	tupsahtaa	0.879339533
+saapua	seisoa	1.051327984
+ohittaa	laskeutua	1.143345272
+uida	kiihdyttää	0.836282235
+taklata	ponkaista	1.39545789
+vetää pois	edetä	1.209064394
+retkeillä	roikkua	1.117474358
+asettua aloilleen	kiirehtiä	0.964095776
+mennä sisälle	maata	0.971672982
+matkustaa	väistää	1.101895762
+keinua	väistää	1.038050704
+metsästää	väistää	0.961873756
+harpata	tupsahtaa	0.907159687
+kiiruhtaa	mennä läpi	1.055970602
+vetäytyä	liftata	1.500154804
+lähestyä	harpata	1.057685443
+kiihdyttää	matkustaa	0.801640317
+hypätä yli	matkustaa	1.069350612
+liikkua	vaeltaa	0.769717066
+väistää	mennä läpi	1.188597872
+kiiruhtaa	hypätä	0.728179346
+mennä sisälle	luikerrella	1.088863682
+retkeillä	liikkua	0.956994768
+risteillä	hölkätä	0.945652963
+touhuta	tiputtaa	1.071381719
+polvistua	maata	0.534705907
+ajelehtia	istua	1.249220777
+jäädä	kiihdyttää	1.151883838
+kiivetä	kulkea	0.849643482
+sukeltaa	heilahtaa	1.149858484
+käpertyä	lentää	1.25053606
+tupsahtaa	kävellä	0.892538904
+tiputtaa	kellua	1.337727478
+pinkaista	käydä	0.911842203
+ajelehtia	ryömiä	1.124864335
+mennä sisälle	polvistua	1.050759774
+ylittää	liftata	1.188076218
+ajelehtia	laskeutua	0.828992984
+harpata	ilmestyä	0.812999535
+taklata	väistää	0.967212569
+virrata	harpata	0.882115486
+paeta	mennä sisälle	1.13912638
+keinua	mahtua	1.087886551
+mennä	liikuttaa	0.759836474
+vaeltaa	vetäytyä	1.290725004
+käydä	uida	0.880635435
+hölkätä	lepattaa	0.840182011
+ratsastaa	lepattaa	0.933605249
+polvistua	jäädä	0.668775463
+käydä	tulla	0.532354361
+ilmestyä uudelleen	asettua aloilleen	1.044946953
+kääntyä	jäädä	1.073148455
+uida	pyöriä	0.884166407
+romahtaa	harhailla	1.264687265
+luikerrella	heilahtaa	1.111011869
+hiipiä	heilua	0.981104637
+kiirehtiä	matkustaa	0.815015977
+tiputtaa	retkeillä	1.231444397
+maata	sukeltaa	1.136304875
+liidellä	ajaa	0.836826433
+saapua	pinkaista	0.927739356
+juosta	ilmestyä	1.031500567
+luikerrella	saapua	0.983818186
+metsästää	tiputtaa	1.121062719
+heilua	lähteä	0.97167311
+tulla	maata	0.971648478
+mennä	ryömiä	0.767317255
+heilahtaa	kellua	1.107563344
+matkustaa	laskeutua	0.731325022
+nousta	harpata	0.833929984
+saapua	kiirehtiä	0.847643191
+saapua	touhuta	0.793197776
+liitää	ohittaa	1.091985643
+hypätä	pinkaista	0.590450361
+lepattaa	vetäytyä	1.283950082
+kaatua	jäädä	0.930096912
+riippua	liidellä	0.879136489
+taklata	liikkua	1.051256667
+mennä sisälle	liikuttaa	1.237415949
+mennä sisälle	kellua	1.075683979
+ajelehtia	liukua	1.204091195
+heilua	touhuta	1.146788378
+keinua	nojata	0.821644845
+kääntyä	astua	0.789340049
+riippua	vaeltaa	1.122737426
+ratsastaa	kiirehtiä	1.08797623
+taklata	paeta	1.228177564
+liftata	matkustaa	0.899427804
+sukeltaa	käpertyä	1.029171599
+hölkätä	nojata	0.934092077
+ryömiä	mahtua	1.113730025
+ilmestyä	istua	0.969629464
+romahtaa	harpata	1.030908826
+kumartaa	saapua	0.958292432
+liikuttaa	saapua	0.983447051
+astua	kompastella	0.671427481
+heilahtaa	tiputtaa	1.117675437
+romahtaa	tulla	0.905142709
+vetäytyä	maata	1.007642224
+retkeillä	ylittää	1.382666886
+pomppia	kävellä	0.772512429
+astua	ilmestyä uudelleen	0.96762985
+ponkaista	kiiruhtaa	0.914364255
+laskeutua	väistää	1.298305863
+ilmestyä	lähestyä	0.90024553
+ponkaista	uida	0.89594305
+lähteä	paeta	0.824947564
+vetää pois	laskeutua	1.258356181
+vaeltaa	tasapainoilla	1.060886294
+kiivetä	laskeutua	0.987902017
+tulla	ilmestyä uudelleen	0.943730573
+kiirehtiä	taklata	1.168598633
+hiipiä	liukua	0.766460417
+heilahtaa	kääntyä	0.856296377
+kulkea	romahtaa	1.116858983
+jäädä	mahtua	1.111611576
+tiputtaa	polvistua	0.960681773
+liukua	kiivetä	0.840013973
+lentää	lähteä	0.769467731
+matkustaa	tulla	0.703280021
+ohittaa	hiipiä	1.254651039
+saapua	harhailla	0.742406295
+kävellä	väistää	0.911644124
+jäädä	kiiruhtaa	0.887447083
+ratsastaa	roikkua	1.040825995
+matkustaa	ryömiä	1.218958211
+uida	luikerrella	1.046299895
+hyppiä	kävellä	0.73102548
+paeta	matkustaa	0.897529314
+heilua	tupsahtaa	1.120309633
+hölkätä	seisoa	0.707664061
+kiirehtiä	hiipiä	0.929688438
+nojata	tulla	0.909276964
+ryömiä	retkeillä	1.083655541
+riippua	matkustaa	1.048983448
+käpertyä	taklata	1.060419701
+hypätä	matkustaa	0.999169879
+heilahtaa	liikuttaa	0.69724404
+jäädä jäljelle	kaatua	0.893583299
+liikkua	kompastella	1.000268351
+tasapainoilla	liitää	0.780815797
+liikkua	metsästää	1.053440111
+liikkua	mennä	0.452825233
+ohittaa	lähestyä	0.969090167
+polvistua	ilmestyä	1.090527555
+mennä sisälle	lähteä	0.85780016
+vetää pois	kiihdyttää	1.211094892
+kääntyä	polvistua	0.999613728
+lähteä	edetä	0.666117951
+tulla	vetäytyä	1.068453821
+harhailla	väistää	1.320202142
+liikuttaa	roikkua	0.757694454
+ryömiä	kulkea	0.773292254
+heilua	ilmestyä	1.175815225
+juosta	tulla	0.795283868
+kellua	mennä	0.998987077
+ratsastaa	tupsahtaa	1.149792908
+keinua	romahtaa	1.376678792
+muuttaa	jäljittää	1.065239054
+hölkätä	ylittää	0.998723669
+nojata	asettua aloilleen	0.710763666
+liikkua	istua	0.771178154
+jäädä	mennä sisälle	0.860709418
+taklata	uida	1.309449203
+mennä sisälle	ilmestyä uudelleen	1.098031245
+saapua	lähestyä	0.744005115
+lentää	uida	0.891802625
+ryömiä	kiihdyttää	0.896917505
+hölkätä	sukeltaa	0.714228275
+pinkaista	roikkua	0.834564128
+astua	liitää	0.820558781
+ilmestyä	ylittää	1.089306206
+luikerrella	nojata	0.933777285
+luikerrella	kääntyä	0.979205085
+hiipiä	käpertyä	0.806764455
+kulkea	pyöriä	0.789008908
+väistää	saapua	0.975370295
+heilahtaa	liidellä	0.998319558
+heilahtaa	vaeltaa	1.035581684
+tasapainoilla	mennä läpi	0.867320344
+juosta	pinkaista	0.569050731
+kiirehtiä	jäädä jäljelle	1.026263186
+touhuta	pyöriä	1.110548975
+tiputtaa	vetäytyä	1.064117229
+liukua	heilahtaa	0.965026196
+seisoa	kiiruhtaa	0.997750351
+ajaa	jäljittää	1.148902935
+käpertyä	vetäytyä	0.995299842
+paeta	vetää pois	0.97835266
+roikkua	tulla	0.89813826
+matkustaa	keinua	1.116229122
+muuttaa	risteillä	1.065647903
+taklata	hypätä yli	1.226448857
+lähestyä	heilua	0.903721578
+kiihdyttää	kiiruhtaa	0.719788201
+ratsastaa	heilahtaa	0.837767098
+heilua	taklata	1.14570218
+tasapainoilla	muuttaa	1.046301432
+liidellä	liikkua	0.840115331
+ilmestyä	hypätä	0.933935977
+risteillä	seisoa	1.183328028
+hyppiä	juosta	0.670919208
+ilmestyä	kiirehtiä	0.782049499
+hyppiä	muuttaa	1.132738051
+muuttaa	seisoa	0.927894121
+pyöriä	liitää	0.94234483
+seisoa	jäljittää	1.072099952
+mennä	liukua	0.79364142
+liidellä	astua	0.879997096
+pyöriä	taklata	0.877472782
+edetä	risteillä	0.785829555
+hyppiä	ylittää	0.737042703
+kiirehtiä	pinkaista	0.799811819
+vetäytyä	kiihdyttää	1.189109496
+nousta	vetää pois	1.020171399
+taklata	jäädä jäljelle	0.880190491
+nousta	lepattaa	1.047278721
+tupsahtaa	pinkaista	1.013814078
+edetä	ilmestyä	0.760986808
+kumartaa	luikerrella	0.762365385
+liukua	ylittää	1.056965068
+lähteä	luikerrella	1.014479042
+romahtaa	ryömiä	1.033968139
+kaatua	mahtua	1.037018884
+harhailla	kiiruhtaa	0.999194656
+liitää	maata	1.202546957
+hypätä	metsästää	1.117340826
+lepattaa	pomppia	0.891782247
+kellua	retkeillä	1.208453829
+juosta	heilahtaa	0.899948649
+metsästää	ponkaista	1.101197743
+metsästää	nousta	1.231956998
+liftata	kääntyä	1.051261079
+väistää	maata	1.054677494
+keinua	mennä sisälle	1.211171876
+vetää pois	ylittää	1.336344666
+hölkätä	jäljittää	0.994735215
+tupsahtaa	hiipiä	1.159002456
+lähteä	kiirehtiä	0.821223334
+keinua	touhuta	1.070914453
+nojata	lähteä	1.049938251
+hiipiä	tiputtaa	1.404161131
+risteillä	ponkaista	1.103788286
+kääntyä	ratsastaa	1.065993591
+mennä sisälle	kääntyä	0.996350759
+edetä	tupsahtaa	0.947854609
+kiivetä	käpertyä	1.191466868
+kävellä	kulkea	0.384573541
+ajaa	ilmestyä uudelleen	0.978859673
+mennä läpi	luikerrella	1.055640945
+tulla	seisoa	0.756133715
+nousta	pyöriä	1.034295457
+harpata	matkustaa	0.922291611
+pyöriä	ratsastaa	0.932635605
+heilahtaa	matkustaa	1.140873781
+keinua	retkeillä	1.138243798
+kumartaa	tupsahtaa	1.175889741
+käpertyä	tiputtaa	1.134935629
+riippua	hiipiä	0.984453279
+liukua	kulkea	0.881560774
+väistää	tulla	0.975538672
+mahtua	lentää	1.063503817
+hölkätä	kiivetä	0.956504699
+matkustaa	muuttaa	0.80484419
+romahtaa	heilahtaa	1.282377118
+seisoa	vaeltaa	1.055071391
+hölkätä	pinkaista	0.603902737
+vaeltaa	edetä	0.699115797
+hyppiä	käydä	0.773669057
+käydä	maata	1.035217694
+hyppiä	kulkea	0.628663757
+kiihdyttää	kävellä	0.685547671
+metsästää	astua	0.91814947
+vaeltaa	lähestyä	0.967803211
+kaatua	ryömiä	1.005866785
+romahtaa	nojata	1.139867009
+uida	liukua	1.125643653
+lentää	vetäytyä	1.447363688
+jäljittää	matkustaa	1.113000281
+kääntyä	ajelehtia	1.210540185
+retkeillä	kiirehtiä	0.875213434
+tulla	ratsastaa	1.045152082
+roikkua	harpata	0.706722074
+saapua	jäädä	0.898999784
+virrata	hölkätä	1.045602543
+hölkätä	keinua	0.869278281
+pyöriä	luikerrella	1.058826177
+uida	hypätä	0.847106082
+sukeltaa	lähestyä	0.992710066
+nousta	taklata	0.918547079
+laskeutua	tulla	0.913375248
+heilua	ylittää	1.314490498
+paeta	ylittää	1.094326592
+kiiruhtaa	touhuta	0.913953072
+nousta	jäljittää	1.208932715
+ajelehtia	muuttaa	1.163215191
+keinua	hypätä	0.968403804
+hypätä yli	vetäytyä	0.822732644
+kumartaa	taklata	1.020426493
+jäädä jäljelle	heilua	0.944793448
+liukua	tulla	0.938334341
+heilahtaa	ilmestyä uudelleen	1.075851366
+kiirehtiä	käydä	0.935997713
+ilmestyä	käpertyä	1.088814849
+harhailla	liikuttaa	0.866007787
+ohittaa	asettua aloilleen	0.974385852
+metsästää	kiihdyttää	1.077101606
+harpata	mennä sisälle	0.981603984
+paeta	seisoa	0.887605113
+jäädä jäljelle	pinkaista	1.074654341
+astua	pomppia	0.595491573
+jäädä	seisoa	0.654354709
+kiirehtiä	seisoa	1.061743136
+tupsahtaa	maata	1.135073307
+jäädä jäljelle	edetä	1.046447469
+kellua	ryömiä	0.801171332
+saapua	liukua	1.101457632
+jäädä jäljelle	laskeutua	1.393427933
+hyppiä	nojata	0.946798501
+juosta	ajaa	0.679056862
+luikerrella	keinua	1.043997708
+ilmestyä	retkeillä	1.110013644
+pomppia	heilua	0.711350916
+liikkua	tupsahtaa	1.106767613
+hiipiä	risteillä	1.064808007
+ratsastaa	riippua	0.933472133
+kumartaa	ohittaa	1.200925205
+käydä	lähestyä	0.87883701
+hypätä	nousta	0.74159538
+ohittaa	muuttaa	1.070825371
+mahtua	nojata	0.997012234
+kulkea	liftata	0.719639267
+asettua aloilleen	hölkätä	0.936133312
+juosta	mahtua	1.148933894
+romahtaa	kiirehtiä	1.029031116
+maata	liidellä	1.124559121
+edetä	käydä	0.587598066
+nousta	ohittaa	0.995202346
+hiipiä	ratsastaa	0.863614269
+mennä sisälle	ajelehtia	1.084124297
+ryömiä	vetäytyä	1.073044246
+kiivetä	jäädä jäljelle	1.112656771
+mennä sisälle	kiivetä	1.168629598
+luikerrella	vetää pois	1.340135098
+käpertyä	ratsastaa	1.085582897
+nojata	edetä	1.032003251
+tiputtaa	ponkaista	1.321752973
+juosta	nojata	1.000554648
+muuttaa	polvistua	0.953871964
+asettua aloilleen	ponkaista	0.97254484
+kellua	tulla	1.028474923
+lähteä	retkeillä	0.808343305
+asettua aloilleen	nousta	1.052006333
+heilua	vaeltaa	1.177808744
+vetää pois	keinua	1.189888945
+tiputtaa	kumartaa	1.076189465
+vetäytyä	ylittää	1.141186542
+maata	harhailla	1.237202871
+kaatua	kiivetä	0.975887828
+taklata	jäljittää	0.820811587
+riippua	liftata	1.09861968
+ohittaa	matkustaa	0.950370057
+edetä	pinkaista	0.701041577
+laskeutua	vaeltaa	0.946794237
+saapua	ilmestyä uudelleen	0.933280917
+käpertyä	harpata	0.841378575
+mennä	jäädä jäljelle	0.882462159
+paeta	kävellä	0.905938399
+vaeltaa	touhuta	0.959067016
+romahtaa	roikkua	1.135067625
+heilua	tasapainoilla	0.71753597
+kaatua	paeta	1.107610557
+ajelehtia	kaatua	1.205217258
+jäädä jäljelle	lähestyä	0.873326199
+ponkaista	kumartaa	0.996099974
+pyöriä	hiipiä	1.118192084
+retkeillä	astua	0.889402458
+tiputtaa	väistää	0.936242901
+kaatua	pomppia	0.879623236
+hiipiä	istua	1.012977325
+laskeutua	nousta	1.09656511
+lepattaa	mahtua	1.054374031
+hyppiä	ponkaista	0.710463404
+liukua	edetä	0.819119349
+tupsahtaa	roikkua	0.985720321
+käydä	mennä	0.674727161
+muuttaa	jäädä jäljelle	1.028387102
+ajelehtia	kompastella	1.33047408
+liikuttaa	kääntyä	0.966879816
+mennä sisälle	tupsahtaa	0.885643943
+lepattaa	kiiruhtaa	0.819505683
+tiputtaa	paeta	1.324158222
+liukua	ponkaista	1.028629605
+jäljittää	kiiruhtaa	1.1962416
+pinkaista	mennä läpi	1.040442183
+kiirehtiä	kääntyä	0.735904014
+ryömiä	jäädä jäljelle	0.925586514
+kulkea	ilmestyä	0.757195018
+riippua	liikuttaa	0.683385521
+kulkea	ylittää	1.087446443
+kiivetä	ponkaista	1.206180255
+vetää pois	kellua	1.296973669
+asettua aloilleen	lähteä	1.025579332
+touhuta	polvistua	1.091325557
+liftata	laskeutua	0.960604592
+jäljittää	juosta	1.157777312
+risteillä	käydä	0.849694565
+jäädä	harpata	0.944918552
+risteillä	kulkea	0.878645658
+nojata	laskeutua	1.299360321
+tasapainoilla	ratsastaa	1.140302304
+juosta	kiihdyttää	0.676744266
+keinua	metsästää	1.194963229
+tulla	nousta	0.881866114
+jäljittää	sukeltaa	1.479543254
+pinkaista	ryömiä	0.801339716
+virrata	jäljittää	1.113867613
+juosta	istua	0.805643397
+sukeltaa	vaeltaa	1.128841144
+tasapainoilla	matkustaa	1.077626391
+ilmestyä uudelleen	tiputtaa	1.24914171
+nousta	matkustaa	1.150546833
+heilahtaa	istua	0.897130007
+liitää	paeta	1.252097707
+kääntyä	risteillä	1.085246256
+kumartaa	virrata	1.238467436
+tulla	paeta	0.852092919
+kellua	maata	1.082654122
+muuttaa	mennä sisälle	0.953044375
+maata	romahtaa	1.079828491
+hölkätä	vetää pois	1.161102588
+kävellä	kaatua	0.90630246
+liikuttaa	liukua	0.789233171
+harhailla	lähteä	0.750761419
+hiipiä	harpata	0.775261193
+liidellä	keinua	0.913337598
+lentää	ponkaista	1.024915106
+mahtua	risteillä	0.886274387
+polvistua	pinkaista	0.970065832
+astua	väistää	0.733371646
+polvistua	risteillä	1.332726344
+tiputtaa	edetä	1.359733818
+taklata	edetä	1.19070292
+mennä	mennä läpi	0.776063259
+mennä sisälle	ylittää	1.160346069
+lepattaa	kiirehtiä	0.752300179
+kääntyä	pinkaista	0.896216003
+ylittää	istua	1.003753479
+kiirehtiä	kellua	0.988859023
+harhailla	jäljittää	1.23718285
+tiputtaa	liikuttaa	1.096405073
+kellua	tasapainoilla	0.963164245
+nojata	ilmestyä uudelleen	1.039891128
+laskeutua	kaatua	1.377430552
+risteillä	asettua aloilleen	1.131793792
+liidellä	hypätä	1.00351691
+liidellä	kiirehtiä	0.78441992
+matkustaa	kumartaa	1.277870321
+liftata	tulla	1.035067004
+romahtaa	väistää	0.853622531
+hölkätä	kiiruhtaa	0.798923228
+ilmestyä	astua	0.93587555
+harpata	ylittää	0.930969939
+heilahtaa	jäljittää	1.136387192
+tasapainoilla	tiputtaa	1.126293703
+tulla	kääntyä	0.934523527
+polvistua	tulla	0.943161314
+ylittää	tupsahtaa	1.28507882
+mennä sisälle	hypätä	0.912686014
+muuttaa	lähteä	0.948869
+jäädä jäljelle	keinua	1.075158651
+uida	riippua	1.033032925
+hypätä yli	tiputtaa	1.097442748
+lentää	heilua	1.025476795
+keinua	kääntyä	0.883450407
+liftata	lähestyä	0.993063898
+ponkaista	retkeillä	0.969081965
+juosta	virrata	1.061799301
+asettua aloilleen	jäljittää	0.931277862
+väistää	riippua	0.995602259
+mennä sisälle	seisoa	1.011381701
+polvistua	lähteä	1.049455858
+seisoa	ohittaa	0.891099535
+muuttaa	harhailla	0.931684433
+maata	tasapainoilla	0.946409328
+jäädä jäljelle	touhuta	0.891582665
+liukua	vaeltaa	1.079435475
+vetäytyä	tupsahtaa	1.276287848
+jäljittää	kompastella	0.999128022
+liukua	pomppia	0.735406781
+asettua aloilleen	matkustaa	1.11076494
+astua	riippua	0.785800537
+kiirehtiä	kaatua	1.160767962
+mahtua	touhuta	0.913616738
+kiivetä	mennä läpi	0.760836473
+hypätä	kulkea	0.791098816
+luikerrella	ajaa	1.066345376
+jäädä jäljelle	tiputtaa	0.818589692
+seisoa	romahtaa	1.073691728
+kiirehtiä	ilmestyä uudelleen	0.871956572
+väistää	lähteä	1.05714753
+istua	vetäytyä	0.968970912
+liukua	astua	0.898600365
+saapua	polvistua	1.018598865
+ryömiä	ponkaista	0.905116859
+nojata	matkustaa	1.314975009
+hölkätä	mennä sisälle	0.881863713
+metsästää	jäädä	0.941520625
+mennä	nousta	0.707212663
+laskeutua	virrata	1.212002841
+käpertyä	liitää	1.141262558
+lähestyä	juosta	0.748574677
+jäljittää	ryömiä	1.130830189
+taklata	astua	0.869661659
+jäädä jäljelle	harhailla	1.058124653
+asettua aloilleen	vetäytyä	1.099319813
+ajelehtia	kiiruhtaa	1.130171617
+muuttaa	kääntyä	0.888915902
+ilmestyä uudelleen	tupsahtaa	0.917460532
+liikkua	mahtua	1.066035955
+lentää	vetää pois	1.36525541
+lähteä	ryömiä	1.066058659
+tulla	tupsahtaa	0.670835573
+hiipiä	maata	1.090347695
+kävellä	edetä	0.446095693
+nousta	lentää	0.978162305
+väistää	hölkätä	0.897615978
+jäädä	risteillä	1.278036686
+mennä läpi	ratsastaa	0.883333929
+mennä	kääntyä	0.881408942
+saapua	kiiruhtaa	0.779813506
+jäljittää	vaeltaa	1.096021296
+kiiruhtaa	roikkua	0.806074701
+liitää	hölkätä	0.874067332
+luikerrella	kävellä	0.778947732
+matkustaa	ilmestyä uudelleen	1.008558382
+asettua aloilleen	istua	0.554102453
+kompastella	paeta	1.139866617
+nousta	ponkaista	0.8139328
+heilua	uida	1.150191375
+risteillä	pinkaista	1.056047861
+hölkätä	vaeltaa	0.860016176
+roikkua	hypätä	0.71130528
+risteillä	laskeutua	0.868703886
+roikkua	käpertyä	0.914218023
+mennä	heilua	0.948006337
+mennä läpi	muuttaa	1.180332255
+harhailla	käydä	0.819140247
+pinkaista	hypätä yli	0.688296304
+pinkaista	jäädä	1.034289523
+liftata	ajaa	0.77087951
+kellua	heilua	1.052911281
+kumartaa	mennä läpi	1.11342257
+lähteä	romahtaa	0.901861354
+vaeltaa	ohittaa	1.085152701
+ajelehtia	ohittaa	1.178534871
+istua	kiihdyttää	1.022975948
+roikkua	lähteä	0.842007869
+roikkua	mennä	0.764906455
+tiputtaa	astua	0.856802141
+liitää	taklata	1.102839746
+ajelehtia	jäädä jäljelle	1.369221124
+käydä	nojata	1.029261598
+kulkea	matkustaa	0.729236743
+lepattaa	kääntyä	0.977200296
+käpertyä	käydä	1.049589857
+mahtua	väistää	1.084902815
+jäljittää	liitää	1.331039811
+kulkea	retkeillä	0.840774403
+käpertyä	muuttaa	1.210266921
+seisoa	pyöriä	0.935703087
+kompastella	polvistua	0.895394353
+edetä	hiipiä	0.745077825
+pinkaista	liikkua	0.543481921
+mennä läpi	taklata	1.113792256
+riippua	risteillä	1.134071218
+kaatua	luikerrella	1.074121611
+retkeillä	romahtaa	1.219153348
+juosta	käpertyä	0.8126735
+heilua	pyöriä	0.785088146
+harpata	jäljittää	0.983594189
+istua	risteillä	1.07178064
+romahtaa	astua	0.892476414
+virrata	liikuttaa	1.042311046
+hölkätä	tasapainoilla	0.894502698
+lähestyä	retkeillä	1.01106961
+ilmestyä	jäädä jäljelle	1.154237568
+sukeltaa	mahtua	1.113710571
+vaeltaa	juosta	0.78127105
+kaatua	käydä	1.209589814
+kaatua	virrata	1.220588579
+polvistua	pyöriä	1.060555586
+touhuta	liikkua	0.804993208
+saapua	matkustaa	0.812670246
+juosta	mennä	0.580028055
+jäljittää	liikuttaa	1.02685797
+liitää	ryömiä	0.817588622
+ratsastaa	vaeltaa	0.95115947
+mahtua	käpertyä	1.165923754
+kiihdyttää	luikerrella	1.049152771
+mahtua	kellua	1.102145538
+romahtaa	edetä	1.146291807
+liitää	pomppia	0.991831872
+lähteä	tupsahtaa	0.832632516
+vetää pois	tiputtaa	1.134690005
+edetä	ylittää	1.017380355
+ratsastaa	jäädä	1.096045738
+vetäytyä	harpata	1.055093973
+taklata	harhailla	1.108747851
+jäädä	vetäytyä	0.951561526
+hölkätä	maata	0.744664104
+kumartaa	hyppiä	0.917778234
+pomppia	väistää	0.88434417
+metsästää	tupsahtaa	0.963356133
+mennä	kaatua	0.923447713
+ilmestyä	mahtua	0.856955657
+laskeutua	paeta	1.264759943
+ohittaa	käpertyä	1.268368806
+paeta	vetäytyä	1.35560584
+ratsastaa	matkustaa	1.118211645
+liukua	maata	1.104505869
+lentää	metsästää	1.347346201
+juosta	tupsahtaa	1.081605661
+juosta	liidellä	0.880491644
+astua	touhuta	0.770137286
+retkeillä	jäljittää	1.045955583
+matkustaa	käpertyä	1.292503498
+harhailla	kiirehtiä	0.974200331
+tulla	heilahtaa	0.999738374
+liidellä	saapua	1.046810454
+heilua	paeta	1.297622951
+lepattaa	kellua	0.890207251
+astua	keinua	0.827295368
+istua	väistää	0.979305211
+kiiruhtaa	ylittää	1.020723799
+kiirehtiä	paeta	0.97317046
+ohittaa	luikerrella	1.165434503
+ilmestyä uudelleen	jäädä	1.214735276
+kiirehtiä	astua	0.813359071
+keinua	ponkaista	0.940934808
+jäädä jäljelle	jäljittää	0.862951821
+polvistua	tupsahtaa	1.124234672
+seisoa	tiputtaa	1.170991995
+lepattaa	vaeltaa	1.020432044
+saapua	ajelehtia	0.937904354
+tasapainoilla	nousta	0.850145208
+ylittää	mennä läpi	0.98980357
+kulkea	kääntyä	0.793648139
+matkustaa	kiivetä	1.058444606
+jäädä jäljelle	ajaa	1.181228598
+sukeltaa	tulla	0.948545913
+jäädä jäljelle	kiiruhtaa	0.917394318
+lähteä	kiivetä	1.001737851
+keinua	tulla	1.079136083
+jäädä	lepattaa	1.12922921
+väistää	ilmestyä	1.12658024
+seisoa	ratsastaa	1.01819079
+ylittää	virrata	1.228609943
+pomppia	pyöriä	0.969307626
+roikkua	vetäytyä	0.858678987
+käpertyä	liikkua	0.884483647
+ilmestyä	matkustaa	1.053783655
+heilahtaa	kiihdyttää	0.904586552
+kääntyä	uida	1.15927795
+asettua aloilleen	uida	1.168374032
+kääntyä	ponkaista	0.795093053
+pinkaista	väistää	1.130170708
+ohittaa	ylittää	0.842431854
+kävellä	ajelehtia	0.972140187
+pinkaista	kiivetä	1.009703154
+luikerrella	pinkaista	0.843046453
+ryömiä	kiiruhtaa	0.902494854
+astua	nousta	0.757488777
+polvistua	liidellä	1.174815418
+mennä	heilahtaa	0.910615071
+harpata	käydä	0.99152562
+sukeltaa	istua	1.13705404
+kääntyä	lentää	1.029661894
+liitää	tulla	0.866207099
+kulkea	mennä sisälle	0.97291308
+nojata	ajaa	0.849143789
+hypätä	kaatua	0.787046499
+kiihdyttää	keinua	0.874957004
+lepattaa	istua	1.263544887
+sukeltaa	liikuttaa	0.780383761
+liftata	ohittaa	0.987324662
+luikerrella	liikkua	0.820844255
+taklata	kääntyä	1.08286845
+vetää pois	tulla	1.118332391
+hypätä	pomppia	0.633138145
+liikkua	muuttaa	0.862275418
+heilua	virrata	1.254332353
+lähteä	istua	1.054638035
+juosta	roikkua	0.889512209
+tulla	käpertyä	0.954610531
+virrata	mennä sisälle	0.904961578
+lähestyä	nousta	0.807809253
+asettua aloilleen	mennä	0.850852352
+lähestyä	ponkaista	0.850737548
+nousta	tupsahtaa	1.043303376
+muuttaa	ilmestyä	0.855757564
+pyöriä	paeta	1.191275665
+luikerrella	edetä	0.720979239
+kellua	asettua aloilleen	1.303801158
+laskeutua	tiputtaa	1.196120588
+vetäytyä	lähteä	1.374272359
+heilua	sukeltaa	1.025370579
+jäädä	tulla	0.743610209
+jäädä	lentää	1.265720331
+matkustaa	jäädä jäljelle	1.130891256
+kumartaa	liidellä	1.193000246
+liukua	kiiruhtaa	1.025459048
+kääntyä	tasapainoilla	0.918772118
+ajaa	tiputtaa	1.363313144
+seisoa	kompastella	0.864370193
+asettua aloilleen	retkeillä	0.973933414
+kaatua	vaeltaa	1.358576988
+jäljittää	metsästää	0.630892298
+hiipiä	muuttaa	1.046037681
+maata	juosta	0.874749284
+ratsastaa	saapua	0.879588044
+mennä sisälle	astua	0.818794608
+käpertyä	astua	0.987438019
+polvistua	hölkätä	0.881257745
+ajaa	liikkua	0.564768541
+tasapainoilla	jäädä	1.132908731
+kompastella	vetäytyä	1.222050716
+muuttaa	luikerrella	1.126693509
+liftata	roikkua	0.995439821
+jäädä jäljelle	kiihdyttää	1.118561127
+ajelehtia	matkustaa	0.664852484
+ajaa	kompastella	1.13950893
+kiivetä	hypätä	0.943442667
+roikkua	lepattaa	0.828747362
+kääntyä	saapua	0.931125298
+kumartaa	käpertyä	0.522733829
+hypätä	luikerrella	0.968221336
+touhuta	lähestyä	0.777068909
+kompastella	asettua aloilleen	0.917091959
+matkustaa	hölkätä	0.891546078
+ajaa	keinua	0.856255207
+vaeltaa	hiipiä	1.004104196
+polvistua	nousta	1.014839764
+ratsastaa	mahtua	1.117721207
+tasapainoilla	harhailla	0.994292774
+seisoa	liftata	1.069854379
+ratsastaa	vetää pois	0.991787664
+hyppiä	ryömiä	1.053214531
+ajelehtia	tulla	0.83675786
+pomppia	ohittaa	1.191812175
+risteillä	virrata	0.975852003
+vetää pois	riippua	1.048015212
+polvistua	taklata	1.088021887
+ilmestyä uudelleen	laskeutua	1.073129473
+nojata	seisoa	0.595652122
+käpertyä	uida	1.127029947
+liukua	kävellä	0.808635731
+pyöriä	ylittää	1.291351204
+matkustaa	mahtua	1.007766274
+virrata	sukeltaa	0.765918207
+maata	pinkaista	0.883336953
+kaatua	matkustaa	1.308031909
+lepattaa	ilmestyä uudelleen	1.105210128
+kellua	kiivetä	0.823638108
+risteillä	kiihdyttää	1.012225177
+lähestyä	matkustaa	0.921260247
+kompastella	ilmestyä uudelleen	1.245301204
+ratsastaa	metsästää	1.009861887
+harhailla	heilua	1.045920695
+kiiruhtaa	metsästää	1.216215254
+lähteä	mennä	0.744611259
+touhuta	heilahtaa	1.069885198
+lähteä	mahtua	1.110295198
+luikerrella	liidellä	1.084286576
+mahtua	kiirehtiä	0.998568934
+hyppiä	liidellä	1.115420631
+lepattaa	hypätä	0.864867618
+ponkaista	jäljittää	1.127648984
+jäljittää	tasapainoilla	1.074275549
+mahtua	käydä	1.190273848
+nojata	liitää	1.093560013
+väistää	liitää	1.145966488
+polvistua	pomppia	0.832923664
+kumartaa	uida	1.151951971
+harhailla	liidellä	0.871452506
+jäädä	heilua	1.078574301
+ohittaa	kulkea	1.014594847
+kulkea	uida	0.736160044
+käpertyä	heilua	1.021014471
+kiivetä	lähestyä	0.869466112
+touhuta	hyppiä	0.975945739
+mahtua	tiputtaa	1.342475073
+liikuttaa	matkustaa	1.047098916
+pyöriä	istua	0.987007065
+mennä	metsästää	0.99286167
+jäljittää	maata	1.07242399
+liukua	lentää	0.960103526
+juosta	hölkätä	0.405627379
+nojata	kiihdyttää	1.052337418
+liitää	kulkea	0.655648753
+ajelehtia	mennä läpi	1.33742784
+kellua	muuttaa	1.059890834
+tasapainoilla	liukua	0.782548079
+vetäytyä	taklata	1.262376614
+mennä läpi	kulkea	0.889996243
+risteillä	luikerrella	1.170608309
+tulla	kävellä	0.65455288
+liidellä	kompastella	1.250278352
+käpertyä	keinua	0.941606286
+liidellä	väistää	1.020256025
+retkeillä	kiihdyttää	0.883673963
+pomppia	sukeltaa	1.015019925
+kiirehtiä	kompastella	1.182729247
+kiivetä	tupsahtaa	1.055614775
+nojata	lentää	1.292379161
+pomppia	nousta	0.632436164
+vaeltaa	kiirehtiä	0.784786028
+liitää	istua	1.161865764
+uida	tiputtaa	1.204627186
+ajelehtia	käydä	1.070258959
+saapua	jäljittää	1.092491636
+retkeillä	pyöriä	0.987834683
+risteillä	vaeltaa	0.667993037
+harhailla	ohittaa	1.077921738
+liidellä	tasapainoilla	0.775018557
+ylittää	luikerrella	1.193277449
+jäädä	lähestyä	0.938835757
+romahtaa	ylittää	1.451579452
+hypätä	mahtua	1.06974152
+hyppiä	sukeltaa	1.0058507
+ohittaa	mennä läpi	1.113617511
+liikkua	edetä	0.375250403
+kaatua	muuttaa	1.320101008
+hyppiä	lähteä	0.990713416
+hiipiä	kiivetä	1.021834353
+ratsastaa	muuttaa	0.97180782
+vetää pois	kompastella	1.132163283
+kellua	juosta	1.102841457
+mennä	virrata	0.818480301
+kellua	edetä	0.913821965
+sukeltaa	touhuta	1.183469977
+liukua	tiputtaa	1.497872564
+kellua	sukeltaa	0.853099433
+mennä läpi	lepattaa	0.962796319
+lähteä	ajelehtia	0.736097903
+pinkaista	kumartaa	0.973300621
+kellua	ylittää	1.226260535
+jäädä	käydä	1.102652745
+retkeillä	taklata	1.150213377
+riippua	kävellä	0.911589111
+nousta	paeta	1.149216188
+kiivetä	tulla	0.947911509
+hyppiä	romahtaa	1.279303357
+liitää	mennä sisälle	1.114902735
+kävellä	risteillä	0.877432999
+asettua aloilleen	tupsahtaa	0.962974691
+juosta	mennä läpi	1.006788617
+heilua	kävellä	0.994959945
+kiirehtiä	sukeltaa	0.934804959
+seisoa	jäädä jäljelle	0.745252317
+luikerrella	tupsahtaa	1.211985151
+uida	mahtua	0.933879027
+juosta	muuttaa	1.040683803
+liftata	kaatua	1.289581539
+mennä sisälle	heilahtaa	1.286475551
+jäädä	mennä läpi	1.141881073
+harpata	metsästää	1.028252574
+tulla	lähestyä	0.830781345
+ylittää	lähestyä	0.999898311
+käydä	metsästää	1.033863396
+laskeutua	kellua	0.895526757
+paeta	mennä läpi	1.423620397
+vetää pois	käydä	1.214870082
+edetä	maata	1.05928262
+ponkaista	lähteä	0.889567002
+touhuta	edetä	0.828836844
+vetäytyä	heilua	0.954807348
+virrata	ryömiä	1.126891156
+kääntyä	maata	0.819688451
+pyöriä	ilmestyä	1.127301275
+kiivetä	kiiruhtaa	0.976853147
+vetää pois	tasapainoilla	1.154877041
+mennä läpi	uida	1.186683972
+tulla	mennä sisälle	0.713559195
+nojata	saapua	0.979617919
+kumartaa	harhailla	1.219808493
+mennä läpi	mennä sisälle	1.31858381
+retkeillä	ajaa	0.840216835
+käydä	seisoa	0.873048539
+kiihdyttää	kellua	0.769710396
+hiipiä	touhuta	0.997607312
+heilahtaa	keinua	0.566295131
+kulkea	vetäytyä	1.180257457
+jäädä	riippua	1.007233307
+mennä läpi	vaeltaa	1.281557546
+vetäytyä	pyöriä	1.29772366
+harhailla	riippua	1.017266527
+liftata	kellua	0.99759463
+kulkea	riippua	0.744778034
+lepattaa	harhailla	0.968024038
+tupsahtaa	jäljittää	0.904703727
+paeta	metsästää	1.089988191
+ajaa	metsästää	1.024784996
+hölkätä	roikkua	0.763718095
+vetää pois	taklata	1.174417419
+keinua	käydä	1.044965217
+paeta	pinkaista	1.150905094
+kumartaa	lähestyä	0.854784791
+hölkätä	käpertyä	0.854472947
+kaatua	kumartaa	1.074943325
+kiirehtiä	polvistua	1.132094199
+kääntyä	hyppiä	0.778182829
+lähestyä	mennä läpi	0.89085924
+lepattaa	heilua	0.887649814
+heilua	matkustaa	1.132868876
+riippua	pomppia	0.745073709
+liukua	liidellä	0.852788723
+hiipiä	polvistua	1.059641479
+lähteä	kaatua	1.122118545
+riippua	ylittää	1.196657612
+uida	virrata	0.578631218
+lähteä	ratsastaa	1.072438859
+liikkua	ilmestyä uudelleen	1.010503387
+maata	paeta	1.152770111
+ilmestyä uudelleen	virrata	1.251629103
+sukeltaa	liftata	0.946934971
+keinua	mennä läpi	0.803508255
+jäljittää	liukua	1.165154194
+romahtaa	lentää	1.09295003
+mennä	tupsahtaa	0.900997576
+mennä läpi	harhailla	1.353394225
+liukua	mennä sisälle	1.191259948
+vetää pois	roikkua	1.037161932
+vaeltaa	kellua	1.253565031
+mennä	ohittaa	0.978885327
+kaatua	istua	0.954662331
+retkeillä	lentää	1.114502347
+kiivetä	hypätä yli	0.974041556
+kääntyä	asettua aloilleen	0.73408401
+liidellä	ohittaa	1.110757554
+liikuttaa	retkeillä	0.950607844
+ryömiä	harhailla	1.106869799
+ajelehtia	hölkätä	1.127462948
+nousta	risteillä	1.053295569
+romahtaa	saapua	1.051993161
+nojata	vetäytyä	0.970741152
+jäädä jäljelle	kääntyä	1.008253912
+tupsahtaa	kaatua	0.870951994
+hiipiä	kääntyä	0.953080434
+kompastella	tiputtaa	0.96961795
+vetää pois	polvistua	1.163382354
+laskeutua	tasapainoilla	1.098674266
+ratsastaa	nousta	0.863003492
+käpertyä	harhailla	1.211459959
+mennä sisälle	kompastella	1.249545743
+liikuttaa	hypätä yli	0.753896981
+mennä	ilmestyä	0.843866754
+kulkea	metsästää	0.947693124
+kumartaa	kiiruhtaa	0.75641775
+pinkaista	retkeillä	1.143699335
+liidellä	lepattaa	0.596394938
+mahtua	muuttaa	0.896891266
+kiiruhtaa	hyppiä	0.866369194
+uida	heilahtaa	1.087108071
+mennä	jäädä	0.877648937
+liftata	pyöriä	0.669965915
+ilmestyä	ajaa	0.781561669
+nousta	kävellä	0.738611661
+maata	ylittää	1.185702979
+pyöriä	hypätä yli	1.006654677
+kävellä	polvistua	1.023813476
+ryömiä	liikkua	0.753111
+lähteä	jäljittää	1.146110593
+tupsahtaa	ryömiä	1.139559158
+vetäytyä	mennä läpi	1.119014793
+seisoa	juosta	0.797433758
+touhuta	laskeutua	1.177929267
+risteillä	lähteä	0.781886958
+ajaa	jäädä	1.026138983
+lähestyä	asettua aloilleen	0.914030665
+liikuttaa	hiipiä	0.8305813
+kumartaa	hölkätä	0.835099193
+hyppiä	lepattaa	0.971444144
+touhuta	liitää	1.146400598
+väistää	tasapainoilla	1.02173126
+muuttaa	liukua	1.061285561
+ohittaa	hölkätä	1.066469916
+edetä	hypätä yli	0.762673467
+uida	kellua	0.803919338
+pinkaista	virrata	1.009617107
+sukeltaa	ylittää	1.123516675
+mennä sisälle	liidellä	1.081206538
+vaeltaa	keinua	0.917750551
+pomppia	kiihdyttää	0.867010365
+liukua	lepattaa	1.012310154
+ilmestyä uudelleen	lähestyä	0.971832119
+saapua	liftata	1.110521372
+lentää	polvistua	1.264888639
+virrata	hypätä yli	0.972369637
+roikkua	hypätä yli	0.811767014
+pinkaista	liikuttaa	0.782922488
+riippua	lähteä	1.01528862
+heilua	astua	1.012089972
+harhailla	liikkua	0.921360222
+jäädä jäljelle	tupsahtaa	0.82782211
+käydä	kiivetä	1.119981864
+vetää pois	lepattaa	1.439193922
+retkeillä	heilua	1.133212
+heilua	liukua	0.94187184
+pyöriä	ilmestyä uudelleen	1.164358442
+paeta	liikuttaa	1.060117288
+lentää	liidellä	0.302769265
+heilua	ponkaista	1.195235926
+harhailla	tulla	0.79419554
+mennä sisälle	istua	1.071071545
+asettua aloilleen	saapua	1.088153076
+uida	juosta	0.784047405
+asettua aloilleen	astua	0.934794259
+nojata	tiputtaa	1.069047889
+vetäytyä	ilmestyä uudelleen	1.210271293
+kiiruhtaa	laskeutua	0.907726626
+lentää	ilmestyä	1.213567506
+lepattaa	kiivetä	0.872848995
+vaeltaa	jäädä jäljelle	1.097522794
+tulla	hiipiä	1.070431259
+taklata	pinkaista	1.142857588
+seisoa	heilahtaa	0.890035871
+ponkaista	muuttaa	1.030721628
+lähestyä	kompastella	1.01294327
+ilmestyä uudelleen	liftata	1.203460044
+hyppiä	seisoa	0.896131718
+uida	roikkua	0.983755526
+heilahtaa	roikkua	0.555525389
+liikkua	risteillä	0.988236054
+kiiruhtaa	istua	0.820218074
+kaatua	kääntyä	0.989976965
+saapua	ylittää	1.090533457
+ratsastaa	luikerrella	1.1610694
+lähteä	keinua	1.068838982
+ratsastaa	istua	0.953923436
+käydä	asettua aloilleen	0.891921463
+ratsastaa	liukua	0.898077156
+ajelehtia	virrata	1.205064552
+harpata	kulkea	0.624930876
+heilua	risteillä	1.179445569
+vetäytyä	kumartaa	0.833293345
+maata	nousta	1.068656704
+kiirehtiä	lentää	0.936337445
+liitää	jäädä	1.188057589
+astua	paeta	0.890559709
+sukeltaa	mennä läpi	0.971930795
+nojata	tupsahtaa	0.961632251
+ajelehtia	liidellä	0.891389471
+maata	taklata	1.139850276
+pyöriä	tupsahtaa	0.900731739
+ryömiä	touhuta	0.976881121
+pomppia	liikuttaa	0.847771934
+käydä	sukeltaa	0.921297442
+liikkua	polvistua	0.834149648
+nousta	jäädä	1.076451636
+kävellä	mennä	0.367085399
+retkeillä	harpata	0.897392783
+kävellä	liftata	0.826997601
+heilua	juosta	1.133011361
+liikuttaa	vaeltaa	0.835557365
+vaeltaa	liidellä	0.919909986
+ilmestyä	tasapainoilla	1.147042955
+kiiruhtaa	hypätä yli	0.751734421
+matkustaa	hyppiä	1.024675599
+juosta	luikerrella	0.801420153
+tupsahtaa	matkustaa	0.851648401
+paeta	juosta	0.996078558
+seisoa	harpata	0.691850139
+lepattaa	sukeltaa	0.791529251
+kiiruhtaa	muuttaa	0.973331205
+mennä	tasapainoilla	0.852204746
+tiputtaa	pomppia	1.196591247
+metsästää	ryömiä	1.080414467
+kävellä	vetäytyä	1.015898989
+paeta	liikkua	0.977446205
+ohittaa	vetää pois	1.004300875
+kumartaa	kellua	0.98391815
+astua	nojata	0.856719656
+tasapainoilla	ylittää	1.078349745
+hiipiä	liidellä	0.794701152
+liukua	nojata	1.002482846
+liidellä	vetää pois	1.465608913
+liftata	taklata	0.898890661
+polvistua	käydä	1.181062987
+liitää	retkeillä	1.117003677
+kääntyä	seisoa	0.761410213
+lähteä	juosta	0.857779662
+kiivetä	romahtaa	1.138461801
+ohittaa	jäädä	1.008166852
+ilmestyä	harhailla	0.9498248
+kompastella	vaeltaa	1.314309162
+metsästää	edetä	0.955924383
+ratsastaa	ilmestyä uudelleen	1.067981193
+keinua	liftata	0.915783313
+mennä läpi	seisoa	1.061536014
+liidellä	vetäytyä	1.35908143
+saapua	jäädä jäljelle	0.949072578
+jäädä jäljelle	istua	0.682944029
+väistää	liukua	1.072535993
+edetä	lentää	0.754639998
+keinua	hypätä yli	0.874333907
+kiivetä	ylittää	1.010740298
+kiihdyttää	hölkätä	0.652856248
+pomppia	liftata	1.086854092
+seisoa	metsästää	1.127113648
+nojata	ponkaista	1.049762882
+nousta	seisoa	0.777526452
+hölkätä	lähestyä	0.680811584
+lentää	kompastella	1.297172884
+ilmestyä uudelleen	juosta	1.022706751
+kääntyä	liitää	0.986250661
+pyöriä	vaeltaa	0.956369409
+liidellä	retkeillä	1.067756892
+tupsahtaa	mahtua	0.959649174
+saapua	roikkua	0.968918212
+kellua	ajaa	1.058571505
+romahtaa	luikerrella	1.120366616
+hyppiä	heilua	0.857653692
+risteillä	saapua	1.014421835
+hypätä yli	istua	0.874085678
+uida	ilmestyä	0.86669612
+tasapainoilla	hyppiä	0.765536066
+romahtaa	liukua	1.407894196
+lentää	tulla	0.963928101
+juosta	ponkaista	0.57559067
+nojata	liikuttaa	0.761454566
+lähestyä	muuttaa	0.877464868
+pomppia	ryömiä	1.067230478
+uida	kompastella	1.312482847
+pyöriä	lähestyä	0.882697135
+ponkaista	kiihdyttää	0.648621646
+polvistua	tasapainoilla	0.794929951
+ajaa	heilua	0.92922728
+jäljittää	lepattaa	1.317385355
+mennä läpi	mahtua	1.160788197
+liitää	tupsahtaa	1.063648993
+asettua aloilleen	liitää	1.228620498
+muuttaa	tulla	0.963289139
+käydä	virrata	1.075142249
+mahtua	ponkaista	1.182158615
+tulla	ilmestyä	0.836546585
+liikkua	kiivetä	0.899658408
+mennä sisälle	pyöriä	1.076057353
+ohittaa	metsästää	1.197440643
+pomppia	pinkaista	0.823011667
+kompastella	lepattaa	1.274555542
+hypätä yli	liidellä	1.048118517
+paeta	liftata	1.059018706
+heilua	kulkea	0.876141687
+ponkaista	vaeltaa	0.812315135
+ylittää	mahtua	1.013479398
+roikkua	astua	0.780421658
+hyppiä	mahtua	1.030722434
+tasapainoilla	ponkaista	1.016603803
+lentää	asettua aloilleen	1.307825909
+ajaa	edetä	0.683798351
+ponkaista	tulla	0.969196849
+lähestyä	kiirehtiä	0.943719995
+hypätä	vetää pois	0.942740563
+harpata	tulla	0.833182715
+harpata	pyöriä	0.803063592
+harhailla	keinua	0.968909894
+hyppiä	lähestyä	0.940019008
+vetää pois	väistää	1.03787814
+jäädä jäljelle	tulla	0.889738172
+virrata	liukua	1.377833837
+lähteä	tiputtaa	0.973831176
+käpertyä	väistää	0.850814984
+polvistua	jäljittää	0.994489106
+hyppiä	pinkaista	0.843033984
+jäädä jäljelle	liidellä	1.173372559
+liftata	hypätä yli	1.149931872
+käydä	hiipiä	0.949977513
+laskeutua	kumartaa	1.30006983
+liukua	juosta	0.821728482
+kiivetä	keinua	0.81091031
+pomppia	liikkua	0.625899918
+kiihdyttää	liukua	1.083709954
+metsästää	vetäytyä	1.274144348
+liftata	istua	1.027095857
+tasapainoilla	ajaa	0.844446943
+pinkaista	lentää	0.99253961
+lepattaa	nojata	1.095172383
+heilahtaa	vetäytyä	0.947625884
+romahtaa	liikuttaa	1.112447357
+luikerrella	hyppiä	1.021730382
+hyppiä	ajaa	0.835428015
+harhailla	retkeillä	0.483994361
+liftata	risteillä	0.98100799
+tiputtaa	vaeltaa	1.313211504
+kiirehtiä	roikkua	0.831568232
+hypätä	saapua	0.996681151
+mahtua	pyöriä	0.96943318
+pinkaista	pyöriä	0.82686421
+hiipiä	keinua	0.767392411
+laskeutua	hölkätä	1.120254589
+hiipiä	seisoa	0.872155216
+heilua	nojata	1.026432181
+jäljittää	roikkua	1.140430679
+vaeltaa	hypätä	0.958447764
+kiivetä	heilua	0.919111851
+liikkua	asettua aloilleen	0.919476358
+kellua	luikerrella	0.946143413
+taklata	lähestyä	1.037485382
+touhuta	liukua	0.812636866
+asettua aloilleen	luikerrella	1.010428053
+hyppiä	mennä läpi	0.989129941
+kääntyä	lähteä	1.023342633
+jäädä	istua	0.89467756
+mahtua	ilmestyä uudelleen	1.07997891
+jäädä	taklata	0.956821435
+liukua	risteillä	1.143007426
+kulkea	kiirehtiä	0.780041293
+romahtaa	jäljittää	1.060250969
+virrata	lähteä	1.040243934
+kääntyä	kävellä	0.841900681
+uida	ryömiä	0.988828818
+nojata	mennä	0.928340684
+edetä	harpata	0.722719231
+ajaa	mennä läpi	0.935228139
+nojata	kompastella	0.869395105
+risteillä	nojata	1.244199692
+harhailla	sukeltaa	1.096399976
+kävellä	harpata	0.63515087
+kiiruhtaa	tasapainoilla	0.844862292
+heilua	mennä läpi	0.898680211
+lähteä	käpertyä	1.097122969
+tupsahtaa	liidellä	1.03146776
+asettua aloilleen	keinua	0.919240842
+taklata	ilmestyä	1.09919645
+kiihdyttää	asettua aloilleen	1.053428749
+istua	käydä	0.896180182
+sukeltaa	asettua aloilleen	1.340923399
+liikkua	romahtaa	1.286087707
+vaeltaa	kiihdyttää	0.805714305
+pyöriä	kiiruhtaa	0.907471038
+muuttaa	ilmestyä uudelleen	1.049692037
+taklata	lähteä	1.059317048
+jäljittää	vetää pois	0.858434578
+touhuta	matkustaa	1.155356394
+saapua	liikkua	0.742194249
+kiihdyttää	kumartaa	0.984739431
+kiirehtiä	virrata	1.217222707
+mahtua	harpata	1.006607303
+metsästää	uida	1.281591199
+väistää	risteillä	1.213582464
+laskeutua	edetä	0.968644951
+pyöriä	hölkätä	0.754802502
+hypätä	ryömiä	1.011089115
+vaeltaa	kulkea	0.716617819
+roikkua	laskeutua	0.942699125
+liikkua	mennä läpi	0.926098683
+astua	liikkua	0.593216634
+touhuta	kellua	1.176001164
+tulla	asettua aloilleen	0.832585898
+metsästää	ajelehtia	1.189289231
+tupsahtaa	käpertyä	1.148271043
+matkustaa	uida	0.904320519
+juosta	kääntyä	0.804413484
+heilua	väistää	0.901032459
+seisoa	retkeillä	1.021676164
+ajelehtia	ajaa	1.125473896
+edetä	kulkea	0.50745325
+ajaa	kulkea	0.542101939
+ryömiä	maata	0.690098164
+vaeltaa	kiiruhtaa	0.841344759
+seisoa	pinkaista	0.875259696
+ratsastaa	jäljittää	1.221135365
+kävellä	lähestyä	0.623042429
+kellua	liitää	0.763997208
+mennä	touhuta	0.861642825
+hypätä	liftata	1.145365252
+luikerrella	ponkaista	0.899253474
+kiiruhtaa	tupsahtaa	0.915804971
+käpertyä	maata	0.660712945
+retkeillä	edetä	0.900191037
+polvistua	riippua	0.747419729
+saapua	paeta	0.973869115
+taklata	juosta	1.199256424
+heilua	istua	1.051406538
+tasapainoilla	edetä	0.943473237
+luikerrella	polvistua	0.915678734
+ryömiä	taklata	1.042155313
+harhailla	ponkaista	0.903483426
+kiihdyttää	väistää	0.92632962
+jäljittää	hyppiä	1.188362563
+maata	jäädä	0.656092666
+heilua	ajelehtia	1.161088209
+kiiruhtaa	liftata	0.949342195
+ilmestyä uudelleen	maata	1.089327664
+seisoa	mennä	0.756562762
+hypätä yli	kävellä	0.704202626
+kulkea	istua	0.90818649
+liidellä	kulkea	0.783575008
+ohittaa	ajaa	1.084536463
+ylittää	kaatua	1.290452502
+pinkaista	liukua	0.946283646
+ryömiä	lepattaa	0.913571742
+harhailla	paeta	0.939852506
+roikkua	hyppiä	0.856403839
+pyöriä	käpertyä	1.078839391
+hypätä yli	tasapainoilla	0.945008629
+tiputtaa	lähestyä	1.199303836
+tiputtaa	virrata	0.973290338
+lähestyä	kellua	0.950348474
+käpertyä	lepattaa	0.947553936
+lepattaa	keinua	0.883109949
+nousta	ajaa	0.816803536
+astua	edetä	0.613611348
+hyppiä	maata	0.819593256
+risteillä	käpertyä	1.316032617
+pomppia	lähestyä	0.947203509
+pomppia	kiiruhtaa	0.902138202
+nousta	kiiruhtaa	0.907542566
+kulkea	väistää	0.989489242
+paeta	ilmestyä	1.072372972
+taklata	sukeltaa	1.368030956
+jäljittää	uida	1.279306122
+mahtua	tasapainoilla	0.968074093
+retkeillä	risteillä	0.726625028
+touhuta	seisoa	0.862401766
+vaeltaa	käpertyä	1.174543482
+maata	roikkua	0.867757614
+liftata	ponkaista	1.164344138
+kumartaa	risteillä	1.319881511
+kiihdyttää	astua	0.713021717
+hypätä	touhuta	0.926449028
+kiirehtiä	ohittaa	0.994141275
+muuttaa	uida	0.819953216
+jäädä	ryömiä	1.192299394
+taklata	saapua	1.130122731
+vaeltaa	käydä	0.764469274
+kiivetä	vetää pois	1.165002747
+polvistua	lähestyä	0.934376523
+sukeltaa	jäädä	1.170690175
+lepattaa	retkeillä	1.124906037
+kiihdyttää	paeta	1.06713855
+kaatua	mennä läpi	1.003415028
+laskeutua	hyppiä	1.015987873
+jäädä	väistää	0.903523998
+kiivetä	ilmestyä uudelleen	1.140239055
+ajaa	kumartaa	0.932785034
+edetä	riippua	0.949878157
+kellua	kompastella	1.269340325
+risteillä	ilmestyä uudelleen	0.996931294
+riippua	hypätä	0.804714327
+hypätä yli	seisoa	0.860311176
+mennä	polvistua	0.866565701
+ratsastaa	mennä sisälle	1.210199548
+väistää	heilahtaa	1.175071486
+liftata	liidellä	0.714411825
+liukua	kellua	1.205333719
+mennä sisälle	nousta	1.118768623
+heilahtaa	metsästää	1.204874409
+lepattaa	paeta	1.252317575
+kiirehtiä	vetäytyä	1.293986294
+lentää	juosta	1.047737997
+nousta	kiirehtiä	1.032072045
+keinua	saapua	1.078016192
+kumartaa	hypätä	1.048686385
+hyppiä	hypätä yli	0.488680763
+pyöriä	liikkua	0.94144282
+lähestyä	edetä	0.579874095
+romahtaa	pyöriä	1.135048948
+touhuta	taklata	0.85399621
+kiihdyttää	polvistua	1.055620703
+liitää	metsästää	1.20969599
+kompastella	ilmestyä	1.202779179
+kaatua	retkeillä	1.275511761
+liftata	hyppiä	1.143069496
+sukeltaa	metsästää	1.441994348
+tupsahtaa	ajelehtia	1.121409381
+polvistua	astua	1.027024924
+mahtua	hiipiä	1.167125291
+metsästää	lähteä	0.94155657
+pyöriä	jäljittää	1.052427127
+ajaa	hypätä yli	0.888180951
+paeta	heilahtaa	1.223001942
+harhailla	uida	1.051492915
+heilua	tulla	1.06042545
+saapua	hiipiä	0.969719037
+pinkaista	heilahtaa	0.865820861
+tupsahtaa	liukua	1.081166108
+kulkea	sukeltaa	0.790035333
+kompastella	hypätä yli	0.999427033
+lepattaa	virrata	1.11866215
+liitää	laskeutua	0.76767223
+hyppiä	uida	0.893737151
+edetä	hölkätä	0.54076598
+lepattaa	pinkaista	0.77480174
+käydä	romahtaa	1.120358792
+sukeltaa	laskeutua	0.823936501
+ponkaista	hypätä	0.668124395
+luikerrella	kulkea	0.885755349
+ilmestyä	risteillä	0.909676058
+ilmestyä uudelleen	heilua	1.236575129
+liukua	asettua aloilleen	1.04147298
+jäljittää	heilua	1.194041113
+tiputtaa	kiiruhtaa	1.027712141
+kiihdyttää	kiirehtiä	0.697390954
+liidellä	ilmestyä uudelleen	1.034646225
+liukua	istua	0.958741737
+metsästää	kompastella	1.151777314
+pomppia	kompastella	0.889153418
+ajaa	ponkaista	0.822810771
+liftata	vaeltaa	1.005977804
+metsästää	hiipiä	0.975821687
+touhuta	ylittää	1.083176081
+virrata	kiiruhtaa	0.999918077
+sukeltaa	uida	0.33573159
+edetä	nousta	0.641870968
+nousta	harhailla	1.13007998
+seisoa	ilmestyä	1.010695669
+mennä läpi	istua	1.032771995
+kiiruhtaa	ratsastaa	0.845434854
+juosta	vetää pois	1.153638855
+lepattaa	hiipiä	0.894781015
+romahtaa	nousta	1.245751769
+vetää pois	lähteä	1.121600193
+jäädä	liidellä	1.155688605
+väistää	paeta	1.149264005
+ilmestyä	keinua	1.007430088
+sukeltaa	muuttaa	0.958678533
+kulkea	hypätä yli	0.758510843
+hölkätä	liidellä	0.883345441
+ponkaista	hiipiä	0.73298659
+kiirehtiä	riippua	0.921213115
+touhuta	kiirehtiä	1.188185321
+taklata	ajaa	1.14097446
+mennä	hypätä yli	0.723767451
+liikkua	tasapainoilla	0.989065706
+retkeillä	polvistua	1.273702549
+ylittää	liikkua	0.923836102
+taklata	kiiruhtaa	1.132591935
+lähteä	liitää	0.851356344
+kellua	hypätä yli	0.936924027
+kiirehtiä	vetää pois	1.150685267
+jäädä	hypätä yli	1.298215573
+taklata	nojata	0.83830254
+jäädä	liikkua	1.092267129
+kompastella	hiipiä	1.163471456
+tupsahtaa	lähestyä	0.878957204
+ratsastaa	romahtaa	1.409989637
+pomppia	hölkätä	0.925067841
+liitää	hyppiä	1.038461912
+kävellä	roikkua	0.763482552
+lentää	liftata	0.711310209
+lepattaa	ponkaista	0.981552704
+kulkea	tulla	0.973291269
+riippua	mahtua	1.079677871
+liidellä	mennä läpi	0.986563635
+metsästää	asettua aloilleen	1.102653946
+risteillä	lepattaa	1.041321079
+paeta	asettua aloilleen	0.932397086
+paeta	kellua	1.343480166
+paeta	hypätä yli	0.876920801
+mennä	jäljittää	1.088480432
+hölkätä	istua	0.779608731
+touhuta	istua	0.976091418
+heilahtaa	kulkea	0.874577407
+liidellä	ryömiä	0.882643727
+jäädä jäljelle	lentää	1.299966053
+virrata	nousta	1.083432033
+sukeltaa	tasapainoilla	1.078913491
+ohittaa	saapua	0.992015428
+touhuta	kiihdyttää	1.095188897
+kiihdyttää	tiputtaa	1.262144341
+mahtua	vetää pois	1.129200513
+ilmestyä uudelleen	seisoa	1.041341383
+vaeltaa	ilmestyä uudelleen	0.978850198
+nousta	kaatua	0.900612088
+tulla	pyöriä	0.886989106
+kääntyä	vaeltaa	0.864292367
+mennä	retkeillä	0.885799133
+pinkaista	keinua	0.950879495
+kävellä	ryömiä	0.719479745
+kiirehtiä	väistää	0.914147055
+liukua	mennä läpi	0.831890994
+kiiruhtaa	vetää pois	0.933087032
+kääntyä	kumartaa	1.02454224
+käpertyä	seisoa	0.565738474
+uida	kiivetä	0.896741414
+ponkaista	roikkua	1.067570916
+virrata	vetää pois	1.194909353
+pomppia	luikerrella	1.020913033
+ajelehtia	sukeltaa	1.035517157
+kääntyä	tupsahtaa	0.915206958
+hiipiä	astua	0.74453379
+kumartaa	keinua	0.908549856
+pyöriä	lepattaa	0.775211589
+kävellä	liikuttaa	0.651681307
+liukua	käydä	1.090960985
+kiirehtiä	ajelehtia	1.070299307
+kellua	ajelehtia	0.656042447
+sukeltaa	ryömiä	0.807506942
+laskeutua	kiihdyttää	0.909653453
+liikuttaa	liidellä	0.859967191
+hyppiä	ilmestyä	0.769513735
+touhuta	kiivetä	1.067059752
+astua	heilahtaa	0.827520657
+pomppia	käpertyä	0.731983095
+ohittaa	lentää	1.119926986
+jäljittää	kulkea	1.034929788
+metsästää	mennä läpi	1.195851396
+tiputtaa	luikerrella	1.196111627
+lähteä	lepattaa	0.875787645
+kiihdyttää	seisoa	0.962772372
+maata	laskeutua	1.309187575
+hölkätä	vetäytyä	0.931390618
+ponkaista	kiirehtiä	0.848738023
+mennä	pomppia	0.784313638
+hölkätä	ratsastaa	0.896429187
+käydä	ilmestyä	1.006144945
+kävellä	laskeutua	1.028151888
+sukeltaa	hypätä yli	1.060974928
+kaatua	ohittaa	1.260314087
+kumartaa	retkeillä	1.275274981
+taklata	roikkua	1.050835204
+lähestyä	mahtua	0.9339302
+virrata	tasapainoilla	1.300414819
+liftata	mennä	0.838710211
+sukeltaa	tupsahtaa	1.128776094
+käydä	ratsastaa	0.949344538
+harhailla	liukua	1.198129616
+maata	liikkua	0.878813417
+nousta	uida	0.823291084
+jäädä jäljelle	ponkaista	1.146118724
+virrata	maata	1.003815429
+hölkätä	muuttaa	0.909904114
+mennä sisälle	väistää	1.130998891
+hypätä	heilahtaa	0.707035178
+mennä läpi	laskeutua	1.189679551
+muuttaa	retkeillä	0.778140299
+retkeillä	uida	1.06480388
+matkustaa	maata	1.187839115
+tasapainoilla	ajelehtia	1.050296955
+pomppia	liidellä	0.984556273
+tasapainoilla	lähestyä	0.887344965
+jäädä jäljelle	uida	1.134614226
+nousta	ajelehtia	1.04946976
+liitää	ajelehtia	0.876912409
+kulkea	seisoa	0.961031816
+lähteä	maata	1.142587923
+mahtua	luikerrella	1.194730676
+mennä sisälle	ryömiä	1.147352131
+ilmestyä uudelleen	touhuta	1.124883619
+kellua	tupsahtaa	1.10841763
+ylittää	polvistua	1.051526221
+luikerrella	liikuttaa	1.062637049
+vetää pois	sukeltaa	1.245701055
+jäädä	romahtaa	0.87459292
+metsästää	luikerrella	1.034201842
+juosta	kulkea	0.603571481
+laskeutua	harpata	1.052163591
+liftata	lepattaa	0.837438221
+virrata	ponkaista	1.041667063
+vetäytyä	nousta	1.129023991
+saapua	edetä	0.712372883
+vaeltaa	liitää	0.91139236
+metsästää	tulla	0.908051483
+liikuttaa	kiirehtiä	1.000368477
+vetää pois	muuttaa	1.348632637
+edetä	kääntyä	0.870604006
+matkustaa	lentää	0.836975847
+taklata	liikuttaa	0.935432353
+saapua	kellua	1.067761049
+nojata	hypätä yli	0.932779159
+tupsahtaa	vaeltaa	0.980108523
+kiihdyttää	liikuttaa	0.905968416
+tulla	lähteä	0.719411698
+matkustaa	metsästää	1.002771369
+virrata	jäädä	1.028402309
+hypätä yli	risteillä	1.073144613
+mennä läpi	tulla	1.308966464
+juosta	vetäytyä	1.001093537
+asettua aloilleen	pinkaista	1.000449173
+lentää	touhuta	1.213838722
+kävellä	vaeltaa	0.713685562
+hypätä	ajaa	0.920587478
+ilmestyä	hypätä yli	0.858161185
+ohittaa	kompastella	1.142397142
+liukua	jäädä jäljelle	1.080756218
+hypätä	kääntyä	0.852262635
+hypätä yli	ohittaa	0.979316933
+tasapainoilla	saapua	1.07687652
+liitää	ylittää	1.201477403
+ilmestyä uudelleen	pinkaista	1.140014414
+ajelehtia	liftata	1.060700292
+käpertyä	kellua	0.951497194
+kompastella	tupsahtaa	0.958768575
+kompastella	jäädä jäljelle	0.842911281
+heilua	asettua aloilleen	1.149191728
+mahtua	heilua	1.244875326
+heilua	liikuttaa	0.842320216
+nojata	väistää	0.922584313
+edetä	kumartaa	1.004013114
+riippua	juosta	1.007921261
+lähestyä	vetää pois	1.132358522
+metsästää	pomppia	1.211237916
+juosta	harpata	0.702580048
+pinkaista	nousta	0.970607554
+muuttaa	ryömiä	1.061372441
+riippua	hyppiä	0.90262793
+liikuttaa	ilmestyä uudelleen	1.148999511
+käydä	liitää	0.982966638
+liitää	edetä	0.635977394
+tupsahtaa	kiirehtiä	0.973316628
+roikkua	jäädä jäljelle	1.044027142
+liukua	liftata	0.927560353
+seisoa	maata	0.551435923
+roikkua	risteillä	1.133616515
+ajaa	väistää	1.004442961
+heilua	ryömiä	1.004982002
+uida	hiipiä	0.946292948
+touhuta	jäljittää	0.780206137
+kompastella	harpata	0.986071573
+ponkaista	väistää	1.126358848
+kiirehtiä	jäljittää	1.213904373
+tiputtaa	saapua	1.085341687
+ylittää	jäädä	1.38025691
+touhuta	virrata	1.082265649
+kaatua	asettua aloilleen	1.144342152
+liikkua	sukeltaa	0.91657003
+mahtua	kumartaa	1.128323742
+astua	vaeltaa	1.008839302
+vaeltaa	taklata	1.22099015
+väistää	kääntyä	1.074764596
+kompastella	ylittää	1.315362577
+jäljittää	ohittaa	0.916645175
+nojata	kiirehtiä	1.051898826
+kaatua	maata	1.044782101
+kävellä	lentää	0.865903409
+kumartaa	seisoa	0.676885657
+hypätä	taklata	1.150105344
+asettua aloilleen	ylittää	1.099329722
+ponkaista	kävellä	0.797093126
+seisoa	pomppia	0.789849839
+vetäytyä	ponkaista	1.070156133
+harpata	liitää	0.796383957
+mahtua	kävellä	1.000493871
+vetää pois	liftata	1.423723967
+tulla	saapua	0.402296827
+jäädä jäljelle	ohittaa	0.822933558
+lähestyä	liidellä	0.854492131
+kääntyä	metsästää	0.984325488
+vetää pois	ajelehtia	1.305653214
+keinua	ryömiä	0.806515736
+edetä	jäädä	1.002709585
+ilmestyä uudelleen	ajelehtia	1.09187886
+touhuta	romahtaa	1.151251267
+hypätä	retkeillä	0.903186042
+kumartaa	metsästää	0.975842975
+kääntyä	harhailla	1.063269852
+ryömiä	polvistua	0.65434367
+muuttaa	tiputtaa	1.233251634
+lähteä	ajaa	0.889676003
+jäädä jäljelle	hypätä yli	1.066311059
+pomppia	roikkua	0.781654302
+harpata	touhuta	0.914054617
+tasapainoilla	kiirehtiä	0.941596327
+lentää	heilahtaa	0.960117449
+ajelehtia	pyöriä	0.931918319
+laskeutua	käpertyä	1.206324909
+vetää pois	vaeltaa	1.308004716
+saapua	lähteä	0.777056669
+keinua	pomppia	0.856027842
+pyöriä	lähteä	0.914408765
+harpata	keinua	0.812633158
+hyppiä	liikkua	0.66497858
+nojata	virrata	1.053112061
+mennä läpi	ryömiä	0.857324586
+laskeutua	hiipiä	0.982838536
+ajaa	hiipiä	0.67420968
+mennä sisälle	metsästää	1.103492672
+lähestyä	hypätä	0.902842336
+virrata	kiivetä	0.994190838
+mennä sisälle	saapua	0.860044582
+jäljittää	liikkua	1.098014731
+väistää	vaeltaa	1.202910951
+vetäytyä	jäädä jäljelle	0.851980503
+luikerrella	matkustaa	1.219019832
+nousta	ylittää	0.74306912
+hyppiä	jäädä	1.189492842
+riippua	roikkua	0.332054506
+virrata	vetäytyä	1.094878299
+maata	lepattaa	0.898792658
+heilua	ohittaa	1.166761473
+ryömiä	liikuttaa	0.811233445
+maata	kävellä	0.875192624
+ilmestyä uudelleen	lähteä	0.915871783
+kiiruhtaa	mennä	0.747666349
+hypätä yli	käpertyä	0.856022707
+pinkaista	lähestyä	0.794704944
+roikkua	asettua aloilleen	0.975488435
+hölkätä	liftata	0.935501794
+harhailla	tiputtaa	1.160097114
+harpata	saapua	0.947719292
+liitää	ajaa	0.689289171
+matkustaa	retkeillä	0.651534854
+hyppiä	ajelehtia	1.1213885
+hypätä yli	kaatua	1.00035531
+touhuta	pinkaista	0.893511839
+astua	tupsahtaa	0.783962492
+juosta	liikkua	0.420446037
+metsästää	saapua	0.991257854
+tulla	ylittää	1.035064831
+roikkua	istua	0.922354596
+liukua	ryömiä	0.790652482
+kaatua	uida	1.141705833
+paeta	nojata	1.012696369
+muuttaa	liftata	0.795566404
+paeta	pomppia	1.229042391
+harpata	kellua	0.988249396
+käydä	mennä läpi	1.273358465
+ponkaista	jäädä	1.18380505
+liukua	vetäytyä	1.261384222
+heilahtaa	maata	0.937753456
+käydä	hypätä	0.804509663
+ilmestyä	roikkua	1.006620625
+taklata	seisoa	0.900309049
+seisoa	ajaa	0.978144435
+kulkea	mahtua	0.954708143
+istua	liidellä	1.132956903
+ponkaista	mennä	0.751721225
+virrata	lentää	1.088845812
+virrata	asettua aloilleen	1.247722743
+ilmestyä uudelleen	kääntyä	0.926218057
+tulla	risteillä	0.807791141
+asettua aloilleen	kiiruhtaa	0.951122199
+harhailla	edetä	0.914269823
+heilua	liitää	1.115071289
+luikerrella	harpata	0.897390179
+tupsahtaa	laskeutua	1.204617931
+kompastella	edetä	1.235695399
+retkeillä	tupsahtaa	0.96423045
+roikkua	kompastella	0.942174279
+mennä	ilmestyä uudelleen	0.955145379
+ponkaista	kulkea	0.71749906
+roikkua	ilmestyä uudelleen	1.044593338
+ponkaista	astua	0.822617295
+kiiruhtaa	uida	0.842397275
+tupsahtaa	kiihdyttää	1.056021695
+matkustaa	tiputtaa	1.209639159
+tiputtaa	lepattaa	1.158381918
+roikkua	kellua	0.903533201
+jäädä	juosta	0.960279568
+harpata	kääntyä	0.747187758
+ratsastaa	nojata	0.982834094
+tiputtaa	ryömiä	1.253117322
+mennä läpi	kompastella	1.231654393
+pomppia	mennä läpi	0.825840321
+hypätä	asettua aloilleen	0.901187241
+käpertyä	liukua	0.927686913
+lentää	ilmestyä uudelleen	1.038637796
+polvistua	hypätä yli	0.781366804
+matkustaa	kävellä	0.87693661
+mennä läpi	tupsahtaa	1.251943405
+käpertyä	riippua	1.001361137
+tupsahtaa	istua	0.982661015
+vetäytyä	mahtua	1.324104741
+kumartaa	astua	0.876572044
+mennä läpi	hypätä yli	0.961153923
+riippua	jäädä jäljelle	1.037636287
+ylittää	kiihdyttää	1.222969619
+saapua	kulkea	0.883337125
+mennä läpi	liftata	1.220925038
+liikkua	tulla	0.812833501
+retkeillä	virrata	1.238577343
+laskeutua	saapua	0.977760795
+hyppiä	liikuttaa	0.952804684
+luikerrella	lähestyä	0.641486061
+romahtaa	ajaa	1.275846161
+lentää	kumartaa	1.340445127
+tupsahtaa	väistää	0.887948595
+hypätä yli	ylittää	0.812923198
+roikkua	liukua	1.00831627
+väistää	roikkua	1.007914112
+hölkätä	jäädä jäljelle	0.968467282
+heilahtaa	harpata	0.709532931
+harhailla	hypätä	0.952210292
+harpata	nojata	0.732347844
+liftata	hiipiä	1.03458225
+ajaa	polvistua	1.028736654
+heilua	saapua	1.118925373
+pomppia	matkustaa	1.188213962
+mennä sisälle	hypätä yli	0.952050995
+mennä	lähestyä	0.674114193
+kumartaa	asettua aloilleen	0.788213397
+liikuttaa	lepattaa	0.900523588
+kompastella	liikuttaa	0.926441275
+lepattaa	kulkea	0.795707618
+juosta	hypätä yli	0.64805634
+harpata	vetää pois	1.129870213
+keinua	sukeltaa	0.921384929
+juosta	hypätä	0.652611281
+mahtua	hölkätä	1.015903495
+ylittää	astua	0.985738751
+nousta	liidellä	0.885721183
+paeta	ajelehtia	1.069884805
+lähteä	kiiruhtaa	0.913796585
+retkeillä	ohittaa	0.959482475
+mahtua	hypätä yli	1.005283378
+kellua	astua	0.990930842
+ryömiä	ilmestyä	1.012127266
+hölkätä	heilahtaa	0.778010014
+liikuttaa	juosta	0.804050578
+pinkaista	käpertyä	0.867050253
+ajaa	kiirehtiä	0.793344249
+kellua	kiiruhtaa	0.947203586
+hypätä yli	uida	0.882678469
+paeta	vaeltaa	1.017523261
+liikuttaa	lentää	0.754563791
+virrata	kiihdyttää	1.073169285
+kääntyä	jäljittää	0.930964029
+muuttaa	astua	0.717702265
+risteillä	astua	1.024705771
+ohittaa	tiputtaa	1.300684498
+käydä	lentää	1.047336839
+kompastella	kumartaa	0.830603479
+edetä	heilua	1.101568422
+saapua	pomppia	1.101325121
+harpata	ajelehtia	1.023139617
+lepattaa	ohittaa	1.133340517
+juosta	kiiruhtaa	0.834019108
+vaeltaa	kumartaa	1.162721336
+liukua	liitää	0.879674078
+heilahtaa	lähestyä	0.922210805
+nousta	käpertyä	0.972167317
+astua	harhailla	0.820031727
+ponkaista	vetää pois	1.130353576
+liikkua	ajelehtia	1.210707538
+lepattaa	jäädä jäljelle	1.122855389
+vetää pois	pinkaista	1.202827202
+roikkua	ajaa	0.643464633
+vaeltaa	virrata	1.223949642
+ohittaa	ponkaista	1.13400404
+riippua	taklata	1.013527453
+liftata	kompastella	1.240213639
+polvistua	liukua	1.109013587
+liftata	metsästää	1.112368443
+taklata	keinua	1.113246196
+polvistua	vaeltaa	1.235395733
+kiivetä	metsästää	1.2106171
+ponkaista	seisoa	0.990921096
+lähteä	jäädä	0.964453188
+hiipiä	vetäytyä	1.228609345
+hypätä yli	astua	0.684266971
+käpertyä	edetä	1.005428151
+retkeillä	maata	1.155840842
+hypätä yli	lähestyä	0.81116436
+tiputtaa	liftata	1.410311008
+liukua	kumartaa	0.989739182
+liukua	seisoa	0.923236417
+kiihdyttää	edetä	0.764355904
+lähestyä	jäljittää	0.88960038
+pyöriä	saapua	1.011668408
+sukeltaa	lentää	0.706062224
+hyppiä	metsästää	1.141642493
+mahtua	ajaa	0.945777378
+metsästää	juosta	1.103834479
+mennä	kulkea	0.40649388
+liikuttaa	käydä	0.848816468
+astua	tulla	0.833782109
+saapua	mahtua	0.941758847
+virrata	liitää	1.148565829
+kävellä	metsästää	0.933444761
+lepattaa	polvistua	1.005588308
+mennä sisälle	mennä	0.851554216
+ilmestyä	ohittaa	1.17043509
+polvistua	harhailla	1.247753877
+tiputtaa	mennä läpi	1.471716837
+risteillä	juosta	1.044509873
+keinua	jäädä	0.972118662
+ponkaista	tupsahtaa	1.255898239
+kulkea	tupsahtaa	0.936226877
+kellua	väistää	1.21965966
+pomppia	kiivetä	0.948493204
+tiputtaa	hypätä	1.030824377
+tupsahtaa	romahtaa	0.952111354
+istua	seisoa	0.450204279
+liikuttaa	mennä läpi	0.671139467
+astua	maata	0.9435943
+risteillä	pomppia	1.243413729
+kiiruhtaa	nojata	0.836648218
+polvistua	ohittaa	1.165692959
+kiiruhtaa	mahtua	0.986636237
+astua	ajaa	0.76434664
+kääntyä	paeta	0.960850035
+hyppiä	ratsastaa	1.03513196
+ratsastaa	liitää	0.856098068
+kaatua	käpertyä	1.095947204
+nojata	mennä sisälle	0.991734389
+ajaa	käpertyä	0.924912138
+kiihdyttää	ratsastaa	1.108846978
+pomppia	tupsahtaa	1.153521795
+käpertyä	kompastella	0.923024957
+jäädä	uida	1.197042456
+hiipiä	heilahtaa	0.872251168
+kompastella	retkeillä	1.17949888
+harhailla	pyöriä	1.006565499
+hyppiä	ohittaa	0.971477469
+kääntyä	ryömiä	1.109974744
+mennä sisälle	vetäytyä	1.194263442
+metsästää	vetää pois	0.78555585
+nousta	ilmestyä uudelleen	1.074422303
+tasapainoilla	ilmestyä uudelleen	1.009775451
+pomppia	taklata	0.984712958
+ilmestyä uudelleen	luikerrella	1.217002242
+taklata	liidellä	1.077096393
+riippua	luikerrella	1.044269003
+keinua	risteillä	1.172851303
+taklata	muuttaa	1.015730608
+uida	lähteä	0.846060606
+kävellä	keinua	0.829124031
+mennä läpi	kellua	1.214721325
+astua	lentää	0.941374355
+luikerrella	liitää	1.041842649
+riippua	liukua	0.912865308
+kiiruhtaa	paeta	1.041238268
+maata	istua	0.519004754
+polvistua	ponkaista	0.923029191
+romahtaa	tasapainoilla	1.084151974
+maata	kumartaa	0.798039234
+paeta	sukeltaa	1.343867907
+liikkua	kääntyä	0.727351836
+lähteä	seisoa	1.005817963
+hiipiä	kellua	1.043604234
+kiivetä	ilmestyä	1.119113909
+lepattaa	liitää	0.635041801
+ryömiä	harpata	0.832397311
+ajaa	asettua aloilleen	1.04286116
+retkeillä	juosta	1.026376134
+vetäytyä	seisoa	0.936876792
+liftata	liikuttaa	0.834589666
+uida	ratsastaa	1.062296345
+astua	laskeutua	1.069581833
+hiipiä	matkustaa	0.993095915
+maata	ohittaa	1.076814456
+jäljittää	lentää	1.395415782
+kävellä	jäädä jäljelle	0.918221105
+retkeillä	kiiruhtaa	0.901882158
+kiivetä	harhailla	1.110036935
+liidellä	romahtaa	1.055606615
+ajelehtia	käpertyä	1.265380573
+harhailla	mennä sisälle	1.022356902
+pinkaista	ajaa	0.663425359
+ylittää	ilmestyä uudelleen	1.291032724
+maata	metsästää	1.17273994
+ajaa	laskeutua	0.726088776
+mahtua	mennä sisälle	1.105236766
+käydä	liikkua	0.624833471
+ratsastaa	kulkea	0.749651288
+seisoa	kävellä	0.7032073
+hiipiä	väistää	1.017064702
+tiputtaa	sukeltaa	1.272313761
+ohittaa	kiihdyttää	1.015574492
+mahtua	pomppia	1.076097797
+mennä	hölkätä	0.451509521
+vetäytyä	liitää	1.419119397
+pomppia	kiirehtiä	1.055181501
+luikerrella	jäljittää	1.086541743
+tupsahtaa	keinua	1.175049856
+heilua	kumartaa	0.93844276
+ilmestyä	touhuta	0.996999838
+metsästää	laskeutua	1.304376469
+polvistua	harpata	0.847190298
+keinua	paeta	1.227661293
+hölkätä	hypätä yli	0.66889924
+touhuta	hölkätä	0.805897878
+muuttaa	pomppia	1.149721189
+ilmestyä	asettua aloilleen	1.05634046
+ratsastaa	maata	1.053876092
+vetää pois	nojata	1.110651432
+kellua	pinkaista	0.807330678
+paeta	ponkaista	0.967489487
+pinkaista	harpata	0.603787087
+lepattaa	lentää	0.614904041
+tasapainoilla	heilahtaa	0.777744112
+maata	tiputtaa	1.039816265
+lentää	pomppia	1.096097392
+paeta	liukua	1.16621718
+kiirehtiä	ylittää	1.141919765
+mahtua	maata	1.15581352
+ryömiä	ylittää	1.286940677
+risteillä	metsästää	1.175825559
+harpata	mennä	0.626441831
+ratsastaa	ajaa	0.814655032
+kiirehtiä	hölkätä	0.999668785
+hyppiä	tulla	0.973125733
+mennä	istua	0.853909064
+ajaa	kaatua	1.226403059
+lepattaa	juosta	0.790495933
+ylittää	keinua	1.050235341
+kompastella	ponkaista	1.176416783
+väistää	kiivetä	1.165297796
+nojata	ohittaa	1.056634799
+hiipiä	juosta	0.665314061
+saapua	ajaa	0.706523579
+kumartaa	ylittää	1.325344469
+seisoa	heilua	0.953153119
+kellua	jäljittää	1.491835702
+käydä	nousta	0.887208855
+edetä	mennä läpi	1.001649407
+harhailla	ratsastaa	1.06979546
+tupsahtaa	hypätä yli	1.011067995
+ylittää	väistää	1.413060152
+kompastella	juosta	1.0892196
+ryömiä	seisoa	0.76747986
+kiivetä	juosta	1.041594596
+roikkua	ryömiä	0.925788917
+virrata	hiipiä	1.145051598
+käydä	liftata	1.06262224
+vetää pois	ilmestyä	1.277093507
+pomppia	ajaa	0.830849372
+ratsastaa	ryömiä	1.081513072
+kulkea	lähestyä	0.731420846
+uida	harpata	0.80191055
+jäädä	pomppia	1.08233189
+nousta	nojata	0.883723753
+tasapainoilla	nojata	0.794164964
+paeta	ilmestyä uudelleen	0.968384104
+maata	hypätä yli	0.82227848
+virrata	lähestyä	1.11806497
+liikkua	liitää	0.84968379
+pomppia	nojata	0.930403382
+mennä sisälle	ponkaista	1.092456385
+lepattaa	tulla	1.010384179
+virrata	astua	0.906292704
+matkustaa	lähteä	0.731951413
+kompastella	touhuta	0.916376518
+liukua	liikkua	0.749531303
+seisoa	mahtua	0.843818312
+taklata	hiipiä	1.142393309
+virrata	keinua	1.148658836
+heilua	laskeutua	1.015979062
+asettua aloilleen	touhuta	1.132233637
+kellua	taklata	1.441001132
+ryömiä	nojata	1.052347216
+liitää	hiipiä	0.822396125
+saapua	muuttaa	0.971743694
+vetää pois	saapua	1.119090876
+paeta	kumartaa	1.16740325
+kävellä	lepattaa	0.762389428
+pyöriä	keinua	0.940044975
+tiputtaa	mennä sisälle	1.107680872
+lentää	tasapainoilla	0.893312475
+vetää pois	harhailla	1.340848294
+vetää pois	liitää	1.435582368
+muuttaa	ylittää	1.305267923
+liikkua	seisoa	0.815501249
+astua	pinkaista	0.792126888
+tulla	ohittaa	0.977122022
+retkeillä	riippua	1.152137604
+mahtua	ajelehtia	1.146398322
+väistää	lähestyä	0.95090012
+ratsastaa	laskeutua	1.118524294
+nousta	luikerrella	1.051714969
+saapua	lepattaa	1.077890803
+taklata	kiihdyttää	1.249148877
+pyöriä	liikuttaa	1.032012648
+liukua	matkustaa	1.136184974
+mennä sisälle	liftata	0.995095452
+kellua	hölkätä	0.777267613
+nojata	pyöriä	1.023025573
+sukeltaa	kumartaa	1.133103848
+heilahtaa	saapua	1.014387634
+touhuta	liidellä	1.166142206
+riippua	seisoa	0.829686666
+kääntyä	laskeutua	1.069642139
+liukua	keinua	0.893382295
+liukua	harpata	0.920136739
+kellua	kulkea	1.073418879
+virrata	romahtaa	1.064331266
+pinkaista	tasapainoilla	0.947088422
+kiivetä	istua	1.124130557
+hypätä	istua	0.850839756
+ratsastaa	liikuttaa	0.817771281
+hypätä	hölkätä	0.710731376
+hypätä	kellua	0.872470131
+riippua	muuttaa	1.057863239
+muuttaa	kompastella	1.160398893
+mennä läpi	hiipiä	0.902305642
+muuttaa	virrata	1.057382369
+romahtaa	kävellä	1.100092388
+liitää	mahtua	1.067312905
+kääntyä	heilua	0.887364407
+harpata	maata	0.865909749
+polvistua	edetä	1.00095678
+liukua	kiirehtiä	1.129578573
+nojata	pinkaista	0.94168173
+istua	kääntyä	0.652875932
+ilmestyä	metsästää	1.156883619
+ilmestyä	laskeutua	1.051731405
+nousta	saapua	0.941978345
+käydä	kellua	1.236121974
+kaatua	romahtaa	0.867952412
+keinua	roikkua	0.576809883
+mennä sisälle	vaeltaa	0.919054517
+mennä	liidellä	0.809476888
+lähteä	hiipiä	1.013807182
+kävellä	hiipiä	0.686223177
+lepattaa	ilmestyä	0.991871002
+paeta	luikerrella	1.237117943
+liitää	roikkua	0.845980776
+sukeltaa	väistää	1.10949625
+kiivetä	kompastella	1.206556694
+harpata	jäädä jäljelle	0.96047303
+ratsastaa	lähestyä	0.961841056
+maata	vaeltaa	1.186337551
+jäädä	pyöriä	1.125683258
+nojata	jäljittää	0.779380022
+risteillä	kiivetä	1.020119315
+riippua	kiihdyttää	0.814754474
+touhuta	uida	1.06062712
+seisoa	ylittää	1.054602403
+tupsahtaa	ilmestyä	0.964439912
+metsästää	heilua	1.161834801
+vetäytyä	jäljittää	1.147209356
+kumartaa	tasapainoilla	0.81002526
+asettua aloilleen	käpertyä	0.79008288
+matkustaa	kompastella	1.336532771
+romahtaa	asettua aloilleen	1.181852506
+muuttaa	ajaa	0.842315965
+lepattaa	tupsahtaa	1.03068231
+nousta	liikkua	0.643001538
+mennä läpi	pyöriä	0.955186671
+hyppiä	hölkätä	0.743455594
+harhailla	hiipiä	0.844906724
+heilahtaa	ajelehtia	1.106597147
+mennä	sukeltaa	0.790650318
+uida	paeta	1.143792381
+ilmestyä uudelleen	käpertyä	1.233505951
+maata	keinua	0.829780183
+ratsastaa	risteillä	1.079229615
+tiputtaa	juosta	1.31014351
+hölkätä	jäädä	1.019487607
+hypätä	ilmestyä uudelleen	0.941321482
+lentää	kulkea	0.79069328
+liftata	nousta	0.941062123
+heilahtaa	lähteä	1.071271684
+ajaa	touhuta	0.944701678
+pinkaista	kaatua	1.019340167
+jäljittää	kiihdyttää	1.089986998
+harhailla	kellua	1.217136966
+liukua	taklata	1.026768546
+sukeltaa	riippua	1.022334585
+kiivetä	heilahtaa	0.810257477
+käydä	touhuta	0.839885346
+kiirehtiä	muuttaa	0.919959386
+seisoa	lepattaa	0.956340041
+kiivetä	mahtua	1.067034536
+kiivetä	edetä	0.929616471
+roikkua	touhuta	1.037250491
+muuttaa	tupsahtaa	0.904172222
+jäädä	kellua	1.177412761
+kiihdyttää	liikkua	0.773792115
+metsästää	kaatua	0.993064482
+heilahtaa	nojata	0.914080932
+ohittaa	touhuta	0.893123277
+lähteä	ylittää	1.147559414
+kaatua	saapua	1.057419396
+kävellä	käydä	0.613512838
+heilua	pinkaista	0.988401134
+jäljittää	istua	0.833070155
+mennä sisälle	kiiruhtaa	1.109524987
+heilua	roikkua	0.629934509
+harhailla	roikkua	0.984428894
+väistää	ilmestyä uudelleen	1.267202447
+tasapainoilla	tulla	0.901583869
+touhuta	tasapainoilla	1.108064638
+riippua	ajelehtia	1.08304179
+luikerrella	jäädä	1.152303652
+taklata	ajelehtia	1.253059066
+käydä	hypätä yli	0.844122587
+käpertyä	tasapainoilla	0.826190807
+uida	maata	1.177565785
+luikerrella	laskeutua	1.329586282
+heilua	keinua	0.648817658
+mennä sisälle	touhuta	1.121037964
+jäädä	tiputtaa	0.775029114
+astua	juosta	0.684688749
+maata	ponkaista	1.010574718
+riippua	kompastella	0.938230562
+jäljittää	väistää	0.82866586
+kompastella	heilua	1.154916324
+nousta	liukua	0.727811947
+tulla	kompastella	1.012809866
+luikerrella	ajelehtia	1.183366048
+seisoa	keinua	0.832007869
+kellua	metsästää	1.391228692
+saapua	ryömiä	0.917752548
+ratsastaa	touhuta	0.968229495
+kiirehtiä	metsästää	1.103235768
+liitää	ponkaista	0.986606387
+liukua	ohittaa	1.134691579
+jäädä	kompastella	0.775688052
+vetää pois	jäädä	0.80910659
+ilmestyä	luikerrella	1.179892971
+heilahtaa	ohittaa	1.147151622
+ryömiä	lentää	1.015758235
+asettua aloilleen	mahtua	0.897610789
+heilahtaa	jäädä jäljelle	1.002912619
+liikkua	kävellä	0.395917912
+mahtua	liikuttaa	0.96680338
+ajaa	uida	0.911916267
+sukeltaa	vetäytyä	1.126904421
+taklata	matkustaa	1.243445453
+liikkua	jäädä jäljelle	0.960785164
+asettua aloilleen	kulkea	0.952538027
+kiiruhtaa	vetäytyä	0.993899952
+retkeillä	ilmestyä uudelleen	0.916535674
+tiputtaa	kulkea	1.196382174
+mennä	lentää	0.794662713
+hölkätä	tupsahtaa	1.082475722
+virrata	liikkua	1.02720197
+heilua	romahtaa	1.24703643
+juosta	harhailla	0.98098533
+vetää pois	astua	0.863014649
+taklata	käydä	1.219550044
+uida	mennä sisälle	0.951294194
+vaeltaa	uida	1.101515396
+harpata	mennä läpi	0.962272133
+jäädä	retkeillä	1.085859309
+tasapainoilla	risteillä	1.207437053
+kiihdyttää	mennä läpi	0.994100147
+virrata	kääntyä	1.198809497
+risteillä	paeta	1.028131646
+edetä	liikuttaa	0.814745441
+käpertyä	kävellä	0.903364455
+sukeltaa	ohittaa	1.215814063
+taklata	kulkea	1.046615079
+tupsahtaa	risteillä	1.001047734
+paeta	liidellä	1.250529449
+risteillä	jäädä jäljelle	1.291866907
+uida	ohittaa	1.096820067
+touhuta	pomppia	0.889069601
+edetä	istua	0.854619363
+seisoa	tasapainoilla	0.839772322
+vaeltaa	hypätä yli	0.83166535
+lentää	hiipiä	0.883172502
+liikkua	hypätä	0.614308676
+tupsahtaa	paeta	0.916821189
+liitää	kumartaa	1.195453699
+lähestyä	keinua	1.000925455
+jäljittää	astua	0.849088482
+jäädä	liukua	1.153921457
+hypätä	hypätä yli	0.444928071
+pinkaista	kävellä	0.675272538
+lähestyä	riippua	0.835712473
+retkeillä	mennä läpi	1.500603136
+mennä	mahtua	0.916234716
+retkeillä	vaeltaa	0.496815614
+retkeillä	liukua	1.152267506
+ylittää	vaeltaa	1.264357439
+väistää	edetä	1.024709905
+luikerrella	väistää	0.834653977
+pyöriä	käydä	0.973641857
+ylittää	metsästää	1.429841683
+pinkaista	liitää	0.855075328
+harhailla	tupsahtaa	1.036135774
+liftata	kiirehtiä	0.857869158
+matkustaa	kääntyä	1.004374616
+jäädä jäljelle	astua	0.705600996
+juosta	pomppia	0.840282764
+metsästää	nojata	1.008940294
+romahtaa	laskeutua	1.111077809
+kääntyä	touhuta	0.990802657
+touhuta	kaatua	1.03025388
+jäädä	liikuttaa	0.840573955
+kiivetä	ajelehtia	0.978260843
+kävellä	harhailla	0.718084904
+pyöriä	jäädä jäljelle	1.060114728
+laskeutua	uida	0.931906323
+pyöriä	risteillä	0.919350102
+hyppiä	kiihdyttää	0.736665434
+kävellä	kellua	0.885404384
+ilmestyä	tiputtaa	1.193456999
+mahtua	pinkaista	1.062966737
+harhailla	harpata	0.805251355
+keinua	vetäytyä	0.972269557
+laskeutua	lentää	0.707750774
+virrata	istua	1.155551183
+jäädä jäljelle	jäädä	0.718010532
+istua	keinua	0.907168093
+liikuttaa	metsästää	1.029093574
+liftata	juosta	1.019944139
+mahtua	retkeillä	1.09757167
+sukeltaa	ratsastaa	1.097443534
+metsästää	harhailla	1.017620624
+kävellä	ajaa	0.665015815
+istua	kompastella	0.828196188
+harhailla	matkustaa	0.730993083
+asettua aloilleen	tasapainoilla	0.960513786
+heilua	harpata	0.961458694
+uida	pomppia	1.031202865
+lähteä	kävellä	0.751130373
+ratsastaa	ajelehtia	1.134331753
+laskeutua	seisoa	1.287190783
+hypätä	ajelehtia	1.131210565
+jäädä jäljelle	juosta	0.997092177
+käydä	astua	0.710361646
+kiirehtiä	pyöriä	0.822438721
+ratsastaa	liftata	0.875676829
+luikerrella	kiirehtiä	1.190685371
+kulkea	kiihdyttää	0.781120993
+istua	kumartaa	0.93111627
+käpertyä	luikerrella	0.686218545
+mennä sisälle	laskeutua	1.085846113
+kiivetä	riippua	0.82671689
+retkeillä	kääntyä	0.834476403
+kulkea	vetää pois	1.111455822
+roikkua	mahtua	1.041215318
+roikkua	edetä	0.936512648
+muuttaa	jäädä	1.241576521
+juosta	ylittää	1.110953456
+vetää pois	ryömiä	1.183892694
+laskeutua	muuttaa	1.119531399
+ilmestyä	vaeltaa	0.81399244
+paeta	tasapainoilla	1.214667441
+seisoa	lähestyä	0.990459439
+liukua	ilmestyä uudelleen	1.249833471
+saapua	liitää	0.975160583
+hölkätä	harhailla	0.807527382
+lähteä	ohittaa	0.964144348
+kompastella	luikerrella	1.113695536
+riippua	touhuta	1.021453904
+liikuttaa	ohittaa	1.070947337
+nojata	käpertyä	0.824454425
+kaatua	polvistua	1.021666854
+ohittaa	riippua	1.10806405
+harhailla	virrata	1.136586353
+lähestyä	ryömiä	0.924423242
+riippua	jäljittää	1.054246917
+lepattaa	ajelehtia	1.058621768
+vaeltaa	mennä	0.72860775
+sukeltaa	lähteä	0.990731306
+hiipiä	hyppiä	0.910760437
+romahtaa	kellua	1.063003465
+kulkea	muuttaa	0.748024251
+touhuta	risteillä	0.990723878
+retkeillä	paeta	1.002399698
+hölkätä	kääntyä	0.845758213
+harhailla	jäädä	1.140874227
+vetäytyä	mennä	0.99317614
+mennä	kompastella	0.992105505
+nousta	riippua	0.928701866
+kiirehtiä	hyppiä	0.778523264
+taklata	risteillä	1.168551836
+metsästää	romahtaa	1.066207493
+ajaa	kiihdyttää	0.872253596
+jäljittää	ilmestyä uudelleen	1.212711461
+väistää	kumartaa	0.976664619
+istua	saapua	0.964233075
+romahtaa	riippua	1.010937696
+lepattaa	laskeutua	0.861551768
+kiivetä	jäädä	1.083658167
+polvistua	kellua	1.145213288
+käydä	kiihdyttää	0.914394177
+mennä	tiputtaa	1.09198654
+muuttaa	kiihdyttää	0.922918779
+hypätä	astua	0.58427735
+ratsastaa	edetä	0.799762863
+liitää	harhailla	0.944761434
+ylittää	pomppia	0.875673131
+kaatua	liikuttaa	0.819976023
+risteillä	ajelehtia	0.537365028
+liftata	kiivetä	1.003783515
+metsästää	mahtua	1.251948746
+pyöriä	asettua aloilleen	1.158739869
+lähestyä	laskeutua	1.059848343
+lentää	luikerrella	1.140706481
+retkeillä	tasapainoilla	1.081697081
+käydä	kulkea	0.760913922
+pyöriä	mennä	0.775016531
+ajaa	matkustaa	0.752131235
+pomppia	lähteä	0.96969552
+ilmestyä	kääntyä	0.854770927
+keinua	lentää	0.878082914
+kellua	nousta	0.954321394
+kellua	ponkaista	0.891869
+touhuta	nojata	0.859786332
+nousta	hölkätä	0.716124321
+ilmestyä	kiiruhtaa	0.82079896
+luikerrella	hiipiä	0.76201224
+riippua	pyöriä	0.91467977
+ajelehtia	vetäytyä	1.499639165
+väistää	muuttaa	1.016538296
+liikkua	mennä sisälle	0.967785703
+pomppia	vetäytyä	0.861319917
+hölkätä	hiipiä	0.583007269
+astua	lähteä	0.737021632
+hölkätä	luikerrella	0.754607175
+mahtua	romahtaa	1.114384501
+saapua	sukeltaa	0.946141147
+mennä sisälle	taklata	1.215681769
+istua	polvistua	0.722357613
+paeta	ryömiä	1.318922766
+astua	kiivetä	0.809309199
+heilua	nousta	1.011368563
+jäljittää	liftata	1.233310254
+matkustaa	vetää pois	1.3793018
+kaatua	kompastella	0.775911202
+saapua	riippua	1.009779803
+virrata	pyöriä	1.022028403
+paeta	kulkea	0.989341157
+nojata	riippua	0.831968407
+mennä	liitää	0.723183349
+paeta	käydä	0.963914669
+pyöriä	kompastella	1.083660357
+kiirehtiä	heilua	0.94636218
+ohittaa	ratsastaa	1.08034505
+pinkaista	liidellä	0.841305653
+kompastella	mahtua	1.183256536
+polvistua	väistää	0.893561186
+liftata	asettua aloilleen	1.037679837
+ponkaista	hypätä yli	0.588837791
+mennä sisälle	kävellä	0.818806327
+pyöriä	kellua	0.896305264
+pyöriä	kiivetä	0.873547726
+istua	paeta	0.888855844
+metsästää	riippua	1.050247071
+lepattaa	harpata	0.750373817
+harpata	kiirehtiä	0.795474326
+väistää	kiiruhtaa	0.888681234
+paeta	ohittaa	0.90811733
+kävellä	uida	0.779298352
+romahtaa	käpertyä	1.083201559
+astua	ajelehtia	0.933019732
+pinkaista	laskeutua	0.978680115
+ponkaista	ylittää	0.978019421
+vetäytyä	hypätä	0.84980956
+hypätä yli	lepattaa	0.954334499
+risteillä	hyppiä	1.1069664
+kellua	ohittaa	1.293828359
+touhuta	kumartaa	0.94812149
+kaatua	ilmestyä uudelleen	1.089152375
+kellua	liikkua	1.140757455
+lepattaa	matkustaa	0.93505147
+virrata	paeta	1.291332452
+vetäytyä	polvistua	0.877652716
+ilmestyä uudelleen	uida	1.004802435
+matkustaa	roikkua	1.004264952
+liikkua	liftata	0.799158366
+risteillä	harhailla	0.872370972
+jäädä	kiirehtiä	1.157282277
+juosta	kävellä	0.418454635
+istua	nojata	0.548197092
+nousta	sukeltaa	0.998184582
+edetä	kaatua	0.920464024
+harpata	kiihdyttää	0.612886715
+riippua	vetäytyä	0.896457019
+heilua	ratsastaa	0.97550329
+ryömiä	nousta	0.960919567
+kumartaa	juosta	0.825280804
+riippua	harpata	0.861267882
+tiputtaa	lentää	1.289763422
+väistää	hypätä	0.844989133
+lepattaa	astua	0.807933712
+väistää	hypätä yli	1.003538515
+hyppiä	liukua	0.75515336
+heilua	vetää pois	1.244578799
+ratsastaa	ilmestyä	0.977468023
+kompastella	kulkea	1.030428664
+kääntyä	vetäytyä	1.298141742
+kompastella	hypätä	0.968058868
+jäädä jäljelle	virrata	1.112488758
+roikkua	ohittaa	1.112999962
+keinua	jäljittää	1.137180053
+tiputtaa	risteillä	1.356405867
+lepattaa	lähestyä	0.879624826
+vetäytyä	pinkaista	0.944272581
+laskeutua	asettua aloilleen	1.323899435
+tasapainoilla	uida	1.153190889
+lähteä	pinkaista	0.865845533
+keinua	polvistua	0.877994043
+liikkua	lähteä	0.889007503
+kiiruhtaa	riippua	0.847590481
+jäädä	jäljittää	0.93117057
+mahtua	istua	0.917886242
+mennä läpi	virrata	1.209008033
+vetäytyä	ohittaa	1.142081311
+muuttaa	hypätä yli	1.003375436
+kulkea	polvistua	0.976944094
+sukeltaa	pyöriä	0.853500003
+kiihdyttää	pinkaista	0.539735752
+kiirehtiä	mennä läpi	1.235945497
+käpertyä	kääntyä	1.16242347
+lähteä	harpata	0.774665249
+hyppiä	istua	0.781993931
+nojata	lähestyä	0.879594952
+pinkaista	matkustaa	0.983651191
+harhailla	laskeutua	1.015791222
+kaatua	liitää	1.203858076
+lähestyä	vetäytyä	1.037976192
+kääntyä	nousta	1.096858506
+hyppiä	keinua	0.826005922
+hypätä	hyppiä	0.543965609
+muuttaa	heilua	1.175832941
+matkustaa	mennä sisälle	0.857847587
+ajaa	tulla	0.835858138
+astua	uida	0.770648898
+asettua aloilleen	ratsastaa	1.087711727
+vetää pois	maata	1.217558899
+ajelehtia	asettua aloilleen	1.375296729
+paeta	hiipiä	1.29452929
+vaeltaa	pomppia	0.967052801
+tiputtaa	taklata	1.175581015
+juosta	touhuta	0.832996511
+hiipiä	liikkua	0.693192579
+liitää	heilahtaa	0.917973411
+liikuttaa	laskeutua	0.98225738
+romahtaa	liftata	1.248056354
+pyöriä	ajaa	0.789434095
+ajaa	lepattaa	0.956946739
+edetä	liftata	0.839955425
+lähestyä	kaatua	0.873623913
+romahtaa	istua	1.183063706
+hypätä yli	heilahtaa	0.789691882
+kiirehtiä	liikkua	0.989006671
+muuttaa	edetä	0.883814075
+tiputtaa	harpata	1.095433574
+kumartaa	kiirehtiä	0.953981283
+kiivetä	seisoa	1.104180446
+ratsastaa	tiputtaa	1.359807466
+kulkea	keinua	0.887800191
+roikkua	nousta	0.970473676
+vetäytyä	romahtaa	1.225260435
+ilmestyä	riippua	1.115051766
+uida	tupsahtaa	1.033894408
+heilua	luikerrella	1.064676817
+harhailla	ajaa	0.890572148
+astua	pyöriä	0.682763219
+kävellä	touhuta	0.720608087
+kääntyä	kiivetä	1.185019779
+risteillä	ylittää	1.158464831
+tiputtaa	kävellä	1.196785656
+muuttaa	mennä	0.752993697
+jäädä jäljelle	polvistua	0.662906466
+astua	lähestyä	0.732180908
+istua	ponkaista	0.927310062
+tiputtaa	käydä	1.086679163
+lentää	liikkua	0.934192783
+juosta	keinua	1.016089648
+ajaa	vetää pois	1.235531692
+kiivetä	sukeltaa	0.885797522
+liidellä	ilmestyä	0.94676445
+astua	tasapainoilla	0.974175006
+tasapainoilla	ryömiä	0.815705643
+nojata	liikkua	0.870899236
+väistää	liikkua	1.04259457
+hiipiä	ryömiä	0.680368735
+ajaa	mennä	0.531737639
+paeta	mennä	1.002014181
+väistää	ryömiä	0.99840229
+keinua	tiputtaa	1.214836553
+uida	liikuttaa	0.738841765
+harhailla	heilahtaa	0.925531223
+vetää pois	asettua aloilleen	1.124396996
+sukeltaa	jäädä jäljelle	1.259888256
+virrata	ohittaa	1.195660434
+kumartaa	polvistua	0.662378292
+istua	ilmestyä uudelleen	0.910996544
+lepattaa	edetä	0.819857564
+kaatua	astua	0.687870437
+ohittaa	risteillä	1.036702632
+kiivetä	jäljittää	1.285538572
+liidellä	ponkaista	1.035894663
+kompastella	ryömiä	1.136682155
+matkustaa	juosta	1.11218822
+polvistua	paeta	1.190462662
+liftata	heilahtaa	1.086415401
+kaatua	hyppiä	1.080439241
+tiputtaa	liikkua	1.313681335
+liikkua	lähestyä	0.691451723
+ilmestyä	jäädä	1.008209026
+jäädä	laskeutua	1.235520402
+luikerrella	kiiruhtaa	1.041388251
+taklata	tasapainoilla	1.076113887
+pomppia	ilmestyä uudelleen	1.102406491
+luikerrella	vaeltaa	1.224595451
+kompastella	harhailla	1.177080027
+käpertyä	vetää pois	1.264288628
+kiihdyttää	ilmestyä	0.832608231
+asettua aloilleen	tiputtaa	1.137561686
+ilmestyä uudelleen	kumartaa	1.161036733
+hyppiä	mennä sisälle	1.072997762
+käydä	lepattaa	1.017930372
+maata	ajelehtia	1.415568407
+hyppiä	harpata	0.518172246
+käydä	ryömiä	1.075399372
+hypätä yli	lentää	1.202346584
+hypätä yli	harpata	0.467172067
+hölkätä	ajaa	0.699802072
+heilua	maata	1.017749145
+vetäytyä	muuttaa	1.426792152
+pinkaista	kiiruhtaa	0.665018877
+lepattaa	taklata	1.19336148
+risteillä	kiiruhtaa	0.952942625
+hypätä yli	metsästää	1.049596248
+lentää	paeta	1.341982765
+matkustaa	risteillä	0.421691267
+käydä	ajaa	0.708180718
+kumartaa	nousta	1.022974919
+tulla	touhuta	0.851069876
+käydä	pomppia	0.849872775
+virrata	taklata	1.384904981
+liftata	jäädä jäljelle	1.161411216
+nousta	istua	0.798532201
+jäädä jäljelle	liitää	1.238827294
+hölkätä	paeta	1.013132846
+riippua	heilahtaa	0.582740376
+liftata	polvistua	1.219514612
+pinkaista	ilmestyä	0.893647287
+jäädä jäljelle	nojata	0.772389774
+kumartaa	jäljittää	1.074064994
+tulla	tiputtaa	0.990827352
+harhailla	nojata	1.072188803
+käydä	hölkätä	0.642735214
+jäädä	hiipiä	1.240253649
+mennä	väistää	0.916487234
+väistää	kaatua	0.886081252
+lentää	roikkua	0.835349874
+pomppia	ajelehtia	1.254567192
+astua	mennä läpi	1.070081456
+hölkätä	kävellä	0.429840387
+jäädä jäljelle	kumartaa	0.973561597
+liikuttaa	lähestyä	0.926869636
+taklata	hyppiä	1.182275579
+keinua	laskeutua	1.023517941
+tasapainoilla	ohittaa	1.128318076
+nousta	tiputtaa	1.327640279
+liukua	luikerrella	0.807390105
+pyöriä	matkustaa	1.057378663
+kumartaa	kulkea	0.968807093
+kiiruhtaa	ilmestyä uudelleen	0.962597129
+lähestyä	roikkua	0.906400373
+riippua	kaatua	0.989941462
+luikerrella	kiivetä	1.099839575
+kulkea	laskeutua	0.932768603
+istua	pinkaista	0.992030861
+jäljittää	hypätä	1.02531797
+laskeutua	polvistua	1.320780308
+luikerrella	maata	0.857156603
+jäädä	ajelehtia	1.363440002
+kaatua	harhailla	1.360120614
+hypätä yli	ilmestyä uudelleen	0.847710633
+riippua	pinkaista	0.926015764
+mahtua	jäädä jäljelle	1.069801213
+saapua	lentää	1.086065561
+tasapainoilla	lepattaa	0.973217654
+käydä	roikkua	0.919676374
+risteillä	ryömiä	1.131686369
+tupsahtaa	hyppiä	1.129457073
+roikkua	kääntyä	0.898800042
+vaeltaa	ajaa	0.773429553
+kiiruhtaa	liidellä	0.827632794
+kiihdyttää	ilmestyä uudelleen	0.999107881
+kompastella	hyppiä	1.075184722
+väistää	vetäytyä	1.130423449
+ponkaista	matkustaa	1.052508822
+mennä sisälle	retkeillä	0.899117348
+edetä	hypätä	0.713347859
+pomppia	retkeillä	1.164248111
+kiirehtiä	liitää	0.94820432
+mennä	riippua	0.792773454
+ajaa	harpata	0.669250246
+väistää	harpata	1.090249384
+hiipiä	tasapainoilla	0.92538382
+ilmestyä	virrata	0.962151517
+jäljittää	hypätä yli	1.019596808
+muuttaa	pinkaista	0.97480594
+virrata	luikerrella	1.230039438
+liitää	kiihdyttää	0.797458804
+käpertyä	jäljittää	1.136299699
+polvistua	heilahtaa	0.855729316
+ajaa	riippua	0.793552794
+kääntyä	pomppia	0.912394329
+hypätä yli	romahtaa	1.030562749
+laskeutua	taklata	1.244328657
+retkeillä	kävellä	0.804050374
+kumartaa	nojata	0.832990386
+liukua	lähestyä	0.723545481
+saapua	ponkaista	0.964292466
+pomppia	tasapainoilla	0.782174611
+pyöriä	ryömiä	0.935869544
+vetäytyä	liikuttaa	0.945861062
+muuttaa	käydä	0.946682143
+riippua	kääntyä	1.030214152
+saapua	hölkätä	0.864722529
+kiivetä	maata	1.18870133
+liikkua	uida	0.844388248
+jäädä jäljelle	romahtaa	0.913803779
+asettua aloilleen	liikuttaa	1.001828701
+kiirehtiä	mennä sisälle	0.98610398
+mennä läpi	nousta	0.887766206
+kääntyä	mennä läpi	1.302000492
+retkeillä	heilahtaa	1.125984627
+kääntyä	liukua	1.003768553
+pomppia	harhailla	1.160031459
+pyöriä	liidellä	0.833442565
+seisoa	lentää	1.273803888
+liikuttaa	ajelehtia	0.769522771
+edetä	pomppia	0.761399584
+hypätä	tasapainoilla	0.892814458
+lentää	kiivetä	0.940876269
+liikkua	hypätä yli	0.763427736
+ratsastaa	keinua	0.998742743
+lentää	maata	1.242413141
+liidellä	heilua	0.951358736
+harpata	hölkätä	0.600621371
+muuttaa	romahtaa	1.160822546
+hypätä	polvistua	0.774761058
+juosta	asettua aloilleen	0.970694851
+liidellä	liitää	0.281557595
+nousta	liikuttaa	0.733563907
+riippua	heilua	0.776789888
+virrata	edetä	1.061612635
+liikkua	lepattaa	0.898541909
+riippua	hölkätä	0.856795766
+ohittaa	edetä	1.061491915
+liitää	liftata	0.709784697
+tulla	kiiruhtaa	0.865830744
+laskeutua	kompastella	1.380162324
+harhailla	asettua aloilleen	1.097999196
+liukua	sukeltaa	1.136233749
+metsästää	touhuta	0.868053833
+vaeltaa	hyppiä	0.775942712
+pomppia	romahtaa	1.325017973
+lähteä	touhuta	0.96311277
+mahtua	liftata	0.845741099
+vetäytyä	luikerrella	0.967331332
+kävellä	ilmestyä	0.964381418
+paeta	jäädä jäljelle	1.121614906
+laskeutua	lähteä	0.838049201
+ryömiä	ilmestyä uudelleen	1.144270356
+heilahtaa	lepattaa	0.79388698
+kaatua	kulkea	0.970430923
+hypätä yli	ryömiä	1.023316196
+kävellä	saapua	0.724746722
+vetää pois	pomppia	1.062255846
+hiipiä	ilmestyä uudelleen	1.034954887
+uida	lepattaa	1.012162321
+astua	hyppiä	0.765358325
+virrata	ajaa	1.111481102
+heilua	hypätä yli	1.030162692
+tasapainoilla	kompastella	0.934849836
+liitää	ilmestyä uudelleen	1.059199408
+tupsahtaa	jäädä	1.027555669
+kiivetä	nousta	0.662037558
+tulla	pomppia	0.904279995
+lepattaa	väistää	1.040902297
+taklata	ilmestyä uudelleen	1.309762064
+liitää	liikuttaa	0.809522935
+kumartaa	ilmestyä	1.107858768
+hölkätä	tiputtaa	1.163997369
+ryömiä	edetä	0.633545478
+kiihdyttää	sukeltaa	0.817507204
+kiirehtiä	maata	0.946080596
+vetää pois	mennä	1.141237646
+harpata	liidellä	0.835392794
+liikkua	roikkua	0.993965636
+ilmestyä	kaatua	1.200878947
+liikuttaa	käpertyä	0.958823815
+luikerrella	tasapainoilla	0.896695327
+matkustaa	jäädä	1.236984967
+nojata	ajelehtia	1.346628474
+jäädä	astua	0.810859974
+kiihdyttää	mennä sisälle	1.056166185
+touhuta	väistää	0.948690269
+jäljittää	laskeutua	1.344727248
+liukua	ajaa	0.865738955
+mennä	uida	0.666263361
+ponkaista	mennä läpi	1.132698931
+kiihdyttää	tulla	0.846637061
+ohittaa	kääntyä	0.979666819
+uida	polvistua	1.134988466
+ponkaista	liikuttaa	0.91336323
+nousta	juosta	0.708333381
+kiihdyttää	nousta	1.048129053
+ilmestyä uudelleen	edetä	0.920843764
+kiivetä	ajaa	0.735210139
+laskeutua	liukua	1.136864969
+astua	ratsastaa	0.873516183
+muuttaa	lentää	0.822207133
+maata	muuttaa	1.068502963
+kiirehtiä	istua	0.946378899
+asettua aloilleen	kävellä	0.86736744
+lähteä	kiihdyttää	0.759206533
+jäädä	liftata	1.319079607
+muuttaa	kävellä	0.777149008
+mennä läpi	käpertyä	0.996855626
+kävellä	liitää	0.734923953
+ajelehtia	jäljittää	1.398768479
+kumartaa	hypätä yli	0.951873551
+kompastella	pinkaista	1.232616534
+ajelehtia	keinua	1.107283952
+matkustaa	kellua	0.996609707
+kiiruhtaa	keinua	0.829764415
+asettua aloilleen	mennä sisälle	0.778256098
+lentää	kiiruhtaa	0.883748333
+mennä sisälle	vetää pois	1.288304393
+mennä	tulla	0.792128366
+hiipiä	pomppia	0.801114847
+lentää	ajaa	0.805233207
+kellua	ilmestyä uudelleen	1.101496308
+kiirehtiä	tulla	0.831618248
+ponkaista	pinkaista	0.735166598
+tiputtaa	riippua	0.979876131
+vaeltaa	jäädä	1.16653761
+käpertyä	kiihdyttää	0.995239843
+mennä sisälle	kumartaa	1.169477871
+metsästää	liidellä	1.213710203
+tasapainoilla	liikuttaa	0.818639089
+risteillä	kellua	0.844732293
+liikkua	laskeutua	1.127298094
+kävellä	kiiruhtaa	0.862653177
+kävellä	hypätä	0.739464168
+sukeltaa	astua	0.90838474
+kävellä	nojata	1.021865651
+käydä	jäädä jäljelle	0.913819077
+mennä läpi	asettua aloilleen	1.198819413
+käpertyä	ylittää	1.178717017
+lepattaa	luikerrella	1.102684553
+ajaa	risteillä	0.884720408
+heilua	liikkua	1.040999671
+uida	liitää	0.864782187
+maata	ajaa	0.982865214
+kellua	ilmestyä	1.090220024
+polvistua	ilmestyä uudelleen	1.184341248
+kellua	vetäytyä	1.227933648
+mennä läpi	saapua	1.308556209
+tiputtaa	liitää	1.224451984
+hiipiä	asettua aloilleen	1.091613687
+liukua	hypätä yli	0.991606213
+harhailla	ylittää	1.33388994
+kääntyä	hypätä yli	0.823932131
+hypätä yli	riippua	0.879937291
+hypätä	lähteä	0.864731815
+seisoa	kellua	1.266620773
+ratsastaa	kävellä	0.780314541
+liukua	kompastella	0.979420166
+maata	mennä läpi	1.22055634
+lepattaa	asettua aloilleen	1.053265364
+ryömiä	istua	0.790688612
+tupsahtaa	riippua	0.998984302
+uida	seisoa	1.074381583
+ratsastaa	kiivetä	1.036946599
+liitää	keinua	0.99621512
+maata	hypätä	1.072358515
+ponkaista	ilmestyä uudelleen	0.98854629
+ryömiä	ajaa	0.818899037
+liukua	vetää pois	1.317512374
+matkustaa	polvistua	1.286944131
+romahtaa	ohittaa	1.114327867
+mennä	romahtaa	1.031958319
+kiihdyttää	roikkua	0.782252842
+roikkua	kumartaa	0.874829291
+luikerrella	tulla	1.046419138
+liikuttaa	polvistua	0.955769583
+pyöriä	heilahtaa	0.85173163
+ilmestyä	nojata	0.992176838
+touhuta	vetäytyä	1.008970917
+väistää	lentää	1.15794828
+virrata	kulkea	0.964509481
+edetä	asettua aloilleen	1.076978427
+ajaa	liikuttaa	0.703451473
+hyppiä	mennä	0.712650935
+luikerrella	ryömiä	0.553545299
+kiiruhtaa	käydä	1.003914115
+seisoa	väistää	0.95291511
+nousta	kompastella	1.052404125
+liikkua	kaatua	0.955013919
+vetää pois	pyöriä	1.175119808
+ohittaa	kiiruhtaa	1.062394155
+juosta	pyöriä	0.897347432
+istua	uida	1.117289534
+kumartaa	tulla	0.964494825
+mennä sisälle	romahtaa	1.066520223
+ajelehtia	juosta	1.255769856
+vetäytyä	edetä	1.212372277
+liukua	metsästää	1.016420919
+kiirehtiä	kiiruhtaa	0.508280239
+kiivetä	liikuttaa	0.701640323
+tasapainoilla	harpata	0.897250821
+paeta	lähestyä	0.895511205
+käydä	ohittaa	1.038943405
+edetä	pyöriä	0.895044365
+kumartaa	romahtaa	1.084596488
+kompastella	kääntyä	0.929499738
+heilahtaa	kumartaa	0.823661391
+ratsastaa	kumartaa	1.084872148
+risteillä	hypätä	1.09236055
+ilmestyä uudelleen	ohittaa	0.896968517
+harpata	kumartaa	0.845922166
+vetää pois	kumartaa	0.955505008
+touhuta	lepattaa	1.191912344
+juosta	polvistua	0.890060953
+roikkua	virrata	1.036429786
+laskeutua	mennä	0.898148027
+hypätä	harpata	0.489001177
+metsästää	pinkaista	1.263181593
+kaatua	keinua	1.100552085
+risteillä	heilahtaa	1.187292857
+keinua	edetä	0.999801464
+pomppia	ratsastaa	1.068927308
+istua	vaeltaa	0.982843196
+touhuta	liftata	1.179111898
+lentää	hyppiä	1.043689032
+ohittaa	pinkaista	1.215854649
+kiivetä	harpata	0.938705758
+jäädä jäljelle	mennä sisälle	0.950539957
+laskeutua	liidellä	0.823237421
+tiputtaa	ajelehtia	1.267037588
+liidellä	matkustaa	0.867280885
+sukeltaa	ilmestyä uudelleen	1.026577486
+retkeillä	hölkätä	0.894450956
+vetää pois	kävellä	1.131519263
+paeta	käpertyä	1.221609582
+retkeillä	nojata	1.053348626
+sukeltaa	kaatua	1.192876795
+tupsahtaa	ajaa	1.109992527
+kääntyä	kellua	1.173077748
+mennä sisälle	pinkaista	1.023322003
+kellua	jäädä jäljelle	1.246656718
+matkustaa	mennä läpi	1.334859931
+mahtua	ohittaa	0.984677444
+kiiruhtaa	kompastella	0.990012888
+käydä	heilua	1.146756239
+lähteä	mennä läpi	1.219940957
+kiihdyttää	tasapainoilla	0.978747942
+riippua	mennä sisälle	1.339017896
+paeta	kiivetä	1.3487414
+liidellä	ylittää	1.182920531
+kävellä	tasapainoilla	0.923980521
+ratsastaa	ponkaista	0.98762194
+harpata	lentää	1.019410384
+kumartaa	lähteä	1.04790209
+liidellä	jäljittää	1.320984281
+kaatua	kellua	1.174527397
+matkustaa	käydä	0.749314897
+lähestyä	maata	0.936010971
+ohittaa	hypätä	1.065257852
+nojata	mennä läpi	1.067269909
+tupsahtaa	seisoa	1.009702606
+käpertyä	liidellä	1.086816915
+harhailla	luikerrella	1.176658166
+hiipiä	kiiruhtaa	0.8913778
+kaatua	kiiruhtaa	0.881144731
+ohittaa	ryömiä	1.21353627
+metsästää	virrata	1.380494788
+hypätä	käpertyä	0.897820406
+ilmestyä uudelleen	riippua	1.103512202
+hölkätä	mennä läpi	0.912138973
+kumartaa	hiipiä	0.970097094
+tiputtaa	kiirehtiä	1.14231904
+ylittää	lepattaa	1.290028667
+asettua aloilleen	väistää	0.985118994
+virrata	riippua	1.134567744
+hypätä yli	kiirehtiä	0.789666965
+istua	ajaa	0.922472542
+ajaa	vetäytyä	1.149909115
+pyöriä	muuttaa	1.058779978
+ilmestyä	hölkätä	0.969173417
+polvistua	romahtaa	1.000478514
+heilua	mennä sisälle	1.266874239
+kompastella	heilahtaa	1.029086692
+riippua	tulla	0.970720261
+ajelehtia	vaeltaa	0.839253627
+kiirehtiä	keinua	0.968429969
+tasapainoilla	käydä	1.033382722
+harpata	ilmestyä uudelleen	0.888833872
+roikkua	tiputtaa	0.963420154
+riippua	ponkaista	1.142685099
+hiipiä	pinkaista	0.642406536
+jäädä jäljelle	lähteä	1.045055018
+kävellä	jäädä	0.82309442
+kumartaa	pomppia	0.987524195
+muuttaa	hypätä	0.970499654
+kiivetä	roikkua	0.741877234
+liukua	hölkätä	0.759179683
+muuttaa	nojata	0.96447972
+liitää	seisoa	1.140276099
+virrata	kellua	1.048508238
+heilahtaa	tupsahtaa	1.165505135
+virrata	pomppia	1.096166681
+kulkea	harhailla	0.98630785
+tupsahtaa	liftata	0.976995273
+vaeltaa	nojata	1.065341832
+kompastella	saapua	1.00831095
+virrata	ratsastaa	1.073800974
+hypätä yli	lähteä	0.859389499
+mennä läpi	touhuta	1.111692069
+liikkua	ohittaa	1.064003337
+matkustaa	istua	1.153414532
+ratsastaa	vetäytyä	1.2370209
+jäädä jäljelle	hiipiä	1.112739726
+sukeltaa	nojata	1.161471278
+uida	tulla	0.856764291
+ajelehtia	lentää	0.907193101
+kääntyä	mahtua	0.908166169
+kiiruhtaa	liitää	0.832571996
+asettua aloilleen	riippua	1.013142426
+laskeutua	hypätä yli	1.115689441
+saapua	vetäytyä	1.019915831
+kääntyä	liidellä	0.934014751
+liitää	kompastella	1.222903394
+muuttaa	paeta	1.121533642
+harhailla	mahtua	1.161931909
+mennä läpi	riippua	0.895509384
+vetää pois	romahtaa	1.148632282
+kaatua	mennä sisälle	1.195862626
+käpertyä	ponkaista	0.84871605
+liikuttaa	lähteä	0.903136017
+tasapainoilla	kaatua	1.058025024
+nojata	kellua	1.223325679
+astua	seisoa	0.624950609
+laskeutua	ylittää	1.224732247
+hypätä	ratsastaa	1.012847129
+hölkätä	lentää	0.964223264
+istua	lentää	1.235968054
+paeta	ajaa	1.208070188
+käydä	heilahtaa	0.94015083
+sukeltaa	seisoa	1.235024114
+vaeltaa	mahtua	1.185636073
+liidellä	tulla	0.938525506
+taklata	tulla	0.953893058
+liitää	hypätä	0.959579177
+kävellä	ylittää	0.947952206
+sukeltaa	ilmestyä	0.88128057
+nousta	kulkea	0.826922229
+uida	kiirehtiä	0.963923971
+kaatua	seisoa	1.076692332
+liikuttaa	liikkua	0.731828693
+ohittaa	astua	0.921293545
+maata	mennä	0.942559354
+tiputtaa	liidellä	1.206177659
+polvistua	kiiruhtaa	0.94520361
+hyppiä	paeta	0.98121117
+virrata	matkustaa	1.057231465
+jäljittää	ylittää	1.319811519
+muuttaa	harpata	0.82502143
+käpertyä	lähestyä	0.929496094
+taklata	kaatua	1.025748827
+tulla	istua	0.974445323
+liikuttaa	keinua	0.692471997
+tiputtaa	heilua	1.141643199
+pyöriä	ohittaa	1.198747289
+liftata	kumartaa	1.21443777
+matkustaa	mennä	0.854057194
+heilahtaa	nousta	0.894334289
+matkustaa	liikkua	0.939697085
+hyppiä	nousta	0.657267796
+matkustaa	sukeltaa	0.933724176
+jäädä jäljelle	ylittää	1.071772418
+luikerrella	astua	0.882017664
+kulkea	astua	0.503825139
+polvistua	käpertyä	0.571361664
+liftata	nojata	1.096866284
+juosta	kiirehtiä	1.02470563
+käydä	juosta	0.707973759
+harpata	pomppia	0.667165523
+retkeillä	väistää	1.064342258
+hypätä yli	liitää	0.942032305
+edetä	ponkaista	0.6838959
+edetä	uida	0.786682906
+romahtaa	ajelehtia	1.118740026
+mahtua	laskeutua	1.208898294
+matkustaa	edetä	0.831562628
+romahtaa	uida	0.943399493
+muuttaa	lepattaa	0.920299008
+lentää	liitää	0.333965598
+liidellä	ratsastaa	0.994381437
+kiivetä	mennä	0.855725954
+ylittää	nojata	1.021075281
+ohittaa	kävellä	0.981228993
+liikkua	riippua	1.011503087
+jäljittää	mennä läpi	1.344883375
+taklata	istua	0.868881214
+luikerrella	käydä	1.091001788
+liikkua	keinua	0.896310207
+ohittaa	väistää	1.141849551
+ajaa	sukeltaa	0.823272531
+hiipiä	kiihdyttää	0.772703866
+hyppiä	edetä	0.777634082
+lähestyä	liitää	0.704181726
+ratsastaa	ylittää	1.161061249
+hiipiä	retkeillä	1.005915226
+hölkätä	lähteä	0.778263013
+käydä	liidellä	0.998199827
+harpata	paeta	0.933260803
+sukeltaa	ponkaista	0.937292002
+ponkaista	heilahtaa	0.918922185
+mennä	kiirehtiä	0.865148755
+mennä läpi	heilahtaa	0.963694119
+pyöriä	ponkaista	1.109686378
+uida	saapua	0.876931221
+mahtua	jäljittää	1.312280379
+muuttaa	kiivetä	0.89949946
+risteillä	kompastella	1.294640944
+ajaa	mennä sisälle	1.11831591
+jäädä jäljelle	luikerrella	0.989247555
+keinua	tasapainoilla	0.691971451
+maata	liikuttaa	1.024645368
+mennä	astua	0.592666644
+mennä	luikerrella	0.837527817
+kääntyä	ylittää	1.237825329
+mennä läpi	lentää	1.008269645
+risteillä	romahtaa	1.081084858
+mennä sisälle	ilmestyä	0.853817234
+tasapainoilla	pyöriä	0.833998824
+kumartaa	kiivetä	1.142237545
+ratsastaa	jäädä jäljelle	1.051948425
+tulla	retkeillä	0.819155853
+kiiruhtaa	heilua	0.904407315
+liitää	nousta	0.812534287
+lähteä	liukua	0.992306202
+hypätä yli	luikerrella	0.927587416
+jäljittää	hiipiä	1.178208989
+tulla	edetä	0.738478518
+risteillä	maata	1.285777199
+liikuttaa	muuttaa	0.813798944
+kiihdyttää	kompastella	1.124901692
+jäädä jäljelle	kulkea	0.99138734
+mennä sisälle	ohittaa	0.873521389
+maata	asettua aloilleen	0.796525184
+risteillä	mennä läpi	1.315982013
+liikuttaa	harpata	0.837105113
+kaatua	vetäytyä	1.182277933
+paeta	ratsastaa	1.158882875
+käpertyä	mennä sisälle	1.189480838
+matkustaa	seisoa	1.145624234

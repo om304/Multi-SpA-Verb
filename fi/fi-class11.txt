@@ -1,0 +1,631 @@
+Word1	Word2	Score
+heittää hukkaan	vastaanottaa	1.069145424
+antaa	olla	0.966604627
+omistaa	tienata	0.707415176
+kerätä	toimittaa	1.033485626
+tinkiä	vaihtaa	1.216688268
+tuhlata	heittää hukkaan	0.474736236
+laskuttaa	hankkia	1.029947419
+tallettaa	korvata	0.867813107
+palkita	myydä	0.962307334
+kuluttaa rahaa	hankkia	0.63762494
+saada	kerätä	0.922060934
+uhkapelata	laskuttaa	1.173398687
+heittää hukkaan	ansaita	1.128644017
+vähentää	laskuttaa	1.114957895
+myydä	vastaanottaa	1.065874156
+tallentaa	hankkia	0.991744853
+säästää	vakuuttaa	0.835961275
+varata	lainata	0.909778025
+omistaa	varata	0.771207067
+olla	vastaanottaa	1.045838775
+uhkapelata	ostaa	1.087018654
+varastaa	uhkapelata	0.96377992
+maksaa	lyödä vetoa	0.883014103
+kuluttaa rahaa	riskeerata	0.922330538
+vähentää	tuottaa	1.026827663
+tuottaa	varata	0.941353687
+vastaanottaa	korvata	1.08636972
+tinkiä	tuoda markkinoille	1.012926033
+maksaa	myydä	0.931003963
+tallentaa	lyödä vetoa	1.279336418
+heittää hukkaan	laskuttaa	1.101085051
+ostaa	vaihtaa	1.066530931
+varastaa	laskuttaa	0.994445888
+tuhlata	kuluttaa rahaa	0.448562546
+varastaa	säästää	1.29636936
+tallentaa	korvata	0.902496893
+lainata	säilyttää	1.029331398
+antaa	vähentää	1.034783376
+tallentaa	heittää hukkaan	1.112828737
+kuluttaa rahaa	vastaanottaa	1.0972719
+saada	myydä	1.065568365
+myydä	säästää	0.860536445
+omistaa	maksaa	0.947803345
+säilyttää	antaa	0.969356096
+omistaa	vaihtaa	1.028991972
+varastaa	hankkia	1.02167286
+olla	laskuttaa	1.042735298
+tuhlata	toimittaa	1.113061761
+tienata	olla	0.829926386
+omistaa	saada	0.804315781
+antaa	vastaanottaa	0.890254816
+lyödä vetoa	tienata	1.16085698
+kerjätä	varata	0.99650128
+ansaita	tuoda markkinoille	1.095392883
+riskeerata	tallettaa	1.294517563
+vähentää	korvata	0.961391975
+lyödä vetoa	omistaa	1.297567253
+uhkapelata	säästää	1.323563737
+ostaa	heittää hukkaan	0.917074537
+vähentää	lainata	0.951485301
+tuottaa	tallettaa	0.986107895
+varata	ansaita	0.881390183
+kerätä	laskuttaa	1.225554362
+tinkiä	riskeerata	1.203745465
+antaa	riskeerata	1.081520379
+omistaa	tallettaa	0.770006157
+olla	myydä	0.998757527
+ostaa	lyödä vetoa	1.041173182
+toimittaa	omistaa	1.101585598
+heittää hukkaan	kerjätä	0.926495082
+tallettaa	vakuuttaa	0.808914581
+kuluttaa rahaa	saada	0.87500974
+kuluttaa rahaa	olla	1.185374272
+vakuuttaa	vaihtaa	1.306382779
+vakuuttaa	olla	1.030515992
+vaihtaa	varastaa	0.890743979
+vaihtaa	hankkia	1.149447847
+maksaa	ostaa	0.622434025
+palkita	riskeerata	0.974128958
+kerätä	vaihtaa	0.968799947
+maksaa	olla	1.172645095
+tallentaa	tienata	0.897480173
+tienata	säästää	0.721043424
+vähentää	heittää hukkaan	0.893269258
+omistaa	kerätä	0.962555978
+myydä	lyödä vetoa	1.204741614
+olla	hankkia	1.175495795
+olla	palkita	1.070480279
+tuhlata	vakuuttaa	1.079273824
+tuottaa	lyödä vetoa	1.134076615
+tuottaa	kerätä	0.901374169
+vaihtaa	lyödä vetoa	1.008550069
+tallettaa	ansaita	0.802443146
+ansaita	riskeerata	1.095606226
+lyödä vetoa	heittää hukkaan	0.519846585
+antaa	varata	1.002749556
+toimittaa	myydä	0.945107563
+tienata	myydä	0.882419538
+lainata	saada	0.603388352
+lyödä vetoa	korvata	0.913947007
+vähentää	saada	0.964104666
+tuottaa	omistaa	0.988812403
+säilyttää	tinkiä	0.840306803
+lainata	uhkapelata	0.907798023
+palkita	laskuttaa	1.114701762
+tallentaa	toimittaa	0.969185393
+kuluttaa rahaa	kerjätä	1.067919821
+hankkia	heittää hukkaan	1.052390405
+kuluttaa rahaa	palkita	1.099661051
+varata	tinkiä	0.707213506
+säilyttää	ostaa	1.039736193
+maksaa	säästää	0.72781097
+vakuuttaa	maksaa	1.081002636
+hankkia	uhkapelata	1.068474162
+toimittaa	säästää	0.998638196
+lyödä vetoa	hankkia	1.007316694
+kerjätä	kerätä	0.71512982
+antaa	tinkiä	0.754573543
+toimittaa	tuottaa	1.170765052
+toimittaa	palkita	1.290300989
+laskuttaa	varata	0.881014497
+vakuuttaa	vähentää	1.115825025
+antaa	vaihtaa	0.809238497
+tallettaa	säästää	0.365949086
+laskuttaa	vaihtaa	1.074208999
+tinkiä	vastaanottaa	1.149575798
+säästää	palkita	1.001159715
+riskeerata	omistaa	1.429197131
+säästää	kerjätä	1.08581939
+tienata	vakuuttaa	0.841628367
+tuottaa	antaa	0.953908321
+vastaanottaa	uhkapelata	1.073850172
+tienata	ansaita	0.154201384
+ansaita	tallentaa	0.862100805
+uhkapelata	tienata	1.184358843
+omistaa	antaa	1.036135135
+kerätä	kuluttaa rahaa	1.031225953
+uhkapelata	tuhlata	0.679201259
+saada	varastaa	0.960551205
+korvata	kerjätä	1.103420744
+tuoda markkinoille	vaihtaa	0.868914385
+kerjätä	tallentaa	1.039211745
+vaihtaa	säilyttää	1.295529584
+laskuttaa	toimittaa	1.010139852
+maksaa	ansaita	0.93246396
+hankkia	maksaa	0.784284547
+ostaa	tinkiä	0.944194222
+tinkiä	varastaa	1.167490615
+myydä	tuoda markkinoille	0.633401369
+tinkiä	palkita	0.998927595
+toimittaa	varastaa	1.149810947
+olla	ansaita	0.86702446
+tallentaa	tuottaa	1.073541676
+varastaa	lyödä vetoa	0.923399584
+tuhlata	omistaa	1.19868219
+tallettaa	olla	1.143191568
+lainata	laskuttaa	0.896413104
+varastaa	tienata	1.229947627
+hankkia	tallettaa	0.871033973
+tinkiä	tallentaa	0.736161392
+säästää	saada	1.095708728
+vaihtaa	maksaa	1.175109921
+palkita	lainata	1.076009207
+varastaa	maksaa	1.063060858
+säilyttää	vakuuttaa	0.861170776
+laskuttaa	vastaanottaa	0.936097666
+säästää	tallentaa	0.375203669
+lainata	vaihtaa	0.986531743
+tuoda markkinoille	vähentää	0.989218714
+vaihtaa	myydä	0.815898075
+ansaita	palkita	0.657739557
+kuluttaa rahaa	ansaita	1.021025145
+uhkapelata	heittää hukkaan	0.527003552
+tallentaa	myydä	0.880598267
+uhkapelata	saada	0.959593185
+vastaanottaa	kerjätä	0.890105381
+varata	uhkapelata	1.247612103
+tallentaa	kuluttaa rahaa	1.005234163
+vaihtaa	tuhlata	1.154471933
+varata	tallettaa	0.887784868
+kerjätä	tienata	0.958548924
+antaa	säästää	0.988803921
+kerätä	palkita	0.941627708
+kerätä	olla	0.91857152
+vakuuttaa	tinkiä	0.879945352
+kerätä	riskeerata	0.988245143
+tuoda markkinoille	ostaa	1.03222262
+heittää hukkaan	lainata	0.822630346
+kuluttaa rahaa	lainata	0.743129066
+riskeerata	säilyttää	1.417553671
+tuhlata	kerätä	1.011534603
+korvata	kerätä	0.904716547
+lyödä vetoa	riskeerata	0.438861605
+säästää	vastaanottaa	1.178400215
+tinkiä	tuhlata	1.014074183
+vaihtaa	tuottaa	0.99207115
+vastaanottaa	hankkia	0.90634429
+riskeerata	tuhlata	0.679566501
+tuhlata	tuottaa	1.225165754
+ansaita	kerätä	0.768369158
+varastaa	varata	1.260904696
+tinkiä	omistaa	0.968281614
+saada	säilyttää	1.039448607
+saada	tienata	0.852359443
+tuoda markkinoille	säästää	0.88261793
+tallettaa	myydä	0.843149509
+uhkapelata	kerjätä	0.956239799
+kuluttaa rahaa	tuoda markkinoille	0.9578124
+ansaita	tuottaa	0.830057595
+säilyttää	kerjätä	0.997652333
+palkita	heittää hukkaan	1.05060949
+hankkia	korvata	1.168581611
+vakuuttaa	kerätä	1.004407688
+säilyttää	hankkia	0.948317788
+korvata	tinkiä	1.075034945
+olla	uhkapelata	1.090764468
+palkita	varastaa	1.12031524
+lainata	varastaa	0.899237365
+vähentää	myydä	1.150684726
+kerätä	vastaanottaa	1.018595598
+kuluttaa rahaa	vakuuttaa	1.116536177
+vastaanottaa	vakuuttaa	1.1158297
+säästää	tinkiä	0.599591749
+ostaa	kuluttaa rahaa	0.500287589
+tuhlata	palkita	1.129745471
+toimittaa	ostaa	1.038433302
+säästää	hankkia	0.820451767
+maksaa	korvata	1.096220736
+ostaa	riskeerata	1.145030308
+ansaita	antaa	0.84919643
+säilyttää	lyödä vetoa	1.301437002
+tallentaa	palkita	1.02849497
+saada	toimittaa	0.976230435
+ansaita	myydä	0.885764143
+tuottaa	hankkia	1.112204979
+varastaa	kuluttaa rahaa	0.969578909
+kerätä	varata	0.952164184
+tinkiä	tuottaa	1.180264804
+vaihtaa	tallentaa	1.209779488
+vähentää	hankkia	1.06417594
+riskeerata	tuoda markkinoille	0.988278608
+omistaa	vakuuttaa	0.895978654
+myydä	omistaa	0.914511812
+vakuuttaa	varastaa	1.25175839
+ostaa	myydä	1.00826967
+palkita	hankkia	1.040106062
+antaa	maksaa	1.015231342
+laskuttaa	tuoda markkinoille	1.123679648
+varata	säilyttää	0.868158647
+maksaa	uhkapelata	0.924093784
+palkita	lyödä vetoa	1.233560118
+kerätä	ostaa	1.038176479
+uhkapelata	kuluttaa rahaa	0.817797933
+vähentää	ostaa	0.941698362
+myydä	korvata	0.935646443
+tuoda markkinoille	vakuuttaa	0.960586846
+varastaa	myydä	0.979972237
+myydä	heittää hukkaan	1.231972057
+toimittaa	kerjätä	0.662513206
+uhkapelata	omistaa	1.306717467
+riskeerata	kerjätä	1.076798509
+tallentaa	varastaa	1.34756453
+kerjätä	hankkia	0.85710687
+vaihtaa	varata	1.221803887
+tienata	vaihtaa	0.963516189
+maksaa	lainata	0.804151476
+vähentää	palkita	1.100907412
+saada	kerjätä	0.895486864
+tuhlata	tallentaa	1.145646286
+tuottaa	säästää	0.993184142
+tallentaa	uhkapelata	1.274698548
+lyödä vetoa	kerjätä	0.921051973
+tinkiä	tallettaa	0.752807858
+kuluttaa rahaa	tuottaa	1.183819705
+palkita	vaihtaa	0.931695409
+tallettaa	laskuttaa	1.052187414
+säilyttää	ansaita	0.803887755
+olla	lyödä vetoa	1.067111911
+tallentaa	vähentää	1.246894496
+saada	riskeerata	1.06395823
+korvata	kuluttaa rahaa	1.097668982
+tallentaa	antaa	1.010925202
+hankkia	ansaita	0.901829588
+varastaa	tuoda markkinoille	0.86384406
+varata	tienata	0.919523218
+olla	tinkiä	1.092638298
+kuluttaa rahaa	omistaa	0.985948471
+heittää hukkaan	tienata	1.14395435
+ansaita	tinkiä	0.882646109
+varata	vähentää	1.415801375
+olla	vaihtaa	0.866171851
+kuluttaa rahaa	säästää	0.91580777
+tuhlata	laskuttaa	1.045140171
+tinkiä	maksaa	1.00132979
+kerjätä	ostaa	0.98755195
+heittää hukkaan	vaihtaa	1.121739746
+vakuuttaa	laskuttaa	1.133674353
+kerjätä	antaa	0.743171177
+vakuuttaa	riskeerata	1.137422127
+tallettaa	tienata	0.833452524
+tuhlata	ostaa	0.756515732
+uhkapelata	tuoda markkinoille	1.091898394
+maksaa	tuottaa	1.11471894
+säilyttää	maksaa	0.859146308
+vähentää	tienata	1.156246944
+maksaa	kuluttaa rahaa	0.588296394
+vakuuttaa	tuottaa	1.054488961
+vaihtaa	riskeerata	1.049779355
+toimittaa	korvata	0.856728662
+hankkia	saada	0.90367744
+uhkapelata	vakuuttaa	1.281160005
+heittää hukkaan	toimittaa	1.180232238
+lyödä vetoa	saada	0.967508572
+tallettaa	säilyttää	0.402405018
+vakuuttaa	ansaita	0.845377121
+palkita	saada	0.927417915
+lyödä vetoa	antaa	0.917137602
+tuhlata	varastaa	0.904588837
+tienata	laskuttaa	0.966616684
+tallentaa	omistaa	0.865574842
+heittää hukkaan	antaa	0.99152675
+tinkiä	toimittaa	0.918068732
+varastaa	omistaa	1.187678544
+tuoda markkinoille	omistaa	1.001245486
+riskeerata	varata	1.355663769
+maksaa	tallettaa	0.966471531
+lyödä vetoa	ansaita	1.168489261
+kuluttaa rahaa	varata	1.255713645
+tinkiä	lainata	0.989322528
+riskeerata	tienata	1.092717105
+kerätä	lainata	0.827489046
+tienata	kerätä	0.732720206
+kerätä	maksaa	1.153305008
+tuottaa	tienata	0.843393862
+säästää	ansaita	0.684332907
+tuoda markkinoille	palkita	1.048291206
+säilyttää	tuoda markkinoille	0.992588717
+saada	vaihtaa	1.03536834
+varata	tuhlata	0.99670526
+vastaanottaa	omistaa	0.964050454
+heittää hukkaan	olla	1.06705785
+hankkia	vakuuttaa	1.158146819
+tuhlata	vähentää	0.823192863
+tuottaa	ostaa	1.095066747
+varata	toimittaa	0.974308103
+maksaa	tuhlata	0.838442721
+olla	säilyttää	1.121271348
+lyödä vetoa	laskuttaa	1.066319527
+lainata	vakuuttaa	1.122531074
+riskeerata	olla	1.048612339
+tinkiä	uhkapelata	1.157283104
+olla	säästää	1.03028525
+tinkiä	hankkia	1.074434576
+ostaa	tienata	0.932925369
+riskeerata	laskuttaa	1.17340901
+kerätä	tuoda markkinoille	0.904466568
+toimittaa	lainata	0.842402275
+säilyttää	korvata	1.033221693
+tuottaa	laskuttaa	1.03782851
+säilyttää	heittää hukkaan	1.14692209
+varata	myydä	1.077898198
+laskuttaa	korvata	1.224240124
+laskuttaa	antaa	0.956940039
+lainata	tuhlata	0.858326329
+vakuuttaa	tallentaa	0.823800019
+heittää hukkaan	säästää	1.099847501
+saada	tuoda markkinoille	0.943491061
+säästää	säilyttää	0.444892983
+tinkiä	lyödä vetoa	1.132840591
+tinkiä	heittää hukkaan	1.008865956
+tuottaa	heittää hukkaan	1.155717523
+kerjätä	tuottaa	1.040981684
+vakuuttaa	kerjätä	0.979907333
+antaa	tallettaa	1.008754811
+kerätä	tallentaa	0.732388315
+tuhlata	tienata	1.153803484
+vähentää	vaihtaa	1.11946254
+uhkapelata	vaihtaa	1.012862274
+korvata	lainata	1.111053812
+säästää	vähentää	1.172005122
+tallentaa	olla	1.187201095
+uhkapelata	tallettaa	1.294093867
+varastaa	vähentää	0.924067266
+laskuttaa	ansaita	1.022270439
+saada	maksaa	0.913288384
+vakuuttaa	palkita	0.754768792
+riskeerata	vähentää	0.861914346
+vaihtaa	korvata	1.051164974
+varastaa	kerätä	1.069368368
+maksaa	palkita	0.91912514
+toimittaa	maksaa	1.096827326
+toimittaa	ansaita	1.316844198
+olla	tuoda markkinoille	0.879471734
+saada	ostaa	0.955945734
+toimittaa	lyödä vetoa	1.049456117
+vakuuttaa	korvata	1.038629997
+vähentää	uhkapelata	0.982065605
+säilyttää	tienata	0.855392678
+varata	vastaanottaa	1.009106417
+vakuuttaa	heittää hukkaan	1.076727338
+myydä	hankkia	0.968768027
+laskuttaa	saada	0.865599157
+säilyttää	tallentaa	0.414399355
+lainata	hankkia	0.754467216
+tienata	palkita	0.703240216
+olla	tuottaa	0.864527889
+saada	tuhlata	1.026261373
+heittää hukkaan	tuoda markkinoille	1.209043739
+maksaa	kerjätä	1.011693528
+riskeerata	hankkia	1.155111844
+kuluttaa rahaa	heittää hukkaan	0.68895127
+vakuuttaa	toimittaa	1.00441902
+myydä	kerjätä	0.830245581
+ostaa	tallettaa	0.771290669
+tuottaa	vastaanottaa	0.995239477
+tallettaa	varastaa	1.330194319
+hankkia	tuoda markkinoille	0.963244372
+vähentää	olla	1.032591079
+tuoda markkinoille	kerjätä	0.885108325
+kerjätä	omistaa	0.920784235
+säilyttää	varastaa	1.386237083
+tuhlata	myydä	1.176160561
+maksaa	varata	1.015445647
+riskeerata	myydä	1.206693656
+omistaa	laskuttaa	0.878923351
+tallettaa	vastaanottaa	1.247065015
+uhkapelata	korvata	1.010417172
+tallentaa	saada	1.15993408
+tuhlata	tallettaa	1.164497553
+lyödä vetoa	tuoda markkinoille	1.102393611
+vaihtaa	tallettaa	1.150244894
+hankkia	omistaa	0.830251066
+tienata	tuoda markkinoille	1.150763278
+vastaanottaa	riskeerata	1.164943695
+antaa	kuluttaa rahaa	0.879527503
+säästää	korvata	0.875422063
+laskuttaa	kuluttaa rahaa	0.922909426
+lainata	omistaa	0.80073903
+lyödä vetoa	tallettaa	1.302996756
+tallentaa	varata	0.852442235
+olla	ostaa	1.202732641
+kerjätä	vähentää	1.040466648
+riskeerata	tuottaa	1.096240998
+varastaa	korvata	1.000169316
+tinkiä	saada	1.053151966
+varastaa	heittää hukkaan	0.837909137
+riskeerata	toimittaa	1.257580307
+tuoda markkinoille	toimittaa	0.763178849
+kerjätä	vaihtaa	0.838178092
+säilyttää	laskuttaa	1.151228391
+tallentaa	vastaanottaa	1.168578194
+tallettaa	tallentaa	0.176005555
+korvata	tienata	0.935202022
+antaa	kerätä	0.756966099
+maksaa	riskeerata	1.030893692
+lyödä vetoa	tuhlata	0.661388561
+vastaanottaa	maksaa	1.15259908
+säilyttää	tuottaa	1.21854578
+vastaanottaa	ostaa	1.074383881
+kuluttaa rahaa	toimittaa	0.921537101
+vastaanottaa	toimittaa	0.801862561
+hankkia	kerätä	0.880343344
+vähentää	tallettaa	1.208593618
+vastaanottaa	lainata	0.747495385
+varastaa	kerjätä	1.010008291
+lainata	tuoda markkinoille	0.82285113
+ostaa	antaa	1.124178253
+tienata	kuluttaa rahaa	1.044507282
+tallettaa	palkita	1.00660845
+antaa	vakuuttaa	0.982185278
+lyödä vetoa	vakuuttaa	1.19531631
+säästää	tuhlata	1.08433061
+saada	varata	0.89187742
+tuoda markkinoille	tallentaa	0.972994786
+tallettaa	kerjätä	1.066461455
+lyödä vetoa	kerätä	1.074265569
+säilyttää	myydä	0.939519587
+antaa	toimittaa	0.753598944
+laskuttaa	säästää	0.995634035
+varata	tuoda markkinoille	1.07306391
+vakuuttaa	varata	0.785129721
+laskuttaa	ostaa	0.975862157
+tinkiä	myydä	0.904807369
+riskeerata	säästää	1.348932915
+maksaa	tuoda markkinoille	0.937076222
+lainata	riskeerata	1.041096207
+toimittaa	vähentää	1.099335037
+korvata	ostaa	1.143720973
+omistaa	säilyttää	0.752694555
+vähentää	omistaa	1.254147439
+tuottaa	uhkapelata	1.203508018
+ansaita	vastaanottaa	1.057651893
+toimittaa	uhkapelata	1.118356254
+korvata	olla	0.988194503
+lainata	tallettaa	0.928715384
+saada	tuottaa	1.01337616
+vastaanottaa	vaihtaa	1.057603497
+olla	lainata	0.834596603
+ostaa	tallentaa	0.797810426
+kuluttaa rahaa	vähentää	0.841274198
+vastaanottaa	lyödä vetoa	1.046445876
+säästää	ostaa	0.785754109
+kerjätä	lainata	0.848979067
+kerätä	tallettaa	0.643290082
+kerätä	myydä	0.759612014
+palkita	varata	1.145626573
+korvata	riskeerata	0.92013154
+vähentää	tinkiä	1.43626446
+säästää	lainata	0.908233069
+kuluttaa rahaa	säilyttää	1.074154393
+heittää hukkaan	saada	0.96294018
+tienata	vastaanottaa	0.987406724
+antaa	palkita	0.882376164
+vakuuttaa	myydä	0.975916051
+vakuuttaa	ostaa	1.103890321
+saada	antaa	0.827553967
+palkita	tuottaa	1.08090982
+palkita	omistaa	1.024908512
+kuluttaa rahaa	myydä	1.168156092
+tuoda markkinoille	tallettaa	0.93686591
+palkita	ostaa	0.962166206
+lainata	ostaa	0.872333533
+olla	saada	0.818960421
+korvata	ansaita	0.911547398
+varata	ostaa	1.051570309
+tuoda markkinoille	tuottaa	0.826125757
+lyödä vetoa	varata	1.266777325
+olla	tuhlata	1.250088306
+kerätä	säilyttää	0.778489846
+heittää hukkaan	tallettaa	1.172308826
+antaa	lainata	0.958838243
+vähentää	säilyttää	1.278420145
+vaihtaa	kuluttaa rahaa	1.232978966
+vastaanottaa	varastaa	1.014940194
+lyödä vetoa	uhkapelata	0.157888014
+tuhlata	vastaanottaa	1.165790487
+kerätä	vähentää	1.234439408
+säästää	vaihtaa	1.134494703
+heittää hukkaan	omistaa	1.186121801
+säästää	lyödä vetoa	1.303573509
+säästää	varata	0.825459862
+hankkia	ostaa	0.452340956
+säilyttää	toimittaa	0.889268486
+tinkiä	laskuttaa	0.966919607
+vastaanottaa	tuoda markkinoille	0.876831299
+heittää hukkaan	riskeerata	0.643894902
+hankkia	toimittaa	0.822863185
+ansaita	kerjätä	0.865626824
+heittää hukkaan	maksaa	0.831730276
+lainata	tallentaa	1.040571452
+riskeerata	tallentaa	1.365694996
+antaa	tienata	0.955091786
+tallettaa	toimittaa	0.956561589
+varata	hankkia	1.133442172
+tienata	lainata	0.872370597
+kerätä	säästää	0.634641564
+kerätä	tinkiä	0.637390602
+kerjätä	olla	0.824785704
+tuhlata	kerjätä	1.021666622
+vähentää	vastaanottaa	1.10472597
+ansaita	ostaa	0.900692529
+laskuttaa	maksaa	0.907026133
+uhkapelata	palkita	1.104326087
+tallettaa	kuluttaa rahaa	0.975898881
+saada	ansaita	0.898604476
+kerjätä	laskuttaa	1.065261387
+kerätä	uhkapelata	1.066514239
+hankkia	antaa	0.995932986
+maksaa	tienata	0.897247426
+myydä	tuottaa	0.902723534
+toimittaa	tienata	1.318047028
+uhkapelata	antaa	0.954997904
+vastaanottaa	säilyttää	1.306283699
+vastaanottaa	palkita	1.040969775
+palkita	säilyttää	0.952309421
+myydä	laskuttaa	0.978652079
+tinkiä	kuluttaa rahaa	1.027325068
+lyödä vetoa	lainata	0.886666727
+korvata	tuhlata	0.931462093
+ansaita	varastaa	1.194594722
+tienata	hankkia	0.861962421
+omistaa	ansaita	0.703538363
+heittää hukkaan	korvata	0.90991262
+kerjätä	tinkiä	0.817067327
+saada	korvata	0.925110049
+säästää	omistaa	0.782877299
+säilyttää	uhkapelata	1.280405654
+antaa	varastaa	0.838821984
+palkita	korvata	0.821487649
+tallentaa	maksaa	1.035126141
+varastaa	tuottaa	1.090066363
+tuottaa	korvata	0.93248397
+ansaita	uhkapelata	1.172415992
+uhkapelata	riskeerata	0.362589231
+ansaita	tuhlata	1.09500114
+vastaanottaa	saada	0.619795503
+riskeerata	varastaa	0.96717322
+antaa	korvata	0.830195652
+myydä	antaa	0.690176179
+lainata	myydä	0.87003947
+saada	vakuuttaa	0.912271741
+lainata	ansaita	0.899490587
+olla	omistaa	0.857828991
+saada	tallettaa	1.143261546
+antaa	tuoda markkinoille	0.971305021
+varata	olla	0.888660646
+uhkapelata	myydä	1.148367705
+varata	korvata	1.026667455
+korvata	tuoda markkinoille	0.986522408
+vähentää	lyödä vetoa	1.007117652
+ansaita	vaihtaa	0.996380276
+lyödä vetoa	kuluttaa rahaa	0.730117907
+varata	heittää hukkaan	1.195793453
+vaihtaa	toimittaa	0.927294233
+tienata	tinkiä	0.748748984
+lainata	tuottaa	0.831252183
+palkita	kerjätä	0.927334663
+ostaa	varastaa	1.052837811
+tuhlata	hankkia	0.887152587
+tallentaa	laskuttaa	1.097877494
+maksaa	vähentää	0.998265768
+tuoda markkinoille	tuhlata	1.051840055
+vähentää	ansaita	1.157919209
+tuhlata	säilyttää	1.137224908
+kerätä	heittää hukkaan	0.966414606
+korvata	omistaa	1.256353476
+toimittaa	olla	0.969642921
+omistaa	ostaa	0.795038294
+varastaa	olla	1.106011443
+tuhlata	antaa	0.952477754

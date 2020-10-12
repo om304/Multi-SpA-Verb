@@ -1,0 +1,1082 @@
+Word1	Word2	Score
+sumentaa	tapahtua	0.667150518
+vaihdella	hämärtää	0.746927745
+monistaa	lopettaa	1.161715309
+vaihtaa	parantaa	1.013952043
+taivuttaa	moninkertaistua	1.009050411
+vilistä	vaihdella	1.177035153
+vaihdella	valua pois	0.92443947
+hämärtää	saada alkunsa	1.073128612
+hämärtää	olla	0.982401821
+valua pois	kuoriutua	1.207863816
+vilistä	laskea	1.089869268
+lykätä	palauttaa	1.085116567
+ruskettaa	elää	1.45355631
+suurentaa	levitä	1.048691476
+kasvaa	suurentaa	0.776654841
+puhjeta	vaihdella	1.067789297
+palauttaa	olla	1.196930115
+vähentää	taivuttaa	1.03194645
+sumentaa	aloittaa	0.930967689
+lopettaa	olla	1.104822956
+nousta	olla	1.066713732
+lopettaa	suurentaa	1.186490614
+alentaa	hämärtää	0.890456464
+kasvattaa	lopettaa	1.166979568
+kasvaa	tupsahtaa	0.968190352
+virrata	palauttaa	1.120897583
+ruskettaa	vaihdella	0.601009371
+olla olemassa	levitä	0.843993315
+valua pois	suurentaa	0.892146488
+tapahtua	tulla	0.662930328
+lopettaa	vaihtaa	0.79742645
+saada alkunsa	salamoida	1.08332624
+lykätä	jakaantua	0.955500541
+salamoida	nousta	1.026351599
+tulla	elää	0.586434589
+tupsahtaa	saada alkunsa	0.776742861
+vilistä	salamoida	1.020524501
+lykätä	kasvattaa	1.145731558
+vaihtaa	muuttaa	0.623546558
+levitä	olla peräisin	0.68389186
+tummua	madaltaa	0.841272651
+muuttaa	virrata	1.108603868
+olla lukuisampi	madaltaa	1.068580048
+sulaa	salamoida	1.118772365
+kuoriutua	vähentää	1.077096046
+vilistä	pienentyä	1.251931782
+lykätä	elää	1.04569977
+jakaantua	parantaa	0.873948764
+jakaantua	levitä	0.736769372
+kasvattaa	tapahtua	0.946507832
+saada alkunsa	virrata	1.116746615
+taipua	moninkertaistua	1.083515279
+kasvattaa	tupsahtaa	0.963126845
+vaihdella	lisääntyä	1.062280772
+puhjeta	pienentyä	1.250622817
+lisääntyä	suurentaa	0.914777993
+lopettaa	sumentaa	0.796544846
+olla olemassa	taittaa	1.163277164
+parantaa	tupsahtaa	1.31264481
+taipua	olla olemassa	1.183266932
+valkaista	taivuttaa	0.953935981
+levitä	alentaa	1.029654353
+levitä	taipua	1.24029464
+vähentää	tulla	1.053020086
+tupsahtaa	nousta	0.902043104
+valua pois	sumentaa	1.042551512
+jakaantua	taittaa	0.933489952
+pienentyä	suurentaa	1.028750337
+valkaista	sumentaa	0.961899441
+puhjeta	monistaa	0.84106285
+olla peräisin	kasvattaa	0.966809823
+sulaa	kasvattaa	1.066935032
+monistaa	saada alkunsa	0.81877424
+ruskettaa	vilistä	1.265627603
+palauttaa	tapahtua	0.904371087
+madaltaa	tulla	0.970949038
+tupsahtaa	salamoida	1.162764888
+olla olemassa	lisääntyä	0.76751915
+laskea	aloittaa	1.046482866
+vilistä	vähentää	1.192550535
+palauttaa	vaihdella	0.849539664
+vilistä	puhjeta	1.036829544
+tapahtua	taipua	0.99329593
+saada alkunsa	kasvattaa	0.97310619
+ruskettaa	aloittaa	1.111475636
+kasvattaa	pienentyä	0.982850153
+taittaa	alentaa	1.104718691
+tulla	ruskettaa	1.141361781
+elää	monistaa	0.817228873
+salamoida	pienentyä	0.994155342
+olla lukuisampi	vaihtaa	0.930422286
+vilistä	suurentaa	0.967884162
+salamoida	muuttaa	1.086411807
+päivittää	tapahtua	0.810612958
+elää	olla olemassa	0.192383544
+jakaantua	aloittaa	0.736680768
+sulaa	parantaa	0.850284524
+hämärtää	palauttaa	0.890751387
+vaihtaa	vaihdella	0.41149498
+vähentää	lykätä	0.835501365
+valua pois	olla peräisin	1.138494573
+olla olemassa	aloittaa	0.619988941
+valua pois	saada alkunsa	1.271725
+kasvaa	pienentyä	1.169060375
+saada alkunsa	lykätä	0.951204745
+olla	valua pois	1.141898366
+lykätä	olla peräisin	1.078574944
+tulla	tupsahtaa	0.781192094
+ruskettaa	taivuttaa	0.928175959
+nousta	kasvaa	0.885361916
+virrata	vilistä	0.686849294
+päivittää	alentaa	0.973040299
+vaihtaa	suurentaa	0.927940684
+lykätä	aloittaa	0.902988932
+olla lukuisampi	sulaa	1.066116048
+tupsahtaa	taivuttaa	1.009081402
+olla lukuisampi	aloittaa	0.671963876
+tupsahtaa	vähentää	1.093600347
+lopettaa	alentaa	0.807996349
+salamoida	tapahtua	1.014259221
+vaihtaa	levitä	0.854145632
+vähentää	kasvattaa	1.106493111
+virrata	taittaa	1.144592849
+olla lukuisampi	hämärtää	0.962897873
+lykätä	parantaa	1.32903291
+vilistä	sumentaa	1.111710276
+laskea	tummua	0.866364497
+salamoida	olla lukuisampi	1.000417442
+monistaa	parantaa	0.841878732
+levitä	palauttaa	1.109848825
+alentaa	madaltaa	0.16498196
+tulla	olla	0.515475329
+lykätä	taittaa	0.993227493
+monistaa	valkaista	1.204402408
+virrata	lopettaa	1.28384321
+vähentää	moninkertaistua	1.05513829
+sulaa	tulla	1.035743334
+tapahtua	parantaa	0.994564032
+päivittää	vähentää	0.928465733
+vähentää	parantaa	0.938390311
+taittaa	kasvattaa	0.847503736
+moninkertaistua	päivittää	0.950681673
+päivittää	levitä	0.919020929
+muuttaa	vähentää	0.821139518
+nousta	moninkertaistua	1.012453854
+taittaa	puhjeta	1.232196717
+vilistä	taivuttaa	1.172610484
+sulaa	vilistä	0.888405607
+madaltaa	tupsahtaa	1.211460484
+madaltaa	levitä	0.92593141
+salamoida	taittaa	1.265913983
+alentaa	vähentää	0.421627071
+lisääntyä	muuttaa	0.987124746
+päivittää	vaihdella	0.860695533
+kasvaa	sumentaa	1.139901476
+vilistä	aloittaa	1.065580055
+lykätä	päivittää	0.594635188
+madaltaa	olla	1.147556597
+puhjeta	taipua	1.264054997
+hämärtää	pienentyä	0.798841719
+päivittää	tupsahtaa	1.126563386
+hämärtää	muuttaa	0.858305758
+elää	kasvaa	0.933125091
+lopettaa	sulaa	1.140135081
+taivuttaa	muuttaa	0.992992581
+lykätä	suurentaa	1.203053186
+nousta	vilistä	1.197972946
+taipua	lopettaa	1.115955006
+saada alkunsa	parantaa	1.27731033
+lisääntyä	tulla	0.738594611
+elää	olla lukuisampi	0.706213479
+madaltaa	monistaa	1.131321523
+muuttaa	kasvattaa	1.006620289
+kasvaa	madaltaa	1.080847352
+saada alkunsa	taivuttaa	1.207058373
+parantaa	taittaa	1.053418399
+lisääntyä	tapahtua	0.779129371
+tupsahtaa	tummua	1.114473145
+valkaista	hämärtää	0.85823984
+lykätä	kuoriutua	0.974842062
+monistaa	kasvattaa	0.534527156
+monistaa	salamoida	1.05180145
+alentaa	jakaantua	1.194152996
+kasvaa	sulaa	1.150859828
+vilistä	olla lukuisampi	0.742172184
+taivuttaa	tapahtua	0.96228338
+taivuttaa	sumentaa	0.820974969
+jakaantua	hämärtää	0.990499819
+parantaa	lopettaa	1.141331711
+valkaista	taipua	1.070390391
+taipua	jakaantua	1.04174204
+valua pois	levitä	0.874916165
+vähentää	olla peräisin	1.28472216
+päivittää	vilistä	1.33973447
+virrata	taipua	1.120941144
+valua pois	vähentää	0.772919657
+virrata	olla lukuisampi	0.88102797
+pienentyä	jakaantua	1.17838158
+kuoriutua	monistaa	0.806284117
+vilistä	lisääntyä	0.785603639
+palauttaa	muuttaa	0.922213284
+aloittaa	alentaa	1.214695758
+olla	olla olemassa	0.172123376
+hämärtää	päivittää	0.868920506
+vähentää	ruskettaa	0.972434351
+taipua	olla lukuisampi	1.054647605
+valkaista	suurentaa	1.262803814
+vähentää	taittaa	1.08807814
+kasvaa	tapahtua	1.068243733
+taittaa	olla peräisin	1.18628914
+tummua	olla	1.227876486
+olla	salamoida	1.347383006
+valua pois	sulaa	0.324237426
+laskea	sulaa	0.669539389
+nousta	monistaa	0.774821486
+valkaista	puhjeta	1.30548947
+pienentyä	virrata	0.979606089
+virrata	valkaista	1.205707541
+puhjeta	tulla	0.912834591
+vilistä	lykätä	1.261160777
+tupsahtaa	pienentyä	1.264228322
+kuoriutua	olla peräisin	0.729683664
+olla	virrata	1.079046763
+elää	valua pois	1.125436257
+lisääntyä	virrata	1.003158022
+sumentaa	tummua	0.701717985
+tulla	monistaa	0.84288438
+ruskettaa	kuoriutua	1.304460054
+kuoriutua	aloittaa	0.652500634
+olla olemassa	sumentaa	0.886328311
+lisääntyä	olla	0.752468286
+ruskettaa	alentaa	1.003528932
+saada alkunsa	suurentaa	1.169497796
+monistaa	olla	0.864238352
+elää	hämärtää	1.025333564
+vilistä	palauttaa	1.184716216
+ruskettaa	laskea	0.98199209
+nousta	kasvattaa	0.845681416
+vaihdella	nousta	0.906070889
+taittaa	taivuttaa	0.216177037
+kasvaa	salamoida	1.101009643
+valkaista	lykätä	1.014690629
+moninkertaistua	olla lukuisampi	0.255282052
+valkaista	tulla	0.910167929
+nousta	muuttaa	0.976057553
+taipua	pienentyä	0.862817346
+sulaa	levitä	1.047555177
+monistaa	levitä	0.640483777
+vaihtaa	sumentaa	0.807189099
+muuttaa	tapahtua	1.070851197
+tulla	tummua	1.064286015
+laskea	jakaantua	0.997342684
+vaihdella	olla	1.13051109
+virrata	moninkertaistua	0.936472819
+olla olemassa	sulaa	1.192148474
+olla lukuisampi	saada alkunsa	0.682262824
+kasvattaa	olla	0.848471561
+valua pois	virrata	0.481636123
+alentaa	olla peräisin	1.312838183
+taittaa	hämärtää	0.854033102
+taivuttaa	vaihtaa	1.025174653
+taivuttaa	monistaa	0.934804724
+muuttaa	parantaa	1.014266911
+vaihtaa	hämärtää	0.750055666
+ruskettaa	levitä	1.21376725
+levitä	parantaa	0.913405647
+vaihdella	jakaantua	1.013779673
+olla peräisin	ruskettaa	1.463295435
+vilistä	kuoriutua	0.864577845
+taivuttaa	suurentaa	1.025432081
+salamoida	valua pois	1.17609352
+aloittaa	salamoida	1.206656052
+elää	madaltaa	1.192760023
+päivittää	olla peräisin	1.096041755
+vähentää	lisääntyä	1.036003351
+olla lukuisampi	lisääntyä	0.352748188
+monistaa	suurentaa	0.750332665
+monistaa	sumentaa	1.08007386
+levitä	sumentaa	0.944826508
+puhjeta	muuttaa	0.972156851
+jakaantua	saada alkunsa	0.746196129
+parantaa	lisääntyä	1.023332496
+tummua	jakaantua	1.021581203
+olla peräisin	palauttaa	1.362001967
+moninkertaistua	parantaa	0.907541078
+hämärtää	suurentaa	1.195324349
+monistaa	taittaa	0.881612337
+taivuttaa	salamoida	1.222709688
+saada alkunsa	pienentyä	1.300404167
+suurentaa	virrata	0.902093096
+tapahtua	moninkertaistua	0.831060343
+aloittaa	madaltaa	1.193824844
+taittaa	valkaista	1.145261492
+olla lukuisampi	kasvaa	0.479710355
+taittaa	sumentaa	0.835298606
+aloittaa	elää	0.619651401
+valkaista	aloittaa	1.117826655
+vaihtaa	tummua	0.697178381
+kuoriutua	kasvattaa	1.062361415
+lisääntyä	lopettaa	1.039370746
+pienentyä	vaihdella	0.736514456
+sulaa	hämärtää	0.878548722
+suurentaa	sulaa	0.956833437
+laskea	lopettaa	0.855169137
+monistaa	päivittää	0.985252904
+kuoriutua	jakaantua	0.741016917
+olla peräisin	jakaantua	0.746080763
+kasvattaa	olla olemassa	0.879197651
+aloittaa	vaihdella	1.092066098
+tupsahtaa	olla	0.895980531
+alentaa	olla	1.141311126
+tupsahtaa	taittaa	0.976597711
+valkaista	laskea	0.899990272
+alentaa	valkaista	0.959521805
+vähentää	lopettaa	0.871014872
+valua pois	olla olemassa	1.14095516
+olla peräisin	parantaa	1.267941905
+vaihdella	saada alkunsa	1.158455695
+suurentaa	madaltaa	1.195056195
+olla olemassa	suurentaa	1.331943051
+valua pois	puhjeta	1.217927599
+vaihtaa	lisääntyä	0.984887854
+kuoriutua	olla lukuisampi	0.677053726
+valkaista	vaihtaa	1.07412652
+palauttaa	sumentaa	0.94746622
+valkaista	lopettaa	1.14391714
+vähentää	vaihdella	0.812338017
+tummua	ruskettaa	0.409705915
+monistaa	tapahtua	0.896078986
+aloittaa	hämärtää	0.941774108
+palauttaa	vähentää	1.032747723
+kuoriutua	palauttaa	1.301529784
+vähentää	laskea	0.551057976
+puhjeta	salamoida	1.024294913
+päivittää	madaltaa	0.879816173
+nousta	madaltaa	1.045525249
+jakaantua	taivuttaa	0.953812587
+olla olemassa	madaltaa	1.200595508
+salamoida	madaltaa	1.125867678
+olla olemassa	moninkertaistua	0.82559097
+nousta	virrata	1.109882565
+saada alkunsa	sulaa	1.363337247
+tupsahtaa	monistaa	0.93257698
+lopettaa	madaltaa	0.816171767
+taipua	elää	1.218940361
+vilistä	olla peräisin	0.966611656
+aloittaa	parantaa	1.187835044
+laskea	lisääntyä	1.003750518
+saada alkunsa	tummua	1.263602135
+monistaa	alentaa	1.240942639
+taipua	saada alkunsa	1.232981171
+pienentyä	elää	1.344993211
+pienentyä	moninkertaistua	1.087254126
+levitä	vaihdella	1.083908589
+alentaa	moninkertaistua	1.153987063
+saada alkunsa	muuttaa	0.963711525
+sumentaa	nousta	1.012403521
+olla	kuoriutua	1.029171572
+laskea	elää	1.043327147
+ruskettaa	muuttaa	0.832113189
+jakaantua	madaltaa	1.15157392
+lisääntyä	elää	0.715761619
+lykätä	pienentyä	0.904987853
+tupsahtaa	elää	0.911221729
+sumentaa	olla lukuisampi	1.040257346
+kasvattaa	virrata	1.112698469
+vähentää	jakaantua	1.108278735
+moninkertaistua	lykätä	1.03812159
+pienentyä	olla peräisin	1.444367421
+valua pois	lisääntyä	1.161729328
+elää	vähentää	1.230990056
+puhjeta	sulaa	1.268719106
+muuttaa	monistaa	0.804933834
+moninkertaistua	tummua	1.122163083
+tupsahtaa	sulaa	0.927934512
+saada alkunsa	tapahtua	0.712430847
+vaihdella	suurentaa	0.91957186
+lisääntyä	monistaa	0.377349528
+puhjeta	saada alkunsa	0.642499808
+palauttaa	monistaa	1.08464143
+sulaa	jakaantua	1.168900595
+salamoida	olla peräisin	1.437814498
+päivittää	ruskettaa	0.764292786
+päivittää	valua pois	1.273286309
+vähentää	nousta	1.126780358
+muuttaa	taittaa	1.059282285
+levitä	tummua	1.092793771
+olla peräisin	lisääntyä	0.814690999
+levitä	pienentyä	1.117018746
+tapahtua	virrata	1.209688454
+levitä	elää	0.735602251
+virrata	vaihtaa	1.068336033
+tummua	nousta	0.953705362
+lopettaa	valua pois	1.119304947
+saada alkunsa	alentaa	1.250017205
+tapahtua	lykätä	0.849404224
+vaihtaa	tupsahtaa	1.004311378
+taipua	sulaa	1.03394628
+monistaa	vaihdella	0.954266978
+tummua	salamoida	1.110631466
+hämärtää	ruskettaa	0.800085587
+taittaa	vaihtaa	0.99200725
+muuttaa	levitä	0.75822326
+elää	muuttaa	1.075856926
+ruskettaa	parantaa	1.098186919
+olla lukuisampi	monistaa	0.322841564
+vaihdella	kasvaa	1.039066718
+kasvaa	kuoriutua	0.709007705
+jakaantua	valua pois	1.162290458
+puhjeta	lykätä	1.14983903
+elää	suurentaa	1.219252958
+sulaa	aloittaa	1.246672103
+tupsahtaa	lopettaa	0.907231634
+tulla	alentaa	0.986953566
+ruskettaa	sulaa	1.180625136
+valkaista	madaltaa	0.937243903
+hämärtää	tulla	0.842253697
+palauttaa	salamoida	0.916132182
+kuoriutua	sulaa	1.173341935
+lopettaa	salamoida	1.078027083
+taittaa	tapahtua	0.97680448
+puhjeta	levitä	0.777218785
+sumentaa	madaltaa	0.842726519
+hämärtää	tummua	0.513502546
+puhjeta	tapahtua	0.917903556
+salamoida	levitä	0.958945287
+taipua	salamoida	1.214480664
+salamoida	tulla	1.178413548
+päivittää	salamoida	1.320662763
+aloittaa	olla peräisin	0.876434047
+moninkertaistua	jakaantua	0.350074107
+nousta	kuoriutua	1.122926492
+pienentyä	parantaa	0.83441744
+tummua	vilistä	1.207234681
+laskea	olla lukuisampi	0.973080191
+sulaa	muuttaa	1.039320339
+levitä	kuoriutua	0.717341276
+sulaa	vaihtaa	1.114396182
+jakaantua	kasvattaa	0.713478754
+vaihdella	salamoida	1.075154684
+parantaa	nousta	1.151184411
+kasvaa	taittaa	1.092018243
+sulaa	taittaa	1.021704607
+kuoriutua	elää	0.8579416
+moninkertaistua	laskea	1.028754083
+valua pois	tummua	1.042390715
+puhjeta	kasvattaa	1.113910845
+madaltaa	sulaa	0.789487572
+sumentaa	tupsahtaa	0.94107086
+monistaa	lykätä	1.117440551
+moninkertaistua	kuoriutua	0.674002917
+vilistä	lopettaa	1.370604182
+suurentaa	taipua	0.954310852
+saada alkunsa	moninkertaistua	0.689079008
+ruskettaa	olla olemassa	1.432645915
+taivuttaa	levitä	1.208370485
+parantaa	olla olemassa	1.182899958
+lopettaa	lykätä	0.567467122
+olla lukuisampi	kasvattaa	0.643480975
+alentaa	taivuttaa	0.961930045
+sulaa	nousta	1.20614518
+tulla	muuttaa	0.960955411
+vähentää	madaltaa	0.479615947
+sumentaa	alentaa	0.884547495
+puhjeta	olla peräisin	0.870857777
+palauttaa	ruskettaa	0.883800118
+valua pois	monistaa	1.13029645
+tummua	monistaa	1.123013043
+olla	levitä	0.797756655
+elää	kasvattaa	0.800524832
+taipua	vähentää	1.027803047
+taittaa	päivittää	1.031117663
+levitä	lisääntyä	0.582688318
+laskea	virrata	0.806259146
+vilistä	vaihtaa	1.068272386
+olla	päivittää	0.962706329
+taittaa	palauttaa	0.863551874
+pienentyä	vähentää	0.406914979
+olla lukuisampi	päivittää	0.933768276
+olla	suurentaa	1.253891059
+virrata	päivittää	1.315109806
+tummua	parantaa	1.228834121
+tupsahtaa	virrata	0.984031296
+lykätä	olla	1.034890103
+lisääntyä	pienentyä	1.157278068
+vaihtaa	valua pois	1.000099302
+sumentaa	pienentyä	0.796467351
+vaihtaa	ruskettaa	0.727868661
+kasvaa	parantaa	0.990183819
+nousta	hämärtää	1.024520783
+olla peräisin	monistaa	0.81073159
+kuoriutua	madaltaa	1.15715497
+nousta	jakaantua	0.76555821
+madaltaa	moninkertaistua	1.070235121
+päivittää	vaihtaa	0.685545994
+sumentaa	saada alkunsa	1.10401067
+valkaista	vilistä	1.184768397
+vaihtaa	palauttaa	0.97938424
+sumentaa	lisääntyä	1.12525843
+tupsahtaa	puhjeta	0.79902045
+lisääntyä	kasvattaa	0.672588975
+moninkertaistua	hämärtää	0.945481456
+hämärtää	tapahtua	0.686677113
+olla peräisin	sulaa	1.15513073
+pienentyä	monistaa	1.078135984
+kasvattaa	valua pois	1.252070872
+kasvaa	vaihtaa	0.889789644
+olla olemassa	olla lukuisampi	0.79476675
+kuoriutua	vaihdella	1.161700023
+vaihtaa	lykätä	0.826192465
+palauttaa	tummua	0.846493913
+valua pois	vilistä	0.901278715
+madaltaa	taittaa	1.008975382
+taivuttaa	vaihdella	0.659278501
+vähentää	kasvaa	1.159643651
+lopettaa	tummua	0.975909543
+valua pois	madaltaa	0.900374437
+tummua	kasvaa	0.998763809
+virrata	ruskettaa	1.194234727
+hämärtää	salamoida	1.131341867
+vaihtaa	jakaantua	0.929956467
+elää	vaihtaa	1.145811891
+lykätä	virrata	1.160141528
+lopettaa	taittaa	1.126363268
+tulla	pienentyä	1.222009435
+vähentää	olla lukuisampi	1.031830887
+olla	pienentyä	1.351255124
+kuoriutua	hämärtää	1.18987041
+olla lukuisampi	pienentyä	1.132416715
+aloittaa	palauttaa	1.18610284
+olla olemassa	tulla	0.560035407
+sumentaa	puhjeta	1.234264377
+moninkertaistua	suurentaa	0.835642455
+monistaa	hämärtää	0.983130305
+lisääntyä	sulaa	1.187877878
+sumentaa	moninkertaistua	0.977424368
+palauttaa	lisääntyä	1.12413944
+tupsahtaa	tapahtua	0.800122949
+hämärtää	madaltaa	0.892328821
+olla olemassa	tapahtua	0.637978989
+alentaa	tummua	0.923023712
+suurentaa	ruskettaa	1.139748547
+olla	taittaa	1.135341788
+aloittaa	valua pois	1.184039177
+vaihtaa	aloittaa	0.927405491
+lisääntyä	madaltaa	1.092032577
+sumentaa	elää	0.878953879
+sulaa	sumentaa	0.982849062
+suurentaa	olla peräisin	1.18141689
+kasvattaa	salamoida	0.878796558
+päivittää	lisääntyä	0.996840091
+aloittaa	lopettaa	0.925951767
+lykätä	valua pois	1.136481483
+lykätä	laskea	0.856213089
+elää	puhjeta	0.881615737
+olla	sumentaa	0.852269949
+lopettaa	tapahtua	1.008463794
+tupsahtaa	muuttaa	1.107120048
+moninkertaistua	ruskettaa	1.079492162
+parantaa	kasvattaa	0.708087251
+saada alkunsa	aloittaa	0.344427774
+sumentaa	olla peräisin	0.980854469
+kasvaa	päivittää	0.983622133
+taittaa	aloittaa	1.119678087
+lopettaa	olla peräisin	1.180666983
+tulla	suurentaa	1.086810544
+valua pois	taipua	0.985386495
+tummua	lisääntyä	1.136637041
+palauttaa	saada alkunsa	1.277689441
+monistaa	olla olemassa	0.87657331
+levitä	tulla	0.810963305
+levitä	lopettaa	1.133099338
+alentaa	parantaa	1.043339256
+päivittää	laskea	0.970449064
+taipua	kuoriutua	1.341819359
+nousta	ruskettaa	0.918485473
+ruskettaa	monistaa	1.051655674
+pienentyä	alentaa	0.487739171
+parantaa	kuoriutua	1.351705105
+lykätä	alentaa	0.872088868
+päivittää	pienentyä	1.060947969
+palauttaa	laskea	0.930811186
+valkaista	palauttaa	1.231238265
+olla lukuisampi	levitä	0.589869609
+lopettaa	muuttaa	0.952434561
+olla	vaihtaa	1.114778371
+lopettaa	hämärtää	0.904281756
+lopettaa	pienentyä	0.957024201
+aloittaa	lisääntyä	0.669340402
+sumentaa	kuoriutua	1.148041615
+vaihtaa	saada alkunsa	1.03629821
+vaihdella	moninkertaistua	1.062116103
+vaihtaa	olla peräisin	1.060681995
+valkaista	valua pois	1.069560166
+saada alkunsa	tulla	0.754061995
+alentaa	elää	1.195191345
+kasvaa	palauttaa	1.060151103
+vilistä	taipua	1.189094398
+olla	olla peräisin	0.426655211
+taivuttaa	päivittää	1.097411287
+ruskettaa	kasvaa	0.96245209
+alentaa	laskea	0.354844508
+saada alkunsa	valkaista	1.303540371
+lisääntyä	taivuttaa	1.072034793
+alentaa	vaihdella	0.898200725
+kasvaa	olla olemassa	0.986215701
+aloittaa	olla	0.652721986
+alentaa	vaihtaa	0.800241088
+salamoida	olla olemassa	1.426997696
+moninkertaistua	levitä	0.608522312
+muuttaa	kasvaa	0.783337919
+vilistä	levitä	0.75259113
+kasvaa	jakaantua	0.566501256
+taipua	kasvaa	1.120116309
+salamoida	sumentaa	1.203514405
+alentaa	suurentaa	1.276359109
+suurentaa	jakaantua	0.96269603
+nousta	puhjeta	0.981818833
+taipua	madaltaa	0.976167782
+monistaa	moninkertaistua	0.279338234
+jakaantua	puhjeta	0.778151056
+moninkertaistua	vilistä	0.928336518
+moninkertaistua	tupsahtaa	0.875335179
+tulla	taivuttaa	0.970507361
+lopettaa	vaihdella	0.769728176
+kasvattaa	valkaista	1.205890501
+palauttaa	taipua	0.885475155
+alentaa	tupsahtaa	1.262300658
+tapahtua	elää	0.61898363
+tulla	moninkertaistua	0.842881635
+taivuttaa	palauttaa	0.83853796
+tulla	parantaa	1.100553547
+päivittää	nousta	0.956331247
+moninkertaistua	puhjeta	0.720868025
+alentaa	kuoriutua	1.16898899
+kasvaa	aloittaa	0.827009852
+virrata	elää	1.039628415
+tummua	kuoriutua	1.257578026
+levitä	nousta	1.081868769
+sulaa	tapahtua	1.16116416
+olla olemassa	tupsahtaa	0.890137443
+vaihdella	elää	1.211603702
+suurentaa	muuttaa	1.025014721
+vilistä	kasvaa	0.87280135
+pienentyä	palauttaa	0.846414143
+kasvaa	hämärtää	1.043965479
+suurentaa	laskea	0.939785385
+tupsahtaa	vaihdella	1.051761759
+suurentaa	taittaa	1.082837783
+salamoida	suurentaa	1.068437049
+kuoriutua	tulla	0.744579597
+kuoriutua	taivuttaa	1.312073607
+moninkertaistua	salamoida	0.968208087
+aloittaa	moninkertaistua	0.738582054
+taipua	tummua	0.966643307
+olla lukuisampi	muuttaa	0.886965556
+sumentaa	virrata	1.097852585
+laskea	vaihtaa	0.912439392
+tupsahtaa	suurentaa	1.080870513
+palauttaa	alentaa	0.910371685
+parantaa	taivuttaa	1.133497141
+lykätä	ruskettaa	0.770434276
+lykätä	taipua	0.955095145
+vaihtaa	vähentää	0.785655409
+elää	taivuttaa	1.25237254
+nousta	alentaa	1.013311591
+palauttaa	parantaa	1.093531765
+suurentaa	päivittää	1.263728738
+tupsahtaa	levitä	0.812220945
+laskea	vaihdella	0.834646175
+taipua	alentaa	1.02956349
+virrata	puhjeta	1.039329592
+kasvattaa	palauttaa	0.932049338
+jakaantua	muuttaa	0.874678651
+moninkertaistua	elää	0.780981346
+madaltaa	taivuttaa	0.923016083
+tummua	elää	1.233528211
+parantaa	valua pois	0.963969456
+ruskettaa	tapahtua	1.150953288
+nousta	lisääntyä	0.82590447
+kasvaa	olla peräisin	0.838861163
+olla peräisin	taipua	1.191954113
+elää	vilistä	0.898895459
+olla	taipua	1.151256471
+olla olemassa	laskea	1.038931921
+tapahtua	madaltaa	1.119096912
+kasvattaa	moninkertaistua	0.645839614
+kasvaa	lisääntyä	0.592378034
+lopettaa	tulla	0.966859058
+vilistä	olla	0.908968823
+kasvattaa	vilistä	0.878484281
+päivittää	sulaa	1.302969741
+taipua	taivuttaa	0.28891734
+laskea	olla	0.978910581
+jakaantua	sumentaa	1.058881357
+aloittaa	tupsahtaa	0.760914488
+tulla	lykätä	0.922990693
+lopettaa	puhjeta	1.037450636
+elää	valkaista	1.16367954
+monistaa	jakaantua	0.461030737
+laskea	pienentyä	0.657624571
+elää	olla	0.20982851
+tapahtua	jakaantua	0.853752887
+pienentyä	taittaa	0.95326878
+hämärtää	olla olemassa	1.018007253
+sumentaa	tulla	0.743644794
+olla	valkaista	1.073527462
+hämärtää	puhjeta	1.04692909
+vilistä	tapahtua	1.124557256
+pienentyä	muuttaa	0.753057745
+jakaantua	olla lukuisampi	0.300240753
+taittaa	nousta	0.885081277
+moninkertaistua	palauttaa	1.190190505
+aloittaa	pienentyä	1.319790008
+olla olemassa	lykätä	1.033012763
+vaihtaa	nousta	0.954812028
+tulla	kasvattaa	0.846094299
+olla	jakaantua	0.812035906
+valkaista	päivittää	0.992426961
+taittaa	olla lukuisampi	0.958436391
+nousta	palauttaa	0.937330884
+tapahtua	kuoriutua	0.997074192
+vilistä	monistaa	0.974694626
+lykätä	nousta	0.909079541
+vaihdella	sumentaa	0.826036583
+tupsahtaa	kuoriutua	0.732782921
+tapahtua	laskea	1.170479218
+parantaa	olla lukuisampi	0.893810477
+tapahtua	valua pois	1.178842127
+sulaa	vähentää	0.922632829
+muuttaa	alentaa	0.726007904
+tummua	taittaa	0.952664896
+madaltaa	puhjeta	1.123293972
+vilistä	tupsahtaa	0.900170488
+kuoriutua	olla olemassa	0.857078581
+lykätä	hämärtää	0.954274881
+parantaa	elää	1.091344757
+taipua	päivittää	1.068400763
+vaihdella	virrata	1.154755841
+tulla	virrata	1.11473169
+ruskettaa	kasvattaa	1.083270599
+tapahtua	aloittaa	0.671885777
+salamoida	valkaista	1.475070561
+elää	salamoida	1.32727202
+lykätä	tupsahtaa	0.844767601
+tummua	aloittaa	1.121276459
+tapahtua	pienentyä	1.162714812
+aloittaa	puhjeta	0.706499233
+laskea	muuttaa	0.780272796
+vaihdella	sulaa	0.916240725
+lykätä	vaihdella	0.757783167
+tummua	valkaista	0.862501598
+vaihdella	olla peräisin	1.211745171
+moninkertaistua	valkaista	1.225657645
+valkaista	muuttaa	1.063230098
+laskea	taittaa	0.977086406
+sumentaa	laskea	0.873634236
+valkaista	pienentyä	1.060763759
+vilistä	madaltaa	1.130051678
+vilistä	alentaa	1.230251453
+tulla	palauttaa	0.998893104
+vilistä	muuttaa	0.974664657
+madaltaa	saada alkunsa	1.199825838
+tupsahtaa	taipua	1.073043907
+laskea	olla peräisin	1.097239696
+lykätä	madaltaa	0.810352248
+kasvaa	monistaa	0.421454375
+ruskettaa	tupsahtaa	1.156507302
+jakaantua	olla olemassa	0.832835824
+laskea	madaltaa	0.255182311
+päivittää	sumentaa	0.779616183
+laskea	valua pois	0.660970867
+pienentyä	tummua	0.825523774
+kuoriutua	puhjeta	0.5206663
+laskea	nousta	1.125661457
+muuttaa	olla peräisin	1.108510532
+nousta	olla olemassa	1.141051341
+päivittää	olla olemassa	1.006601474
+virrata	jakaantua	0.936630861
+päivittää	puhjeta	1.037776083
+taipua	kasvattaa	0.896731832
+lykätä	salamoida	1.08990602
+tapahtua	tummua	1.022487059
+suurentaa	vähentää	1.124661173
+alentaa	sulaa	0.7916453
+lisääntyä	alentaa	1.176572616
+vaihdella	tapahtua	0.995106972
+tummua	sulaa	1.036751909
+monistaa	taipua	0.980762875
+vähentää	valkaista	1.014214253
+nousta	suurentaa	0.973319288
+tummua	olla peräisin	1.359586546
+valua pois	tulla	1.07456505
+tummua	suurentaa	1.06013072
+lopettaa	olla lukuisampi	1.055782486
+virrata	monistaa	0.964525441
+kasvattaa	madaltaa	1.107920813
+suurentaa	palauttaa	1.029075088
+tulla	taittaa	0.976321786
+virrata	taivuttaa	1.120171902
+lisääntyä	moninkertaistua	0.316432469
+virrata	hämärtää	1.088716337
+lisääntyä	salamoida	0.978174476
+taittaa	lisääntyä	1.081522885
+valua pois	hämärtää	0.990543618
+olla olemassa	alentaa	1.149804418
+kasvattaa	alentaa	1.188098447
+olla	sulaa	1.204566443
+suurentaa	olla lukuisampi	0.833463846
+valua pois	alentaa	0.905390084
+puhjeta	vähentää	1.061662235
+vähentää	hämärtää	0.754675566
+taittaa	kuoriutua	1.30645565
+tupsahtaa	olla lukuisampi	0.733854914
+puhjeta	ruskettaa	1.244504106
+puhjeta	suurentaa	1.296911629
+aloittaa	tulla	0.736599017
+aloittaa	taivuttaa	1.111406609
+levitä	saada alkunsa	0.816863602
+kasvattaa	levitä	0.868857332
+moninkertaistua	lopettaa	1.042048389
+vilistä	parantaa	1.01437731
+valkaista	olla peräisin	1.025750263
+vilistä	saada alkunsa	0.9564286
+valkaista	nousta	1.323076959
+madaltaa	ruskettaa	0.93467867
+päivittää	muuttaa	0.658519465
+kasvaa	saada alkunsa	0.824710816
+puhjeta	alentaa	1.198890223
+lisääntyä	jakaantua	0.369568065
+vaihtaa	kuoriutua	1.055004115
+kasvaa	lopettaa	1.228244882
+tapahtua	valkaista	1.120744858
+valua pois	ruskettaa	1.185800673
+kasvaa	taivuttaa	1.115434348
+kasvattaa	suurentaa	0.909364135
+sumentaa	taipua	0.750476601
+olla olemassa	pienentyä	1.300535602
+kasvaa	laskea	1.030557248
+vaihtaa	monistaa	0.90085119
+muuttaa	kuoriutua	0.931869894
+palauttaa	elää	1.123337737
+parantaa	hämärtää	1.011411778
+tummua	vähentää	0.812063935
+laskea	kasvattaa	1.119072225
+levitä	aloittaa	0.86426616
+päivittää	kasvattaa	1.15544863
+moninkertaistua	valua pois	1.0361702
+muuttaa	sumentaa	0.902505528
+monistaa	vähentää	1.115894894
+vaihtaa	pienentyä	0.762453508
+elää	sulaa	1.181060569
+lykätä	taivuttaa	1.01072819
+elää	päivittää	1.00242771
+olla olemassa	valkaista	1.091269409
+moninkertaistua	vaihtaa	0.960191459
+aloittaa	suurentaa	1.068561326
+virrata	parantaa	0.934173374
+ruskettaa	valkaista	0.90526576
+valkaista	tupsahtaa	1.262237311
+salamoida	alentaa	1.083316647
+kasvattaa	sumentaa	1.068853039
+puhjeta	olla	1.229994692
+kuoriutua	saada alkunsa	0.70713305
+salamoida	vaihtaa	1.06826145
+sulaa	palauttaa	0.9936503
+kasvaa	valkaista	1.2410717
+vähentää	aloittaa	1.230134501
+kuoriutua	pienentyä	1.399499538
+virrata	salamoida	0.951766151
+vähentää	virrata	0.981177378
+salamoida	laskea	1.127198232
+taittaa	vaihdella	0.585232995
+ruskettaa	sumentaa	0.914376984
+salamoida	kuoriutua	1.277615679
+tulla	vaihdella	1.058910414
+tummua	puhjeta	1.106624786
+nousta	taipua	0.987679304
+tapahtua	olla lukuisampi	0.813421486
+muuttaa	madaltaa	0.705407808
+olla lukuisampi	vaihdella	1.004392194
+tupsahtaa	hämärtää	0.861884996
+olla lukuisampi	valua pois	1.050497845
+taivuttaa	kasvattaa	0.915649277
+tulla	vaihtaa	0.987580847
+olla peräisin	hämärtää	1.064503409
+nousta	saada alkunsa	1.017980391
+puhjeta	vaihtaa	1.033579735
+valkaista	levitä	1.182752952
+kasvaa	moninkertaistua	0.481399564
+aloittaa	monistaa	0.734586977
+taittaa	saada alkunsa	1.204440555
+lopettaa	kuoriutua	1.004225857
+hämärtää	lisääntyä	1.047255132
+olla olemassa	vaihdella	1.235403024
+taipua	hämärtää	0.858658307
+puhjeta	laskea	1.126268658
+virrata	olla peräisin	1.095857751
+jakaantua	vilistä	0.910607363
+tapahtua	alentaa	1.171826118
+madaltaa	palauttaa	0.932311547
+lykätä	olla lukuisampi	0.958034435
+kuoriutua	päivittää	1.078090142
+madaltaa	vaihtaa	0.731138092
+jakaantua	tulla	0.755505809
+olla olemassa	muuttaa	1.110872326
+vilistä	hämärtää	1.116761747
+muuttaa	lykätä	1.020025945
+kasvaa	kasvattaa	0.64240611
+valua pois	taittaa	1.070063317
+kasvattaa	vaihtaa	1.026918371
+taivuttaa	olla olemassa	1.22983149
+tupsahtaa	lisääntyä	0.865847346
+nousta	lopettaa	0.916130602
+vaihdella	parantaa	0.970908073
+parantaa	madaltaa	0.980006455
+laskea	monistaa	1.026429557
+tapahtua	nousta	0.906549296
+tummua	muuttaa	0.832372323
+kasvaa	valua pois	1.19516831
+vähentää	levitä	1.074120886
+muuttaa	olla	1.123024165
+laskea	hämärtää	0.809871948
+nousta	pienentyä	1.151672898
+nousta	elää	1.068948714
+lopettaa	elää	1.154441462
+nousta	aloittaa	0.930336206
+moninkertaistua	olla peräisin	0.788466418
+kuoriutua	laskea	1.091562771
+tummua	taivuttaa	0.89797534
+palauttaa	päivittää	1.060402935
+elää	jakaantua	0.815290483
+valkaista	jakaantua	1.268076412
+aloittaa	muuttaa	0.926491834
+taipua	laskea	0.928527096
+moninkertaistua	olla	0.826454552
+kasvattaa	hämärtää	1.034762073
+olla lukuisampi	taivuttaa	0.953882717
+nousta	olla peräisin	1.1032767
+laskea	tulla	0.929146504
+lisääntyä	valkaista	1.282486993
+taipua	vaihtaa	1.07697544
+ruskettaa	salamoida	1.133747803
+laskea	taivuttaa	0.921287768
+virrata	aloittaa	1.117354942
+virrata	sulaa	0.579674058
+jakaantua	ruskettaa	1.061279882
+taivuttaa	puhjeta	1.221741316
+taipua	aloittaa	1.097000022
+tupsahtaa	valua pois	1.1113724
+tupsahtaa	laskea	1.031376154
+salamoida	vähentää	1.016790412
+taittaa	ruskettaa	0.976759806
+vähentää	tapahtua	1.107928289
+palauttaa	tupsahtaa	1.180857638
+saada alkunsa	olla	0.660092569
+kasvaa	levitä	0.600165509
+parantaa	salamoida	0.818983558
+olla olemassa	vilistä	0.913124835
+aloittaa	kasvattaa	1.01781888
+lopettaa	saada alkunsa	1.044706497
+alentaa	olla lukuisampi	1.122318419
+taittaa	elää	1.185964473
+parantaa	suurentaa	0.977504712
+vaihdella	taipua	0.637518133
+kasvattaa	tummua	0.989600999
+vaihdella	muuttaa	0.771095508
+valua pois	pienentyä	0.768463834
+olla peräisin	olla lukuisampi	0.746555889
+taivuttaa	nousta	0.936197711
+moninkertaistua	sulaa	1.080114865
+kasvaa	puhjeta	0.896692352
+levitä	laskea	0.975408981
+tupsahtaa	jakaantua	0.907889231
+olla peräisin	tulla	0.5948519
+muuttaa	valua pois	0.971523577
+valua pois	palauttaa	1.022290389
+jakaantua	salamoida	0.96414571
+parantaa	laskea	0.976313395
+olla lukuisampi	ruskettaa	1.100325642
+taivuttaa	olla	1.196326387
+taipua	tulla	1.030756628
+virrata	tummua	0.997607462
+puhjeta	parantaa	1.109785508
+vaihtaa	tapahtua	1.0720778
+pienentyä	madaltaa	0.502511497
+elää	olla peräisin	0.541949311
+madaltaa	vaihdella	0.793583358
+tummua	vaihdella	0.597258413
+saada alkunsa	laskea	1.112947616
+taittaa	moninkertaistua	1.011350377
+lykätä	tummua	0.88188655
+päivittää	saada alkunsa	0.944578209
+lopettaa	jakaantua	1.005105607
+levitä	hämärtää	1.001300101
+valkaista	sulaa	1.070155571
+virrata	madaltaa	1.037389173
+kasvaa	lykätä	1.131998755
+olla peräisin	madaltaa	1.219406682
+lykätä	levitä	1.158680499
+tapahtua	levitä	0.834547286
+päivittää	lopettaa	0.779650581
+lisääntyä	kuoriutua	0.523280521
+jakaantua	päivittää	0.950565915
+kuoriutua	suurentaa	1.157228164
+valkaista	parantaa	1.105523551
+päivittää	parantaa	1.077852373
+kasvaa	olla	0.902361685
+vilistä	taittaa	1.209045889
+valkaista	olla lukuisampi	1.155614525
+olla lukuisampi	palauttaa	1.054372564
+olla lukuisampi	olla	0.788720039
+tulla	vilistä	1.008419575
+tulla	nousta	0.876433978
+levitä	virrata	0.767943332
+tulla	kasvaa	0.815331801
+tapahtua	suurentaa	1.332921806
+taivuttaa	valua pois	0.987208421
+sulaa	pienentyä	0.912857285
+lopettaa	ruskettaa	1.042974988
+päivittää	aloittaa	0.850317827
+kasvaa	virrata	1.047529941
+päivittää	tulla	0.944214378
+tulla	olla lukuisampi	0.773631675
+hämärtää	taivuttaa	0.711519508
+virrata	kuoriutua	1.125338908
+olla olemassa	vähentää	1.183473626
+taivuttaa	lopettaa	1.095673698
+parantaa	sumentaa	1.149595715
+pienentyä	ruskettaa	0.878843075
+kuoriutua	valkaista	1.245580502
+saada alkunsa	lisääntyä	0.598382363
+olla olemassa	olla peräisin	0.44227603
+tupsahtaa	olla peräisin	0.827029033
+suurentaa	sumentaa	1.111855924
+ruskettaa	lisääntyä	1.092572344
+lisääntyä	taipua	1.198435441
+taivuttaa	sulaa	1.020169028
+puhjeta	olla lukuisampi	0.724744067
+olla peräisin	tapahtua	0.8566159
+olla olemassa	vaihtaa	1.146976535
+olla	ruskettaa	1.453557688
+olla olemassa	palauttaa	1.226534285
+olla	parantaa	1.110592904
+monistaa	sulaa	1.149721633
+olla olemassa	lopettaa	1.07161505
+pienentyä	taivuttaa	0.985780173
+vaihdella	kasvattaa	1.029315012
+lykätä	lisääntyä	0.887033068
+tummua	olla lukuisampi	1.045784152
+elää	saada alkunsa	0.664299653
+taipua	parantaa	1.001113269
+puhjeta	olla olemassa	1.003195851
+palauttaa	lopettaa	1.058112737
+jakaantua	palauttaa	1.124706412
+päivittää	tummua	0.908844397
+olla	tapahtua	0.65419386
+taipua	taittaa	0.271771042
+olla peräisin	taivuttaa	1.206719564
+alentaa	kasvaa	1.186128225
+moninkertaistua	muuttaa	0.783969512
+palauttaa	puhjeta	1.282827424
+taipua	muuttaa	1.057453158
+ruskettaa	taipua	0.996323737
+olla lukuisampi	nousta	0.803459434
+levitä	taittaa	1.278174865
+nousta	valua pois	1.247555789
+olla olemassa	virrata	1.104958366
+valkaista	vaihdella	0.854077479
+sumentaa	hämärtää	0.484199017
+virrata	alentaa	1.121280955
+olla	vähentää	1.232857246
+puhjeta	lisääntyä	0.693983434
+vähentää	sumentaa	0.796261795
+sumentaa	lykätä	0.91175836
+saada alkunsa	olla olemassa	0.686028658
+saada alkunsa	ruskettaa	1.234442091
+saada alkunsa	vähentää	1.131315507
+tummua	olla olemassa	1.245130831
+saada alkunsa	olla peräisin	0.559535857
+sulaa	lykätä	1.136217038

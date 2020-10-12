@@ -1,0 +1,2486 @@
+Word1	Word2	Score
+raapustaa	piirtää	0.498198929
+pyrkiä	toimia	0.727522213
+koristella	julkaista	1.146712392
+korjata	organisoida	1.107736622
+esiintyä jonakin	kylvää	1.083933742
+esittää	ommella	0.920561458
+kutoa	kouluttaa	0.959218068
+onnistua	säveltää	1.066855858
+työskennellä	ylentää	1.002373088
+opettaa	hoitaa	0.799589431
+printata	kilpailla	1.228773498
+harjoittaa	kiillottaa	1.209886604
+operoida	hakea	0.842546136
+saavuttaa	opettaa	0.873843861
+käyttää	leikkiä	1.126729089
+opettaa	luoda	0.905072878
+erottaa	toimia	0.781729428
+maalata	julkaista	0.896125472
+merkitä	yrittää	1.269955619
+tehdä	säveltää	1.017223217
+astuttaa	käsitellä	1.029121283
+esiintyä jonakin	tutkia	0.942380999
+edistää	tehdä työtä	0.771024948
+puurtaa	korjata	0.916968954
+korjata	onnistua	1.264016195
+hoitaa	rekrytoida	0.939221461
+kuvata	oppia	1.291264668
+kiillottaa	raapustaa	0.900905536
+koristella	merkitä	1.052825646
+pitää	merkitä	1.051289128
+soittaa	luoda	0.886116523
+jäädä eläkkeelle	merkitä	1.264479254
+lukea	hahmotella	0.932816373
+puurtaa	tutkia	0.744048414
+ommella	raapustaa	0.759243957
+räpätä	leikkiä	0.770458836
+hakea	värittää	1.24398978
+julkaista	pitää	0.892265409
+raapustaa	räpätä	1.067020217
+lukea	ylentää	0.886450073
+esittää	hahmotella	0.990490848
+kuvata	operoida	1.283294611
+kuvata	räpätä	0.840818487
+imitoida	opiskella	0.802146408
+laulaa	kehittää	1.053063073
+värittää	tehdä työtä	1.067004504
+soittaa	rekrytoida	0.922376327
+julkaista	menestyä	1.115080386
+jäädä eläkkeelle	piirtää	1.219004139
+kutoa	pitää paussi	1.027727819
+tehdä	työskennellä	0.419016748
+leikkiä	kouluttaa	1.01878213
+organisoida	värittää	1.064593943
+ilmoittautua	tehdä	0.964536249
+pyrkiä	rakentaa	1.152383147
+räpätä	arvostella	1.00027099
+hahmotella	koristella	0.941762612
+virkata	raapustaa	0.699936012
+soittaa	arvostella	0.991958433
+kutoa	hahmotella	1.145788685
+edistää	oppia	0.925272542
+kiillottaa	valmistua	1.015879901
+pyrkiä	ommella	1.06607818
+erottaa	säveltää	1.136994536
+maalata	erottaa	1.197564318
+koristella	soittaa	0.96899651
+lukea	tehdä työtä	0.816175438
+tutkia	leikkiä	0.93145991
+onnistua	kylvää	1.108441665
+luoda	korjata	0.913729159
+hakea	säveltää	1.210796399
+menestyä	opiskella	0.876617395
+säveltää	menestyä	1.125044726
+kehittää	printata	0.94052114
+loistaa	lukea	1.095448032
+tutkia	piirtää	1.192141793
+pitää	edistää	0.872626039
+käyttää	ohjata	1.191833291
+maalata	piirtää	0.342311934
+tutkia	maalata	1.122631895
+ohjata	koristella	1.232707587
+kouluttaa	loistaa	1.195860483
+koristella	edistää	1.297975718
+tehdä	tanssia	0.903858553
+erottaa	hakea	0.778636691
+kiillottaa	käyttää	0.993807629
+tanssia	värittää	0.789601402
+yrittää	saavuttaa	0.607833971
+piirtää	saavuttaa	1.350443018
+yrittää	printata	1.292893616
+tehdä	värittää	1.012596405
+luoda	loistaa	1.057989057
+ommella	leikkiä	1.120269361
+julkaista	virkata	1.131468572
+maalata	esiintyä jonakin	0.947267087
+kilpailla	voittaa	0.476197426
+kiillottaa	kehittää	1.177968829
+työskennellä	tanssia	0.891378012
+tutkia	kilpailla	0.855302615
+kilpailla	kouluttaa	0.980808236
+käyttää	ylentää	1.053009252
+kehittää	ohjata	0.68548771
+työskennellä	hakea	0.838965282
+rakentaa	opettaa	0.986808827
+pitää paussi	merkitä	1.075737633
+valmistua	harjoittaa	0.963396219
+räpätä	ilmoittautua	1.097077456
+astuttaa	kilpailla	1.121317497
+harjoittaa	säveltää	0.929402563
+tuottaa	puurtaa	0.702501502
+laulaa	valmistua	1.082162694
+pitää	ylentää	1.092287241
+työskennellä	toimia	0.692120235
+valmistua	korjata	1.138908734
+tehdä	lukea	0.991328149
+tuottaa	edistää	0.768218709
+esittää	kehittää	0.797021004
+tuottaa	julkaista	0.915708865
+raapustaa	organisoida	1.161698175
+valmistua	virkata	0.959550669
+organisoida	kutoa	1.03759131
+voittaa	maalata	1.287453469
+leikkiä	arvostella	0.975372269
+pitää paussi	piirtää	1.053062901
+astuttaa	pitää	0.912588292
+arvostella	yrittää	0.951680229
+edistää	tanssia	1.146053789
+kuvata	käsitellä	1.198551675
+oppia	esittää	1.049362683
+laulaa	kaunistaa	1.103748455
+toimia	kilpailla	0.782214963
+arvostella	säveltää	0.962127841
+edistää	säveltää	1.062899863
+esiintyä jonakin	jäädä eläkkeelle	1.0201307
+printata	kiillottaa	0.941406395
+rekrytoida	kuvata	1.239570665
+tehdä	tehdä työtä	0.249290078
+käsitellä	jäädä eläkkeelle	0.857985016
+leikkiä	käsitellä	1.033539437
+astuttaa	oppia	1.449409763
+astuttaa	erottaa	1.113082587
+operoida	valmistua	1.033651504
+onnistua	kaunistaa	1.094428007
+laulaa	harjoittaa	1.269240526
+onnistua	kutoa	1.083508559
+kouluttaa	laulaa	1.203546634
+esiintyä jonakin	menestyä	1.016655931
+pitää paussi	soittaa	0.950745114
+kehittää	räpätä	1.056304578
+leikkiä	onnistua	1.04912819
+työskennellä	maalata	1.100441706
+rakentaa	räpätä	1.232294833
+kuvata	opiskella	1.202918879
+rekrytoida	tehdä	0.934677812
+kuvata	pitää paussi	1.080338514
+imitoida	operoida	1.08387871
+rakentaa	luoda	0.757921331
+harjoittaa	jäädä eläkkeelle	1.053035679
+opiskella	harjoittaa	0.674123158
+esiintyä jonakin	printata	0.861959416
+tanssia	opettaa	1.146872865
+ommella	korjata	0.75780644
+ohjata	työskennellä	0.857512965
+käyttää	onnistua	1.059643956
+printata	kirjoittaa	0.852780156
+imitoida	kaunistaa	1.048222911
+raapustaa	rekrytoida	1.064677051
+kylvää	säveltää	1.092620311
+julkaista	opiskella	0.962841638
+värittää	säveltää	0.94402199
+hahmotella	arvostella	1.108410433
+edistää	kilpailla	0.734044423
+hakea	lukea	0.778083319
+soittaa	onnistua	1.050534071
+jäädä eläkkeelle	erottaa	0.83199632
+merkitä	kasvattaa	1.102122593
+printata	onnistua	1.259788248
+hakea	kiillottaa	1.009075961
+työskennellä	oppia	0.777381976
+rakentaa	kilpailla	1.103593514
+menestyä	operoida	0.844936369
+opettaa	tutkia	0.573825506
+harjoittaa	kuvata	1.303272909
+luoda	puurtaa	0.93476722
+saavuttaa	laatia	0.983444448
+ilmoittautua	edistää	0.897030565
+hahmotella	käyttää	1.292428201
+opettaa	kiillottaa	1.10072713
+lukea	tuottaa	0.978883752
+oppia	imitoida	0.969336816
+harjoittaa	menestyä	0.918922091
+räpätä	soittaa	0.85751666
+menestyä	laatia	1.028813369
+opettaa	korjata	1.156599918
+kilpailla	onnistua	0.468443003
+laatia	ilmoittautua	0.907104437
+menestyä	oppia	0.892636723
+korjata	ilmoittautua	1.274349377
+toimia	edistää	0.520183447
+rekrytoida	piirtää	1.12862073
+tehdä työtä	soittaa	0.974105609
+puurtaa	harjoittaa	0.728299084
+kiillottaa	hahmotella	1.00712707
+leikkiä	lukea	0.946847036
+opiskella	ilmoittautua	0.717296702
+luoda	esittää	1.057845871
+kaunistaa	pyrkiä	1.183074391
+kasvattaa	kaunistaa	1.153935194
+kilpailla	hahmotella	1.041639993
+pitää paussi	hakea	0.957191428
+hakea	kutoa	1.274917604
+puurtaa	merkitä	1.149279208
+hoitaa	organisoida	0.711702102
+maalata	kasvattaa	1.088522011
+toimia	piirtää	1.219587744
+rakentaa	pitää	0.977067905
+laatia	kehittää	0.830492343
+toimia	yrittää	0.748806809
+toimia	maalata	1.152164541
+rakentaa	yrittää	0.946469386
+laatia	pyrkiä	1.054783996
+rakentaa	maalata	0.947038818
+kaunistaa	yrittää	1.282560473
+printata	pitää paussi	0.919820481
+opiskella	hahmotella	1.035689181
+maalata	laulaa	0.894255062
+menestyä	tutkia	0.754215163
+leikkiä	säveltää	0.97448065
+opettaa	onnistua	0.902447144
+organisoida	laulaa	0.983698067
+tehdä	pitää paussi	0.955328367
+kaunistaa	astuttaa	1.103848234
+voittaa	ylentää	0.812635496
+onnistua	pitää paussi	0.894913732
+edistää	lukea	0.862288857
+kuvata	pitää	1.38336422
+pitää	menestyä	0.903571745
+koristella	valmistua	1.324497913
+voittaa	opettaa	0.941313709
+onnistua	erottaa	1.012415267
+kuvata	yrittää	1.380783134
+organisoida	erottaa	0.673134865
+kuvata	kirjoittaa	0.821276271
+pyrkiä	virkata	1.094582054
+säveltää	oppia	0.891318678
+kouluttaa	kehittää	0.727860174
+maalata	ilmoittautua	1.175816491
+operoida	pitää paussi	0.977612925
+tutkia	ilmoittautua	0.76365934
+tutkia	hoitaa	0.857730317
+menestyä	räpätä	1.198009815
+raapustaa	loistaa	1.181706781
+onnistua	pitää	0.856746656
+kouluttaa	käyttää	1.024031353
+esiintyä jonakin	pitää paussi	0.978660774
+voittaa	tanssia	1.069056466
+värittää	astuttaa	0.904816494
+lukea	printata	1.130827415
+esittää	opiskella	0.870433715
+yrittää	työskennellä	0.777289699
+korjata	käsitellä	1.197606573
+organisoida	tutkia	0.827867436
+räpätä	opiskella	1.203255012
+soittaa	kouluttaa	0.910676712
+tuottaa	oppia	0.955326848
+printata	laulaa	1.110517906
+hoitaa	edistää	0.776094782
+pitää	organisoida	1.005398739
+ylentää	luoda	0.91812141
+luoda	tutkia	0.969132819
+puurtaa	pyrkiä	0.886683987
+organisoida	käyttää	1.082567242
+kaunistaa	arvostella	0.880053634
+julkaista	lukea	0.950436411
+opettaa	maalata	1.032042963
+kiillottaa	virkata	0.853266978
+kirjoittaa	rekrytoida	1.04099413
+kouluttaa	kylvää	1.23470967
+julkaista	kehittää	0.900114136
+ommella	harjoittaa	0.992235132
+laulaa	tutkia	1.13718908
+loistaa	tanssia	0.837375063
+soittaa	kiillottaa	1.002810284
+arvostella	maalata	1.087375228
+astuttaa	kasvattaa	1.299281618
+organisoida	kaunistaa	1.111248114
+luoda	kylvää	0.927511674
+raapustaa	kouluttaa	1.158724859
+ilmoittautua	erottaa	0.812226778
+voittaa	edistää	0.895574631
+loistaa	rakentaa	1.060878726
+raapustaa	esiintyä jonakin	0.992270753
+leikkiä	puurtaa	1.112461473
+printata	harjoittaa	1.167390814
+puurtaa	ommella	0.914956537
+onnistua	hahmotella	1.186174276
+loistaa	ommella	0.983007115
+koristella	kylvää	1.101744805
+esittää	imitoida	0.413717249
+pitää	kylvää	0.983565761
+laatia	edistää	0.971052897
+pyrkiä	onnistua	0.626588544
+pitää	tehdä	1.01218916
+rekrytoida	onnistua	0.79990323
+pyrkiä	raapustaa	1.300754892
+räpätä	organisoida	1.061435441
+julkaista	kuvata	1.060958754
+kehittää	loistaa	1.075515394
+astuttaa	kylvää	0.870095047
+kasvattaa	säveltää	0.900779886
+luoda	jäädä eläkkeelle	0.890811577
+ilmoittautua	esiintyä jonakin	0.882344924
+korjata	printata	0.881059995
+organisoida	rekrytoida	0.861007306
+operoida	opettaa	1.02941535
+hahmotella	tuottaa	1.142756299
+käyttää	rakentaa	1.202612265
+kuvata	ylentää	1.19728487
+valmistua	oppia	0.866510189
+harjoittaa	imitoida	1.115811071
+kuvata	jäädä eläkkeelle	1.128882902
+leikkiä	harjoittaa	0.971959738
+toimia	imitoida	0.976010161
+oppia	ommella	1.092102058
+opiskella	työskennellä	0.677011295
+tuottaa	rekrytoida	0.912118919
+maalata	pitää	1.363281918
+voittaa	puurtaa	0.802601222
+hoitaa	ilmoittautua	0.808975404
+rakentaa	organisoida	0.805729009
+opiskella	voittaa	0.862166472
+kiillottaa	rekrytoida	1.10557652
+luoda	pitää paussi	0.9700448
+rekrytoida	opiskella	0.903188792
+onnistua	merkitä	1.12055612
+loistaa	koristella	0.949203227
+ilmoittautua	opettaa	0.816214844
+pitää paussi	kilpailla	0.88295332
+kutoa	loistaa	1.070136473
+pitää	pitää paussi	0.781882981
+edistää	esiintyä jonakin	1.014937844
+kylvää	toimia	1.064296172
+arvostella	tehdä	0.933562174
+jäädä eläkkeelle	kiillottaa	1.113052968
+tutkia	merkitä	0.951052645
+printata	virkata	0.864425537
+kiillottaa	räpätä	1.31388749
+käyttää	laatia	0.915966342
+räpätä	julkaista	1.015666221
+jäädä eläkkeelle	tutkia	0.971712563
+laatia	kouluttaa	0.75901002
+printata	operoida	1.020599313
+pyrkiä	leikkiä	1.230338658
+kasvattaa	pyrkiä	0.814572249
+leikkiä	kutoa	1.065077345
+merkitä	imitoida	0.868825298
+opiskella	maalata	1.065520357
+lukea	käyttää	1.134146188
+julkaista	operoida	1.096261971
+organisoida	piirtää	1.121904523
+voittaa	kasvattaa	0.873671181
+ommella	edistää	1.09707912
+käsitellä	virkata	0.998773124
+opettaa	käsitellä	0.85980901
+astuttaa	säveltää	1.298190208
+imitoida	kilpailla	0.950988326
+käyttää	ilmoittautua	1.032096349
+saavuttaa	tehdä työtä	0.734780078
+kiillottaa	käsitellä	0.896931642
+kaunistaa	esittää	1.021680025
+kiillottaa	säveltää	0.921279026
+opettaa	julkaista	0.963868418
+yrittää	onnistua	0.575422785
+loistaa	laatia	1.175227974
+tuottaa	pitää paussi	0.919479734
+kasvattaa	tehdä työtä	0.971934332
+hakea	ilmoittautua	0.693142979
+laatia	voittaa	1.034348657
+oppia	maalata	1.137711834
+piirtää	printata	0.725327432
+laatia	organisoida	1.128228872
+luoda	yrittää	0.970811476
+opiskella	ommella	0.952053855
+toimia	esiintyä jonakin	0.945901182
+arvostella	kouluttaa	0.978746295
+luoda	pitää	0.96724315
+lukea	piirtää	1.091252615
+pitää paussi	käyttää	1.036231541
+tutkia	lukea	0.519639663
+kouluttaa	yrittää	0.954799603
+toimia	ilmoittautua	0.785535889
+säveltää	tehdä työtä	0.967025725
+maalata	käyttää	1.152869226
+ommella	kutoa	0.175513695
+puurtaa	kutoa	1.073661537
+saavuttaa	korjata	1.251612203
+kuvata	kehittää	0.938929405
+räpätä	työskennellä	1.264443718
+oppia	merkitä	1.125454718
+opettaa	kilpailla	0.999525083
+räpätä	kaunistaa	1.077988666
+soittaa	leikkiä	0.922772499
+tehdä työtä	opiskella	0.703711957
+ylentää	kylvää	1.347009888
+tehdä työtä	rekrytoida	0.81880854
+maalata	puurtaa	1.194191665
+opettaa	ylentää	0.674801234
+printata	luoda	0.967165526
+kaunistaa	tuottaa	0.9451995
+rakentaa	edistää	1.004178763
+kaunistaa	raapustaa	0.926864213
+koristella	kilpailla	1.125078755
+erottaa	työskennellä	0.831594669
+luoda	voittaa	1.09501459
+rakentaa	rekrytoida	1.142859525
+rakentaa	puurtaa	0.94057233
+kuvata	saavuttaa	1.435713672
+rakentaa	kehittää	0.842860868
+piirtää	kylvää	0.895293649
+valmistua	loistaa	0.969682189
+pitää paussi	tutkia	1.028880076
+erottaa	arvostella	0.931523122
+rekrytoida	loistaa	1.214408124
+luoda	kilpailla	1.047343899
+ilmoittautua	kasvattaa	0.885856859
+merkitä	operoida	1.224477281
+tutkia	ommella	1.100842983
+opiskella	koristella	1.222013248
+kiillottaa	pyrkiä	0.915384865
+kouluttaa	imitoida	1.093482423
+esittää	hoitaa	0.87188292
+printata	tanssia	1.193072529
+valmistua	pitää	1.015505725
+laulaa	kasvattaa	0.99630658
+kehittää	lukea	0.756784131
+kylvää	printata	1.094698839
+pyrkiä	imitoida	1.131471458
+loistaa	arvostella	1.077474888
+astuttaa	menestyä	1.056277093
+ohjata	kasvattaa	0.904775948
+operoida	edistää	0.932083636
+ohjata	esittää	0.943415701
+yrittää	jäädä eläkkeelle	0.682593666
+kaunistaa	käsitellä	0.975981814
+kiillottaa	menestyä	0.947458625
+esiintyä jonakin	hoitaa	0.889036773
+maalata	pitää paussi	0.968322897
+oppia	erottaa	1.034105109
+kaunistaa	kylvää	1.060880122
+ilmoittautua	saavuttaa	0.617014802
+rekrytoida	oppia	0.841327935
+piirtää	korjata	1.253684765
+kouluttaa	operoida	0.976899758
+kehittää	voittaa	0.828000925
+printata	opiskella	0.995118149
+julkaista	ohjata	1.051483566
+operoida	ilmoittautua	1.004092898
+työskennellä	harjoittaa	0.674509832
+kehittää	puurtaa	0.905657196
+jäädä eläkkeelle	edistää	0.939588891
+tuottaa	kuvata	1.030353872
+jäädä eläkkeelle	käyttää	1.165265068
+hoitaa	loistaa	1.196108762
+käsitellä	kutoa	0.97577188
+kilpailla	arvostella	0.829518664
+käsitellä	soittaa	1.047482921
+soittaa	kutoa	0.91082439
+printata	toimia	1.172745125
+printata	esittää	0.859392799
+toimia	soittaa	1.165100602
+kouluttaa	rekrytoida	0.582296806
+kouluttaa	jäädä eläkkeelle	0.850857686
+voittaa	hakea	0.640254589
+harjoittaa	operoida	0.849122832
+arvostella	onnistua	0.83380099
+esittää	erottaa	1.043454855
+operoida	laulaa	1.125033642
+opettaa	tuottaa	0.835835743
+piirtää	menestyä	1.202788559
+leikkiä	ylentää	1.033555313
+pyrkiä	esittää	1.159861261
+räpätä	kirjoittaa	1.020654542
+puurtaa	astuttaa	1.312633422
+värittää	tutkia	1.236720985
+lukea	värittää	1.230932395
+puurtaa	hahmotella	1.103661783
+kasvattaa	toimia	0.974257323
+pyrkiä	saavuttaa	0.565704042
+harjoittaa	oppia	0.700363157
+imitoida	jäädä eläkkeelle	1.006433836
+rekrytoida	merkitä	1.166327189
+opiskella	tehdä	0.856281532
+operoida	korjata	0.962458188
+opettaa	pitää	0.79965191
+tuottaa	soittaa	0.900690014
+kylvää	rekrytoida	1.311787696
+työskennellä	tuottaa	0.776613293
+saavuttaa	erottaa	0.9965544
+ommella	hoitaa	1.071636922
+arvostella	kehittää	0.853191108
+hakea	leikkiä	1.260813456
+erottaa	käyttää	1.055263959
+kuvata	laatia	1.263310795
+esiintyä jonakin	astuttaa	1.135043128
+ohjata	operoida	0.981587721
+arvostella	kiillottaa	0.865306966
+valmistua	opiskella	0.852879914
+tehdä työtä	julkaista	1.014212268
+kouluttaa	tuottaa	0.957891738
+kiillottaa	puurtaa	1.103268683
+lukea	säveltää	0.873103948
+opettaa	esittää	0.915168014
+esiintyä jonakin	ohjata	0.988349804
+ohjata	lukea	0.714852281
+ylentää	edistää	0.817244288
+kylvää	yrittää	1.141263554
+ylentää	valmistua	0.760426596
+opettaa	oppia	0.491795084
+oppia	arvostella	0.961182955
+menestyä	valmistua	0.486850701
+valmistua	tutkia	0.688378772
+pitää paussi	edistää	1.064901478
+käsitellä	esiintyä jonakin	1.002915481
+lukea	opettaa	0.75754102
+operoida	tutkia	0.802885461
+käyttää	esiintyä jonakin	1.102883468
+työskennellä	saavuttaa	0.773642937
+värittää	menestyä	1.167699849
+saavuttaa	laulaa	1.274514495
+värittää	ylentää	1.07462772
+laatia	jäädä eläkkeelle	1.046426989
+loistaa	opettaa	1.288466955
+maalata	korjata	1.099887034
+virkata	voittaa	1.032887522
+printata	tehdä työtä	1.082125593
+printata	kouluttaa	0.959868762
+kilpailla	käsitellä	1.018523518
+astuttaa	kirjoittaa	1.080619413
+maalata	räpätä	1.000018131
+luoda	kiillottaa	0.919510713
+työskennellä	valmistua	0.847746502
+ommella	esiintyä jonakin	0.942694138
+raapustaa	merkitä	0.782428379
+kiillottaa	laatia	1.160565314
+käyttää	pitää	1.046502634
+hahmotella	virkata	0.994569892
+laatia	luoda	1.004691786
+virkata	soittaa	0.768774186
+kilpailla	oppia	0.834767212
+harjoittaa	käsitellä	0.990080409
+erottaa	ohjata	1.095113033
+menestyä	organisoida	0.720410879
+hahmotella	julkaista	1.078998353
+pitää	räpätä	1.040954475
+hakea	ommella	1.115890442
+kutoa	valmistua	0.987939256
+raapustaa	hakea	1.309777152
+tehdä työtä	erottaa	0.852357859
+kylvää	kilpailla	1.062563241
+ilmoittautua	arvostella	0.774171694
+erottaa	raapustaa	1.33697399
+värittää	voittaa	1.31008399
+lukea	pitää	0.910968845
+tanssia	hahmotella	0.886775245
+koristella	esiintyä jonakin	1.139705413
+luoda	räpätä	1.058646699
+printata	saavuttaa	1.306059303
+soittaa	jäädä eläkkeelle	0.905293043
+hakea	saavuttaa	0.761622594
+imitoida	värittää	1.001339148
+ommella	operoida	0.819308438
+kuvata	soittaa	0.797303936
+kylvää	lukea	1.189366516
+lukea	kirjoittaa	0.785779119
+edistää	loistaa	1.031841947
+kouluttaa	hahmotella	1.020971514
+ylentää	ommella	0.990183767
+rakentaa	hahmotella	0.962668184
+käsitellä	värittää	1.017917506
+erottaa	tutkia	0.835432213
+pitää	pyrkiä	0.732826756
+opettaa	esiintyä jonakin	0.985621654
+toimia	värittää	1.137695418
+toimia	operoida	0.779690464
+kutoa	harjoittaa	1.103556157
+piirtää	puurtaa	1.260271632
+laulaa	tehdä työtä	1.234274862
+opettaa	kouluttaa	0.451745983
+tanssia	julkaista	1.03378569
+rekrytoida	esittää	1.123437651
+ommella	astuttaa	1.118682921
+tuottaa	saavuttaa	0.909333798
+esiintyä jonakin	saavuttaa	1.089380173
+pitää	laulaa	1.078424329
+leikkiä	oppia	1.009535137
+luoda	piirtää	0.824501976
+erottaa	valmistua	0.990326368
+tutkia	kylvää	1.1829065
+yrittää	ommella	1.032499147
+kutoa	ohjata	0.929249688
+säveltää	puurtaa	1.180580127
+valmistua	kylvää	1.177230702
+kehittää	virkata	0.862813559
+kylvää	opiskella	1.394387139
+menestyä	edistää	0.707406869
+koristella	piirtää	0.75116795
+rakentaa	tuottaa	0.941850011
+jäädä eläkkeelle	virkata	0.860850963
+kirjoittaa	soittaa	0.869539822
+ohjata	opiskella	0.718816137
+maalata	kirjoittaa	0.72099114
+merkitä	ylentää	1.194726303
+soittaa	laatia	1.189516857
+pyrkiä	astuttaa	1.215434217
+puurtaa	ohjata	0.95280654
+säveltää	korjata	0.964480965
+hakea	puurtaa	0.809099758
+hakea	kehittää	1.007108252
+loistaa	tehdä työtä	0.963617981
+ylentää	tehdä työtä	0.982760015
+ohjata	organisoida	0.825159717
+esittää	työskennellä	1.196067906
+julkaista	printata	0.86506357
+toimia	tehdä työtä	0.745234704
+tuottaa	kylvää	1.082165926
+arvostella	opiskella	0.875424678
+opiskella	opettaa	0.404414095
+luoda	julkaista	1.191819954
+loistaa	kaunistaa	0.985070603
+tehdä	pyrkiä	0.785050315
+korjata	kuvata	1.065395732
+ohjata	ommella	0.995490702
+julkaista	erottaa	0.915568013
+voittaa	koristella	1.291683879
+saavuttaa	virkata	1.061778918
+hakea	loistaa	0.823707679
+saavuttaa	käyttää	1.165248344
+operoida	pitää	0.903246873
+tutkia	työskennellä	0.66342429
+hahmotella	laatia	0.98750057
+toimia	kutoa	1.077464706
+valmistua	piirtää	1.235738897
+ilmoittautua	rekrytoida	0.686304982
+merkitä	toimia	1.147011855
+hoitaa	voittaa	0.697619986
+merkitä	lukea	0.870269629
+hoitaa	kirjoittaa	1.050443871
+hakea	onnistua	0.723470227
+hakea	maalata	1.165745695
+käyttää	kaunistaa	0.93459849
+soittaa	säveltää	0.617129246
+ommella	käsitellä	0.984583031
+hakea	ohjata	1.130625169
+piirtää	pyrkiä	1.289626357
+jäädä eläkkeelle	operoida	0.954676615
+kehittää	rekrytoida	0.854754728
+opettaa	puurtaa	0.919715712
+hoitaa	piirtää	1.18416402
+hahmotella	leikkiä	1.01103936
+erottaa	printata	1.23718227
+korjata	värittää	1.006880214
+kehittää	käsitellä	1.058620251
+kilpailla	kaunistaa	1.116371501
+kouluttaa	ylentää	0.75775832
+edistää	opiskella	0.859334344
+esiintyä jonakin	laulaa	0.655766667
+esiintyä jonakin	harjoittaa	1.069655495
+värittää	hahmotella	0.872138832
+tehdä	kehittää	0.866574383
+kilpailla	pitää	0.958979278
+soittaa	hakea	1.167041054
+laulaa	ommella	1.059777214
+jäädä eläkkeelle	oppia	0.902153538
+imitoida	hoitaa	0.948769688
+ylentää	tanssia	1.225202057
+harjoittaa	kehittää	0.831177856
+piirtää	ommella	0.846850597
+imitoida	ohjata	0.949246495
+pitää paussi	korjata	1.160612157
+voittaa	piirtää	1.289460922
+ilmoittautua	kirjoittaa	1.037748719
+työskennellä	raapustaa	1.136960989
+hoitaa	pitää	0.863647598
+edistää	käsitellä	0.94826846
+säveltää	jäädä eläkkeelle	0.978619838
+säveltää	rekrytoida	1.011212755
+leikkiä	astuttaa	1.146027283
+kirjoittaa	toimia	1.194020116
+harjoittaa	yrittää	0.893148452
+kaunistaa	korjata	0.952894549
+käsitellä	kylvää	1.187464384
+värittää	valmistua	1.224863984
+laulaa	loistaa	1.168191263
+soittaa	pyrkiä	1.086273002
+kiillottaa	tuottaa	1.06092527
+tuottaa	käsitellä	0.752451905
+käsitellä	puurtaa	0.991916083
+lukea	toimia	0.934044368
+tehdä	yrittää	0.903556558
+hahmotella	opettaa	0.965398881
+operoida	kilpailla	0.928112329
+soittaa	saavuttaa	1.100207578
+laatia	tehdä työtä	0.956172876
+käsitellä	opiskella	0.906380921
+laulaa	merkitä	0.984477599
+raapustaa	opiskella	1.071770246
+tanssia	korjata	1.181646552
+toimia	opiskella	1.029301206
+luoda	kirjoittaa	0.863121109
+toimia	pitää paussi	0.704290406
+valmistua	kasvattaa	1.008888283
+erottaa	kaunistaa	1.018255142
+ilmoittautua	koristella	1.325901744
+julkaista	laatia	0.89836865
+säveltää	loistaa	1.229300629
+esiintyä jonakin	arvostella	0.946679305
+räpätä	edistää	1.176841528
+operoida	organisoida	0.864507317
+printata	arvostella	1.096606968
+menestyä	loistaa	0.854567104
+kehittää	imitoida	0.814726492
+raapustaa	korjata	1.044622891
+tuottaa	säveltää	0.951776851
+onnistua	oppia	0.783903804
+kehittää	kasvattaa	0.739714007
+käsitellä	tanssia	1.104755813
+piirtää	tuottaa	0.996127949
+ohjata	menestyä	1.036896875
+menestyä	voittaa	0.299371225
+pyrkiä	loistaa	1.015948107
+ohjata	soittaa	0.908929684
+loistaa	ilmoittautua	1.145067201
+menestyä	puurtaa	0.725948566
+maalata	luoda	0.819681466
+menestyä	ilmoittautua	0.696193028
+operoida	tanssia	0.920397858
+ohjata	kuvata	1.083764905
+korjata	pitää	1.15453967
+imitoida	kiillottaa	1.059437336
+tutkia	printata	1.121692669
+värittää	piirtää	0.398040788
+hakea	käsitellä	0.899301997
+hoitaa	lukea	0.738510487
+rekrytoida	maalata	1.063283987
+arvostella	korjata	1.061514928
+menestyä	lukea	0.983050599
+pyrkiä	räpätä	1.14339779
+saavuttaa	pitää paussi	0.721802108
+imitoida	piirtää	0.974415991
+kutoa	korjata	0.746894577
+voittaa	valmistua	0.544645777
+ylentää	ilmoittautua	0.813108837
+käsitellä	kouluttaa	0.741006167
+tehdä	kuvata	1.279582375
+luoda	kouluttaa	0.920143298
+organisoida	koristella	1.120237653
+ohjata	korjata	1.244409025
+esittää	saavuttaa	1.172500051
+yrittää	korjata	1.144581403
+kylvää	korjata	1.165053387
+säveltää	maalata	0.620599878
+tehdä työtä	astuttaa	1.249624958
+virkata	kylvää	1.048175647
+työskennellä	pitää paussi	0.964074925
+ommella	käyttää	1.033433062
+piirtää	esittää	0.90554728
+raapustaa	käsitellä	1.046913425
+pyrkiä	menestyä	0.582357577
+ylentää	esiintyä jonakin	1.070134821
+leikkiä	toimia	1.07941736
+imitoida	ommella	0.954955962
+värittää	käyttää	1.080547058
+säveltää	kutoa	0.908147927
+ommella	kehittää	0.886327704
+ohjata	voittaa	0.963722189
+tanssia	kirjoittaa	0.995441243
+voittaa	korjata	1.185575399
+hoitaa	käsitellä	0.702037996
+kirjoittaa	harjoittaa	1.037164593
+menestyä	kutoa	0.893840944
+printata	ylentää	1.011859997
+arvostella	opettaa	0.868079294
+toimia	astuttaa	1.117949855
+menestyä	hoitaa	0.844223154
+tanssia	koristella	1.119990849
+raapustaa	tehdä työtä	1.142054228
+ommella	luoda	0.658045483
+loistaa	saavuttaa	0.913389839
+tehdä	käsitellä	0.949024176
+luoda	tuottaa	0.587658551
+opiskella	värittää	1.225326869
+pyrkiä	kehittää	0.980309944
+loistaa	printata	1.058717343
+jäädä eläkkeelle	laulaa	1.090703706
+voittaa	kaunistaa	1.186903815
+hahmotella	maalata	0.764453109
+käyttää	merkitä	0.833425084
+kaunistaa	maalata	0.816794089
+puurtaa	printata	1.134092666
+korjata	loistaa	0.928811106
+loistaa	virkata	0.977584371
+julkaista	käsitellä	0.993096701
+soittaa	voittaa	1.135929111
+operoida	esittää	1.060952075
+printata	voittaa	1.205018408
+ilmoittautua	tehdä työtä	0.912740016
+leikkiä	opiskella	0.87019119
+onnistua	operoida	0.973549797
+organisoida	kouluttaa	0.866413669
+korjata	ylentää	1.089425263
+käsitellä	laatia	0.879636768
+julkaista	kylvää	1.205233834
+menestyä	onnistua	0.331907403
+kirjoittaa	arvostella	1.077876803
+rekrytoida	voittaa	0.793191783
+hahmotella	merkitä	0.965578178
+laulaa	astuttaa	1.097547139
+kilpailla	tehdä työtä	0.900818069
+laatia	hakea	0.804620789
+kutoa	maalata	0.836536655
+printata	soittaa	0.813438428
+lukea	rekrytoida	0.882026723
+värittää	raapustaa	0.793237901
+harjoittaa	värittää	1.224810175
+kylvää	rakentaa	0.832441247
+kuvata	rakentaa	1.064555672
+erottaa	kouluttaa	1.098418373
+kuvata	kiillottaa	0.972678103
+tuottaa	hakea	0.887806393
+tehdä	virkata	0.821386961
+raapustaa	pitää paussi	1.067483895
+esittää	kirjoittaa	0.854572669
+edistää	merkitä	1.107674799
+onnistua	värittää	1.286266382
+toimia	koristella	1.006689461
+erottaa	hahmotella	1.234688476
+saavuttaa	rekrytoida	0.78064904
+hoitaa	räpätä	0.907408756
+tehdä	laulaa	1.258409906
+soittaa	värittää	0.789999917
+kaunistaa	luoda	0.97783824
+merkitä	kilpailla	1.074661379
+ommella	työskennellä	0.927332577
+julkaista	soittaa	0.805851986
+toimia	julkaista	1.187216744
+tehdä	kylvää	1.240452062
+säveltää	imitoida	1.018288752
+oppia	kirjoittaa	0.931231973
+harjoittaa	räpätä	1.228322587
+ylentää	kasvattaa	0.992991088
+kehittää	raapustaa	0.792264296
+kiillottaa	astuttaa	1.186107233
+räpätä	loistaa	1.213644618
+tehdä työtä	käyttää	0.997603436
+tutkia	rakentaa	1.130083184
+loistaa	esiintyä jonakin	1.111398178
+tehdä	räpätä	1.295894717
+rekrytoida	menestyä	0.820041285
+ilmoittautua	kutoa	1.050588929
+hahmotella	pyrkiä	1.19200196
+hahmotella	korjata	1.334878343
+edistää	kirjoittaa	1.14495215
+opiskella	erottaa	0.926877671
+toimia	jäädä eläkkeelle	0.716112135
+tanssia	pitää paussi	1.04494586
+ohjata	astuttaa	1.375666719
+tuottaa	operoida	0.685722261
+virkata	laatia	1.113360594
+oppia	piirtää	1.200462399
+kouluttaa	työskennellä	0.867482588
+voittaa	ommella	1.07628508
+ylentää	kilpailla	0.8577578
+julkaista	kouluttaa	0.923657422
+kiillottaa	opiskella	1.171287067
+harjoittaa	tutkia	0.72492391
+hahmotella	ohjata	0.886165813
+organisoida	kilpailla	0.676667261
+arvostella	operoida	0.868330244
+luoda	työskennellä	0.96097627
+soittaa	opiskella	0.942512264
+organisoida	tuottaa	0.731576248
+voittaa	ilmoittautua	0.747077366
+ommella	tanssia	1.126714699
+ilmoittautua	imitoida	0.926128423
+pyrkiä	hakea	0.465840489
+säveltää	virkata	0.721219899
+hahmotella	pitää	0.761025727
+kaunistaa	julkaista	1.011799763
+menestyä	kouluttaa	0.957904396
+ylentää	maalata	1.098493216
+jäädä eläkkeelle	saavuttaa	0.784546134
+loistaa	soittaa	1.23027273
+rekrytoida	räpätä	1.245795751
+tehdä työtä	rakentaa	0.814846782
+julkaista	organisoida	1.046635661
+kirjoittaa	valmistua	1.132894722
+piirtää	yrittää	1.340045013
+lukea	laulaa	1.078579143
+kehittää	soittaa	0.85556613
+menestyä	kaunistaa	1.079727296
+säveltää	esittää	0.929799922
+jäädä eläkkeelle	räpätä	1.118107985
+käyttää	kehittää	0.984087203
+imitoida	saavuttaa	1.128950211
+ylentää	pitää paussi	0.837104939
+yrittää	tuottaa	0.798028297
+maalata	värittää	0.675333132
+tutkia	soittaa	1.054744142
+kutoa	luoda	0.752395621
+astuttaa	ylentää	1.321892292
+ohjata	rekrytoida	0.75229357
+esiintyä jonakin	kiillottaa	1.124870335
+organisoida	yrittää	0.717391088
+kaunistaa	pitää paussi	1.031778765
+säveltää	ilmoittautua	1.023362622
+laatia	rekrytoida	1.041923147
+työskennellä	pyrkiä	0.814098693
+raapustaa	lukea	1.111567262
+korjata	imitoida	1.182694934
+merkitä	piirtää	0.829585897
+ilmoittautua	kuvata	1.202327382
+työskennellä	rakentaa	0.877711601
+opiskella	kasvattaa	0.866661532
+arvostella	rekrytoida	0.873256594
+jäädä eläkkeelle	esittää	1.071493553
+puurtaa	ylentää	1.036825058
+kutoa	tanssia	1.143005529
+yrittää	soittaa	1.106592409
+oppia	koristella	1.195757008
+laulaa	kylvää	1.112323979
+rakentaa	erottaa	1.152810068
+voittaa	toimia	0.713804018
+tutkia	tehdä työtä	0.778737755
+kirjoittaa	kaunistaa	0.857892689
+käsitellä	tehdä työtä	0.979097403
+leikkiä	kylvää	1.372927622
+korjata	lukea	1.272199083
+onnistua	ommella	1.011001365
+tehdä	onnistua	0.888478809
+edistää	esittää	1.074635359
+oppia	luoda	1.0084871
+värittää	arvostella	1.022622612
+lukea	kaunistaa	1.092220145
+opiskella	astuttaa	1.350489198
+kutoa	opiskella	1.006535043
+printata	imitoida	0.86236497
+koristella	pitää paussi	1.124337262
+värittää	luoda	0.764411082
+astuttaa	tutkia	1.129920556
+luoda	kehittää	0.699380073
+voittaa	kirjoittaa	0.970104371
+kilpailla	menestyä	0.577048092
+rakentaa	voittaa	0.97075018
+ommella	erottaa	1.124285226
+yrittää	rekrytoida	0.851651498
+värittää	oppia	1.212399546
+astuttaa	pitää paussi	1.04997279
+ylentää	saavuttaa	0.788530059
+saavuttaa	kehittää	0.867793431
+luoda	käyttää	1.084130633
+opiskella	organisoida	0.890060171
+pitää	kehittää	0.819736484
+erottaa	kutoa	1.153467604
+organisoida	kuvata	1.153371625
+pitää	rekrytoida	1.072757582
+pitää	saavuttaa	0.94591625
+lukea	työskennellä	0.797918112
+jäädä eläkkeelle	kehittää	0.787736427
+saavuttaa	julkaista	1.163019835
+julkaista	ommella	1.109098162
+säveltää	käsitellä	1.166215333
+tehdä	luoda	0.879240752
+yrittää	pyrkiä	0.491351961
+rekrytoida	värittää	1.138755239
+raapustaa	kilpailla	1.233246074
+toimia	tanssia	1.124551604
+arvostella	virkata	0.898140061
+rakentaa	tanssia	0.994089601
+tehdä	ohjata	1.022523291
+organisoida	tehdä	0.800866381
+opettaa	edistää	0.771654136
+julkaista	jäädä eläkkeelle	1.152828139
+kutoa	käyttää	1.150249162
+värittää	kouluttaa	1.25902563
+rakentaa	ylentää	1.015118628
+kouluttaa	astuttaa	1.321162318
+käyttää	korjata	1.021098038
+kutoa	kirjoittaa	0.981113876
+opettaa	erottaa	0.946131304
+puurtaa	arvostella	0.894648028
+korjata	jäädä eläkkeelle	1.091651691
+esiintyä jonakin	korjata	1.089028545
+tehdä	käyttää	0.996871221
+oppia	operoida	0.794941769
+hoitaa	soittaa	0.998543068
+kiillottaa	kirjoittaa	0.999237363
+julkaista	kilpailla	1.139555678
+yrittää	kirjoittaa	1.218008814
+tuottaa	ommella	0.776450872
+harjoittaa	toimia	1.01231487
+organisoida	käsitellä	1.06307832
+pyrkiä	printata	1.249331115
+puurtaa	käyttää	0.88215753
+onnistua	luoda	0.997549215
+opettaa	kylvää	1.273297093
+harjoittaa	rekrytoida	0.86456781
+värittää	hoitaa	1.188900538
+tanssia	virkata	1.061275655
+kehittää	ylentää	0.802241606
+hoitaa	virkata	1.031786811
+kuvata	työskennellä	1.208758082
+luoda	menestyä	0.904931082
+valmistua	soittaa	0.971406994
+edistää	organisoida	0.572777282
+kaunistaa	ommella	1.027182065
+piirtää	käsitellä	1.195671
+valmistua	laatia	1.092946728
+rekrytoida	kilpailla	0.926634822
+esittää	käyttää	1.187518857
+laulaa	ylentää	1.206531459
+luoda	edistää	1.014131394
+piirtää	leikkiä	1.102521336
+kiillottaa	toimia	1.071711849
+leikkiä	laatia	1.207507079
+saavuttaa	tutkia	0.73531263
+ohjata	räpätä	1.106474288
+jäädä eläkkeelle	raapustaa	1.183458113
+loistaa	astuttaa	1.060741083
+harjoittaa	kouluttaa	0.73911845
+loistaa	yrittää	1.002887883
+puurtaa	yrittää	0.840275508
+työskennellä	esiintyä jonakin	1.108854857
+kaunistaa	ohjata	1.288101413
+rakentaa	pitää paussi	0.887625739
+pitää paussi	laatia	1.041806215
+harjoittaa	pyrkiä	1.016603104
+merkitä	opiskella	0.960398891
+laatia	tehdä	0.974358366
+valmistua	rekrytoida	0.760159186
+työskennellä	printata	1.119436857
+korjata	koristella	0.96064696
+kouluttaa	tehdä työtä	0.747779058
+toimia	loistaa	0.889044954
+raapustaa	soittaa	0.76572126
+koristella	lukea	1.190833112
+leikkiä	edistää	1.07874568
+erottaa	ylentää	0.900161059
+tutkia	ylentää	0.910253509
+hahmotella	operoida	1.00524093
+onnistua	koristella	1.227908911
+merkitä	erottaa	0.912767638
+ilmoittautua	kehittää	0.897032932
+astuttaa	kuvata	0.84019817
+kutoa	jäädä eläkkeelle	0.942230648
+tanssia	piirtää	0.969393123
+kuvata	edistää	1.499864755
+erottaa	tanssia	1.166165052
+koristella	kasvattaa	1.055483463
+rakentaa	kasvattaa	0.998490993
+luoda	opiskella	1.033463875
+esittää	tutkia	0.916082114
+kasvattaa	yrittää	0.863468947
+pitää paussi	kylvää	1.112957217
+edistää	julkaista	1.140054638
+laatia	rakentaa	1.155186431
+rakentaa	imitoida	1.088531039
+edistää	puurtaa	0.932293327
+kilpailla	loistaa	0.930933162
+kuvata	hakea	1.305113716
+kirjoittaa	laulaa	1.067303536
+esittää	korjata	1.257299377
+printata	organisoida	1.155699312
+tehdä työtä	voittaa	0.834943539
+esittää	raapustaa	0.916712164
+organisoida	toimia	0.802457327
+laulaa	erottaa	1.134380855
+pitää	opiskella	0.830355951
+soittaa	imitoida	0.916690749
+printata	ohjata	0.929122133
+luoda	arvostella	1.099928862
+värittää	kiillottaa	0.893290242
+kuvata	laulaa	0.790619306
+kuvata	säveltää	0.930975285
+oppia	kasvattaa	0.894225181
+värittää	kehittää	1.010786145
+tehdä	hahmotella	1.184542971
+värittää	puurtaa	1.165088488
+oppia	virkata	1.038067355
+esiintyä jonakin	julkaista	0.96422634
+leikkiä	organisoida	0.975167412
+käyttää	opettaa	1.082417291
+voittaa	tehdä	0.938335635
+värittää	edistää	1.405524187
+raapustaa	ohjata	1.034679404
+leikkiä	pitää	0.874491551
+värittää	julkaista	0.959567298
+soittaa	korjata	1.113332079
+lukea	kilpailla	0.935786201
+loistaa	puurtaa	0.76391554
+printata	hahmotella	0.957343122
+ilmoittautua	merkitä	0.993448421
+astuttaa	työskennellä	1.24518939
+toimia	puurtaa	0.766648432
+toimia	kehittää	0.929098937
+leikkiä	loistaa	1.323806624
+puurtaa	pitää paussi	0.952185813
+kaunistaa	kiillottaa	0.847413299
+harjoittaa	onnistua	0.971352436
+saavuttaa	rakentaa	1.002917204
+toimia	tehdä	0.700178695
+lukea	opiskella	0.644892874
+opettaa	kutoa	0.925854059
+ylentää	oppia	0.823175958
+imitoida	puurtaa	1.172557386
+käsitellä	hahmotella	1.178550714
+ylentää	rekrytoida	0.488449003
+julkaista	laulaa	0.997330496
+rekrytoida	pyrkiä	0.860378837
+hahmotella	kaunistaa	1.011937928
+onnistua	kasvattaa	0.899580737
+virkata	ommella	0.217028088
+opettaa	yrittää	0.90192202
+soittaa	menestyä	1.100316834
+laatia	toimia	1.191396216
+rekrytoida	jäädä eläkkeelle	0.783392333
+kouluttaa	puurtaa	0.879810925
+hahmotella	ilmoittautua	1.166755186
+operoida	opiskella	0.905190931
+puurtaa	organisoida	0.820490037
+koristella	säveltää	0.839000777
+lukea	käsitellä	0.967705114
+toimia	rakentaa	0.95507382
+toimia	arvostella	0.823376485
+lukea	yrittää	0.772221748
+laatia	opettaa	0.815190534
+kylvää	menestyä	1.096715054
+kaunistaa	tehdä työtä	1.028231946
+käsitellä	ohjata	1.053768915
+kilpailla	ommella	0.987012149
+erottaa	laatia	1.167198635
+hakea	hahmotella	1.11941259
+pitää paussi	opiskella	0.902126583
+puurtaa	kasvattaa	1.054647771
+rakentaa	esittää	0.972360832
+erottaa	kirjoittaa	1.189642631
+säveltää	laulaa	0.924962799
+ylentää	toimia	1.031173125
+luoda	saavuttaa	1.127727019
+koristella	operoida	1.061812482
+kuvata	loistaa	1.205640813
+menestyä	hahmotella	1.118450908
+virkata	operoida	0.815457453
+säveltää	kaunistaa	1.045854762
+kehittää	astuttaa	1.216062782
+opettaa	rekrytoida	0.615783335
+esittää	ilmoittautua	0.977383513
+printata	jäädä eläkkeelle	1.047404904
+säveltää	luoda	0.58250802
+kouluttaa	edistää	0.754934496
+värittää	pitää	1.087258048
+merkitä	valmistua	1.091286
+ommella	kiillottaa	0.929742631
+loistaa	erottaa	0.870461992
+ommella	hahmotella	1.102831644
+erottaa	hoitaa	0.954371963
+julkaista	imitoida	0.88951424
+lukea	onnistua	0.757100293
+kehittää	operoida	0.837176868
+laatia	puurtaa	0.958949051
+arvostella	ommella	0.955224949
+räpätä	korjata	1.168278667
+harjoittaa	kylvää	1.305746949
+erottaa	operoida	0.939161899
+tuottaa	räpätä	1.187358865
+saavuttaa	kutoa	1.077536372
+harjoittaa	saavuttaa	0.963404194
+harjoittaa	julkaista	0.921038704
+laatia	opiskella	0.799829074
+kuvata	tehdä työtä	1.251217125
+kilpailla	tuottaa	0.945582971
+räpätä	astuttaa	1.224546993
+harjoittaa	piirtää	1.174824942
+jäädä eläkkeelle	kirjoittaa	1.014933877
+voittaa	erottaa	0.97879783
+tanssia	valmistua	1.221763886
+hoitaa	kylvää	1.078942464
+jäädä eläkkeelle	menestyä	0.834237582
+harjoittaa	voittaa	0.871238323
+ohjata	yrittää	0.895267048
+ilmoittautua	tanssia	1.203864994
+hoitaa	operoida	0.946784305
+räpätä	toimia	1.092302694
+voittaa	pitää	0.851043969
+säveltää	opiskella	1.014204362
+säveltää	pitää paussi	0.958350694
+laulaa	rakentaa	1.189630972
+erottaa	kylvää	1.292657329
+luoda	hoitaa	0.896203894
+pitää paussi	ohjata	0.990224875
+menestyä	tehdä työtä	0.774864627
+piirtää	työskennellä	1.206836067
+hoitaa	jäädä eläkkeelle	0.725158937
+värittää	ommella	0.643410164
+koristella	ommella	0.942871355
+kaunistaa	opiskella	1.099374711
+hoitaa	oppia	0.966472174
+puurtaa	kylvää	1.306085835
+räpätä	hahmotella	1.172520537
+tehdä	kutoa	0.936542151
+saavuttaa	operoida	0.907678577
+värittää	merkitä	0.900274972
+astuttaa	esittää	1.088155797
+tehdä työtä	ohjata	0.884142063
+ilmoittautua	tuottaa	0.961001926
+leikkiä	tuottaa	1.054630346
+oppia	pitää	0.88267871
+saavuttaa	arvostella	0.901499493
+ilmoittautua	valmistua	0.638875175
+kouluttaa	säveltää	0.873465809
+kutoa	kuvata	1.081869375
+ylentää	hahmotella	1.14553455
+käyttää	työskennellä	1.070980731
+käyttää	harjoittaa	1.049309288
+kehittää	opettaa	0.615078475
+tehdä työtä	korjata	0.763614511
+voittaa	oppia	0.87232007
+edistää	laulaa	1.196871679
+kuvata	hahmotella	0.729167047
+erottaa	piirtää	1.284086111
+piirtää	soittaa	0.740760536
+maalata	kehittää	0.800018621
+menestyä	kehittää	0.811084638
+luoda	toimia	1.021083867
+tehdä	tutkia	0.751785667
+onnistua	laatia	0.976920409
+kasvattaa	pitää	1.059169668
+työskennellä	kylvää	1.246204401
+kouluttaa	räpätä	1.238059804
+jäädä eläkkeelle	tehdä	0.780298953
+kiillottaa	kylvää	1.223637737
+valmistua	hakea	0.799628954
+opettaa	leikkiä	0.924925328
+ommella	säveltää	0.808487512
+julkaista	pitää paussi	0.985687008
+ommella	ilmoittautua	1.049813039
+leikkiä	ilmoittautua	1.053771121
+tehdä työtä	valmistua	0.811311322
+värittää	erottaa	1.179506648
+jäädä eläkkeelle	tanssia	1.217815214
+organisoida	pyrkiä	0.844222097
+ilmoittautua	ohjata	0.83917664
+arvostella	piirtää	1.120202318
+yrittää	leikkiä	1.066483053
+hahmotella	astuttaa	1.062817295
+esiintyä jonakin	piirtää	0.98066556
+laatia	räpätä	1.311147147
+yrittää	käsitellä	0.994200768
+hoitaa	tanssia	1.000722548
+virkata	käyttää	1.137944051
+kutoa	printata	0.874077292
+tanssia	menestyä	1.089627704
+lukea	soittaa	1.038990154
+kilpailla	esiintyä jonakin	0.910231871
+kasvattaa	leikkiä	0.913639753
+imitoida	hakea	1.246849448
+valmistua	toimia	0.757607123
+soittaa	kilpailla	1.088011275
+tanssia	esiintyä jonakin	0.939090272
+raapustaa	yrittää	1.318809323
+ohjata	pitää	0.821405205
+laatia	oppia	0.782224888
+hahmotella	yrittää	1.178089782
+yrittää	tanssia	1.116870172
+kiillottaa	ohjata	1.209154858
+voittaa	käsitellä	0.857850061
+pyrkiä	kuvata	1.397775527
+harjoittaa	soittaa	1.032022365
+kouluttaa	voittaa	0.906603644
+tehdä työtä	työskennellä	0.291783022
+printata	leikkiä	0.925642276
+kilpailla	ilmoittautua	0.736420446
+kiillottaa	pitää	1.098185252
+hoitaa	toimia	0.992310288
+kuvata	erottaa	1.163178054
+arvostella	pitää	1.016086997
+tehdä työtä	harjoittaa	0.634130307
+laulaa	luoda	1.099156573
+räpätä	kylvää	1.136758633
+koristella	imitoida	1.200964625
+jäädä eläkkeelle	valmistua	0.729706249
+säveltää	laatia	0.914012733
+opiskella	onnistua	0.900951399
+voittaa	työskennellä	0.839330226
+onnistua	organisoida	0.757472607
+käyttää	kasvattaa	1.184770654
+luoda	imitoida	1.103739359
+hahmotella	harjoittaa	1.077649551
+oppia	kylvää	1.334036043
+soittaa	puurtaa	1.126399751
+rekrytoida	tutkia	0.874782941
+puurtaa	kilpailla	0.955413686
+ohjata	kirjoittaa	0.776361067
+rakentaa	kaunistaa	0.985643035
+onnistua	ohjata	1.024024144
+printata	edistää	1.332819622
+kirjoittaa	menestyä	1.167586241
+kouluttaa	saavuttaa	0.877279438
+kehittää	esiintyä jonakin	0.795491406
+puurtaa	virkata	0.94537119
+imitoida	menestyä	1.019586308
+esittää	räpätä	0.539385375
+edistää	hakea	0.842479083
+onnistua	esiintyä jonakin	0.942837869
+raapustaa	hahmotella	0.702403393
+rekrytoida	korjata	0.952474297
+kirjoittaa	esiintyä jonakin	0.907765471
+laulaa	ohjata	1.074920067
+puurtaa	pitää	0.848200673
+kilpailla	korjata	1.125841262
+opiskella	korjata	1.136775111
+laatia	hoitaa	0.913919416
+julkaista	ilmoittautua	0.91900167
+opettaa	piirtää	1.139106589
+maalata	merkitä	0.890318952
+räpätä	ommella	1.062166714
+tutkia	onnistua	0.865293656
+työskennellä	värittää	1.081392648
+piirtää	rakentaa	0.905319626
+esittää	puurtaa	1.217810407
+merkitä	virkata	1.188716784
+tanssia	oppia	1.215565157
+hoitaa	arvostella	0.85286755
+valmistua	leikkiä	0.987775143
+astuttaa	onnistua	1.328167881
+raapustaa	valmistua	1.26893039
+tutkia	käsitellä	0.870639967
+piirtää	kuvata	0.473017862
+arvostella	käyttää	0.766877928
+korjata	edistää	1.30705205
+valmistua	käsitellä	0.86899029
+operoida	käsitellä	0.880099959
+tuottaa	loistaa	0.833581723
+kaunistaa	merkitä	0.95251336
+voittaa	astuttaa	1.158942894
+saavuttaa	kiillottaa	1.109645753
+kirjoittaa	opettaa	0.831768042
+koristella	printata	0.925697268
+kilpailla	piirtää	1.222754734
+imitoida	ylentää	1.072837875
+kaunistaa	hoitaa	1.213430157
+arvostella	hakea	0.765594852
+erottaa	koristella	1.041990661
+valmistua	arvostella	0.838469755
+kirjoittaa	loistaa	1.006830289
+tehdä työtä	koristella	0.987152283
+kuvata	käyttää	1.17326752
+jäädä eläkkeelle	voittaa	0.948466614
+tuottaa	maalata	0.923123609
+soittaa	ommella	0.905887138
+kuvata	esittää	0.848717915
+printata	ommella	0.888872332
+virkata	menestyä	0.859896028
+toimia	pitää	0.990423362
+rekrytoida	hahmotella	1.136271696
+kouluttaa	onnistua	0.875470469
+virkata	luoda	0.574370995
+esittää	kilpailla	0.99984703
+erottaa	kasvattaa	0.672819947
+hahmotella	saavuttaa	1.282052006
+laatia	esiintyä jonakin	1.125368956
+harjoittaa	organisoida	0.811620819
+hahmotella	organisoida	0.991405411
+käyttää	säveltää	1.180668588
+värittää	rakentaa	0.814812886
+edistää	käyttää	1.150872201
+opiskella	esiintyä jonakin	0.834804102
+kouluttaa	toimia	0.938151088
+astuttaa	rekrytoida	1.294195257
+tuottaa	esiintyä jonakin	0.974514148
+kutoa	rekrytoida	1.04998682
+koristella	kouluttaa	1.237994177
+esittää	organisoida	0.992570397
+esittää	käsitellä	1.268268362
+työskennellä	virkata	0.929895999
+kylvää	arvostella	1.14695345
+ommella	kylvää	1.120070073
+oppia	pitää paussi	0.920625706
+ilmoittautua	piirtää	1.264044871
+laulaa	esittää	0.584903185
+kiillottaa	loistaa	0.913259574
+koristella	kaunistaa	0.57088142
+operoida	tehdä	0.54911868
+kirjoittaa	ommella	0.929250378
+laulaa	raapustaa	1.064608775
+virkata	kutoa	0.258741133
+lukea	pitää paussi	0.808653578
+pyrkiä	pitää paussi	0.890406766
+raapustaa	oppia	1.181333518
+laulaa	räpätä	0.205028633
+koristella	harjoittaa	1.198980722
+astuttaa	imitoida	1.026900883
+erottaa	tuottaa	0.878658971
+kirjoittaa	pitää paussi	0.938905045
+maalata	edistää	1.330286844
+hakea	luoda	1.275559887
+tanssia	tutkia	0.973040107
+imitoida	lukea	0.853489182
+tutkia	voittaa	0.794894677
+soittaa	tehdä	1.084917377
+pitää paussi	arvostella	0.948212146
+hahmotella	edistää	1.246909108
+hoitaa	työskennellä	0.891019995
+hoitaa	ohjata	0.981517118
+kiillottaa	hoitaa	1.125740247
+pitää paussi	rekrytoida	0.898669956
+kuvata	kouluttaa	1.203251995
+imitoida	leikkiä	0.667497754
+piirtää	operoida	1.029598122
+hakea	käyttää	0.918160012
+hahmotella	soittaa	1.122192303
+kuvata	kylvää	1.014928376
+tehdä	kilpailla	0.938454411
+luoda	ohjata	0.994479551
+tuottaa	menestyä	0.79517841
+raapustaa	kylvää	1.015925914
+kehittää	valmistua	0.99086976
+ommella	kasvattaa	0.977181559
+kaunistaa	kouluttaa	1.194596189
+valmistua	hahmotella	1.275921082
+loistaa	merkitä	0.996567086
+kouluttaa	rakentaa	0.963818138
+tehdä työtä	pitää paussi	0.902775919
+imitoida	kutoa	0.892022581
+menestyä	pitää paussi	0.781844169
+kuvata	tutkia	1.203245973
+hakea	merkitä	0.870769507
+ilmoittautua	printata	1.067735616
+raapustaa	menestyä	1.241353035
+organisoida	työskennellä	0.803103321
+jäädä eläkkeelle	ommella	0.834531388
+merkitä	kuvata	0.986878048
+operoida	kirjoittaa	0.976894518
+operoida	kaunistaa	1.168711424
+imitoida	yrittää	1.012781859
+säveltää	tanssia	0.854419917
+ylentää	menestyä	0.761611423
+ohjata	tutkia	0.724029153
+valmistua	imitoida	1.080167322
+työskennellä	korjata	0.805281474
+säveltää	ylentää	0.948574876
+käyttää	julkaista	1.042124708
+maalata	imitoida	0.978830324
+kilpailla	opiskella	0.972974128
+oppia	loistaa	1.104561682
+tanssia	kiillottaa	1.311105207
+pitää	piirtää	1.449587843
+pitää	printata	0.987803752
+pitää paussi	virkata	0.945313391
+värittää	pitää paussi	1.044539714
+pitää	loistaa	0.796720749
+valmistua	esittää	1.031061094
+tutkia	yrittää	0.618020796
+tuottaa	voittaa	0.800292281
+oppia	korjata	1.208604392
+kehittää	säveltää	0.649903733
+esittää	yrittää	1.046657978
+soittaa	kaunistaa	1.215912931
+laatia	kirjoittaa	0.883122546
+kirjoittaa	hakea	1.080645973
+hoitaa	käyttää	1.053606881
+hoitaa	kilpailla	0.835646922
+kehittää	tanssia	0.972412063
+värittää	kilpailla	1.150396049
+rekrytoida	kaunistaa	1.193325287
+toimia	kuvata	1.32777562
+ilmoittautua	raapustaa	1.206542874
+tehdä työtä	hoitaa	0.910609437
+kasvattaa	lukea	0.682028575
+ommella	valmistua	0.96140872
+kylvää	pyrkiä	1.042066272
+koristella	menestyä	1.152727045
+merkitä	arvostella	0.882484975
+leikkiä	ohjata	1.009975669
+organisoida	maalata	1.038707103
+rakentaa	hoitaa	0.973876504
+käsitellä	kasvattaa	1.177030088
+kuvata	onnistua	1.335273576
+arvostella	kutoa	0.987842556
+kilpailla	käyttää	0.976456704
+pitää	hakea	0.89012531
+lukea	astuttaa	1.338570391
+astuttaa	virkata	1.134831331
+kutoa	tehdä työtä	0.99542912
+hakea	rakentaa	1.168427612
+menestyä	kasvattaa	1.084297346
+toimia	hahmotella	1.156256871
+piirtää	ylentää	1.212793825
+hoitaa	merkitä	1.125803035
+onnistua	rakentaa	1.009235869
+kutoa	kylvää	1.120021095
+leikkiä	rakentaa	1.126336484
+astuttaa	piirtää	1.0061562
+opettaa	astuttaa	1.393202148
+kaunistaa	kehittää	1.003219662
+onnistua	jäädä eläkkeelle	0.818059717
+virkata	kilpailla	0.940374423
+imitoida	hahmotella	0.895609417
+tutkia	kaunistaa	1.045662103
+virkata	harjoittaa	1.020364521
+ylentää	laatia	1.065157903
+kutoa	astuttaa	1.050896284
+esittää	arvostella	0.955897227
+yrittää	edistää	0.655833828
+käsitellä	rakentaa	0.990907519
+kouluttaa	pitää	0.876661745
+esittää	esiintyä jonakin	0.464703774
+räpätä	printata	1.079098315
+raapustaa	kuvata	0.616002968
+arvostella	laatia	0.979241197
+opettaa	pyrkiä	0.930184222
+esiintyä jonakin	organisoida	1.009425269
+edistää	saavuttaa	0.800477444
+säveltää	merkitä	0.98503261
+kirjoittaa	kylvää	1.119147499
+kirjoittaa	tuottaa	0.929881241
+oppia	käsitellä	0.956861995
+voittaa	pyrkiä	0.51886877
+jäädä eläkkeelle	työskennellä	0.967075355
+ommella	pitää	1.111656962
+laulaa	pitää paussi	1.132907424
+kehittää	edistää	0.844228334
+räpätä	onnistua	1.146795255
+julkaista	onnistua	1.161532951
+saavuttaa	toimia	0.643835258
+jäädä eläkkeelle	arvostella	0.939354217
+hoitaa	koristella	1.229071553
+tehdä	ommella	0.792708117
+tehdä	kaunistaa	1.033824069
+laulaa	rekrytoida	1.24883135
+tehdä	rakentaa	0.92709406
+onnistua	toimia	0.729680282
+laulaa	laatia	1.351486193
+tutkia	säveltää	0.934756504
+yrittää	ylentää	0.925561758
+tuottaa	onnistua	0.87311132
+esittää	tehdä	1.130452597
+puurtaa	kuvata	1.317171038
+värittää	tuottaa	0.95867502
+maalata	jäädä eläkkeelle	1.066411808
+kiillottaa	oppia	1.173751585
+voittaa	kiillottaa	1.082541106
+tehdä työtä	piirtää	1.195695207
+työskennellä	imitoida	1.149968748
+laulaa	ilmoittautua	1.096963974
+tanssia	lukea	0.933191915
+räpätä	virkata	1.16430369
+pyrkiä	ohjata	1.097022138
+kasvattaa	korjata	1.243896621
+onnistua	piirtää	1.262441514
+soittaa	opettaa	0.830060925
+lukea	kuvata	1.136925231
+onnistua	laulaa	1.124121366
+säveltää	julkaista	1.107798118
+erottaa	edistää	1.031353685
+hakea	opettaa	1.013938118
+korjata	hoitaa	1.270709096
+kaunistaa	kutoa	0.978865766
+raapustaa	maalata	0.658480098
+merkitä	printata	0.884406232
+maalata	kylvää	0.940732647
+tuottaa	astuttaa	1.034258762
+kuvata	ommella	1.09030734
+opiskella	loistaa	1.190621017
+ylentää	organisoida	0.868981288
+tehdä	menestyä	0.793850772
+kasvattaa	hakea	0.884657603
+kutoa	esiintyä jonakin	0.902323991
+raapustaa	arvostella	1.147244081
+kehittää	erottaa	0.952247085
+opiskella	yrittää	0.823475279
+hoitaa	tehdä	1.004807851
+kaunistaa	puurtaa	0.920847509
+hoitaa	hakea	0.868241741
+luoda	raapustaa	0.846760361
+saavuttaa	kaunistaa	1.190761291
+esittää	hakea	1.207396278
+tehdä työtä	esiintyä jonakin	1.049588435
+työskennellä	puurtaa	0.338777047
+tutkia	julkaista	0.901789072
+puurtaa	oppia	0.628166721
+tuottaa	virkata	0.773896887
+loistaa	jäädä eläkkeelle	1.200242097
+leikkiä	merkitä	1.090977698
+pyrkiä	käsitellä	0.880830423
+kilpailla	jäädä eläkkeelle	0.899760977
+kasvattaa	arvostella	0.902222258
+organisoida	tanssia	0.993828895
+soittaa	esiintyä jonakin	0.928247091
+ommella	merkitä	1.099003414
+käyttää	valmistua	1.140084643
+puurtaa	räpätä	1.362985264
+tehdä	korjata	0.844984783
+opiskella	hakea	0.941276614
+loistaa	organisoida	0.993810655
+imitoida	räpätä	0.665673797
+edistää	rekrytoida	0.908804911
+työskennellä	kirjoittaa	0.986717647
+pitää paussi	kiillottaa	0.956276149
+virkata	esittää	0.964819756
+räpätä	voittaa	1.042637053
+soittaa	oppia	1.091200295
+laulaa	pyrkiä	1.23320804
+tehdä	puurtaa	0.464173607
+ilmoittautua	kiillottaa	1.030082469
+voittaa	operoida	0.824750283
+virkata	opettaa	0.946154051
+esiintyä jonakin	puurtaa	1.152758422
+erottaa	pitää paussi	0.885729778
+jäädä eläkkeelle	opettaa	0.873604839
+maalata	tanssia	0.864129342
+toimia	kaunistaa	1.144994645
+organisoida	soittaa	1.000405721
+voittaa	lukea	0.715354262
+pyrkiä	koristella	1.331050737
+pyrkiä	opiskella	0.864007095
+työskennellä	leikkiä	1.083959703
+pitää	koristella	1.161701583
+onnistua	saavuttaa	0.347599398
+kaunistaa	esiintyä jonakin	1.100593262
+oppia	kaunistaa	1.194358913
+luoda	kasvattaa	0.983730106
+leikkiä	jäädä eläkkeelle	1.034882651
+tanssia	kasvattaa	1.013907849
+ohjata	edistää	0.971551061
+ohjata	saavuttaa	0.961407997
+raapustaa	hoitaa	1.141344002
+kuvata	virkata	0.959281174
+julkaista	astuttaa	0.964106195
+loistaa	piirtää	1.044361707
+maalata	onnistua	1.240567055
+kuvata	kasvattaa	1.103914193
+kirjoittaa	käyttää	1.059499919
+tehdä työtä	kehittää	0.836962034
+tanssia	kylvää	0.864024977
+opiskella	puurtaa	0.725184194
+kiillottaa	edistää	1.172727713
+rekrytoida	esiintyä jonakin	1.037109298
+kaunistaa	hakea	1.058188576
+astuttaa	käyttää	0.861217998
+rekrytoida	leikkiä	1.056384511
+menestyä	korjata	1.005305021
+valmistua	kilpailla	0.67717294
+maalata	kilpailla	1.145044852
+hahmotella	tutkia	0.943408357
+jäädä eläkkeelle	värittää	1.072863508
+kilpailla	räpätä	1.056408108
+työskennellä	kehittää	0.856143204
+ohjata	toimia	1.106000191
+raapustaa	opettaa	1.116376621
+tehdä	erottaa	0.866619846
+luoda	ilmoittautua	1.091497961
+pyrkiä	ilmoittautua	0.58580318
+harjoittaa	hoitaa	0.998055802
+hoitaa	puurtaa	0.987404141
+imitoida	virkata	0.970277316
+hahmotella	kylvää	0.993762789
+tutkia	virkata	1.088285976
+kouluttaa	hakea	0.901975494
+rakentaa	raapustaa	0.964308834
+kouluttaa	ilmoittautua	0.801258899
+jäädä eläkkeelle	pyrkiä	0.787531288
+merkitä	kirjoittaa	0.912552329
+oppia	hahmotella	1.021352044
+arvostella	tanssia	1.118975145
+raapustaa	saavuttaa	1.315014464
+astuttaa	tanssia	0.952592362
+arvostella	ohjata	1.050894886
+esiintyä jonakin	kuvata	0.937230214
+valmistua	puurtaa	0.857831978
+esittää	julkaista	0.94528204
+koristella	kirjoittaa	0.887438339
+virkata	ylentää	1.081462286
+käsitellä	ylentää	0.953075814
+raapustaa	kirjoittaa	0.588644512
+printata	käyttää	1.082272774
+loistaa	pitää paussi	1.046463549
+kirjoittaa	hahmotella	0.541685972
+jäädä eläkkeelle	tehdä työtä	0.767658322
+laatia	ommella	1.066125485
+arvostella	organisoida	0.903842415
+tehdä työtä	organisoida	0.715031025
+kaunistaa	edistää	1.249367206
+virkata	toimia	0.956170576
+virkata	piirtää	0.75881998
+ylentää	tuottaa	0.864319106
+esittää	värittää	1.041859903
+valmistua	räpätä	1.098192965
+loistaa	tehdä	0.900638636
+arvostella	ylentää	0.945974567
+ilmoittautua	onnistua	0.724392787
+ylentää	kirjoittaa	1.061791079
+raapustaa	kasvattaa	1.223714677
+tehdä	harjoittaa	0.756671487
+voittaa	pitää paussi	0.886269876
+kutoa	ylentää	0.958353097
+ylentää	koristella	1.054503446
+ommella	toimia	0.982786041
+raapustaa	puurtaa	1.148774189
+pyrkiä	luoda	1.07773653
+opiskella	tutkia	0.48146297
+leikkiä	kehittää	0.964483039
+hoitaa	pyrkiä	0.775560551
+kutoa	kilpailla	1.021471831
+raapustaa	julkaista	0.937091881
+laatia	merkitä	0.972144893
+printata	kaunistaa	0.928720753
+säveltää	hoitaa	0.887840919
+koristella	laatia	1.268511594
+yrittää	pitää paussi	0.784844903
+tehdä työtä	hahmotella	1.10605164
+merkitä	rakentaa	1.185729028
+yrittää	kilpailla	0.57613317
+arvostella	julkaista	0.847412707
+räpätä	käsitellä	1.087860521
+kiillottaa	tutkia	1.096573561
+ilmoittautua	jäädä eläkkeelle	0.875952385
+tuottaa	opiskella	0.954402321
+loistaa	ohjata	1.249865668
+luoda	kuvata	1.002324529
+piirtää	laulaa	0.990631191
+valmistua	säveltää	1.14928085
+organisoida	ommella	0.998245724
+esittää	toimia	1.118285622
+onnistua	tehdä työtä	0.788734251
+ohjata	jäädä eläkkeelle	0.897617316
+leikkiä	tehdä	1.152792484
+luoda	erottaa	1.168497135
+opettaa	koristella	1.162087581
+leikkiä	kilpailla	1.044463583
+kaunistaa	tanssia	1.110326942
+kiillottaa	kouluttaa	1.074292122
+onnistua	kirjoittaa	1.080464174
+astuttaa	edistää	1.227174097
+erottaa	kiillottaa	1.303402006
+saavuttaa	käsitellä	0.867304854
+virkata	leikkiä	1.083500272
+ommella	rakentaa	0.764820376
+pyrkiä	operoida	0.96810125
+pitää	käsitellä	0.821587751
+leikkiä	hoitaa	0.85292066
+opiskella	kehittää	0.733445767
+hahmotella	säveltää	0.812657391
+kuvata	tanssia	0.969447468
+harjoittaa	hakea	0.970176913
+työskennellä	merkitä	1.105891738
+loistaa	ylentää	1.09878706
+kilpailla	kuvata	1.208157607
+kouluttaa	kasvattaa	0.813795139
+printata	laatia	1.184032205
+soittaa	esittää	0.815552476
+lukea	kiillottaa	1.276749769
+harjoittaa	laatia	0.9087405
+soittaa	merkitä	0.925969207
+voittaa	yrittää	0.541846412
+laulaa	yrittää	1.077779024
+ohjata	värittää	1.144111305
+organisoida	voittaa	0.70398235
+loistaa	käyttää	1.000476142
+rakentaa	valmistua	1.041281215
+kouluttaa	virkata	0.903653586
+kaunistaa	valmistua	1.152566587
+kilpailla	harjoittaa	1.028439334
+pyrkiä	maalata	1.278091989
+tanssia	kilpailla	1.090238786
+korjata	laulaa	1.106465521
+imitoida	pitää paussi	1.000582822
+räpätä	esiintyä jonakin	0.667988661
+työskennellä	arvostella	0.8932547
+lukea	kutoa	1.094819232
+valmistua	pitää paussi	0.762981503
+pyrkiä	kutoa	1.202175186
+koristella	yrittää	1.279859599
+esittää	kiillottaa	1.13813074
+kuvata	valmistua	1.258130784
+voittaa	käyttää	1.026806987
+raapustaa	harjoittaa	1.355212742
+merkitä	korjata	1.083478067
+maalata	ommella	0.722891495
+opettaa	kasvattaa	0.800199104
+esiintyä jonakin	luoda	1.001992531
+pyrkiä	merkitä	1.102644021
+arvostella	pyrkiä	0.805359455
+toimia	käyttää	1.06941448
+rakentaa	korjata	0.737018828
+hahmotella	työskennellä	1.138329294
+hakea	tanssia	0.924235203
+tehdä työtä	hakea	0.876767074
+tehdä	edistää	0.898184583
+harjoittaa	luoda	1.026686237
+kiillottaa	koristella	0.878242494
+arvostella	koristella	1.065203318
+harjoittaa	kaunistaa	1.150198502
+astuttaa	organisoida	1.054515205
+yrittää	käyttää	1.15079624
+hakea	virkata	1.21570544
+menestyä	printata	1.212906831
+saavuttaa	säveltää	1.153781517
+räpätä	opettaa	1.145312199
+piirtää	hakea	1.172637581
+laulaa	leikkiä	0.639363228
+kouluttaa	ommella	0.947336155
+astuttaa	laatia	1.239621918
+tehdä työtä	arvostella	0.919047534
+laatia	maalata	1.14503352
+käyttää	räpätä	1.097002818
+hahmotella	jäädä eläkkeelle	1.106946978
+virkata	esiintyä jonakin	0.971765481
+yrittää	laatia	1.215313639
+organisoida	hakea	0.852523932
+räpätä	piirtää	1.017996213
+kaunistaa	pitää	1.136628366
+harjoittaa	arvostella	0.870042945
+kasvattaa	räpätä	1.032035003
+saavuttaa	organisoida	0.808302336
+loistaa	onnistua	0.988637903
+ohjata	kilpailla	1.005930805
+julkaista	merkitä	0.763908906
+kehittää	hahmotella	0.785217689
+soittaa	laulaa	0.818534929
+rekrytoida	printata	1.063328832
+värittää	kirjoittaa	0.757205748
+oppia	opiskella	0.319339368
+luoda	koristella	0.880827626
+maalata	virkata	0.670621038
+jäädä eläkkeelle	lukea	0.95231477
+korjata	kirjoittaa	0.993812001
+tehdä työtä	kirjoittaa	0.967684729
+printata	kasvattaa	1.192783921
+onnistua	esittää	1.023891906
+soittaa	kasvattaa	0.98504612
+käyttää	laulaa	1.111522486
+operoida	puurtaa	0.555557641
+opiskella	kirjoittaa	0.871583736
+käyttää	piirtää	1.142603039
+luoda	tehdä työtä	0.891686658
+opettaa	kaunistaa	1.15493198
+merkitä	räpätä	1.009926339
+imitoida	edistää	1.106413588
+onnistua	käsitellä	0.91360718
+julkaista	rekrytoida	1.152868678
+tehdä työtä	imitoida	1.054811306
+tutkia	pyrkiä	0.616815684
+yrittää	säveltää	1.001673656
+valmistua	tuottaa	0.815844468
+ilmoittautua	harjoittaa	0.959861961
+operoida	astuttaa	1.104099837
+imitoida	kylvää	1.114601138
+tuottaa	hoitaa	0.995819562
+pitää paussi	ommella	0.919890748
+lukea	esittää	0.818958322
+kutoa	rakentaa	0.769811809
+kehittää	merkitä	1.117388537
+pyrkiä	ylentää	0.828018766
+ilmoittautua	kaunistaa	1.080974
+tutkia	koristella	1.107427249
+kiillottaa	tehdä	1.067838978
+astuttaa	korjata	0.936273576
+kilpailla	saavuttaa	0.621623464
+rakentaa	menestyä	0.930538003
+kehittää	korjata	1.06768304
+puurtaa	saavuttaa	0.8395874
+kiillottaa	korjata	1.086631768
+tuottaa	tehdä	0.681017731
+työskennellä	käsitellä	0.995099778
+ylentää	räpätä	1.281815471
+organisoida	lukea	0.855005623
+kouluttaa	tanssia	1.150835232
+tutkia	tuottaa	0.777881382
+pitää paussi	räpätä	1.125674023
+kehittää	organisoida	0.737184506
+julkaista	voittaa	1.162427828
+tutkia	käyttää	0.90175885
+oppia	esiintyä jonakin	0.982150328
+kylvää	operoida	1.187596681
+hahmotella	voittaa	1.230992489
+kuvata	kaunistaa	0.809456612
+laatia	esittää	1.241688915
+esittää	koristella	1.094600616
+saavuttaa	lukea	0.801837118
+korjata	toimia	1.070131541
+yrittää	kiillottaa	1.18750588
+kylvää	kehittää	1.068266735
+julkaista	valmistua	1.109947756
+kasvattaa	imitoida	0.953926405
+kutoa	hoitaa	1.048540912
+kutoa	yrittää	1.021779867
+tehdä työtä	esittää	1.139926619
+työskennellä	ilmoittautua	0.938344959
+raapustaa	kutoa	0.764546121
+esiintyä jonakin	pitää	0.84656775
+korjata	tutkia	1.133609418
+saavuttaa	voittaa	0.277265141
+soittaa	ylentää	1.007758351
+printata	säveltää	0.881879033
+organisoida	luoda	0.845600089
+soittaa	tanssia	1.135119703
+kasvattaa	operoida	1.062252379
+saavuttaa	kylvää	1.108852985
+operoida	käyttää	0.820207563
+työskennellä	laulaa	1.263012504
+maalata	harjoittaa	1.117643056
+onnistua	hoitaa	0.750424913
+laatia	tuottaa	0.97145112
+käyttää	tanssia	1.113202706
+edistää	soittaa	1.171498226
+astuttaa	printata	1.033231264
+lukea	ilmoittautua	0.941331092
+tehdä	oppia	0.92287985
+hakea	tehdä	0.835432411
+virkata	opiskella	0.938849379
+onnistua	imitoida	0.972350248
+leikkiä	tehdä työtä	1.016358461
+erottaa	imitoida	1.021083094
+esittää	maalata	0.889556899
+onnistua	virkata	1.030048905
+tuottaa	kehittää	0.832913236
+voittaa	laulaa	1.044947703
+räpätä	hakea	1.247757073
+loistaa	operoida	0.964511251
+kuvata	arvostella	1.021584111
+piirtää	säveltää	0.757840666
+koristella	räpätä	1.206281233
+operoida	laatia	1.239835681
+onnistua	työskennellä	0.872533819
+saavuttaa	kirjoittaa	1.178439982
+esiintyä jonakin	valmistua	0.972355484
+merkitä	opettaa	0.967874695
+ylentää	ohjata	0.699191343
+ommella	saavuttaa	1.05216768
+laulaa	imitoida	0.525488184
+tuottaa	kutoa	0.861512722
+loistaa	esittää	1.175453583
+saavuttaa	koristella	1.329309096
+printata	käsitellä	1.192639427
+maalata	astuttaa	0.989652365
+ommella	menestyä	0.943890377
+tehdä työtä	kylvää	1.267326871
+tanssia	esittää	1.00085887
+organisoida	pitää paussi	0.856374272
+imitoida	käyttää	1.145637705
+harjoittaa	erottaa	0.890294487
+edistää	raapustaa	1.383736615
+ilmoittautua	rakentaa	1.129110605
+kirjoittaa	kehittää	0.74801584
+voittaa	esittää	1.118671596
+raapustaa	laatia	0.926321727
+korjata	hakea	1.129441873
+tehdä	opettaa	0.842527338
+hakea	esiintyä jonakin	1.179300731
+astuttaa	harjoittaa	1.401833913
+operoida	säveltää	0.967221346
+ohjata	kouluttaa	0.596674111
+arvostella	rakentaa	1.064978633
+esiintyä jonakin	operoida	1.010725943
+opettaa	menestyä	1.003288506
+edistää	tutkia	0.635472015
+menestyä	käyttää	1.022543078
+toimia	tuottaa	0.747632715
+ylentää	julkaista	1.221317223
+hakea	laulaa	1.286267793
+pyrkiä	kouluttaa	0.94228559
+työskennellä	operoida	0.649429836
+kylvää	ohjata	1.336703596
+raapustaa	leikkiä	1.085698527
+laulaa	hahmotella	1.189489717
+rakentaa	printata	1.070684363
+astuttaa	koristella	1.097202463
+edistää	kylvää	1.085919164
+säveltää	pitää	0.965969212
+piirtää	edistää	1.334693255
+rakentaa	kirjoittaa	0.918015891
+organisoida	kylvää	0.999070046
+kilpailla	erottaa	0.834759644
+esittää	kylvää	1.121542419
+kirjoittaa	kilpailla	1.102681495
+virkata	koristella	0.892324432
+operoida	raapustaa	1.105892575
+koristella	työskennellä	0.989664881
+rakentaa	julkaista	1.276242574
+ommella	rekrytoida	1.009883608
+imitoida	pitää	0.941303337
+ohjata	rakentaa	1.034668471
+tehdä	esiintyä jonakin	1.173018078
+onnistua	raapustaa	1.22301906
+värittää	räpätä	1.18154047
+arvostella	astuttaa	1.008466005
+kirjoittaa	virkata	0.802342741
+tanssia	räpätä	0.863598996
+kasvattaa	pitää paussi	0.919376078
+tuottaa	koristella	0.972029087
+maalata	ohjata	0.997238285
+valmistua	astuttaa	1.176579138
+rekrytoida	operoida	1.027443615
+arvostella	laulaa	0.927149427
+värittää	koristella	0.756153113
+yrittää	tehdä työtä	0.850146809
+kasvattaa	hahmotella	1.071588426
+virkata	värittää	0.810189339
+kiillottaa	operoida	1.111587432
+pitää paussi	käsitellä	0.926229467
+kilpailla	kasvattaa	0.801888128
+kiillottaa	onnistua	1.057815472
+tehdä	merkitä	1.188457561
+valmistua	edistää	0.896012843
+merkitä	tehdä työtä	1.098359571
+hoitaa	hahmotella	0.936142953
+pitää paussi	kouluttaa	0.946524444
+esittää	ylentää	1.094602687
+maalata	lukea	1.032020507
+tuottaa	harjoittaa	0.863087239
+hakea	koristella	1.208256264
+oppia	kehittää	0.769803098
+kasvattaa	julkaista	1.122335439
+arvostella	tuottaa	0.824843209
+kuvata	värittää	0.601633709
+lukea	pyrkiä	0.821815312
+tehdä	raapustaa	1.127683856
+pitää	ilmoittautua	0.878662304
+edistää	harjoittaa	0.760569613
+kouluttaa	hoitaa	0.87618914
+luoda	astuttaa	1.212365019
+erottaa	leikkiä	0.901396531
+erottaa	esiintyä jonakin	1.098633552
+ohjata	tuottaa	0.972708695
+virkata	kasvattaa	0.934425306
+tanssia	laulaa	0.868136539
+leikkiä	kiillottaa	1.36179176
+arvostella	tutkia	0.776391684
+tuottaa	merkitä	1.019639627
+loistaa	kylvää	1.130256672
+laatia	tutkia	0.851941203
+lukea	ommella	1.025746064
+kouluttaa	valmistua	0.80580218
+korjata	tuottaa	0.836281653
+loistaa	julkaista	1.114704646
+rakentaa	koristella	0.854450653
+koristella	kehittää	1.028054839
+ilmoittautua	värittää	1.218119864
+hakea	rekrytoida	0.892139391
+imitoida	organisoida	1.027476184
+kiillottaa	kilpailla	1.015594464
+hakea	kilpailla	0.669833187
+koristella	käyttää	1.063721049
+korjata	pyrkiä	1.239896462
+ilmoittautua	oppia	0.882866632
+yrittää	hakea	0.718835643
+kehittää	tutkia	0.647535425
+erottaa	yrittää	0.854592008
+rekrytoida	tanssia	1.208528095
+ylentää	jäädä eläkkeelle	0.938498443
+yrittää	astuttaa	1.241381931
+tanssia	onnistua	1.027784337
+tuottaa	printata	0.920516038
+loistaa	imitoida	1.094409475
+imitoida	tanssia	0.90009028
+ilmoittautua	pitää paussi	0.956872195
+julkaista	tehdä	1.128579382
+kilpailla	laatia	1.073585976
+tehdä työtä	puurtaa	0.348021365
+pitää paussi	esittää	1.035350203
+maalata	hoitaa	1.10488121
+puurtaa	kirjoittaa	1.129202862
+esittää	kouluttaa	0.927769046
+kuvata	opettaa	1.232277018
+imitoida	tehdä	1.160108625
+kouluttaa	lukea	0.768119408
+opettaa	pitää paussi	1.077204665
+yrittää	julkaista	1.247584823
+jäädä eläkkeelle	puurtaa	0.936077286
+voittaa	loistaa	0.849621373
+raapustaa	säveltää	0.792579965
+virkata	yrittää	0.972653329
+rakentaa	harjoittaa	1.019116474
+piirtää	kutoa	0.759202887
+oppia	yrittää	0.837017063
+raapustaa	tanssia	1.105951833
+lukea	valmistua	0.86554685
+yrittää	maalata	1.275105715
+hoitaa	kehittää	0.682313241
+saavuttaa	merkitä	1.096984109
+kasvattaa	saavuttaa	0.839010637
+pitää	työskennellä	0.941757437
+harjoittaa	tanssia	1.163346348
+operoida	lukea	1.046723657
+voittaa	onnistua	0.28988174
+puurtaa	koristella	0.947024308
+kiillottaa	työskennellä	1.083100733
+tehdä	piirtää	1.109218582
+hakea	jäädä eläkkeelle	0.902480674
+hoitaa	printata	1.247641451
+julkaista	työskennellä	1.099897242
+pyrkiä	julkaista	1.079508985
+opettaa	organisoida	0.836366281
+laatia	tanssia	1.055633784
+kiillottaa	ylentää	1.12342467
+luoda	käsitellä	1.026946582
+korjata	harjoittaa	1.045006142
+opettaa	ommella	0.978023206
+opettaa	valmistua	0.910819296
+pyrkiä	tuottaa	0.984962014
+käyttää	raapustaa	1.139191848
+astuttaa	tehdä	1.248565564
+opettaa	ohjata	0.443261971
+voittaa	esiintyä jonakin	1.045673687
+kasvattaa	piirtää	1.109136075
+printata	valmistua	1.089099373
+erottaa	puurtaa	0.860996593
+pitää	harjoittaa	0.898913729
+kehittää	kilpailla	0.789147308
+kasvattaa	harjoittaa	0.909799551
+jäädä eläkkeelle	kasvattaa	0.982842756
+edistää	kasvattaa	0.77025285
+laatia	kylvää	1.224980281
+astuttaa	hoitaa	1.110782747
+kiillottaa	laulaa	1.273329295
+maalata	operoida	0.941091227
+opiskella	laulaa	1.232870142
+käsitellä	kirjoittaa	1.035763951
+virkata	rakentaa	0.802137846
+ylentää	raapustaa	1.102372338
+säveltää	toimia	1.060218964
+maalata	menestyä	1.205498635
+operoida	yrittää	0.936418551
+hoitaa	kuvata	1.123065165
+leikkiä	koristella	1.140940991
+organisoida	kiillottaa	1.157247955
+värittää	yrittää	1.238582807
+operoida	räpätä	1.196014005
+arvostella	käsitellä	0.780923766
+esiintyä jonakin	leikkiä	0.574388468
+korjata	julkaista	1.336108189
+ilmoittautua	soittaa	0.820253603
+laulaa	puurtaa	1.305346881
+virkata	edistää	1.057901775
+organisoida	ilmoittautua	0.920324176
+merkitä	kiillottaa	1.236641619
+tanssia	luoda	0.902351884
+värittää	loistaa	1.026417353
+merkitä	esittää	1.13548091
+esittää	tuottaa	1.080397107
+kaunistaa	ylentää	1.12247638
+luoda	rekrytoida	0.938825758
+voittaa	kuvata	1.393726043
+raapustaa	astuttaa	0.973350913
+säveltää	esiintyä jonakin	0.974376996
+kutoa	värittää	0.786517929
+virkata	ilmoittautua	1.011881543
+laulaa	värittää	1.071925026
+rekrytoida	käyttää	1.123305603
+kasvattaa	tuottaa	1.120461845
+ohjata	merkitä	1.091742427
+säveltää	ohjata	0.873325827
+toimia	menestyä	0.63067515
+säveltää	opettaa	0.856878984
+puurtaa	onnistua	0.892041924
+valmistua	maalata	1.255784782
+kutoa	työskennellä	1.030133108
+pyrkiä	kilpailla	0.661977821
+ylentää	tehdä	0.924219254
+ilmoittautua	yrittää	0.778051656
+lukea	erottaa	0.836639536
+opettaa	työskennellä	0.822500124
+rakentaa	säveltää	0.805446427
+lukea	puurtaa	0.884608991
+opiskella	ylentää	0.842532865
+organisoida	kasvattaa	0.770600444
+organisoida	merkitä	1.033880498
+esiintyä jonakin	yrittää	0.994847004
+leikkiä	tanssia	0.973429981
+pitää paussi	jäädä eläkkeelle	0.561452191
+maalata	kuvata	0.610054675
+jäädä eläkkeelle	koristella	1.158565448
+valmistua	pyrkiä	0.750536446
+kylvää	ilmoittautua	1.234322533
+laatia	työskennellä	0.955760991
+kasvattaa	kylvää	1.152041012
+merkitä	luoda	1.151921464
+kylvää	soittaa	1.17333138
+hahmotella	luoda	0.921769514
+merkitä	menestyä	1.001610435
+laulaa	menestyä	1.14450294
+värittää	pyrkiä	1.300754439
+imitoida	raapustaa	0.965186264
+jäädä eläkkeelle	astuttaa	1.15538162
+edistää	onnistua	0.792700719
+kouluttaa	opiskella	0.524121636
+räpätä	tutkia	1.117342973
+puurtaa	julkaista	1.042853226
+loistaa	tutkia	1.027020124
+yrittää	menestyä	0.544718898
+loistaa	hahmotella	1.039901421
+pitää	kutoa	1.171959537
+tanssia	merkitä	1.022272266
+ylentää	onnistua	0.664529717
+kaunistaa	jäädä eläkkeelle	1.116691249
+värittää	printata	0.737835544
+erottaa	räpätä	1.182401492
+opettaa	tehdä työtä	0.730272867
+kutoa	esittää	0.860296314
+kasvattaa	esiintyä jonakin	0.934568302
+kouluttaa	tutkia	0.675378656
+piirtää	opiskella	1.180124809
+luoda	valmistua	1.099141944
+kouluttaa	maalata	1.126191126
+pitää	raapustaa	1.003291402
+leikkiä	pitää paussi	1.000141468
+menestyä	erottaa	0.847251133
+kaunistaa	työskennellä	1.063607477
+piirtää	kouluttaa	1.137546298
+opiskella	tanssia	1.080243041
+räpätä	oppia	1.231574574
+edistää	pyrkiä	0.806815305
+tehdä työtä	pyrkiä	0.815710134
+oppia	tutkia	0.679847006
+laatia	imitoida	1.184836533
+värittää	opettaa	1.185960426
+yrittää	kehittää	0.82054232
+laatia	kasvattaa	1.002233279
+menestyä	käsitellä	0.78010273
+astuttaa	hakea	1.068017348
+piirtää	kaunistaa	0.799125002
+raapustaa	koristella	0.820106946
+kutoa	kiillottaa	0.802436119
+pitää	tutkia	0.718658852
+valmistua	saavuttaa	0.657275477
+hakea	ylentää	0.982570633
+kutoa	laulaa	0.962543638
+räpätä	kutoa	1.019243894
+kutoa	kehittää	0.936214839
+kutoa	koristella	0.87516285
+kirjoittaa	pitää	0.846258229
+käsitellä	laulaa	1.185837895
+kutoa	kasvattaa	1.041870333
+maalata	tehdä	1.077797471
+kasvattaa	värittää	1.185263232
+tehdä työtä	tanssia	0.971938392
+ohjata	harjoittaa	0.856659415
+pyrkiä	säveltää	1.175215962
+koristella	maalata	0.722601229
+laatia	värittää	1.162346901
+värittää	leikkiä	1.030727846
+operoida	soittaa	1.013401277
+kirjoittaa	julkaista	1.051027337
+voittaa	raapustaa	1.304247884
+edistää	työskennellä	0.835719755
+hoitaa	ylentää	0.897103745
+jäädä eläkkeelle	opiskella	0.860066382
+tutkia	toimia	0.781049732
+saavuttaa	hoitaa	0.794531062
+säveltää	työskennellä	1.060964256
+kiillottaa	rakentaa	0.867044329
+opiskella	käyttää	1.093090443
+hakea	tutkia	0.767168353
+julkaista	kutoa	1.121797358
+erottaa	pyrkiä	0.904576207
+arvostella	imitoida	0.905694103
+kylvää	jäädä eläkkeelle	1.142760232
+tuottaa	pitää	0.788493128
+korjata	kouluttaa	1.107680043
+pitää	laatia	0.688663508
+lukea	laatia	0.913985433
+pitää paussi	kehittää	0.842624041
+kutoa	merkitä	1.067909865
+käyttää	kylvää	1.083458461
+kaunistaa	värittää	0.653765831
+printata	tehdä	1.027197029
+tanssia	saavuttaa	1.109066616
+käsitellä	rekrytoida	0.909711433
+virkata	korjata	0.880553211
+loistaa	kasvattaa	1.290519703
+hoitaa	pitää paussi	0.888075269
+organisoida	säveltää	1.009075213
+voittaa	kutoa	1.048567447
+yrittää	pitää	0.907925664
+loistaa	käsitellä	1.072180528
+imitoida	voittaa	1.04953179
+toimia	oppia	0.951498242
+pyrkiä	käyttää	1.030822629
+käyttää	käsitellä	0.857058505
+raapustaa	printata	0.683063928
+printata	kuvata	0.786879405
+tehdä työtä	oppia	0.810743203
+laatia	kutoa	1.172859587
+työskennellä	soittaa	1.059732387
+saavuttaa	värittää	1.340640138
+esiintyä jonakin	pyrkiä	1.058603133
+merkitä	kylvää	1.044462709
+kouluttaa	merkitä	0.988648451
+operoida	luoda	0.804374572
+voittaa	leikkiä	1.160113539
+hakea	oppia	0.797306234
+kilpailla	laulaa	1.081053272
+rekrytoida	kasvattaa	1.062551139
+kasvattaa	hoitaa	0.656146431
+kiillottaa	tehdä työtä	1.056553099
+erottaa	soittaa	1.091807552
+saavuttaa	oppia	0.754110038
+piirtää	kehittää	0.91966123
+julkaista	piirtää	0.97391532
+maalata	soittaa	0.844191508
+kiillottaa	kasvattaa	1.179728373
+hakea	julkaista	0.958834105
+edistää	kutoa	1.115129576
+ommella	tehdä työtä	0.824481598
+tuottaa	tanssia	0.871630714
+kylvää	voittaa	1.111641701
+organisoida	jäädä eläkkeelle	0.969336759
+kiillottaa	julkaista	1.019750319
+rakentaa	soittaa	0.979619036
+kirjoittaa	organisoida	1.034755796
+opettaa	laulaa	1.10015047
+pitää	erottaa	1.122126066
+maalata	kiillottaa	0.920478197
+lukea	luoda	0.90249634
+ilmoittautua	puurtaa	0.83986197
+harjoittaa	opettaa	0.656667187
+piirtää	kirjoittaa	0.686394307
+räpätä	yrittää	1.116454166
+rakentaa	opiskella	0.963269495
+onnistua	valmistua	0.570539031
+organisoida	valmistua	0.848577077
+virkata	kaunistaa	0.91178396
+raapustaa	tutkia	1.145628894
+menestyä	leikkiä	1.170494373
+printata	maalata	0.651983757
+hoitaa	yrittää	0.743889364
+pitää	tehdä työtä	0.936231403
+tuottaa	käyttää	0.68138379
+esiintyä jonakin	merkitä	1.134135056
+tutkia	kasvattaa	0.781512839
+koristella	käsitellä	1.187399554
+esittää	kasvattaa	0.945835405
+voittaa	merkitä	1.0525434
+kirjoittaa	leikkiä	0.982012698
+ilmoittautua	astuttaa	1.224860324
+arvostella	menestyä	0.869190691
+laulaa	koristella	1.139633651
+erottaa	rekrytoida	0.7245899
+soittaa	astuttaa	1.090618215
+tehdä	kirjoittaa	1.032559341
+kasvattaa	kirjoittaa	1.068663405
+toimia	opettaa	0.980102936
+virkata	rekrytoida	1.02787693
+rakentaa	jäädä eläkkeelle	0.998165319
+merkitä	harjoittaa	1.026497165
+maalata	saavuttaa	1.338980962
+esittää	pitää	0.884188351
+voittaa	säveltää	1.106488676
+piirtää	ohjata	1.037468475
+lukea	virkata	0.975832124
+virkata	organisoida	1.014783119
+hahmotella	esiintyä jonakin	0.84853941
+virkata	erottaa	1.075601732
+voittaa	arvostella	0.773882436
+imitoida	tutkia	0.965077099
+operoida	kutoa	0.977924766
+kaunistaa	leikkiä	1.123024746
+tuottaa	jäädä eläkkeelle	0.787421146
+virkata	ohjata	0.987274963
+esiintyä jonakin	lukea	0.777817212
+loistaa	maalata	1.039820996
+kehittää	onnistua	0.841789871
+kouluttaa	oppia	0.594160118
+käsitellä	toimia	1.004149727
+esittää	menestyä	1.112046599
+laatia	piirtää	1.100307322
+tuottaa	raapustaa	1.015852751
+imitoida	tuottaa	1.030421359
+esiintyä jonakin	kouluttaa	0.986380005
+hakea	printata	1.240918068
+rekrytoida	imitoida	1.081631496
+pitää	jäädä eläkkeelle	1.116330637
+puurtaa	tanssia	1.01595572
+operoida	ylentää	0.969656676
+kouluttaa	kirjoittaa	0.980438317
+yrittää	valmistua	0.674270151
+harjoittaa	pitää paussi	1.049493195
+organisoida	oppia	0.926946804
+menestyä	kuvata	1.23891989
+loistaa	harjoittaa	0.976688498
+säveltää	kirjoittaa	0.653393847
+kasvattaa	tehdä	1.090853212
+oppia	ohjata	0.724466209
+leikkiä	julkaista	1.01168643
+leikkiä	korjata	1.166326277
+säveltää	räpätä	0.990310016
+merkitä	käsitellä	1.058700512
+saavuttaa	tehdä	0.817203047
+tehdä	koristella	1.072091951
+astuttaa	saavuttaa	1.256477571
+menestyä	hakea	0.725050421
+hahmotella	piirtää	0.708746376
+erottaa	korjata	1.146234584
+printata	opettaa	0.950530405
+pyrkiä	oppia	0.819798938
+luoda	leikkiä	0.994188613
+käsitellä	imitoida	1.048695546
+lukea	harjoittaa	0.876128375
+laulaa	oppia	1.255185808
+työskennellä	kilpailla	0.961869794
+lukea	oppia	0.600374835
+kirjoittaa	tutkia	0.936873267
+värittää	operoida	0.857884309
+opiskella	saavuttaa	0.836663259
+virkata	pitää	1.12439098
+rakentaa	oppia	0.989437495
+kylvää	värittää	0.931593142
+räpätä	tehdä työtä	1.268785153
+tanssia	pitää	0.826988077
+menestyä	saavuttaa	0.287102447
+korjata	laatia	1.320847776
+rekrytoida	puurtaa	0.917522107
+ilmoittautua	käsitellä	0.949282133
+valmistua	hoitaa	0.845349787
+operoida	rakentaa	0.887139752
+toimia	hakea	0.704842101
+työskennellä	rekrytoida	0.83558388
+lukea	arvostella	0.810573367
+valmistua	tehdä	0.902733417
+opettaa	imitoida	0.987182918
+oppia	käyttää	1.194878324
+maalata	tehdä työtä	1.118183276
+merkitä	astuttaa	1.002627489
+harjoittaa	esittää	1.064363488
+raapustaa	toimia	1.337932238
+säveltää	kilpailla	1.11106159
+rakentaa	lukea	1.16147595
+leikkiä	saavuttaa	1.115007865
+kuvata	leikkiä	0.88709589
+loistaa	työskennellä	0.772366865
+tehdä työtä	tuottaa	0.676129052
+räpätä	saavuttaa	1.28923889
+operoida	leikkiä	1.082740148
+laatia	ohjata	0.926353898
+menestyä	työskennellä	0.711407062
+maalata	leikkiä	0.990296001
+laulaa	hoitaa	0.879383838
+kirjoittaa	pyrkiä	1.048395771
+imitoida	esiintyä jonakin	0.370543086
+soittaa	käyttää	1.06643578
+räpätä	lukea	1.07460403
+tuottaa	laulaa	1.204833699
+opiskella	hoitaa	0.961176106
+kasvattaa	työskennellä	1.057658004
+käsitellä	maalata	1.126241303
+oppia	kutoa	1.119562863
+esiintyä jonakin	rakentaa	0.957640391
+imitoida	kirjoittaa	1.007641603
+kaunistaa	laatia	0.975155463
+kouluttaa	tehdä	0.859139048
+erottaa	käsitellä	0.998928178
+arvostella	edistää	0.918866763
+koristella	kuvata	0.827711997
+laulaa	toimia	1.06348625
+printata	oppia	1.105132685
+valmistua	ohjata	1.003968363
+hahmotella	pitää paussi	1.038490544
+tehdä työtä	operoida	0.602091266
+kiillottaa	piirtää	0.905663118
+tutkia	kutoa	1.215509899
+tehdä työtä	virkata	0.885072572
+koristella	rekrytoida	1.195551018
+soittaa	pitää	1.066862896
+hoitaa	julkaista	1.034134421
+laulaa	virkata	1.122291956
+harjoittaa	ylentää	0.959436158
+leikkiä	esittää	0.865117815
+kylvää	hakea	1.019072482
+kuvata	imitoida	0.95498344
+oppia	julkaista	1.031239568
+astuttaa	rakentaa	1.182456916
+toimia	rekrytoida	0.837825631
+tanssia	pyrkiä	1.081370135
+ohjata	tanssia	1.099070184
+esiintyä jonakin	värittää	1.080309642

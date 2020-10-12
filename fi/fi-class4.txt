@@ -1,0 +1,1831 @@
+Word1	Word2	Score
+välittää	jättää huomiotta	0.968454438
+ennustaa	uskoa	0.581537112
+arvata	ennustaa	0.524726411
+määrittää	tietää	0.845937389
+osoittaa	uskoa	0.757740476
+ajatella	laskea	1.044325458
+muistaa	selventää	1.182090521
+aikoa	perustella	1.161665899
+keskittyä	tajuta	1.037205987
+määrittää	miettiä	0.874436962
+järjestää	tarkastella	0.891986807
+käsittää	jättää huomiotta	1.010850232
+palauttaa mieleen	määritellä	1.097358873
+arvata	huomata	0.905358248
+odottaa	tuntea	0.824118552
+muistaa	välittää	1.05268778
+keksiä	kuvailla	0.86914015
+käsittää	välittää	0.921251041
+miettiä	rukoilla	1.19852678
+odottaa	väittää	1.112263971
+jättää huomiotta	tarkastella	1.134028234
+palauttaa mieleen	miettiä	1.034458515
+informoida	rukoilla	0.943703438
+odottaa	pohtia	1.025352602
+tajuta	merkitä	1.047777399
+muistaa	arvata	0.852529649
+tuntea	sumentaa	1.083166727
+heijastaa	tarkastella	0.880993766
+aikoa	epäröidä	1.133089175
+ratkaista	analysoida	0.854773119
+määritellä	jättää huomiotta	1.291936214
+myöntää	kuvailla	0.939521167
+kuvailla	merkitä	0.908039821
+muistuttaa	rationalisoida	1.159622896
+tietää	olettaa	0.898655249
+huomata	suunnitella	0.829458797
+laskea	tuntea	0.932754169
+informoida	tuntea	0.931785608
+merkitä	osoittaa	0.872913763
+informoida	rationalisoida	1.199875136
+epäillä	määrittää	0.915015912
+arvioida	rukoilla	0.945731232
+välittää	hyväksyä	0.878870326
+pohtia	keksiä	0.467964096
+merkitä	laskea	1.157433819
+väittää	heijastaa	1.292440174
+ennustaa	miettiä	0.881966878
+pitää parempana	tajuta	0.941363352
+tuntea	kuvailla	0.951738956
+laskea	tarkastella	0.987084201
+integroida	osoittaa	0.817950016
+palauttaa mieleen	informoida	1.034525054
+ajatella	selittää	0.974547666
+määrittää	tavoitella	1.066638404
+olla tuloksena	käsittää	0.788152269
+kuvitella	määritellä	0.882481658
+lukea	määritellä	0.894559423
+välittää	kuvitella	0.906172201
+tuntea	tarkastella	0.993366742
+heijastaa	palauttaa mieleen	0.862105789
+arvioida	merkitä	0.939954025
+rentoutua	hyväksyä	1.125791615
+välittää	väittää	1.147178047
+kuvitella	suunnitella	0.88635383
+olettaa	huomata	0.950219978
+uskoa	jättää huomiotta	1.17482062
+uskoa	miettiä	1.035845915
+ennustaa	väittää	1.052184174
+ymmärtää	väittää	0.939201845
+ajatella	rentoutua	1.402081414
+epäillä	merkitä	1.086050011
+tajuta	uskoa	1.038079596
+todistaa	kuvailla	0.940523276
+informoida	keskittyä	1.166407652
+kuvailla	informoida	1.037653487
+tietää	pitää parempana	0.899046878
+keskittyä	tarkastella	0.682168357
+ratkaista	integroida	0.687877537
+olettaa	unohtaa	0.953882219
+ratkaista	arvostella	0.998309035
+keksiä	ohjeistaa	1.036242778
+lukea	pohtia	1.07247671
+jättää huomiotta	muistuttaa	1.041735359
+tarkastella	ratkaista	0.89361333
+määrittää	jättää huomiotta	1.353676572
+pohtia	heijastaa	1.054015662
+huomata	arvostella	0.759251355
+todistaa	arvata	0.883793876
+rationalisoida	epäröidä	0.986666263
+lukea	miettiä	1.089806717
+tajuta	olettaa	0.871712318
+perustella	rentoutua	1.328112497
+ennustaa	keksiä	0.891498945
+laskea	jättää huomiotta	1.299479249
+keksiä	laskea	0.673079008
+tavoitella	järjestää	0.82283366
+valita	arvata	0.835719888
+ajatella	keskittyä	0.60785852
+huomata	tietää	0.93234708
+arvata	miettiä	0.75898531
+päättää	ohjeistaa	1.094141204
+valita	ratkaista	1.000976715
+valita	välittää	1.112115244
+arvostella	miettiä	0.98464904
+rukoilla	selventää	1.084702541
+rationalisoida	keskittyä	0.7046153
+tarkastella	olettaa	0.895779276
+ohjeistaa	kuvitella	0.900645573
+ohjeistaa	merkitä	1.116594729
+ajatella	keksiä	0.700291809
+ohjeistaa	tarkoittaa	0.895050564
+integroida	valita	1.074684442
+palauttaa mieleen	olla tuloksena	1.069940684
+välittää	arvata	0.936749109
+tavoitella	osoittaa	0.910951324
+ajatella	jättää huomiotta	1.189965951
+jättää huomiotta	selventää	1.417958827
+todistaa	väittää	0.684938912
+uskoa	huomata	1.023867445
+tuntea	epäillä	0.822350084
+järjestää	valita	0.840361429
+olla tuloksena	arvata	0.872365164
+uskoa	tuntea	0.891699794
+selventää	ajatella	0.931699839
+analysoida	palauttaa mieleen	1.019163929
+tietää	odottaa	0.913276544
+tarkoittaa	sumentaa	1.290405959
+ratkaista	epäillä	0.885516548
+perustella	keksiä	0.954955235
+valita	epäillä	1.026371731
+informoida	ajatella	1.266681756
+osoittaa	väittää	0.85702672
+tarkoittaa	päättää	1.215324467
+hyväksyä	tietää	0.852066614
+jättää huomiotta	arvata	1.054626707
+laskea	ymmärtää	0.791361029
+epäillä	tarkoittaa	1.184479644
+olla tuloksena	huomata	0.931858954
+sumentaa	olettaa	0.983390474
+aikoa	ratkaista	0.778835972
+tarkastella	määritellä	0.819896469
+ymmärtää	selventää	0.676351291
+epäröidä	odottaa	1.137994357
+ymmärtää	tarkoittaa	0.689070825
+kuvitella	lukea	1.190761563
+ohjeistaa	informoida	0.413139092
+valita	määrittää	0.991029314
+suunnitella	todistaa	0.990609506
+kuvailla	pohtia	0.822366721
+ymmärtää	välittää	0.889922264
+järjestää	unohtaa	0.954846446
+osoittaa	miettiä	1.158654999
+odottaa	todistaa	1.159181403
+pitää parempana	määrittää	1.17066443
+heijastaa	analysoida	0.921916718
+järjestää	määritellä	0.737153928
+olla tuloksena	arvostella	1.024189235
+laskea	määrittää	0.982092516
+suunnitella	analysoida	0.70420213
+olla tuloksena	integroida	0.863321312
+väittää	laskea	1.102003494
+määritellä	ratkaista	0.902305403
+muistaa	perustella	1.205332961
+lukea	jättää huomiotta	1.426216535
+huomata	todistaa	1.072419877
+kuvitella	myöntää	1.039413236
+kuvitella	jättää huomiotta	0.957591487
+ymmärtää	arvioida	0.583190575
+kuvitella	määrittää	0.964295833
+käsittää	keskittyä	0.957648785
+tuntea	välittää	1.248369256
+muistuttaa	pitää parempana	1.15267962
+tuntea	keksiä	0.883158874
+miettiä	valita	0.92351833
+selittää	tarkoittaa	0.603648631
+arvioida	arvostella	0.619504449
+selittää	ratkaista	0.726334408
+ymmärtää	myöntää	0.663775358
+välittää	ratkaista	0.959192066
+muistuttaa	sumentaa	1.05609251
+välittää	aikoa	0.85584105
+laskea	pohtia	1.009665178
+odottaa	arvostella	1.183659776
+valita	kuvitella	0.871218593
+tavoitella	ymmärtää	0.892349767
+pitää parempana	merkitä	1.121317597
+rukoilla	hyväksyä	1.107150718
+tajuta	odottaa	1.058714599
+ratkaista	käsittää	0.610435943
+määritellä	arvostella	0.585237358
+käsittää	heijastaa	1.044114661
+miettiä	määritellä	0.875852328
+muistaa	muistuttaa	0.732246492
+hyväksyä	tarkastella	1.101646226
+perustella	selittää	0.824574282
+arvioida	rationalisoida	0.624940742
+myöntää	selventää	0.885417151
+määrittää	ajatella	0.93184516
+uskoa	merkitä	0.99695182
+selventää	odottaa	1.159423969
+miettiä	epäillä	0.81317009
+ohjeistaa	ratkaista	0.914291378
+muistuttaa	tarkastella	1.028010477
+pohtia	arvostella	0.973824675
+välittää	kuvailla	1.09033245
+todistaa	unohtaa	1.132452716
+merkitä	ajatella	1.122665513
+arvata	epäillä	0.869329319
+tietää	kuvitella	0.894013771
+sumentaa	heijastaa	0.937297063
+huomata	osoittaa	1.122851605
+valita	tarkastella	0.997702345
+sumentaa	merkitä	1.468878229
+perustella	informoida	1.30515104
+laskea	rationalisoida	0.733115756
+olettaa	osoittaa	0.722293416
+lukea	arvata	1.089193403
+väittää	unohtaa	1.125097652
+valita	rentoutua	1.186446544
+rationalisoida	tajuta	0.782714395
+käsittää	todistaa	0.791517382
+kuvailla	muistuttaa	1.058424071
+analysoida	kuvitella	0.701613899
+tajuta	myöntää	0.855267061
+epäröidä	keskittyä	0.806787207
+integroida	unohtaa	1.187914224
+todistaa	lukea	0.975457737
+kuvitella	heijastaa	0.836909766
+tietää	arvata	0.783964393
+keksiä	selventää	0.885341564
+jättää huomiotta	rentoutua	0.833076216
+arvata	määrittää	0.877920587
+huomata	tuntea	0.876652524
+ratkaista	pohtia	0.829404799
+määritellä	välittää	1.003966154
+hyväksyä	keksiä	0.950299121
+epäröidä	ohjeistaa	1.18439608
+keksiä	informoida	1.020616553
+valita	epäröidä	1.041104967
+käsittää	odottaa	1.004243992
+tietää	uskoa	0.890342531
+huomata	pohtia	0.766002014
+tuntea	ratkaista	0.848415299
+rukoilla	pohtia	1.063994841
+merkitä	keksiä	1.183554109
+olla tuloksena	keksiä	1.009718156
+analysoida	arvata	0.875555003
+keksiä	muistaa	1.043969975
+jättää huomiotta	rukoilla	1.014599979
+kuvitella	unohtaa	1.208332082
+muistuttaa	lukea	1.05391987
+tavoitella	suunnitella	0.896176974
+heijastaa	pitää parempana	0.959132239
+arvata	tarkastella	0.784054851
+miettiä	väittää	1.254594908
+laskea	muistuttaa	1.163898064
+suunnitella	tarkoittaa	0.89486887
+suunnitella	palauttaa mieleen	0.945060069
+ratkaista	väittää	1.086022446
+miettiä	tarkastella	0.602785229
+palauttaa mieleen	tarkastella	1.074966034
+jättää huomiotta	merkitä	1.190770941
+analysoida	arvostella	0.706668348
+arvostella	integroida	0.831951555
+tajuta	kuvailla	0.800611864
+tarkastella	selittää	0.854986301
+tajuta	arvata	0.6936881
+tajuta	arvioida	0.673717886
+tuntea	tietää	0.831462015
+heijastaa	arvioida	1.012182934
+aikoa	analysoida	0.958276791
+väittää	palauttaa mieleen	1.074767843
+rationalisoida	muistaa	1.036961147
+ymmärtää	perustella	0.893912983
+ratkaista	informoida	1.060609925
+odottaa	heijastaa	1.116209287
+aikoa	olettaa	1.076572898
+lukea	perustella	0.989708846
+ajatella	hyväksyä	1.181210969
+todistaa	välittää	1.152812788
+ennustaa	rentoutua	1.036344611
+valita	ymmärtää	0.923187905
+määritellä	tarkoittaa	0.583995328
+ohjeistaa	muistuttaa	1.022618271
+pitää parempana	epäröidä	0.922392333
+perustella	jättää huomiotta	1.401360391
+aikoa	ohjeistaa	1.037956578
+tietää	päättää	1.006301305
+keskittyä	laskea	1.021612201
+olla tuloksena	väittää	0.978563112
+perustella	integroida	0.924760029
+määritellä	analysoida	0.568884697
+tarkoittaa	analysoida	0.951737842
+ajatella	todistaa	0.977529564
+epäröidä	tavoitella	1.020773071
+tuntea	ennustaa	1.035250796
+päättää	aikoa	0.702142189
+määrittää	tuntea	0.948097341
+analysoida	rukoilla	1.205002086
+muistuttaa	heijastaa	1.034154126
+suunnitella	uskoa	0.816990458
+rukoilla	ymmärtää	0.859129365
+uskoa	ratkaista	1.120527471
+keskittyä	keksiä	0.826544869
+olla tuloksena	tarkoittaa	1.025293455
+odottaa	päättää	0.955692761
+ratkaista	jättää huomiotta	1.175951955
+heijastaa	määrittää	1.194964399
+uskoa	laskea	1.261556643
+muistuttaa	odottaa	0.886298818
+informoida	todistaa	1.172899011
+sumentaa	uskoa	1.15126699
+palauttaa mieleen	pitää parempana	1.06057889
+lukea	unohtaa	1.343511612
+arvioida	selventää	0.873532979
+olettaa	ennustaa	0.969939073
+ratkaista	todistaa	0.907600291
+arvostella	ennustaa	0.854547523
+unohtaa	valita	1.309523836
+huomata	epäröidä	0.788918368
+järjestää	osoittaa	1.171935073
+selittää	ohjeistaa	0.933112197
+keksiä	epäröidä	0.929065753
+arvioida	välittää	0.743031038
+muistaa	kuvitella	0.903180927
+huomata	järjestää	0.919588218
+unohtaa	pohtia	1.355820981
+rukoilla	tajuta	1.066856826
+tavoitella	hyväksyä	0.932981188
+keksiä	väittää	1.20226292
+tarkastella	tajuta	0.870592758
+uskoa	päättää	1.361210904
+sumentaa	selventää	1.48052388
+epäillä	järjestää	0.711072504
+laskea	selventää	0.798628529
+muistuttaa	todistaa	1.113174687
+myöntää	valita	1.019547213
+suunnitella	tuntea	1.003625311
+pohtia	tuntea	1.00438992
+kuvitella	selventää	0.905986209
+rentoutua	kuvailla	1.267515014
+integroida	heijastaa	0.92528395
+tajuta	analysoida	0.861358469
+käsittää	arvata	0.808119781
+lukea	selittää	1.108982019
+merkitä	määritellä	0.687256696
+käsittää	miettiä	1.089522815
+unohtaa	aikoa	0.935582799
+miettiä	keskittyä	0.590762822
+osoittaa	päättää	1.177287852
+sumentaa	epäröidä	1.299049662
+välittää	selittää	0.953758417
+heijastaa	rentoutua	0.926384567
+tarkoittaa	miettiä	1.165184105
+pitää parempana	integroida	1.029875855
+määrittää	välittää	1.054659096
+määritellä	rentoutua	1.429555233
+tarkastella	päättää	0.968888136
+ennustaa	ymmärtää	1.034370063
+hyväksyä	osoittaa	0.995632744
+määritellä	huomata	0.861729766
+palauttaa mieleen	valita	1.081389265
+muistaa	merkitä	1.148578579
+tuntea	osoittaa	0.860074036
+aikoa	odottaa	0.853257463
+palauttaa mieleen	välittää	1.073233184
+olettaa	ajatella	1.098690525
+tarkastella	perustella	0.875539386
+keksiä	rationalisoida	0.802832019
+tuntea	olettaa	0.537143925
+merkitä	arvata	0.977074922
+osoittaa	epäröidä	1.106977535
+päättää	pohtia	0.806864673
+selittää	määritellä	0.857158467
+odottaa	ohjeistaa	0.916922875
+sumentaa	arvata	1.004645094
+keskittyä	arvata	0.934424517
+uskoa	käsittää	0.89595688
+muistuttaa	integroida	0.950778285
+myöntää	rationalisoida	1.020964239
+palauttaa mieleen	selittää	1.227726933
+huomata	unohtaa	1.177026313
+perustella	muistuttaa	1.145805957
+järjestää	lukea	0.744953432
+väittää	muistaa	1.022057551
+uskoa	pohtia	0.92661483
+muistuttaa	ajatella	0.998441991
+pitää parempana	rukoilla	0.913342618
+muistaa	olla tuloksena	0.943603755
+kuvitella	integroida	0.775079111
+myöntää	päättää	1.292272689
+laskea	tajuta	0.745166938
+selittää	uskoa	0.827105383
+määrittää	selittää	0.937307727
+kuvitella	päättää	0.761168427
+rationalisoida	analysoida	0.484386191
+lukea	valita	1.088324911
+perustella	välittää	0.985945866
+selventää	tajuta	0.847685974
+tarkoittaa	tuntea	0.887392194
+integroida	tuntea	0.731043071
+osoittaa	analysoida	0.960193852
+perustella	rationalisoida	0.632611037
+perustella	tarkoittaa	0.762666125
+väittää	perustella	0.9013649
+huomata	välittää	1.024303865
+miettiä	jättää huomiotta	1.265768093
+integroida	palauttaa mieleen	1.119833123
+selventää	unohtaa	1.305097969
+kuvailla	analysoida	0.892591434
+keksiä	välittää	0.792251244
+arvostella	tuntea	1.035606568
+todistaa	keskittyä	0.8912115
+selittää	rentoutua	1.010680973
+todistaa	ohjeistaa	1.143610136
+rukoilla	kuvitella	0.971653225
+epäröidä	laskea	1.034638809
+tavoitella	ratkaista	0.8336425
+muistuttaa	määrittää	1.15450952
+ajatella	palauttaa mieleen	0.853466062
+arvata	selventää	0.799003665
+suunnitella	miettiä	0.722353337
+todistaa	tarkoittaa	0.779038946
+kuvitella	huomata	0.777948883
+arvioida	informoida	1.112383335
+olettaa	päättää	1.149603095
+epäillä	rationalisoida	1.056259118
+odottaa	olla tuloksena	1.064017598
+keksiä	arvioida	0.791359325
+määritellä	myöntää	0.904173154
+tuntea	ymmärtää	0.773433675
+selittää	arvioida	1.022952205
+todistaa	tuntea	0.86671393
+pohtia	epäröidä	1.019359099
+määritellä	unohtaa	1.271738
+määrittää	aikoa	1.085745168
+epäillä	todistaa	1.015094894
+tarkoittaa	unohtaa	1.538495623
+valita	huomata	1.112658305
+muistuttaa	ennustaa	1.001041365
+epäröidä	suunnitella	0.918009982
+keksiä	aikoa	0.61563471
+arvostella	pitää parempana	1.001669318
+rationalisoida	jättää huomiotta	1.283702628
+järjestää	välittää	1.007727477
+kuvailla	ymmärtää	0.807870674
+välittää	tarkastella	0.95440604
+väittää	kuvailla	1.052906888
+määrittää	unohtaa	1.334752092
+arvostella	sumentaa	1.266791976
+rationalisoida	uskoa	1.085580425
+rentoutua	olla tuloksena	1.158162075
+miettiä	heijastaa	0.96366547
+olettaa	analysoida	0.928117094
+olettaa	heijastaa	1.090105004
+pohtia	määrittää	0.877413653
+aikoa	järjestää	0.795779516
+muistuttaa	palauttaa mieleen	0.627780487
+muistuttaa	merkitä	1.251208741
+rukoilla	laskea	1.219054849
+ohjeistaa	tavoitella	0.853319175
+selittää	arvata	0.85572132
+kuvailla	miettiä	0.871843207
+ajatella	uskoa	1.181927037
+välittää	pohtia	0.907033408
+väittää	huomata	1.131360328
+tuntea	keskittyä	0.883732761
+laskea	käsittää	0.91911397
+arvioida	käsittää	0.757779957
+tajuta	epäröidä	1.110892101
+todistaa	selittää	0.760161938
+huomata	ennustaa	0.945945146
+merkitä	lukea	1.181701175
+pohtia	tietää	0.682895977
+merkitä	tietää	1.151904924
+pitää parempana	perustella	1.046613224
+kuvitella	osoittaa	0.952850794
+tajuta	todistaa	1.045161287
+ohjeistaa	olettaa	0.801255095
+rentoutua	uskoa	1.081019116
+aikoa	tuntea	1.083458717
+ajatella	määritellä	0.783704153
+kuvitella	pitää parempana	0.964234875
+määrittää	olettaa	0.90992494
+välittää	keskittyä	0.874495954
+epäröidä	analysoida	0.917148944
+arvostella	epäillä	0.896271511
+arvata	myöntää	0.91745611
+rationalisoida	ajatella	0.743780962
+rentoutua	lukea	1.369223786
+informoida	epäröidä	1.223834231
+määrittää	ohjeistaa	1.348983679
+selittää	järjestää	0.97605321
+ennustaa	informoida	0.929363792
+todistaa	osoittaa	0.737632093
+tajuta	väittää	1.040799652
+keksiä	tajuta	0.679502472
+suunnitella	ymmärtää	0.953298901
+määritellä	muistaa	1.035416248
+kuvitella	käsittää	0.718539713
+perustella	suunnitella	0.893653119
+tavoitella	integroida	0.917269619
+ennustaa	pitää parempana	0.974420811
+valita	muistuttaa	1.229039312
+unohtaa	keskittyä	1.096818801
+rentoutua	selventää	1.187381465
+uskoa	muistaa	1.167406818
+myöntää	laskea	0.922729899
+ennustaa	sumentaa	1.005531202
+muistuttaa	osoittaa	1.219031924
+palauttaa mieleen	merkitä	1.15917966
+keksiä	selittää	0.86705787
+sumentaa	kuvitella	1.196782604
+rukoilla	tuntea	1.178059838
+rentoutua	järjestää	0.951574606
+integroida	analysoida	0.745155483
+muistaa	odottaa	1.018196147
+suunnitella	valita	1.006737608
+huomata	selittää	0.929242544
+suunnitella	ratkaista	1.048143279
+määritellä	epäillä	0.758354029
+tietää	osoittaa	1.059645496
+olla tuloksena	ymmärtää	0.887127794
+epäillä	ymmärtää	1.032480028
+keksiä	tarkastella	0.828365153
+keksiä	arvostella	0.834531396
+pitää parempana	aikoa	1.000329236
+myöntää	tuntea	0.909387216
+rukoilla	ohjeistaa	0.759157085
+käsittää	ajatella	1.088079075
+aikoa	käsittää	1.029717597
+selittää	rukoilla	0.958069372
+ennustaa	merkitä	1.152812458
+uskoa	tavoitella	0.89329899
+odottaa	olettaa	0.817450267
+epäillä	välittää	0.91552288
+selventää	analysoida	0.879127601
+arvostella	epäröidä	0.770591777
+kuvailla	epäillä	1.01703431
+analysoida	pohtia	0.559817772
+epäröidä	ratkaista	0.965145296
+epäröidä	välittää	0.99878499
+selventää	kuvailla	0.906121703
+integroida	sumentaa	1.207706285
+tietää	ohjeistaa	1.162500855
+muistaa	integroida	1.122442154
+pitää parempana	selittää	0.905783568
+määrittää	määritellä	0.388685874
+järjestää	päättää	0.798880476
+selventää	perustella	0.577829716
+järjestää	sumentaa	1.177183395
+määrittää	todistaa	0.842222869
+käsittää	määrittää	1.017092165
+tarkastella	tavoitella	0.919510596
+valita	keksiä	0.792557369
+muistaa	myöntää	1.15784608
+keksiä	todistaa	1.011099696
+lukea	keskittyä	0.885345429
+tarkoittaa	valita	0.94667092
+merkitä	suunnitella	1.111670146
+miettiä	selittää	1.033249791
+pitää parempana	muistaa	0.923921756
+epäröidä	päättää	1.112829915
+perustella	valita	0.898150467
+tajuta	lukea	1.243905528
+välittää	uskoa	0.7552414
+heijastaa	lukea	1.343285085
+päättää	ratkaista	0.788758045
+ratkaista	hyväksyä	0.775548228
+ajatella	tavoitella	1.07309487
+tavoitella	palauttaa mieleen	1.069507515
+rentoutua	väittää	1.253943953
+perustella	merkitä	0.921840683
+myöntää	perustella	1.080660573
+jättää huomiotta	päättää	1.314176604
+integroida	huomata	0.839378785
+väittää	ajatella	1.149305497
+tajuta	muistaa	1.264545184
+selittää	analysoida	1.031762265
+muistaa	epäröidä	0.847655141
+tietää	ymmärtää	0.754469176
+määrittää	järjestää	0.918425056
+ohjeistaa	ajatella	1.270393853
+järjestää	ohjeistaa	1.072299869
+uskoa	myöntää	1.090021034
+myöntää	arvioida	0.930648929
+laskea	odottaa	0.903823777
+järjestää	tarkoittaa	1.025185912
+ennustaa	epäillä	0.988003525
+arvioida	perustella	0.643419745
+suunnitella	ajatella	0.62679394
+tajuta	ajatella	0.991375769
+määritellä	todistaa	0.617530393
+olla tuloksena	todistaa	0.827756161
+ymmärtää	järjestää	0.907756735
+myöntää	odottaa	1.006338519
+jättää huomiotta	tarkoittaa	1.244534991
+päättää	muistaa	1.21894604
+rukoilla	ennustaa	0.795370505
+unohtaa	selittää	1.284882136
+analysoida	tietää	0.619071114
+lukea	aikoa	1.248973028
+suunnitella	väittää	1.172281553
+hyväksyä	laskea	0.728471614
+sumentaa	osoittaa	1.279327554
+käsittää	analysoida	0.877911704
+jättää huomiotta	odottaa	0.866399216
+tarkoittaa	lukea	1.188378157
+päättää	analysoida	0.935069593
+valita	kuvailla	0.792548258
+tietää	keksiä	0.640345015
+informoida	tietää	1.204454906
+ajatella	sumentaa	1.326967055
+rationalisoida	ratkaista	0.878552863
+uskoa	määritellä	0.761132205
+muistaa	tietää	1.023151921
+käsittää	rentoutua	1.009069696
+epäillä	pohtia	0.810767261
+kuvitella	laskea	0.968733473
+arvostella	osoittaa	0.951533059
+laskea	suunnitella	1.137037928
+analysoida	unohtaa	1.232840202
+väittää	jättää huomiotta	1.289520837
+aikoa	integroida	0.935675781
+muistuttaa	välittää	1.118618919
+määrittää	ymmärtää	0.810714472
+tietää	järjestää	0.817395037
+rationalisoida	järjestää	0.807910002
+keskittyä	arvioida	0.672287779
+jättää huomiotta	informoida	0.907437529
+käsittää	osoittaa	0.822028569
+integroida	arvata	0.831196151
+väittää	tuntea	0.787002946
+epäillä	tarkastella	0.942035184
+arvioida	kuvitella	0.675191137
+integroida	myöntää	0.849565508
+epäröidä	tarkastella	1.055804958
+kuvailla	arvata	0.698242085
+huomata	keskittyä	0.82661015
+väittää	määrittää	1.114495313
+ennustaa	arvioida	0.814818873
+päättää	selittää	0.987973316
+palauttaa mieleen	huomata	0.776819153
+hyväksyä	määrittää	1.012459248
+tajuta	järjestää	1.00056277
+lukea	palauttaa mieleen	1.106541142
+olla tuloksena	ohjeistaa	0.863644339
+rentoutua	muistaa	1.0557421
+rukoilla	integroida	0.909871699
+jättää huomiotta	myöntää	1.060171929
+muistaa	sumentaa	1.243231247
+perustella	järjestää	1.016481928
+odottaa	unohtaa	0.818621686
+päättää	heijastaa	0.999259532
+analysoida	perustella	0.667058259
+olla tuloksena	valita	1.06927675
+ohjeistaa	heijastaa	1.014531377
+käsittää	merkitä	0.937797003
+osoittaa	unohtaa	1.079346305
+arvioida	unohtaa	1.313941663
+suunnitella	olettaa	0.964306717
+ajatella	välittää	0.955119991
+suunnitella	rationalisoida	0.753502507
+perustella	kuvitella	1.060737274
+ratkaista	keskittyä	0.95758459
+informoida	olettaa	0.820955868
+uskoa	ohjeistaa	0.978620096
+hyväksyä	keskittyä	1.106691922
+merkitä	kuvitella	1.146661279
+ohjeistaa	käsittää	0.973540351
+tavoitella	pitää parempana	0.782347133
+olla tuloksena	hyväksyä	0.849666229
+odottaa	huomata	0.918393121
+palauttaa mieleen	kuvitella	0.948251736
+odottaa	rukoilla	0.937256377
+tavoitella	rationalisoida	0.815074324
+palauttaa mieleen	tietää	1.067021419
+rentoutua	arvioida	1.182993662
+hyväksyä	kuvailla	1.024408167
+päättää	väittää	1.25227437
+pohtia	olla tuloksena	1.261276172
+aikoa	väittää	1.391196213
+jättää huomiotta	ennustaa	1.126950943
+keksiä	jättää huomiotta	1.172702406
+määritellä	aikoa	1.1949001
+tarkastella	ajatella	0.705816335
+selittää	suunnitella	0.944602377
+palauttaa mieleen	myöntää	1.084691349
+päättää	todistaa	1.129584957
+hyväksyä	arvata	0.849854675
+muistaa	tarkoittaa	1.107129522
+ymmärtää	analysoida	0.809010688
+uskoa	ymmärtää	0.964826083
+päättää	käsittää	0.933130609
+sumentaa	laskea	1.296286761
+perustella	ohjeistaa	1.263268023
+muistaa	suunnitella	0.974629513
+tavoitella	heijastaa	0.855073985
+käsittää	ennustaa	0.892406042
+arvostella	määrittää	0.912074349
+uskoa	analysoida	0.973551063
+analysoida	huomata	0.912712242
+väittää	tavoitella	1.234465868
+olettaa	väittää	0.797369138
+huomata	tavoitella	1.042364978
+pohtia	pitää parempana	1.083963659
+arvostella	tajuta	0.789989097
+arvioida	tuntea	0.982557148
+ajatella	myöntää	1.223841392
+rukoilla	suunnitella	1.107979257
+päättää	rationalisoida	0.885475188
+määritellä	arvioida	0.67737423
+rentoutua	tajuta	1.088535505
+heijastaa	perustella	1.043967222
+muistuttaa	käsittää	1.049044367
+informoida	rentoutua	0.962724014
+analysoida	epäillä	0.726209677
+informoida	arvostella	0.921768368
+miettiä	integroida	0.84079382
+tajuta	selittää	0.919843933
+uskoa	palauttaa mieleen	1.172930512
+myöntää	olettaa	0.90412165
+muistaa	informoida	1.200902231
+tietää	kuvailla	1.046269526
+epäillä	väittää	1.049173929
+väittää	analysoida	1.1410907
+muistaa	määrittää	1.149088748
+integroida	tietää	0.812624903
+arvostella	suunnitella	0.878718162
+ymmärtää	muistuttaa	1.167821904
+integroida	selventää	0.916114529
+tietää	tarkastella	0.838024448
+uskoa	lukea	1.255031878
+sumentaa	hyväksyä	1.214024105
+hyväksyä	jättää huomiotta	1.267504592
+keskittyä	merkitä	1.052443158
+arvioida	valita	0.961830763
+tavoitella	aikoa	0.63368841
+aikoa	epäillä	1.142121341
+epäillä	sumentaa	1.266734262
+hyväksyä	odottaa	1.051326589
+perustella	määritellä	0.543875884
+järjestää	arvioida	0.919784227
+tietää	jättää huomiotta	1.153951647
+suunnitella	jättää huomiotta	1.124200834
+kuvailla	järjestää	0.967715541
+tuntea	rentoutua	1.150928862
+rationalisoida	tarkastella	0.738234305
+arvostella	lukea	0.951162994
+selittää	muistuttaa	1.079390191
+tavoitella	lukea	1.100665827
+todistaa	selventää	0.725963746
+sumentaa	ohjeistaa	1.136325568
+keksiä	määritellä	0.867813826
+miettiä	olla tuloksena	1.267301758
+rukoilla	uskoa	0.574678355
+perustella	uskoa	0.892760153
+tietää	käsittää	0.75809012
+analysoida	myöntää	1.091210125
+tuntea	järjestää	0.723301688
+tavoitella	epäillä	1.086343676
+hyväksyä	huomata	1.084208998
+arvostella	olettaa	0.886838505
+ymmärtää	ajatella	1.105637304
+määritellä	tuntea	0.903402293
+informoida	merkitä	1.077218014
+epäillä	keksiä	0.854715294
+suunnitella	pitää parempana	0.935626386
+osoittaa	kuvailla	0.997907901
+ratkaista	keksiä	0.524061909
+olla tuloksena	kuvailla	1.005660195
+määrittää	tarkastella	0.829703508
+järjestää	käsittää	0.835266304
+huomata	muistaa	0.839970135
+integroida	olettaa	0.862681493
+laskea	muistaa	0.932713247
+tarkastella	rukoilla	1.020708053
+olettaa	muistaa	1.106160353
+osoittaa	pohtia	1.071400491
+kuvailla	jättää huomiotta	1.148627439
+järjestää	olettaa	0.780605759
+sumentaa	pitää parempana	1.031521623
+rationalisoida	ymmärtää	0.826935219
+perustella	epäillä	0.973899826
+olettaa	ratkaista	0.913192374
+ratkaista	järjestää	0.874424978
+päättää	lukea	1.122154092
+odottaa	perustella	1.171558029
+odottaa	sumentaa	0.877017622
+määrittää	uskoa	0.86611988
+selventää	aikoa	1.151501711
+ratkaista	tajuta	0.810998396
+sumentaa	välittää	0.949130423
+keksiä	olettaa	0.984827784
+tuntea	jättää huomiotta	1.208832906
+aikoa	laskea	0.920436442
+välittää	myöntää	1.101101824
+integroida	suunnitella	0.821187309
+kuvitella	keksiä	0.649192384
+rukoilla	määrittää	1.247394261
+lukea	keksiä	0.927960116
+tarkoittaa	tajuta	0.834011776
+ohjeistaa	analysoida	1.234553409
+muistuttaa	informoida	1.084268699
+rentoutua	olettaa	0.919811231
+heijastaa	keskittyä	0.909984784
+laskea	ohjeistaa	1.087706102
+pitää parempana	tuntea	1.073860019
+muistuttaa	keksiä	1.139688063
+tarkoittaa	myöntää	0.971455923
+järjestää	olla tuloksena	0.8536316
+tuntea	unohtaa	1.119787882
+epäillä	ajatella	0.656253969
+hyväksyä	selventää	0.83961627
+määrittää	selventää	0.689945836
+jättää huomiotta	olla tuloksena	1.068983341
+pohtia	tarkoittaa	1.10046583
+päättää	valita	0.863417389
+todistaa	ennustaa	0.983105501
+merkitä	selventää	0.835818253
+selventää	olla tuloksena	0.922388011
+ymmärtää	pitää parempana	0.942599738
+palauttaa mieleen	selventää	1.233879927
+epäröidä	rentoutua	1.426648309
+ymmärtää	pohtia	0.940615307
+tavoitella	tietää	0.758004583
+tarkoittaa	kuvitella	0.948136038
+pitää parempana	ajatella	1.138381432
+merkitä	tavoitella	1.151274928
+keksiä	tavoitella	0.703138598
+keskittyä	arvostella	0.81225514
+rukoilla	olla tuloksena	1.034657394
+ennustaa	tajuta	0.952723647
+analysoida	miettiä	0.616998306
+integroida	lukea	1.145611451
+väittää	uskoa	1.099752487
+käsittää	selittää	0.72803479
+olettaa	kuvailla	0.971362015
+selventää	heijastaa	1.204788449
+määrittää	lukea	0.912479743
+keskittyä	odottaa	0.940160271
+uskoa	tarkastella	0.8669725
+kuvailla	määritellä	0.824805495
+analysoida	hyväksyä	0.901889206
+tarkoittaa	muistuttaa	1.128669644
+välittää	tavoitella	0.95362085
+arvostella	ajatella	0.892617476
+tietää	arvostella	0.912672225
+lukea	olla tuloksena	1.242562618
+käsittää	huomata	0.862335532
+olettaa	arvata	0.746783499
+suunnitella	myöntää	1.316517828
+väittää	pohtia	1.25668274
+osoittaa	ratkaista	1.00650385
+olla tuloksena	tarkastella	1.168629061
+lukea	selventää	0.980380032
+käsittää	olettaa	0.794488255
+ymmärtää	ohjeistaa	0.808416346
+rentoutua	todistaa	1.335461488
+rukoilla	lukea	1.616821332
+epäillä	heijastaa	0.999815361
+laskea	todistaa	1.029008709
+pohtia	määritellä	0.870354296
+käsittää	epäillä	0.963693648
+informoida	miettiä	1.32855713
+analysoida	tavoitella	0.902515516
+unohtaa	epäröidä	1.04642787
+miettiä	tietää	0.655680184
+tarkoittaa	huomata	0.933248275
+selittää	tavoitella	0.889891799
+määrittää	keskittyä	0.830203578
+perustella	rukoilla	1.210805652
+palauttaa mieleen	tajuta	1.317373913
+pohtia	käsittää	0.959813861
+unohtaa	palauttaa mieleen	1.144738972
+kuvitella	uskoa	1.063571088
+osoittaa	odottaa	1.049007947
+merkitä	ratkaista	1.210981145
+selittää	informoida	1.135932784
+jättää huomiotta	arvioida	1.19765042
+arvioida	arvata	0.89180851
+myöntää	todistaa	0.990050657
+rentoutua	odottaa	0.758592562
+muistuttaa	järjestää	0.874393667
+arvata	ratkaista	0.796402476
+rukoilla	tavoitella	0.897767674
+ratkaista	rukoilla	0.961878007
+tarkastella	lukea	1.104462588
+tietää	tarkoittaa	1.088734451
+jättää huomiotta	huomata	0.909061904
+ohjeistaa	tuntea	0.824310251
+epäröidä	ymmärtää	1.082456791
+rukoilla	epäillä	1.250418649
+selventää	huomata	1.081787194
+unohtaa	myöntää	1.222699368
+palauttaa mieleen	ennustaa	0.957232688
+järjestää	selventää	0.879051512
+ymmärtää	päättää	0.924881662
+välittää	rationalisoida	0.9129935
+ratkaista	unohtaa	1.091170925
+keskittyä	myöntää	1.12656424
+ohjeistaa	määritellä	1.179545272
+pohtia	jättää huomiotta	1.258953727
+tarkastella	analysoida	0.569103299
+osoittaa	myöntää	0.852457692
+miettiä	ajatella	0.319305364
+muistuttaa	tietää	1.078710044
+analysoida	sumentaa	1.383024722
+päättää	integroida	0.879014967
+osoittaa	selventää	0.694112553
+selittää	merkitä	0.806343446
+analysoida	valita	0.977934309
+kuvitella	epäillä	0.817808953
+huomata	perustella	1.070307281
+myöntää	heijastaa	1.117189369
+arvioida	lukea	1.104342629
+määritellä	tajuta	0.863910149
+olettaa	perustella	0.919813737
+ohjeistaa	myöntää	0.842689881
+epäröidä	palauttaa mieleen	0.863958402
+tavoitella	odottaa	0.729081306
+hyväksyä	epäillä	0.954917362
+selittää	odottaa	1.040778514
+unohtaa	ohjeistaa	1.228849723
+huomata	laskea	1.073602523
+selittää	ennustaa	0.906656337
+unohtaa	rukoilla	1.108780254
+käsittää	keksiä	0.742062243
+lukea	ennustaa	1.191468171
+palauttaa mieleen	rentoutua	1.205618855
+todistaa	olettaa	0.871872574
+väittää	valita	1.12563855
+arvata	informoida	0.988406605
+rukoilla	väittää	1.362043165
+olla tuloksena	muistuttaa	1.057399701
+keksiä	myöntää	1.028462658
+palauttaa mieleen	arvata	0.902820401
+käsittää	sumentaa	1.310168666
+pohtia	aikoa	1.033071093
+olettaa	pitää parempana	0.998084607
+odottaa	valita	1.027303425
+sumentaa	lukea	1.394285587
+ennustaa	laskea	1.164504767
+arvata	ajatella	0.741903736
+pitää parempana	tarkoittaa	0.992614329
+uskoa	arvioida	0.832588851
+tuntea	ajatella	0.888233948
+odottaa	järjestää	0.856921095
+kuvailla	keskittyä	0.8420592
+olla tuloksena	välittää	0.94177747
+tarkoittaa	aikoa	1.396687594
+tietää	ennustaa	0.8845048
+hyväksyä	valita	0.995995684
+rentoutua	kuvitella	1.016224483
+päättää	tajuta	0.877844927
+merkitä	hyväksyä	1.021499745
+olettaa	selittää	0.74992386
+olettaa	miettiä	1.066129492
+tuntea	hyväksyä	0.940437874
+määrittää	odottaa	1.214360964
+jättää huomiotta	palauttaa mieleen	1.038604259
+rentoutua	rationalisoida	1.344810823
+pitää parempana	arvioida	1.060153764
+selittää	arvostella	1.093443726
+rukoilla	todistaa	1.298454205
+perustella	tajuta	0.879910054
+integroida	epäillä	1.022839275
+tarkoittaa	keksiä	1.107304425
+laskea	analysoida	0.991490666
+muistaa	miettiä	1.116636451
+pohtia	kuvitella	0.648229787
+jättää huomiotta	muistaa	1.068494985
+ennustaa	tavoitella	0.748995395
+epäröidä	myöntää	1.059556769
+selventää	tarkoittaa	0.537089131
+huomata	informoida	1.042809853
+jättää huomiotta	pitää parempana	0.829796202
+miettiä	ohjeistaa	1.277092248
+osoittaa	muistaa	1.324172432
+keskittyä	pitää parempana	1.092757495
+palauttaa mieleen	päättää	1.198383935
+rentoutua	arvata	1.082256617
+laskea	valita	1.009933626
+laskea	tarkoittaa	1.047325691
+lukea	huomata	1.039974701
+osoittaa	määrittää	0.77244698
+suunnitella	keskittyä	0.666829073
+sumentaa	kuvailla	1.281454525
+määrittää	merkitä	0.790691669
+aikoa	arvostella	1.137587053
+odottaa	epäillä	1.09155861
+tuntea	tavoitella	1.131567442
+välittää	pitää parempana	0.792402665
+kuvitella	kuvailla	0.811758775
+lukea	olettaa	1.149413076
+määritellä	heijastaa	1.235959942
+lukea	ajatella	0.879377892
+ennustaa	analysoida	0.922000338
+odottaa	suunnitella	1.00138328
+pohtia	rationalisoida	0.75065912
+väittää	tarkoittaa	0.861990205
+olla tuloksena	keskittyä	1.105821841
+merkitä	myöntää	0.893885883
+väittää	kuvitella	1.044459881
+huomata	merkitä	0.852608058
+päättää	sumentaa	1.368397283
+merkitä	olettaa	0.912787219
+keskittyä	jättää huomiotta	1.086085273
+pohtia	olettaa	1.039085643
+arvioida	väittää	1.105137498
+ennustaa	kuvitella	0.805787691
+perustella	laskea	1.099544571
+informoida	valita	1.229146677
+rukoilla	arvostella	1.131740416
+sumentaa	määrittää	1.536745137
+keskittyä	analysoida	0.60196134
+miettiä	pitää parempana	1.104846861
+tarkastella	myöntää	0.956736079
+muistaa	selittää	1.232606015
+unohtaa	tajuta	1.364470075
+miettiä	odottaa	0.985920115
+tajuta	kuvitella	0.740509306
+määrittää	informoida	1.370681107
+rationalisoida	osoittaa	1.037613804
+jättää huomiotta	integroida	1.062529929
+ohjeistaa	kuvailla	1.04033257
+olettaa	arvioida	0.903811522
+suunnitella	ennustaa	0.816837054
+jättää huomiotta	arvostella	1.144724034
+tarkastella	pohtia	0.439276933
+huomata	sumentaa	1.285078488
+välittää	integroida	0.873441056
+kuvitella	tuntea	1.002807273
+arvostella	arvata	0.811456472
+pohtia	selventää	0.992358238
+hyväksyä	muistuttaa	1.28207695
+informoida	selventää	1.104060427
+hyväksyä	pohtia	1.238386158
+järjestää	ajatella	0.771950741
+analysoida	rentoutua	1.283764598
+kuvitella	keskittyä	0.817155756
+tarkoittaa	uskoa	0.938568258
+ajatella	tarkoittaa	0.96624912
+lukea	ymmärtää	1.176158842
+odottaa	uskoa	0.967252463
+osoittaa	ennustaa	1.109327717
+pitää parempana	analysoida	0.990950704
+määritellä	ennustaa	0.947129974
+ratkaista	kuvitella	0.902025773
+keskittyä	järjestää	0.880772726
+miettiä	selventää	1.033942883
+muistaa	palauttaa mieleen	0.340354571
+sumentaa	rukoilla	0.868352846
+integroida	selittää	0.867183229
+päättää	arvioida	0.934237064
+ennustaa	hyväksyä	0.968264127
+tarkoittaa	arvata	0.778645826
+todistaa	valita	1.215019071
+hyväksyä	perustella	0.933053617
+olla tuloksena	osoittaa	0.877203123
+ratkaista	kuvailla	1.03270934
+keskittyä	selittää	0.966555085
+todistaa	integroida	0.920242771
+tuntea	epäröidä	0.917687591
+selittää	ymmärtää	0.713309228
+arvata	aikoa	0.994575527
+olettaa	keskittyä	0.995977644
+väittää	merkitä	0.957949675
+ennustaa	integroida	0.81979943
+odottaa	ymmärtää	0.978967647
+kuvitella	ymmärtää	0.759454858
+rentoutua	tarkastella	1.308528299
+tuntea	merkitä	0.909058941
+merkitä	tarkastella	0.994285421
+uskoa	järjestää	0.846206267
+unohtaa	muistaa	1.118659802
+osoittaa	välittää	0.962646711
+tarkoittaa	palauttaa mieleen	1.171979131
+lukea	käsittää	1.093544871
+jättää huomiotta	olettaa	0.928745571
+odottaa	välittää	0.726622357
+arvioida	muistaa	1.080108342
+rationalisoida	pitää parempana	1.049804857
+käsittää	myöntää	0.798610864
+järjestää	heijastaa	0.934683136
+jättää huomiotta	sumentaa	0.78560196
+heijastaa	tajuta	1.093226377
+myöntää	ratkaista	0.92779995
+pohtia	arvata	0.861758033
+ymmärtää	keskittyä	1.015237689
+rationalisoida	sumentaa	1.458576607
+ymmärtää	keksiä	0.716816542
+ymmärtää	huomata	0.948759121
+arvata	muistuttaa	1.000765952
+selittää	pohtia	0.95376401
+ymmärtää	miettiä	1.097854437
+ennustaa	päättää	1.097662217
+määritellä	päättää	1.111776739
+rukoilla	valita	1.417308484
+selventää	olettaa	0.784369814
+unohtaa	suunnitella	1.238734306
+rationalisoida	väittää	1.128026644
+unohtaa	päättää	1.299784298
+tajuta	olla tuloksena	0.834417294
+selventää	käsittää	0.741857746
+ennustaa	perustella	0.982438644
+käsittää	palauttaa mieleen	1.061294968
+päättää	olla tuloksena	0.955200717
+välittää	informoida	0.977405046
+muistaa	arvostella	1.147868228
+perustella	todistaa	0.623914879
+informoida	unohtaa	1.327584209
+ajatella	integroida	0.88270705
+hyväksyä	määritellä	0.802589158
+kuvitella	tavoitella	0.69195253
+suunnitella	arvioida	0.715303727
+ohjeistaa	tarkastella	1.149490855
+rentoutua	keskittyä	1.350171359
+tarkoittaa	informoida	0.902137754
+muistuttaa	tajuta	1.253295202
+jättää huomiotta	analysoida	1.221536955
+rationalisoida	tarkoittaa	0.991159674
+järjestää	jättää huomiotta	0.893493045
+integroida	käsittää	0.860998519
+keskittyä	ohjeistaa	1.104390076
+palauttaa mieleen	pohtia	1.086000097
+epäillä	palauttaa mieleen	0.880313804
+käsittää	tavoitella	0.975672621
+arvata	odottaa	0.826087078
+merkitä	miettiä	1.24609815
+analysoida	välittää	0.738550958
+tarkastella	huomata	0.836096474
+ennustaa	tarkastella	0.893417083
+aikoa	sumentaa	1.225826862
+sumentaa	ymmärtää	1.221433924
+muistaa	aikoa	1.100550616
+pohtia	valita	0.88475258
+keskittyä	väittää	1.058549941
+rationalisoida	kuvailla	0.880827935
+todistaa	pitää parempana	1.161145291
+välittää	tarkoittaa	1.003837312
+epäröidä	arvioida	0.957042595
+tietää	ajatella	0.751638094
+tavoitella	olla tuloksena	0.709267309
+analysoida	arvioida	0.363484476
+ymmärtää	merkitä	0.966192808
+ennustaa	selventää	1.017350658
+pitää parempana	keksiä	0.943246165
+arvostella	ymmärtää	0.617034688
+muistuttaa	arvostella	1.112965317
+arvostella	kuvitella	0.729965176
+tarkoittaa	merkitä	0.808406767
+analysoida	muistaa	0.913832925
+rentoutua	määrittää	1.45824273
+tajuta	osoittaa	0.970659898
+hyväksyä	arvioida	0.804871221
+merkitä	järjestää	1.032046158
+kuvailla	odottaa	1.115396467
+rukoilla	tietää	0.995822316
+selittää	sumentaa	1.336719954
+määritellä	sumentaa	1.32611431
+päättää	laskea	0.844746895
+integroida	rationalisoida	0.68835391
+hyväksyä	palauttaa mieleen	1.182900585
+tarkastella	kuvitella	0.784097301
+aikoa	tarkastella	1.089996862
+käsittää	väittää	0.833690067
+tietää	olla tuloksena	0.905404057
+määritellä	pitää parempana	0.898152302
+tavoitella	olettaa	1.017118316
+hyväksyä	myöntää	0.5266956
+selventää	keskittyä	0.909996277
+päättää	huomata	0.930259644
+aikoa	tietää	0.81434449
+integroida	määritellä	0.769506992
+ymmärtää	aikoa	0.922590546
+valita	osoittaa	1.032058392
+muistaa	heijastaa	0.89738234
+myöntää	väittää	1.1145891
+pitää parempana	uskoa	0.91064243
+rentoutua	integroida	1.18603822
+analysoida	lukea	0.965654836
+osoittaa	ohjeistaa	1.033566613
+ratkaista	tarkoittaa	1.037091918
+huomata	ohjeistaa	1.119409143
+tietää	epäröidä	0.945671042
+pitää parempana	ratkaista	0.98240741
+ratkaista	selventää	0.807894666
+käsittää	rationalisoida	0.985914416
+ohjeistaa	arvioida	1.101244249
+väittää	ohjeistaa	1.102295023
+integroida	väittää	1.17222215
+tietää	lukea	0.874264469
+tavoitella	laskea	0.964242329
+selittää	tietää	0.960060183
+käsittää	rukoilla	0.914456318
+järjestää	integroida	0.890011723
+käsittää	määritellä	0.839230435
+kuvailla	tavoitella	1.015270416
+järjestää	arvostella	0.842948118
+ohjeistaa	välittää	0.877329495
+ymmärtää	unohtaa	1.279593831
+informoida	aikoa	1.197321249
+määritellä	valita	1.0363602
+suunnitella	päättää	1.140707192
+integroida	tajuta	0.846565712
+keksiä	määrittää	0.977871926
+muistaa	ymmärtää	1.159858514
+arvostella	todistaa	0.863586248
+suunnitella	keksiä	0.93559781
+arvioida	tarkoittaa	0.854119515
+väittää	epäröidä	1.114986684
+keskittyä	valita	1.078802472
+rukoilla	järjestää	1.127760023
+rentoutua	osoittaa	1.052357242
+muistaa	lukea	1.070834651
+jättää huomiotta	aikoa	0.970740703
+tuntea	muistuttaa	1.161064119
+informoida	heijastaa	0.952999762
+määritellä	selventää	0.546620335
+jättää huomiotta	valita	1.33435616
+valita	tajuta	0.886568496
+määrittää	päättää	1.082413789
+lukea	väittää	1.084543245
+informoida	olla tuloksena	1.027471687
+palauttaa mieleen	tuntea	0.962281356
+tarkastella	todistaa	0.875298836
+ennustaa	muistaa	0.954662803
+selventää	muistuttaa	1.24212392
+odottaa	määritellä	1.209181445
+olettaa	palauttaa mieleen	1.069202113
+sumentaa	ratkaista	1.292120516
+arvioida	palauttaa mieleen	1.115807943
+lukea	pitää parempana	1.161033388
+epäillä	tietää	0.85466955
+muistaa	pohtia	1.142377159
+selventää	epäröidä	0.91480517
+tavoitella	rentoutua	0.775823738
+palauttaa mieleen	rukoilla	1.250381312
+rukoilla	kuvailla	1.347642249
+informoida	hyväksyä	0.942063462
+ajatella	arvioida	0.778289992
+arvioida	tavoitella	0.959354399
+laskea	rentoutua	1.053239141
+heijastaa	ratkaista	1.018533871
+aikoa	miettiä	1.028428717
+päättää	merkitä	1.28851946
+ajatella	analysoida	0.605033087
+rationalisoida	miettiä	0.739287811
+muistuttaa	määritellä	1.075925294
+rukoilla	epäröidä	1.391924137
+todistaa	jättää huomiotta	1.327967653
+tuntea	lukea	0.888195297
+selittää	olla tuloksena	1.040278021
+osoittaa	lukea	1.2314853
+heijastaa	olla tuloksena	1.205885621
+rentoutua	ymmärtää	0.952604635
+todistaa	tietää	0.899103211
+laskea	määritellä	1.010822926
+valita	rationalisoida	1.072278743
+aikoa	ajatella	1.086336378
+unohtaa	ennustaa	0.956913897
+pitää parempana	väittää	1.195409899
+uskoa	arvata	0.62155216
+hyväksyä	olettaa	1.03745653
+unohtaa	rentoutua	0.959232007
+arvata	epäröidä	0.896783186
+muistaa	epäillä	0.893962128
+rationalisoida	selventää	0.753098118
+miettiä	perustella	0.967107567
+keskittyä	pohtia	0.5709082
+epäillä	huomata	0.834735915
+ratkaista	rentoutua	0.991881586
+epäillä	laskea	0.960871532
+tarkastella	selventää	0.944264244
+kuvitella	rationalisoida	0.765257405
+tuntea	olla tuloksena	0.880062326
+ennustaa	epäröidä	1.113579221
+miettiä	järjestää	1.016984536
+keskittyä	tietää	0.779177213
+heijastaa	unohtaa	1.023693753
+jättää huomiotta	ymmärtää	1.156023325
+tarkoittaa	tavoitella	1.157018547
+tajuta	tavoitella	0.959797085
+huomata	arvioida	0.963213561
+määrittää	epäröidä	1.045888029
+tavoitella	myöntää	1.053844788
+miettiä	hyväksyä	1.315601053
+suunnitella	epäillä	0.833930176
+rukoilla	ajatella	1.266699749
+informoida	järjestää	1.083305659
+huomata	muistuttaa	0.832271517
+tajuta	käsittää	0.719137083
+valita	ajatella	0.880157888
+merkitä	epäröidä	0.998290157
+tajuta	ymmärtää	0.338409238
+välittää	arvostella	0.957261731
+huomata	pitää parempana	1.000449206
+selventää	välittää	0.928819928
+tajuta	jättää huomiotta	1.251389886
+aikoa	osoittaa	1.193968204
+huomata	aikoa	1.035941076
+perustella	unohtaa	1.31897802
+rationalisoida	ennustaa	0.906040636
+pohtia	integroida	0.746690298
+palauttaa mieleen	keskittyä	0.808712017
+palauttaa mieleen	perustella	1.176140694
+selittää	heijastaa	0.944316203
+suunnitella	arvata	0.834140637
+heijastaa	laskea	1.204626218
+osoittaa	informoida	1.098616993
+merkitä	analysoida	0.988283493
+tarkastella	sumentaa	1.246622391
+ohjeistaa	lukea	1.356249096
+suunnitella	informoida	1.170609524
+pohtia	tavoitella	0.974138176
+jättää huomiotta	tavoitella	0.923779384
+rationalisoida	huomata	0.905902348
+järjestää	pohtia	1.019936487
+valita	aikoa	0.923867733
+ratkaista	laskea	0.612584699
+määritellä	rationalisoida	0.761915064
+arvioida	kuvailla	0.930137221
+epäröidä	jättää huomiotta	1.063406505
+epäillä	ohjeistaa	1.27469003
+heijastaa	suunnitella	0.831092014
+selventää	selittää	0.514821068
+tavoitella	selventää	0.902151256
+arvostella	unohtaa	1.320478606
+ennustaa	heijastaa	0.994660727
+keskittyä	perustella	0.857622452
+rentoutua	rukoilla	0.829787078
+jättää huomiotta	osoittaa	1.178473915
+unohtaa	tavoitella	0.983954182
+osoittaa	arvata	0.928714419
+arvata	pitää parempana	0.752067755
+pohtia	suunnitella	0.796319301
+heijastaa	osoittaa	1.087235295
+tietää	arvioida	0.625439999
+väittää	selittää	0.918970501
+käsittää	pitää parempana	1.089584019
+hyväksyä	lukea	1.071468879
+kuvailla	laskea	0.917917474
+rukoilla	muistuttaa	1.095313934
+sumentaa	keksiä	1.272875826
+tajuta	hyväksyä	0.732325104
+tajuta	määrittää	0.864161683
+arvioida	tarkastella	0.581671921
+laskea	järjestää	0.811120455
+sumentaa	palauttaa mieleen	1.130683542
+arvioida	ratkaista	0.896093655
+miettiä	päättää	0.933632143
+rentoutua	muistuttaa	1.19670939
+käsittää	epäröidä	0.825246242
+osoittaa	määritellä	0.862609488
+miettiä	huomata	0.806739398
+tarkastella	informoida	1.176267039
+merkitä	olla tuloksena	1.041550873
+lukea	epäröidä	0.890466472
+informoida	odottaa	0.953625805
+integroida	tarkastella	0.688961583
+keksiä	arvata	0.676110204
+unohtaa	miettiä	1.319430678
+unohtaa	arvata	1.110355548
+tavoitella	päättää	0.863419133
+odottaa	kuvitella	1.009985752
+selittää	kuvailla	0.950072102
+keskittyä	uskoa	0.921327202
+odottaa	merkitä	1.325833249
+muistuttaa	myöntää	1.095510562
+valita	tuntea	1.097922499
+rationalisoida	arvostella	0.773192298
+tietää	unohtaa	1.177199239
+kuvitella	olla tuloksena	0.767259997
+arvata	heijastaa	0.880154119
+laskea	lukea	0.949861479
+laskea	olla tuloksena	0.830792213
+määrittää	suunnitella	0.94419591
+todistaa	heijastaa	1.208251389
+laskea	miettiä	1.082630167
+heijastaa	ymmärtää	1.010021021
+väittää	arvostella	1.006776302
+palauttaa mieleen	rationalisoida	1.100562447
+väittää	määritellä	0.913856726
+ennustaa	ajatella	0.832319736
+muistaa	tavoitella	0.979189989
+rentoutua	aikoa	0.843755029
+käsittää	hyväksyä	0.789174241
+tarkastella	käsittää	0.899747639
+uskoa	olla tuloksena	1.044688032
+väittää	selventää	0.747731426
+merkitä	heijastaa	1.082057915
+miettiä	tavoitella	1.038256219
+arvioida	olla tuloksena	1.115291379
+informoida	pohtia	1.235735109
+valita	uskoa	1.155674784
+selventää	pitää parempana	0.957875938
+merkitä	aikoa	1.37189606
+keskittyä	tarkoittaa	0.945054656
+välittää	rukoilla	1.011475496
+miettiä	myöntää	1.23515301
+rentoutua	myöntää	1.103645751
+heijastaa	hyväksyä	1.089590854
+ajatella	huomata	0.698222173
+odottaa	palauttaa mieleen	0.882994421
+unohtaa	välittää	1.002031612
+olettaa	määritellä	0.838919172
+tarkastella	muistaa	1.147416081
+määritellä	informoida	1.125837962
+valita	olettaa	1.067898638
+muistaa	keskittyä	0.881232743
+tarkoittaa	rukoilla	1.111953072
+olla tuloksena	ratkaista	0.855743743
+uskoa	olettaa	0.802604451
+tietää	määritellä	0.7266808
+osoittaa	tarkastella	0.985577945
+suunnitella	aikoa	1.139301268
+rentoutua	pohtia	1.363654025
+aikoa	muistuttaa	1.153914099
+lukea	suunnitella	0.951220076
+unohtaa	muistuttaa	1.048373451
+tietää	suunnitella	0.778258349
+perustella	tavoitella	0.8808869
+ennustaa	myöntää	1.179266965
+kuvailla	päättää	0.935471013
+heijastaa	ajatella	0.92445043
+arvostella	kuvailla	0.833967706
+ymmärtää	informoida	0.871964688
+heijastaa	arvostella	1.064608707
+integroida	arvioida	0.738763708
+olla tuloksena	olettaa	0.803465432
+ratkaista	huomata	1.064318936
+kuvailla	perustella	0.902563471
+integroida	kuvailla	0.903619468
+valita	muistaa	1.112352887
+laskea	arvioida	1.052117463
+epäillä	olettaa	0.936016653
+järjestää	todistaa	0.822415371
+muistuttaa	epäillä	1.076023206
+päättää	selventää	1.030001004
+osoittaa	selittää	0.495767709
+unohtaa	kuvailla	1.476386476
+myöntää	epäillä	1.128521308
+ohjeistaa	tajuta	0.965321037
+arvioida	epäillä	0.85423229
+perustella	ratkaista	1.058024331
+kuvailla	aikoa	1.120337869
+järjestää	suunnitella	0.800647272
+ymmärtää	määritellä	0.692203533
+integroida	odottaa	0.882682882
+välittää	ennustaa	0.929596345
+huomata	rukoilla	1.125409337
+rukoilla	aikoa	1.136753604
+jättää huomiotta	heijastaa	0.846368526
+merkitä	rationalisoida	1.020322813
+ymmärtää	käsittää	0.494286824
+lukea	odottaa	1.106331049
+kuvitella	olettaa	0.871027072
+myöntää	tietää	1.105286021
+myöntää	aikoa	1.454959829
+rentoutua	keksiä	0.99847418
+epäröidä	epäillä	0.514399009
+aikoa	arvioida	0.912747344
+osoittaa	ajatella	1.196394937
+muistuttaa	olettaa	0.971366903
+aikoa	olla tuloksena	0.91737036
+aikoa	palauttaa mieleen	1.089343241
+rentoutua	sumentaa	0.839993024
+kuvailla	lukea	1.168370789
+unohtaa	sumentaa	0.848473688
+tajuta	huomata	1.121677344
+välittää	tajuta	0.862944949
+rukoilla	merkitä	1.34926481
+päättää	ajatella	1.018168286
+tuntea	tajuta	0.888386374
+osoittaa	perustella	0.620908396
+sumentaa	tavoitella	1.096413542
+merkitä	unohtaa	1.573713973
+palauttaa mieleen	laskea	1.055441656
+hyväksyä	tarkoittaa	0.799695713
+rentoutua	arvostella	1.345746911
+ymmärtää	ratkaista	0.631178757
+kuvailla	ennustaa	1.01620121
+aikoa	heijastaa	0.913968109
+epäillä	lukea	0.932324286
+käsittää	unohtaa	1.155841289
+pitää parempana	valita	0.922207931
+pohtia	ohjeistaa	1.188354062
+odottaa	tarkoittaa	1.167322537
+määritellä	olla tuloksena	0.964937173
+osoittaa	pitää parempana	0.971350026
+myöntää	olla tuloksena	0.890442634
+palauttaa mieleen	ohjeistaa	1.08877315
+todistaa	hyväksyä	0.951861881
+muistaa	kuvailla	0.983650038
+pohtia	perustella	0.870310244
+olla tuloksena	rationalisoida	1.033606648
+lukea	informoida	1.307526135
+ratkaista	ennustaa	0.829751653
+ymmärtää	osoittaa	0.850615567
+analysoida	järjestää	0.815210712
+uskoa	todistaa	1.054200142
+käsittää	suunnitella	1.099618883
+epäröidä	integroida	0.91801753
+selittää	tuntea	0.97607229
+väittää	hyväksyä	0.967417455
+merkitä	valita	0.978847807
+analysoida	määrittää	0.641778768
+suunnitella	ohjeistaa	1.192919658
+unohtaa	jättää huomiotta	0.721930529
+tuntea	arvata	1.073178593
+pitää parempana	järjestää	0.998608109
+arvata	ymmärtää	0.786784265
+integroida	hyväksyä	0.891448901
+tuntea	muistaa	0.948614053
+informoida	analysoida	1.223231425
+valita	selventää	1.023334853
+selventää	suunnitella	0.918168065
+tietää	ratkaista	0.649785309
+olla tuloksena	ennustaa	0.896695915
+hyväksyä	selittää	1.051116963
+perustella	ajatella	0.880621183
+tuntea	selventää	0.923553521
+rukoilla	olettaa	0.93457975
+informoida	tavoitella	0.983570309
+heijastaa	uskoa	1.054130738
+tavoitella	arvata	0.845661456
+tuntea	miettiä	0.926254844
+arvostella	tavoitella	0.841236144
+pitää parempana	epäillä	0.990003016
+ennustaa	odottaa	0.771637333
+kuvitella	järjestää	0.785835975
+sumentaa	valita	1.391904889
+arvioida	muistuttaa	1.091127848
+heijastaa	tietää	0.983328219
+olla tuloksena	määrittää	1.001834517
+suunnitella	välittää	0.839488515
+järjestää	ennustaa	0.849834965
+suunnitella	tarkastella	0.858759672
+integroida	merkitä	1.077135405
+integroida	tarkoittaa	1.027547284
+selittää	jättää huomiotta	1.216193455
+hyväksyä	järjestää	1.15917811
+miettiä	epäröidä	0.942162047
+rationalisoida	heijastaa	1.130993499
+perustella	arvostella	0.943654779
+arvioida	määrittää	0.812950223
+olettaa	välittää	0.837304892
+heijastaa	välittää	0.664228412
+tarkoittaa	tarkastella	0.923245563
+tajuta	miettiä	1.126676481
+olettaa	rationalisoida	1.044351451
+epäröidä	todistaa	0.961627929
+käsittää	valita	1.049817614
+välittää	päättää	1.12253925
+päättää	informoida	1.201187241
+olla tuloksena	pitää parempana	1.090599299
+merkitä	välittää	1.107336998
+ohjeistaa	arvostella	1.051095996
+huomata	rentoutua	1.242653181
+olla tuloksena	ajatella	1.237562704
+todistaa	arvioida	0.957121938
+selittää	laskea	1.025996738
+tuntea	päättää	1.066355253
+olettaa	ymmärtää	0.693110514
+päättää	rukoilla	1.353300743
+arvata	rukoilla	0.828188262
+todistaa	merkitä	0.885315254
+olla tuloksena	analysoida	1.060667516
+epäillä	tajuta	1.070768071
+olla tuloksena	suunnitella	1.20456644
+pohtia	ennustaa	0.851606482
+uskoa	aikoa	1.053953821
+tarkoittaa	käsittää	1.018632871
+rentoutua	merkitä	1.467891475
+tuntea	perustella	0.808480116
+integroida	informoida	1.166013521
+pohtia	arvioida	0.653968617
+tietää	välittää	0.886838353
+rentoutua	tietää	1.067379067
+tarkastella	väittää	1.235633965
+päättää	rentoutua	1.180646779
+laskea	tietää	0.850356068
+käsittää	tuntea	0.716520717
+selittää	aikoa	1.078777813
+määritellä	arvata	0.874359496
+osoittaa	palauttaa mieleen	1.289753393
+pitää parempana	unohtaa	1.216793921
+järjestää	myöntää	1.007303604
+selventää	tietää	0.737883396
+analysoida	odottaa	1.133832396
+arvata	rationalisoida	0.924562501
+suunnitella	tajuta	0.955015431
+odottaa	pitää parempana	0.950819068
+epäillä	selventää	0.934790439
+heijastaa	keksiä	0.834449167
+tarkastella	kuvailla	0.722113157
+integroida	keksiä	0.762015443
+merkitä	arvostella	0.837881873
+uskoa	epäillä	1.088384567
+ennustaa	keskittyä	0.792189696
+tarkoittaa	heijastaa	1.055995268
+sumentaa	myöntää	1.162645508
+pohtia	tajuta	1.019073007
+odottaa	arvioida	1.183486161
+muistaa	ohjeistaa	1.068781686
+huomata	keksiä	0.720006461
+hyväksyä	arvostella	0.787026287
+epäröidä	kuvailla	1.042140627
+käsittää	kuvailla	0.90615568
+kuvailla	pitää parempana	1.210943959
+epäröidä	heijastaa	1.186770784
+rentoutua	miettiä	1.415884281
+tarkastella	unohtaa	1.276042846
+informoida	myöntää	1.191207444
+tarkoittaa	määrittää	0.924377475
+arvostella	laskea	0.794702747
+kuvitella	hyväksyä	0.985493908
+rukoilla	määritellä	1.138629311
+olla tuloksena	sumentaa	1.177594567
+ohjeistaa	jättää huomiotta	0.992641748
+sumentaa	keskittyä	1.210357342
+tuntea	rationalisoida	0.831998535
+kuvitella	ajatella	0.842260968
+aikoa	kuvitella	0.775629137
+todistaa	palauttaa mieleen	0.956322557
+hyväksyä	rationalisoida	0.856127788
+pohtia	merkitä	1.188221237
+palauttaa mieleen	määrittää	1.173186278
+selittää	rationalisoida	1.004144257
+olla tuloksena	perustella	0.992851237
+arvata	laskea	1.024733938
+rationalisoida	odottaa	1.146361865
+rationalisoida	määrittää	0.632779828
+epäillä	jättää huomiotta	1.019875489
+välittää	laskea	0.893552765
+ymmärtää	tarkastella	0.782315616
+palauttaa mieleen	keksiä	1.037548482
+uskoa	muistuttaa	0.97632728
+olettaa	laskea	1.076364429
+selventää	uskoa	0.852837151
+tarkoittaa	arvostella	0.790084769
+arvioida	osoittaa	0.795142501
+pitää parempana	informoida	1.185277168
+todistaa	rationalisoida	0.874556243
+myöntää	selittää	0.744120876
+valita	tietää	1.002859358
+rukoilla	keskittyä	1.235964706
+hyväksyä	päättää	0.954803555
+muistuttaa	analysoida	1.011115195
+arvata	päättää	0.911041243
+laskea	unohtaa	1.307556025
+keskittyä	muistuttaa	0.893991017
+muistuttaa	tavoitella	1.121285792
+tajuta	sumentaa	1.278790745
+laskea	osoittaa	1.078173225
+keskittyä	tavoitella	0.998559142
+arvostella	käsittää	0.822890733
+laskea	informoida	1.137544467
+muistuttaa	päättää	1.336893575
+sumentaa	todistaa	1.393396683
+ymmärtää	todistaa	0.913222939
+rentoutua	ohjeistaa	0.786606421
+miettiä	pohtia	0.318357737
+tarkoittaa	rentoutua	1.35107982
+aikoa	ennustaa	0.807688191
+arvostella	valita	0.927711761
+keksiä	järjestää	0.953606352
+selventää	ohjeistaa	1.083118685
+epäröidä	muistuttaa	1.005377863
+myöntää	pitää parempana	1.112054638
+heijastaa	valita	1.102504332
+välittää	rentoutua	0.829486422
+hyväksyä	ymmärtää	0.542543032
+tietää	perustella	0.739225144
+integroida	laskea	0.769351495
+informoida	epäillä	1.401524951
+hyväksyä	epäröidä	1.073879826
+sumentaa	miettiä	1.329343089
+olla tuloksena	epäillä	1.157709693
+epäröidä	järjestää	0.693655881
+osoittaa	epäillä	0.924958419
+suunnitella	kuvailla	0.848737464
+kuvailla	huomata	0.754585279
+ajatella	pohtia	0.415840224
+uskoa	hyväksyä	1.09497276
+integroida	ohjeistaa	1.009785704
+tarkoittaa	epäröidä	1.038776415
+todistaa	kuvitella	0.949566471
+pitää parempana	laskea	1.006164511
+perustella	sumentaa	1.437000785
+muistaa	todistaa	0.938066863
+analysoida	keksiä	0.666610103
+aikoa	hyväksyä	1.151695197
+perustella	epäröidä	1.153259561
+päättää	epäillä	1.08385243
+rationalisoida	rukoilla	1.157643199
+tavoitella	määritellä	0.985701018
+pitää parempana	hyväksyä	0.863560243
+rationalisoida	unohtaa	1.306560663
+keksiä	osoittaa	1.109473631
+tavoitella	todistaa	1.142243198
+selittää	epäillä	0.915629766
+ajatella	epäröidä	0.864025933
+ennustaa	valita	1.069591624
+ajatella	unohtaa	1.34118437
+tarkastella	odottaa	1.09086964
+rentoutua	epäillä	1.424900223
+todistaa	analysoida	0.861973391
+määrittää	perustella	0.717265311
+perustella	päättää	1.167434153
+kuvailla	heijastaa	0.96022196
+osoittaa	tarkoittaa	0.795684276
+epäröidä	olla tuloksena	1.077367219
+uskoa	informoida	1.124872819
+väittää	järjestää	0.914537194
+keskittyä	määritellä	0.781835293
+miettiä	välittää	0.903757804
+selventää	arvostella	0.966476714
+myöntää	arvostella	0.781522879
+muistuttaa	miettiä	1.096936236
+suunnitella	määritellä	0.839680251
+miettiä	ratkaista	0.976004748
+informoida	väittää	1.076102383
+hyväksyä	muistaa	1.108724604
+ratkaista	määrittää	1.020879205
+lukea	rationalisoida	1.084632074
+tietää	rationalisoida	0.738938459
+myöntää	rukoilla	1.120342805
+määrittää	integroida	0.805218218
+arvata	väittää	0.975385113
+epäröidä	olettaa	0.882380919
+väittää	tietää	1.10739928
+rationalisoida	aikoa	1.033121072
+palauttaa mieleen	arvostella	1.084543432
+rukoilla	osoittaa	1.057896275
+aikoa	tajuta	1.005862321
+selittää	valita	0.876936327
+rationalisoida	ohjeistaa	1.198160248
+järjestää	palauttaa mieleen	0.782870692
+ajatella	ratkaista	1.016234484
+arvostella	päättää	0.940887456
+määrittää	huomata	1.013638498
+pohtia	todistaa	1.014129984
+ohjeistaa	hyväksyä	1.05994155
+tarkoittaa	olettaa	0.89178727
+ajatella	muistaa	0.909902734
+väittää	muistuttaa	1.186265107
+muistuttaa	pohtia	1.183556764
+ratkaista	muistaa	1.092580212
+tajuta	tietää	0.840596296
+tietää	sumentaa	1.283310765
+sumentaa	väittää	1.239194382
+keksiä	uskoa	1.045732692
+valita	tavoitella	1.042919088
+pohtia	sumentaa	1.345341245
+analysoida	tuntea	0.823079536
+epäröidä	selittää	0.949019527
+suunnitella	hyväksyä	1.117662405
+hyväksyä	unohtaa	1.305124004
+suunnitella	osoittaa	0.961490186
+uskoa	kuvailla	1.166362323
+arvioida	sumentaa	1.352046777
+muistuttaa	ratkaista	1.125284553
+uskoa	epäröidä	1.187241361
+pitää parempana	tarkastella	1.077835187
+keskittyä	aikoa	0.986113522
+suunnitella	rentoutua	1.410495089
+arvostella	tarkastella	0.78980495
+informoida	kuvitella	1.010719546
+muistaa	järjestää	0.866176788
+määritellä	epäröidä	0.832425536
+muistuttaa	kuvitella	1.077131452
+muistaa	rukoilla	1.346393886
+unohtaa	uskoa	1.100482716
+keksiä	miettiä	0.584200325
+integroida	ymmärtää	0.802461968
+miettiä	kuvitella	0.794912596
+valita	ohjeistaa	1.226041776
+ohjeistaa	ennustaa	0.849676456
+odottaa	ratkaista	0.881553701
+arvata	kuvitella	0.672119457
+suunnitella	muistuttaa	0.83714415
+kuvailla	määrittää	0.882890484
+arvata	ohjeistaa	0.946482863
+arvata	järjestää	0.760129388
+ajatella	kuvailla	0.738776632
+heijastaa	huomata	0.714350071
+lukea	ratkaista	1.052318713
+päättää	keskittyä	1.055780595
+välittää	lukea	1.143167556
+päättää	keksiä	0.651506237
+pitää parempana	päättää	0.976325049
+epäillä	unohtaa	1.213489824
+unohtaa	keksiä	1.241170168
+perustella	käsittää	1.044720147
+arvostella	uskoa	1.028825706
+keksiä	rukoilla	1.131397396
+heijastaa	tuntea	1.122250535
+rukoilla	heijastaa	0.962434514
+määrittää	ennustaa	0.98740367
+ohjeistaa	pitää parempana	1.065393092
+myöntää	lukea	1.147028162
+huomata	myöntää	0.947352444
+suunnitella	sumentaa	1.1203017
+uskoa	integroida	0.956222583
+miettiä	todistaa	1.080322431
+kuvailla	tarkoittaa	0.860593017
+kuvailla	palauttaa mieleen	0.954701407
+kuvitella	selittää	0.930194008
+palauttaa mieleen	ymmärtää	1.268002932
+epäillä	keskittyä	0.654348903
+käsittää	muistaa	0.953520791
+sumentaa	informoida	1.043562563
+perustella	arvata	1.037915742
+keskittyä	integroida	0.860263165
+osoittaa	keskittyä	0.96020872
+myöntää	pohtia	1.103987204
+rentoutua	pitää parempana	1.127498671
+keksiä	odottaa	0.771780678
+tajuta	informoida	0.974210285
+informoida	käsittää	0.971310415
+tarkoittaa	ennustaa	0.900001331
+todistaa	aikoa	1.219279932
+arvioida	miettiä	0.77015432
+kuvitella	epäröidä	0.955921353
+ratkaista	palauttaa mieleen	1.17122158
+myöntää	määrittää	0.942703147
+olla tuloksena	unohtaa	1.054811299
+odottaa	ajatella	1.099517657

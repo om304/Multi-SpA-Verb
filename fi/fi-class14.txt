@@ -1,0 +1,3082 @@
+Word1	Word2	Score
+luvata	nolata	1.312332101
+kohdata	nolata	1.116950869
+siunata	käsitellä	1.085322812
+huolehtia	tavoittaa	0.903391122
+vakuuttaa	sisältää	0.979648487
+seurata	kohdella huonosti	0.841201129
+puolustaa	kohdella huonosti	1.418131659
+riippua	omistautua	0.759645344
+lorvailla	suostutella	0.981652671
+nostaa lasi	suudella	1.011162149
+rauhoittaa	luottaa	0.781012302
+herättää	halailla	1.186850292
+esitellä	nolata	1.123755701
+nostaa lasi	antaa anteeksi	0.941039763
+armahtaa	liittyä	0.8792067
+vaatia	viihdyttää	0.867231402
+viihdyttää	nostaa lasi	0.454110485
+neuvoa	menettää	0.975364514
+sallia	avustaa	0.852138871
+tehdä yhteistyötä	nähdä	0.987890663
+käsitellä	nostaa lasi	1.110455715
+vihkiä	kohdata	1.080750029
+ottaa mukaan	myöntää	1.055324485
+anoa	liittyä seuraan	0.976025869
+kunnioittaa	siunata	0.796578756
+kunnioittaa	suostutella	1.150006241
+myöntää	olla eri mieltä	1.119468995
+myöntää	ylentää	1.024729727
+vihkiä	menettää	1.571266642
+osallistua	siunata	0.961229755
+kiusoitella	johtaa	1.035260093
+liittyä seuraan	sisältää	0.589658322
+sitoutua	johtaa	0.993790122
+riippua	suojata	0.922269902
+nostaa lasi	suojella	1.128498545
+halailla	palvella	1.162035266
+ottaa mukaan	kohdata	0.647366568
+riippua	luvata	0.897606577
+hajota	liittyä	1.201303299
+palvella	lorvailla	1.100022981
+erota	palvella	1.017423152
+olla samaa mieltä	kohdella	1.04297275
+seurata	turvata	0.975696418
+olla eri mieltä	lorvailla	1.02630544
+omistautua	ylentää	0.634200293
+mennä naimisiin	kohdella	1.148963252
+avustaa	tervehtiä	0.825032287
+tehdä yhteistyötä	seurata	0.770396402
+huolehtia	erota	1.351441881
+neuvoa	kohdata	0.840679614
+vapauttaa	kohdella	0.93353217
+nostaa lasi	huolehtia	1.108586691
+suojella	tervehtiä	0.817344831
+edistää	lorvailla	0.964534655
+anoa	sopia	0.748654509
+sisältää	hajota	1.018893459
+johtaa	luvata	0.922283681
+vakuuttaa	myöntää	0.840503052
+kohdata	puolustaa	1.047891027
+turvata	liittyä	0.767068534
+auttaa	välittää	0.485199246
+antaa	tavoittaa	0.849398601
+olla samaa mieltä	suojata	0.77949811
+yhdistää	vakuuttaa	0.922431633
+armahtaa	vannoa	0.939652086
+liittyä seuraan	omistautua	0.732865368
+herättää	avustaa	0.926841957
+sallia	viihdyttää	0.685630627
+sallia	sisältää	1.009544285
+seurata	välittää	0.812964411
+myöntää	neuvoa	1.202522496
+kiusata	halata	1.500625933
+armahtaa	siunata	1.032916371
+yhtyä	lohduttaa	0.910004217
+ottaa mukaan	menettää	1.059155815
+lorvailla	sitoutua	1.257480798
+kiusata	tavoittaa	0.994985267
+kunnioittaa	sallia	1.010401976
+lorvailla	yhtyä	1.171480153
+mennä naimisiin	sallia	0.939606774
+suojata	lohduttaa	0.888507736
+vannoa	hajota	1.173447845
+panetella	siunata	1.503420021
+tervehtiä	rohkaista	0.816878456
+myöntää	välittää	0.868010751
+viihdyttää	lupautua	0.731452574
+erota	tehdä yhteistyötä	1.051674021
+yhtyä	liittyä seuraan	0.619187307
+erota	käsitellä	1.023750809
+halata	anoa	0.972957125
+viettää	halailla	0.765184768
+seurata	antaa	1.068612151
+liittyä seuraan	mennä naimisiin	0.997678467
+huolehtia	mennä naimisiin	0.801023761
+suojella	myöntää	1.074203655
+vierailla	yhdistää	0.976607029
+riippua	antaa	0.904325037
+osallistua	kohdella huonosti	1.154318084
+ottaa mukaan	turvata	0.732807511
+käsitellä	omistautua	1.274714869
+juhlia	vierailla	0.836977339
+omistautua	vakuuttaa	0.94845002
+sopia	viihdyttää	0.860390308
+viettää	liittyä seuraan	0.881239745
+sisältää	edistää	0.77133672
+herättää	vapauttaa	1.207569093
+vakuuttaa	suositella	1.243185077
+vaatia	kiusoitella	1.411127767
+tavoittaa	suojata	0.957370855
+liittyä	viettää	0.777326389
+kiusoitella	tavoittaa	1.013399592
+edistää	siunata	1.063203566
+lorvailla	vihkiä	1.264582049
+olla eri mieltä	vapauttaa	1.063842049
+turvata	vannoa	0.698901856
+auttaa	liittyä	0.767273091
+sallia	nolata	1.039423303
+nostaa lasi	luottaa	1.116173631
+viihdyttää	armahtaa	1.21901898
+armahtaa	antaa	0.759819716
+liittyä	esitellä	0.767260103
+nostaa lasi	palvella	1.281048242
+kohdata	juhlia	0.976727043
+kiusoitella	osallistua	1.081456359
+siunata	mennä naimisiin	0.440544805
+vapauttaa	kiusata	0.975559559
+liittyä seuraan	kohdella	0.828429048
+vaatia	välittää	1.184075879
+kiusoitella	luottaa	1.109529108
+tavoittaa	herättää	1.208948752
+nostaa lasi	kunnioittaa	1.195622094
+siunata	lupautua	0.788408472
+menettää	matkia	0.849678969
+juhlia	esitellä	0.802289671
+lohduttaa	juhlia	1.2788682
+sallia	juhlia	0.863857274
+lupautua	esitellä	0.772558036
+armahtaa	välittää	1.031115053
+myöntää	puolustaa	1.018487573
+tavoittaa	lupautua	1.03307844
+vaatia	rohkaista	1.388264874
+kiusata	johtaa	1.012953221
+kohdata	kunnioittaa	1.05553729
+sallia	armahtaa	1.160044898
+vapauttaa	kohdella huonosti	1.01064471
+vaatia	anoa	0.768066754
+esitellä	sallia	0.843658467
+anoa	ottaa mukaan	1.028010945
+vihkiä	tavata	1.110125463
+ylentää	menettää	1.410999377
+nolata	erota	0.799450663
+yhtyä	herättää	1.292701749
+suojata	yhdistää	0.791635793
+suojata	tehdä yhteistyötä	0.630574625
+kohdella huonosti	neuvoa	1.108596223
+luvata	kohdella	1.026891338
+lorvailla	halata	1.078625633
+viettää	suojata	1.026370084
+yhdistää	liittyä seuraan	0.723770223
+neuvoa	armahtaa	1.11467698
+hajota	ylentää	1.477807986
+tervehtiä	sisältää	0.785466657
+kunnioittaa	viihdyttää	1.080218109
+rauhoittaa	liittyä seuraan	1.028602431
+palvella	sopia	0.992872867
+tavoittaa	tehdä yhteistyötä	0.843590904
+suudella	osallistua	0.914891728
+olla eri mieltä	hoitaa	1.246765911
+huolehtia	luvata	0.758217962
+vannoa	suojata	0.827416479
+kiusoitella	mennä naimisiin	1.508737031
+huolehtia	kunnioittaa	0.788898829
+suudella	anoa	0.983115475
+herättää	liittyä seuraan	1.174288142
+kiusata	tervehtiä	1.204331256
+rohkaista	suositella	0.97293764
+antaa anteeksi	yhtyä	0.988357807
+vannoa	rukoilla	0.630162997
+luvata	liittyä seuraan	0.738627945
+suudella	viihdyttää	0.713389859
+vapauttaa	palvella	1.0976911
+sitoutua	turvata	0.61563345
+suositella	puolustaa	0.984411386
+välittää	juhlia	0.935732003
+kohdella huonosti	sisältää	1.011615423
+ottaa mukaan	vaatia	1.245155896
+olla eri mieltä	omistautua	1.299634784
+siunata	olla eri mieltä	1.323723507
+turvata	antaa anteeksi	1.064697064
+käsitellä	suositella	0.993261535
+hoitaa	rukoilla	1.030357382
+erota	hoitaa	1.257929771
+olla samaa mieltä	erota	1.42221064
+esitellä	suostutella	1.123550045
+vapauttaa	osallistua	0.891699986
+antaa	lorvailla	0.989049655
+auttaa	myöntää	0.936802358
+kiusata	lohduttaa	1.120062244
+panetella	erota	0.958169525
+vihkiä	viettää	1.071612906
+juhlia	kiusoitella	1.395218141
+tavata	lorvailla	0.902059189
+erota	tavata	1.013867452
+viettää	seurata	1.16423474
+suudella	kohdata	0.869948224
+vannoa	luvata	0.431674492
+hajota	vierailla	1.050097485
+antaa	sallia	1.066063661
+luottaa	kohdella huonosti	1.237601105
+kiusoitella	omistautua	1.38820438
+ylentää	vaatia	1.454890586
+mennä naimisiin	viihdyttää	0.938446714
+sopia	luottaa	0.537953625
+vierailla	huolehtia	1.109890721
+liittyä	halailla	0.75914314
+neuvoa	omistautua	1.107605859
+hoitaa	osallistua	0.796715377
+kohdata	tehdä yhteistyötä	0.776678066
+rukoilla	turvata	0.817131567
+kunnioittaa	suojella	0.86933695
+lorvailla	armahtaa	1.064766799
+vapauttaa	hajota	1.122034304
+luottaa	liittyä	0.571403946
+palvella	mennä naimisiin	1.126869132
+sitoutua	suostutella	1.094721923
+tavata	edistää	1.175394772
+halata	herättää	1.144869499
+välittää	sopia	0.648464954
+olla eri mieltä	huolehtia	1.366068248
+rukoilla	antaa	1.153397129
+osallistua	myöntää	0.806512671
+yhtyä	vaatia	1.195162309
+välittää	lohduttaa	0.901601728
+vannoa	tehdä yhteistyötä	0.740917884
+matkia	osallistua	1.18292336
+menettää	suostutella	1.034186547
+tavata	sisältää	0.803586886
+välittää	vapauttaa	0.912862123
+olla eri mieltä	hajota	0.799833108
+puolustaa	sisältää	0.921234076
+suostutella	riippua	1.300740695
+puolustaa	luvata	0.868454858
+sallia	neuvoa	0.842259191
+liittyä	puolustaa	0.901136907
+vapauttaa	huolehtia	1.00945584
+hajota	vakuuttaa	1.306137934
+anoa	antaa	0.897443189
+auttaa	vapauttaa	1.043424974
+neuvoa	nähdä	0.812614899
+mennä naimisiin	riippua	0.993655793
+lupautua	olla eri mieltä	1.253321835
+juhlia	lupautua	0.900651319
+seurata	antaa anteeksi	1.263045596
+huolehtia	antaa anteeksi	1.074746073
+vakuuttaa	juhlia	1.217065144
+auttaa	kohdella	0.7931676
+nähdä	tavata	0.670594757
+palvella	sitoutua	0.921325631
+vakuuttaa	viihdyttää	0.88982472
+suostutella	vannoa	1.085321366
+omistautua	nähdä	1.083833095
+menettää	vannoa	1.20527907
+yhtyä	rauhoittaa	0.991308706
+johtaa	antaa	1.040216682
+antaa anteeksi	halata	0.897301853
+antaa anteeksi	vaatia	1.402769983
+käsitellä	kohdata	0.903286873
+nostaa lasi	liittyä seuraan	1.149282308
+puolustaa	erota	1.294372906
+nostaa lasi	auttaa	1.275587245
+mennä naimisiin	vierailla	1.187142551
+armahtaa	nähdä	1.07016571
+johtaa	halata	1.173301813
+puolustaa	omistautua	0.754083219
+tavata	luottaa	0.775790848
+suojata	matkia	1.113263081
+osallistua	sitoutua	0.755816014
+lupautua	auttaa	0.860267543
+välittää	huolehtia	0.45802804
+nolata	vihkiä	1.550548037
+vierailla	palvella	1.351398906
+nostaa lasi	kohdella huonosti	1.636705955
+riippua	osallistua	0.795484314
+herättää	johtaa	1.173081354
+suostutella	vierailla	1.054326553
+sitoutua	suositella	0.854829581
+olla eri mieltä	tavoittaa	1.253263977
+halailla	avustaa	0.948215845
+juhlia	luvata	0.952518158
+olla eri mieltä	välittää	1.35701777
+lupautua	nähdä	0.867051706
+suojella	välittää	0.764372234
+halailla	auttaa	0.997060048
+omistautua	matkia	1.209213774
+vannoa	halailla	0.772027624
+rukoilla	kunnioittaa	0.793748169
+riippua	vannoa	0.738911134
+armahtaa	riippua	1.056384074
+riippua	kunnioittaa	0.951717812
+lohduttaa	suojella	0.640134317
+matkia	sitoutua	1.208330427
+suojella	luottaa	0.766187542
+nähdä	olla eri mieltä	0.763274846
+lorvailla	osallistua	1.027003765
+kiusoitella	rohkaista	0.932486275
+vannoa	liittyä	0.678861169
+antaa anteeksi	sisältää	0.940910934
+viihdyttää	turvata	1.037072513
+välittää	ottaa mukaan	0.768854108
+välittää	yhtyä	0.829307384
+sopia	käsitellä	0.963111298
+mennä naimisiin	ylentää	0.694382728
+olla eri mieltä	vakuuttaa	1.003337206
+armahtaa	kohdella huonosti	1.29816383
+luvata	viihdyttää	0.92366356
+johtaa	panetella	0.932991427
+hoitaa	riippua	0.885788142
+matkia	palvella	0.796544464
+sopia	hoitaa	0.908093879
+vaatia	menettää	1.090336055
+viihdyttää	suostutella	1.096294562
+antaa	yhdistää	0.937733953
+myöntää	vierailla	0.98598129
+luottaa	myöntää	0.806449324
+neuvoa	luvata	0.964795604
+olla eri mieltä	vihkiä	1.419172317
+sisältää	menettää	0.921760263
+panetella	vaatia	1.177911244
+osallistua	armahtaa	0.768512486
+herättää	nostaa lasi	1.44755576
+kohdella huonosti	sopia	1.303175785
+suojata	halata	0.859567957
+kohdella huonosti	tervehtiä	1.19674304
+kunnioittaa	hoitaa	0.901030072
+avustaa	juhlia	1.137938487
+herättää	ottaa mukaan	0.888252594
+edistää	viihdyttää	1.132055489
+hajota	tehdä yhteistyötä	1.133762037
+avustaa	osallistua	0.550913439
+mennä naimisiin	tervehtiä	0.933840651
+olla samaa mieltä	omistautua	0.840214222
+rohkaista	auttaa	0.450575925
+herättää	yhdistää	1.244697063
+suojella	sisältää	0.908152801
+edistää	myöntää	1.0525791
+sitoutua	kohdata	1.008880526
+yhdistää	yhtyä	0.638253878
+tehdä yhteistyötä	omistautua	0.684779742
+vihkiä	osallistua	0.882069896
+tavata	riippua	1.048545938
+sopia	auttaa	0.893797816
+luottaa	ottaa mukaan	0.812251281
+matkia	rukoilla	1.092125661
+auttaa	rukoilla	1.069113623
+käsitellä	auttaa	0.858537722
+kiusata	turvata	1.352975781
+huolehtia	yhtyä	0.645797175
+palvella	sallia	0.926199369
+viettää	olla eri mieltä	0.973727032
+vaatia	sitoutua	1.179913208
+suostutella	vapauttaa	1.264415714
+anoa	käsitellä	0.960068048
+sopia	nähdä	0.947005568
+tehdä yhteistyötä	panetella	1.044175137
+hajota	antaa anteeksi	1.316196678
+johtaa	ottaa mukaan	1.044697947
+vaatia	myöntää	1.146354675
+nolata	tervehtiä	1.267356995
+palvella	turvata	0.801298965
+matkia	kohdella	0.567553141
+auttaa	hajota	1.231299977
+suositella	juhlia	1.253892653
+auttaa	luottaa	0.624480771
+viettää	kunnioittaa	1.122153259
+panetella	armahtaa	1.217064531
+suudella	viettää	0.717792422
+välittää	suostutella	1.026601805
+välittää	siunata	0.927179392
+halailla	suojella	0.940856839
+hajota	käsitellä	0.916431071
+antaa	suojata	1.086444856
+puolustaa	rauhoittaa	0.601647172
+suositella	vannoa	0.950535579
+vierailla	sitoutua	1.075342003
+avustaa	yhdistää	0.867969135
+tavoittaa	tervehtiä	0.963309197
+lupautua	tervehtiä	0.721907405
+nähdä	luottaa	0.988826135
+hajota	suojata	1.246149395
+viihdyttää	yhdistää	0.767114236
+osallistua	olla eri mieltä	1.171316883
+kohdella	avustaa	0.787390072
+käsitellä	vakuuttaa	1.080471364
+luvata	antaa	0.808242763
+käsitellä	armahtaa	1.22001314
+olla eri mieltä	menettää	0.888259401
+viettää	kohdella huonosti	1.175660628
+viettää	vaatia	0.761714729
+rohkaista	lorvailla	1.163872671
+rukoilla	seurata	1.091267997
+sisältää	huolehtia	0.737504039
+viihdyttää	tervehtiä	0.795702299
+luottaa	seurata	0.887721355
+nostaa lasi	hajota	1.38554863
+halailla	suudella	0.540743274
+huolehtia	seurata	0.947376341
+auttaa	ottaa mukaan	0.782663698
+tehdä yhteistyötä	hoitaa	0.585307895
+halailla	rohkaista	0.958867665
+vannoa	sallia	0.713016304
+liittyä	nostaa lasi	1.113497013
+tavata	kiusoitella	1.048569012
+palvella	esitellä	1.071101098
+välittää	halata	0.710092348
+seurata	lorvailla	1.057549166
+lupautua	turvata	0.658860599
+tehdä yhteistyötä	vihkiä	0.793689717
+hoitaa	suositella	1.036184806
+avustaa	palvella	0.809518678
+kunnioittaa	omistautua	0.734638359
+suojella	yhdistää	0.775931414
+huolehtia	panetella	1.140875873
+liittyä	käsitellä	0.851779055
+nolata	menettää	0.684085399
+sopia	seurata	0.926798438
+olla samaa mieltä	vihkiä	1.032586491
+suojella	tehdä yhteistyötä	0.66208657
+kohdata	olla eri mieltä	1.017252909
+sallia	käsitellä	0.971822047
+rohkaista	sopia	0.920117267
+suojella	käsitellä	1.139266677
+armahtaa	luottaa	0.923318047
+tavoittaa	sallia	1.086747071
+lupautua	sallia	0.673806946
+suositella	myöntää	1.115527131
+tavata	välittää	0.869121323
+siunata	menettää	1.477193907
+rohkaista	lohduttaa	0.645319286
+kohdella	kiusoitella	0.674100313
+kiusata	edistää	0.878176482
+edistää	käsitellä	0.859978187
+huolehtia	nolata	1.338616855
+tavata	suudella	0.825638243
+auttaa	huolehtia	0.608648298
+edistää	puolustaa	0.990102165
+hajota	tavata	1.002710594
+liittyä	tavoittaa	0.721724504
+rukoilla	lorvailla	1.069729259
+auttaa	vakuuttaa	0.8443157
+anoa	panetella	1.1139426
+erota	sopia	1.286559806
+armahtaa	juhlia	1.304174086
+kohdella huonosti	käsitellä	0.895382849
+suostutella	lohduttaa	1.142657532
+nostaa lasi	välittää	1.012810662
+yhtyä	luvata	0.628513219
+rukoilla	vierailla	1.05187836
+anoa	matkia	1.149784273
+matkia	vierailla	1.151256518
+juhlia	osallistua	1.04097958
+kiusata	suositella	1.202692616
+kohdella	vannoa	0.821318652
+herättää	hajota	1.132299601
+auttaa	olla eri mieltä	1.212695147
+kohdella	välittää	0.805351144
+lohduttaa	kiusoitella	0.879592914
+mennä naimisiin	lohduttaa	0.991407607
+auttaa	ylentää	0.82861769
+seurata	menettää	1.084020619
+edistää	riippua	0.862914562
+luvata	anoa	1.068427737
+rauhoittaa	anoa	1.225450588
+nostaa lasi	vannoa	0.85771447
+suojata	johtaa	1.156985683
+hajota	suostutella	1.1261898
+ylentää	kohdata	1.096573583
+kohdella	yhdistää	1.041486743
+kiusata	siunata	1.413854691
+viettää	hajota	1.007171458
+erota	juhlia	1.322638378
+anoa	yhtyä	1.027165624
+tervehtiä	käsitellä	0.977002716
+kohdata	yhtyä	0.779795112
+nostaa lasi	vaatia	0.960263019
+huolehtia	ottaa mukaan	0.867094096
+siunata	sitoutua	0.48602773
+nähdä	kohdella huonosti	1.174169541
+vihkiä	yhtyä	0.663120222
+vaatia	kohdella huonosti	1.265587229
+rohkaista	huolehtia	0.65131024
+nolata	auttaa	1.195592246
+vapauttaa	rohkaista	1.008089557
+yhtyä	lupautua	0.775995438
+suojella	suojata	0.217611048
+suudella	sisältää	0.821689843
+vannoa	palvella	0.964572905
+huolehtia	suositella	0.833359795
+antaa anteeksi	luvata	0.966956615
+matkia	yhdistää	1.083333077
+yhdistää	käsitellä	0.959790303
+välittää	turvata	0.656001329
+kohdella huonosti	vannoa	1.210985894
+seurata	herättää	1.205365719
+seurata	kohdata	1.08961243
+herättää	luottaa	1.085802635
+tavoittaa	luvata	0.895043456
+mennä naimisiin	antaa	0.96692051
+kiusata	kiusoitella	0.401634253
+vakuuttaa	kunnioittaa	0.869384597
+kohdella	käsitellä	0.67950836
+auttaa	neuvoa	0.985711089
+nolata	olla eri mieltä	0.887944946
+kunnioittaa	panetella	1.242553658
+kiusata	huolehtia	1.275906714
+ottaa mukaan	omistautua	0.792833678
+yhdistää	sopia	0.870974709
+rohkaista	yhdistää	0.90325568
+välittää	kiusoitella	1.094340989
+sopia	suositella	0.90557292
+olla samaa mieltä	hajota	1.30412229
+nähdä	vapauttaa	0.880076565
+hoitaa	viettää	0.959535104
+rukoilla	johtaa	0.855782639
+palvella	viettää	1.08881446
+hoitaa	anoa	0.888371417
+siunata	suositella	1.167209342
+tavata	kiusata	1.122775856
+mennä naimisiin	turvata	0.803456042
+luvata	vierailla	0.826463361
+nolata	lupautua	1.413683256
+kohdella	tavoittaa	0.82010233
+kiusoitella	sitoutua	1.290209422
+menettää	lohduttaa	1.07572352
+herättää	suojella	1.197614633
+yhdistää	välittää	0.743415812
+kiusoitella	rauhoittaa	1.121270301
+vierailla	riippua	1.03252909
+rauhoittaa	hajota	1.162945998
+hoitaa	johtaa	1.007204578
+kiusoitella	myöntää	1.245782987
+liittyä	huolehtia	0.814730822
+tavoittaa	nolata	1.131998262
+sallia	välittää	0.877930775
+välittää	halailla	0.800383554
+yhdistää	esitellä	0.739737021
+esitellä	vierailla	0.658130733
+sallia	olla samaa mieltä	0.809828718
+vihkiä	sisältää	0.961767242
+tavata	armahtaa	1.169214844
+omistautua	yhtyä	0.56885723
+rauhoittaa	suostutella	1.17890043
+neuvoa	suostutella	0.866840155
+seurata	vihkiä	1.167578393
+halailla	lupautua	0.908150877
+lorvailla	luottaa	1.014318395
+suojella	tavata	0.990619469
+anoa	siunata	1.272785647
+kiusata	omistautua	1.460424432
+vannoa	johtaa	0.889291546
+sisältää	auttaa	0.683390812
+sallia	rauhoittaa	1.091228478
+panetella	suojata	1.132182505
+vakuuttaa	suojata	0.971134814
+rohkaista	palvella	0.857904906
+suojella	seurata	0.90982095
+halata	vaatia	1.087616587
+vapauttaa	vierailla	0.970316025
+erota	vaatia	1.071457327
+panetella	luvata	1.306085251
+liittyä seuraan	lupautua	0.793813798
+neuvoa	siunata	1.08503095
+edistää	halailla	1.116092873
+puolustaa	yhtyä	0.672441334
+olla eri mieltä	tervehtiä	0.96817101
+vierailla	kiusata	1.085707767
+suostutella	huolehtia	1.010735754
+vierailla	turvata	1.250775368
+vannoa	nähdä	0.957642786
+tehdä yhteistyötä	lupautua	0.676583554
+neuvoa	ylentää	1.273280219
+kiusoitella	esitellä	1.222349175
+edistää	tervehtiä	1.050117636
+juhlia	viettää	0.726768921
+auttaa	lohduttaa	0.645523126
+hoitaa	antaa	0.882386515
+olla samaa mieltä	suositella	0.667404852
+riippua	nolata	1.075500407
+suojella	kohdella huonosti	1.306398343
+välittää	palvella	0.873117147
+suojata	yhtyä	0.704735073
+auttaa	puolustaa	0.600569581
+mennä naimisiin	anoa	1.141863055
+luottaa	osallistua	0.676237309
+viettää	lorvailla	0.742099135
+tavoittaa	mennä naimisiin	1.02706626
+sitoutua	luottaa	0.625266534
+seurata	lohduttaa	0.860832881
+myöntää	vannoa	0.589141601
+rauhoittaa	palvella	0.719800711
+johtaa	halailla	1.183403179
+lohduttaa	käsitellä	0.934548013
+edistää	antaa anteeksi	1.195787712
+avustaa	turvata	0.70698391
+matkia	antaa	0.999525261
+juhlia	riippua	1.030663522
+kiusoitella	nostaa lasi	1.423666779
+panetella	olla samaa mieltä	1.237944335
+halata	vapauttaa	0.793996773
+halailla	suojata	0.864075224
+ylentää	välittää	0.773972558
+lupautua	lohduttaa	0.834474112
+turvata	vaatia	1.423346735
+nostaa lasi	anoa	1.17294965
+edistää	turvata	0.86855472
+avustaa	olla eri mieltä	1.148004248
+antaa	suojella	1.027619455
+kohdella	nolata	0.579575632
+omistautua	suudella	0.51828646
+menettää	suojata	1.325690002
+sopia	antaa	0.7560225
+edistää	sallia	1.001421055
+suostutella	halata	1.0944311
+omistautua	välittää	0.703404709
+esitellä	nähdä	0.569479274
+riippua	viihdyttää	1.00652945
+kohdata	armahtaa	0.959590619
+hajota	vaatia	1.094980795
+osallistua	tervehtiä	0.572973141
+turvata	tavata	0.918967637
+myöntää	halailla	1.004311316
+auttaa	armahtaa	0.949856535
+välittää	panetella	1.170358187
+osallistua	ylentää	0.840379937
+sopia	huolehtia	0.726623987
+matkia	herättää	1.182014506
+ylentää	armahtaa	0.853194654
+hoitaa	rauhoittaa	0.695700125
+lohduttaa	esitellä	0.919029342
+vaatia	vakuuttaa	1.113709335
+olla samaa mieltä	riippua	0.91721902
+antaa	lupautua	0.940631465
+tavoittaa	sopia	0.994501565
+suositella	kohdata	0.94747474
+olla samaa mieltä	kunnioittaa	0.891710156
+viettää	luvata	0.894322668
+edistää	kunnioittaa	0.921259535
+armahtaa	liittyä seuraan	0.960973682
+vannoa	juhlia	0.960170887
+kiusata	vannoa	1.148478628
+vapauttaa	kunnioittaa	1.178890118
+osallistua	lohduttaa	0.858484011
+hoitaa	huolehtia	0.611152369
+kiusoitella	liittyä	1.029402796
+liittyä seuraan	suudella	0.761884771
+matkia	luvata	1.145070094
+puolustaa	tervehtiä	0.859413688
+armahtaa	puolustaa	1.202342491
+rauhoittaa	rohkaista	0.763370338
+kiusoitella	kohdella huonosti	0.564774857
+avustaa	rauhoittaa	0.722903452
+viettää	herättää	1.039745417
+vihkiä	liittyä seuraan	0.926039617
+hoitaa	seurata	0.799867667
+palvella	halata	1.150308018
+anoa	kohdata	0.971440384
+auttaa	olla samaa mieltä	0.845745957
+suositella	tervehtiä	0.70574864
+luvata	auttaa	0.931904829
+esitellä	rohkaista	0.976499645
+tervehtiä	tehdä yhteistyötä	0.571463259
+lohduttaa	kohdella huonosti	1.174557275
+edistää	ylentää	0.975069241
+anoa	välittää	0.801911133
+suudella	yhtyä	0.746918967
+edistää	huolehtia	0.793986257
+liittyä seuraan	olla eri mieltä	1.020831053
+yhtyä	vakuuttaa	1.04941078
+myöntää	nolata	1.228983388
+seurata	puolustaa	0.979297129
+omistautua	sopia	0.765522392
+sisältää	suostutella	0.983114711
+anoa	esitellä	0.853796131
+edistää	esitellä	0.917487494
+siunata	nähdä	1.081277851
+nostaa lasi	vihkiä	0.879845319
+nolata	kunnioittaa	1.181269756
+osallistua	liittyä seuraan	0.371506348
+sallia	seurata	0.91061703
+rauhoittaa	viettää	1.158649625
+kiusoitella	sisältää	1.013949886
+sitoutua	menettää	1.389273406
+juhlia	hajota	1.37090798
+liittyä	nolata	1.110770261
+neuvoa	liittyä seuraan	0.960405397
+sitoutua	rohkaista	0.872809435
+kiusata	lorvailla	1.005763834
+osallistua	vierailla	0.831124461
+johtaa	olla eri mieltä	1.110913245
+siunata	herättää	1.304166278
+erota	kohdella	1.017243015
+kohdata	panetella	1.109853858
+myöntää	kohdella	0.970114504
+myöntää	armahtaa	1.197677457
+avustaa	lupautua	0.773678106
+viihdyttää	kohdella	1.124350789
+vannoa	vaatia	1.171468695
+viettää	kohdata	0.69553838
+hoitaa	kohdata	0.960317154
+lorvailla	liittyä seuraan	1.011008885
+juhlia	suudella	1.019260275
+suositella	sisältää	0.788333233
+tehdä yhteistyötä	mennä naimisiin	0.818266155
+kiusata	antaa anteeksi	1.420866992
+juhlia	antaa anteeksi	0.965727064
+suositella	sallia	0.941703438
+suojata	siunata	0.65092783
+johtaa	huolehtia	1.112776495
+kunnioittaa	halata	1.171558622
+suostutella	nolata	1.202557635
+puolustaa	sitoutua	0.763395482
+olla samaa mieltä	mennä naimisiin	0.90076272
+panetella	rukoilla	1.389862345
+rukoilla	ottaa mukaan	1.043941981
+käsitellä	antaa	1.012024353
+sopia	mennä naimisiin	0.674130855
+seurata	myöntää	0.926195293
+vapauttaa	liittyä	0.906734084
+vannoa	esitellä	0.945703142
+suojata	suositella	0.956524198
+ylentää	nostaa lasi	1.108153315
+ylentää	vannoa	0.739094711
+olla eri mieltä	kohdella	1.010066906
+johtaa	rauhoittaa	0.952530807
+edistää	kohdata	1.069709704
+sallia	yhtyä	0.994228374
+tervehtiä	liittyä seuraan	0.398889596
+hajota	nolata	0.607789249
+johtaa	neuvoa	0.997483465
+menettää	erota	0.576149163
+vapauttaa	lupautua	0.823854932
+huolehtia	rukoilla	0.962628515
+anoa	avustaa	0.819753975
+seurata	neuvoa	1.146685249
+seurata	ottaa mukaan	0.954987493
+vakuuttaa	rauhoittaa	0.952354699
+omistautua	viettää	1.025438093
+viettää	armahtaa	1.154386927
+halailla	kohdella huonosti	1.598673653
+tavata	sopia	0.885928541
+sisältää	ottaa mukaan	0.559894089
+neuvoa	juhlia	1.135373668
+olla eri mieltä	käsitellä	0.948842764
+ylentää	suositella	0.929508443
+luottaa	kohdata	1.012583525
+vannoa	halata	0.85114643
+vierailla	tervehtiä	0.687528728
+vihkiä	johtaa	0.95426683
+viettää	rohkaista	0.955832288
+halailla	panetella	1.533670492
+luottaa	tavoittaa	0.813230707
+sisältää	yhdistää	0.772450021
+kiusata	luottaa	1.191649741
+kiusata	herättää	1.075854389
+johtaa	avustaa	0.959018973
+avustaa	luvata	0.845021664
+liittyä seuraan	tavoittaa	0.661559606
+halata	rukoilla	0.870179927
+sopia	rukoilla	0.963960196
+lorvailla	vierailla	0.828962409
+panetella	suudella	1.482706987
+auttaa	vierailla	1.113019304
+hoitaa	kiusata	1.094667754
+avustaa	menettää	0.976873676
+hajota	neuvoa	0.908975674
+tavoittaa	omistautua	1.117300806
+yhdistää	puolustaa	0.871588859
+viettää	luottaa	0.950461964
+armahtaa	halailla	1.085440472
+hajota	suositella	1.042228162
+vierailla	suudella	0.912986118
+esitellä	osallistua	0.525432913
+sallia	liittyä seuraan	0.883479918
+osallistua	lupautua	0.606772997
+menettää	edistää	0.872664026
+viettää	yhdistää	0.877956577
+seurata	olla eri mieltä	1.160518362
+viihdyttää	omistautua	0.781442944
+tehdä yhteistyötä	kohdella huonosti	1.206167783
+esitellä	viihdyttää	0.679249105
+sisältää	seurata	0.922246908
+halata	luvata	0.940707816
+rukoilla	rohkaista	1.061633523
+nostaa lasi	antaa	1.209424711
+avustaa	omistautua	0.886343887
+antaa anteeksi	nolata	1.459385747
+antaa anteeksi	rukoilla	0.806424371
+suostutella	kohdella huonosti	1.168581278
+lohduttaa	suudella	0.962182741
+yhtyä	johtaa	1.040962205
+anoa	sitoutua	1.081246721
+matkia	olla samaa mieltä	1.218538314
+vapauttaa	anoa	1.03236182
+kiusoitella	liittyä seuraan	1.039180569
+hoitaa	tavoittaa	0.84157734
+yhtyä	viihdyttää	0.934830958
+lorvailla	tavoittaa	1.086124842
+olla samaa mieltä	rukoilla	1.078871612
+tervehtiä	vakuuttaa	0.934098579
+johtaa	puolustaa	1.170981199
+sallia	matkia	0.982176223
+liittyä	ylentää	0.82702636
+matkia	hajota	0.978941839
+hoitaa	yhtyä	0.750350196
+nostaa lasi	erota	1.304285951
+matkia	kiusoitella	0.607925356
+rukoilla	nähdä	0.964679737
+halata	neuvoa	1.009444288
+matkia	lupautua	1.159758164
+kiusoitella	olla eri mieltä	1.025719597
+rukoilla	tavoittaa	1.066127927
+rohkaista	myöntää	1.098181119
+lupautua	kunnioittaa	0.93396599
+kunnioittaa	tavoittaa	0.989864795
+tehdä yhteistyötä	kohdella	0.811927536
+edistää	auttaa	0.745127962
+lupautua	riippua	0.801461473
+armahtaa	lupautua	1.017601329
+mennä naimisiin	vakuuttaa	0.851259843
+vapauttaa	kiusoitella	1.17842941
+hoitaa	lupautua	0.988706135
+vaatia	vierailla	0.879377643
+sallia	anoa	1.041711701
+panetella	olla eri mieltä	0.912728913
+halata	nostaa lasi	0.996082442
+anoa	nähdä	0.976658902
+suositella	halailla	0.809155897
+turvata	luvata	0.820211391
+antaa	juhlia	1.202282306
+vakuuttaa	rohkaista	0.853059199
+vierailla	vihkiä	1.18858834
+käsitellä	lorvailla	0.81279745
+antaa	hajota	0.933699926
+riippua	nostaa lasi	1.001449239
+välittää	suudella	0.919144072
+hoitaa	kiusoitella	0.875573988
+johtaa	esitellä	1.141637421
+antaa	vihkiä	1.044740086
+herättää	kohdella huonosti	1.127133205
+yhdistää	sallia	0.711198306
+vaatia	hoitaa	1.336868252
+armahtaa	kohdella	0.969576664
+huolehtia	neuvoa	1.063176365
+siunata	tervehtiä	0.952020795
+menettää	huolehtia	1.225107674
+matkia	turvata	1.179673701
+lohduttaa	vihkiä	0.946053966
+liittyä	matkia	0.980533732
+siunata	lohduttaa	0.995766023
+tervehtiä	huolehtia	0.92200941
+omistautua	lorvailla	1.179352553
+tehdä yhteistyötä	suostutella	1.007386978
+luvata	suudella	0.796551527
+kiusoitella	nolata	0.477771228
+tervehtiä	palvella	0.975577789
+armahtaa	tavoittaa	1.065960234
+edistää	kohdella	0.886890693
+osallistua	liittyä	0.533189931
+viettää	ylentää	1.062038792
+seurata	avustaa	0.785562229
+turvata	omistautua	0.745575644
+anoa	kunnioittaa	1.295160943
+juhlia	olla samaa mieltä	1.120039849
+suostutella	kohdata	1.199199019
+kohdata	riippua	1.00730654
+panetella	ottaa mukaan	1.175325133
+anoa	riippua	0.947722784
+yhdistää	antaa anteeksi	0.986037766
+puolustaa	olla eri mieltä	1.273337465
+auttaa	vannoa	0.727448708
+tehdä yhteistyötä	yhdistää	0.658757071
+juhlia	mennä naimisiin	0.994318987
+matkia	vaatia	1.317392674
+herättää	vannoa	1.041843399
+suositella	nostaa lasi	1.171732421
+vierailla	kohdata	0.816505989
+esitellä	turvata	0.971895893
+olla samaa mieltä	yhdistää	0.903544803
+hajota	siunata	1.486524597
+luvata	sisältää	0.728591626
+luottaa	kohdella	0.80301623
+turvata	vapauttaa	0.818582486
+kohdella	herättää	0.908355161
+suudella	auttaa	0.928664603
+menettää	omistautua	1.489029965
+vierailla	seurata	1.18458335
+yhdistää	lorvailla	1.149051233
+sopia	suojella	1.004139336
+viihdyttää	suojella	0.987846336
+lorvailla	tervehtiä	0.940345151
+neuvoa	vannoa	0.953967907
+siunata	sallia	0.805721152
+panetella	myöntää	1.16449532
+kunnioittaa	matkia	0.92349305
+lohduttaa	kohdata	1.060339929
+välittää	sisältää	0.702344605
+viettää	vapauttaa	1.007555574
+vaatia	kunnioittaa	1.383199107
+antaa	omistautua	0.918986429
+suojella	omistautua	0.708812539
+liittyä	neuvoa	0.987185683
+armahtaa	suojata	1.227130281
+auttaa	kohdella huonosti	1.178710296
+palvella	omistautua	0.938873399
+ottaa mukaan	antaa anteeksi	1.028309398
+vaatia	edistää	1.079296406
+johtaa	viettää	0.965843945
+halailla	matkia	1.339215744
+edistää	suostutella	0.963105188
+riippua	halata	0.825592214
+puolustaa	matkia	1.254013942
+huolehtia	suojella	0.721415969
+sitoutua	rauhoittaa	0.998722078
+luottaa	luvata	0.583935204
+tehdä yhteistyötä	edistää	0.874101667
+yhtyä	tavata	0.719484544
+palvella	ylentää	0.738891142
+liittyä seuraan	myöntää	0.827943779
+ylentää	erota	1.385730045
+yhdistää	sitoutua	0.672144438
+erota	luottaa	1.235863483
+johtaa	auttaa	0.934869811
+rohkaista	kohdella huonosti	1.137171886
+omistautua	hajota	1.428579416
+avustaa	yhtyä	0.679571743
+olla eri mieltä	erota	0.717399666
+suudella	johtaa	1.121009421
+vannoa	matkia	1.02884323
+yhdistää	vihkiä	0.554962319
+luvata	kohdella huonosti	1.412112575
+vapauttaa	yhtyä	0.96423033
+lorvailla	sallia	1.084111783
+puolustaa	osallistua	0.690309976
+nostaa lasi	sisältää	0.936029154
+antaa anteeksi	palvella	1.470508294
+vapauttaa	sopia	0.910869471
+tervehtiä	luottaa	0.712557381
+suostutella	olla eri mieltä	1.048170794
+kiusata	suojata	1.192026334
+vannoa	puolustaa	0.856325212
+matkia	viihdyttää	1.194035334
+nähdä	suojella	1.073219931
+armahtaa	olla samaa mieltä	0.938320776
+huolehtia	armahtaa	0.951924528
+tavoittaa	antaa anteeksi	1.063819005
+suositella	rukoilla	1.197013551
+rukoilla	sallia	0.817555525
+rohkaista	vierailla	1.223770891
+puolustaa	siunata	0.96959208
+menettää	kohdella	0.821714246
+tehdä yhteistyötä	ylentää	0.703567484
+suudella	nolata	1.508362641
+tehdä yhteistyötä	osallistua	0.411638619
+nolata	osallistua	1.114509264
+luottaa	suositella	0.827265535
+nähdä	yhtyä	0.935731048
+neuvoa	kunnioittaa	1.170188113
+ottaa mukaan	armahtaa	0.904148001
+ottaa mukaan	osallistua	0.500898075
+liittyä	sitoutua	0.800534033
+erota	sisältää	1.068908701
+antaa	tehdä yhteistyötä	0.83996559
+sallia	menettää	1.207528652
+armahtaa	anoa	1.064199721
+neuvoa	edistää	0.85654579
+myöntää	viihdyttää	0.867031031
+kiusoitella	yhdistää	1.319701605
+olla eri mieltä	ylentää	1.310679445
+välittää	viihdyttää	0.94197333
+riippua	myöntää	1.029921749
+lohduttaa	lorvailla	1.067700572
+ylentää	rauhoittaa	0.912050524
+suositella	edistää	1.066843841
+halailla	kohdata	0.898617317
+viettää	sitoutua	1.016149915
+vihkiä	kohdella huonosti	1.630476626
+nostaa lasi	avustaa	1.180108214
+kohdella	hoitaa	0.759356876
+vakuuttaa	nolata	1.156366331
+vannoa	yhdistää	0.719206172
+rukoilla	erota	1.35892142
+matkia	nolata	0.599276137
+palvella	suositella	1.027761086
+johtaa	tehdä yhteistyötä	0.887476991
+yhtyä	riippua	0.921031323
+halata	kiusoitella	1.317384697
+palvella	antaa	0.991209249
+sopia	viettää	0.905536867
+vierailla	lupautua	0.937261929
+hoitaa	edistää	0.771521044
+sallia	suojata	0.935985529
+yhtyä	kunnioittaa	0.869486624
+halata	sallia	0.817839998
+suositella	neuvoa	0.755524337
+huolehtia	lohduttaa	0.643063242
+matkia	suostutella	1.255145873
+halailla	menettää	1.414736248
+myöntää	lohduttaa	0.92018218
+antaa	vakuuttaa	1.075669757
+auttaa	viihdyttää	1.128950554
+halata	turvata	0.838225121
+palvella	hajota	1.132209621
+seurata	olla samaa mieltä	0.945730382
+riippua	puolustaa	1.082440474
+vihkiä	palvella	1.093074569
+halailla	halata	0.238979966
+huolehtia	viettää	0.97963147
+anoa	lorvailla	0.990428157
+kohdata	olla samaa mieltä	0.684860078
+antaa anteeksi	lupautua	0.927764489
+riippua	välittää	0.961122896
+menettää	lorvailla	0.904414525
+nähdä	kohdata	0.635556026
+sisältää	tehdä yhteistyötä	0.747418637
+sopia	lohduttaa	0.802652961
+suojata	omistautua	0.701090576
+rukoilla	riippua	0.761831089
+johtaa	myöntää	0.790098221
+antaa	menettää	0.965401519
+kiusata	esitellä	1.104610053
+turvata	erota	1.276700716
+nolata	halata	1.50774051
+antaa	ottaa mukaan	0.84325512
+tavata	nostaa lasi	1.062676705
+vierailla	kohdella	1.040062299
+lorvailla	riippua	0.985287546
+rukoilla	hajota	1.403707287
+tehdä yhteistyötä	halata	0.835193378
+vierailla	halailla	0.802938701
+liittyä	liittyä seuraan	0.454848608
+hoitaa	suudella	0.969454328
+viihdyttää	kohdella huonosti	1.379667516
+edistää	panetella	0.911020801
+viettää	vierailla	0.546067183
+vihkiä	luvata	0.960395076
+rauhoittaa	menettää	1.126633613
+viettää	osallistua	0.747164419
+luottaa	välittää	0.579264894
+armahtaa	vihkiä	0.902734773
+seurata	luvata	0.940713946
+sisältää	suojata	0.93722309
+suostutella	puolustaa	1.172983079
+neuvoa	tervehtiä	0.94618628
+erota	neuvoa	1.06191468
+matkia	sopia	1.000023867
+seurata	suojata	0.890758693
+hajota	lupautua	1.31419606
+ottaa mukaan	nostaa lasi	1.158174634
+auttaa	sallia	0.922655405
+mennä naimisiin	seurata	1.221286298
+halata	vihkiä	0.708406837
+sitoutua	sisältää	0.915341543
+matkia	auttaa	1.051806062
+panetella	vihkiä	1.538024463
+viihdyttää	kiusata	1.294717981
+erota	vierailla	0.980109146
+kunnioittaa	suudella	1.021619343
+siunata	suojella	0.666985758
+suojata	puolustaa	0.533944561
+yhtyä	kiusoitella	1.239247395
+anoa	vihkiä	1.274853348
+vapauttaa	suojella	0.855552954
+kohdella huonosti	omistautua	1.555528666
+osallistua	olla samaa mieltä	0.683748223
+olla samaa mieltä	suojella	0.727232996
+vapauttaa	sisältää	0.873173849
+turvata	johtaa	1.068135695
+kohdella	lohduttaa	0.774152572
+kohdella huonosti	erota	0.859629576
+erota	matkia	1.010917748
+lupautua	herättää	1.027047843
+erota	liittyä seuraan	0.966521247
+hoitaa	olla samaa mieltä	0.782437238
+avustaa	matkia	1.028717012
+osallistua	viihdyttää	0.912987744
+käsitellä	liittyä seuraan	0.884775063
+herättää	suostutella	1.033900069
+esitellä	sisältää	0.752078243
+riippua	kohdella huonosti	1.028734946
+menettää	luottaa	1.241518494
+auttaa	suostutella	1.187291425
+omistautua	hoitaa	0.950287108
+viihdyttää	tavoittaa	1.02278234
+esitellä	antaa anteeksi	0.832706428
+johtaa	olla samaa mieltä	1.077770068
+turvata	vihkiä	0.827977131
+tavoittaa	myöntää	1.153478071
+ottaa mukaan	yhtyä	0.669462949
+myöntää	olla samaa mieltä	1.098941003
+vannoa	lorvailla	1.027879495
+nostaa lasi	armahtaa	1.308068991
+johtaa	hajota	1.10430513
+tavata	ylentää	1.17440118
+liittyä	juhlia	1.101909022
+esitellä	herättää	0.97771611
+kohdella huonosti	hajota	0.629887373
+armahtaa	antaa anteeksi	0.746712491
+nolata	omistautua	1.494489952
+vapauttaa	erota	0.93336362
+vaatia	lupautua	0.958229796
+johtaa	anoa	1.217995362
+johtaa	seurata	0.971155075
+vannoa	edistää	0.925043776
+hajota	sallia	1.096365034
+suostutella	siunata	1.339020767
+suojata	rohkaista	0.882783638
+palvella	lohduttaa	0.961972112
+armahtaa	menettää	1.215514535
+olla eri mieltä	vaatia	0.902720908
+liittyä seuraan	tavata	0.392954147
+vaatia	tehdä yhteistyötä	1.171919294
+panetella	viihdyttää	1.370391816
+yhdistää	edistää	0.866352454
+lohduttaa	tavata	0.925603423
+suositella	kunnioittaa	0.876432853
+vaatia	yhdistää	1.068515559
+turvata	sallia	0.962018565
+suostutella	olla samaa mieltä	1.042237693
+viihdyttää	neuvoa	0.84253502
+puolustaa	suojella	0.386479285
+lupautua	kohdella huonosti	1.463284125
+olla samaa mieltä	välittää	0.754108351
+vapauttaa	kohdata	0.966664412
+kohdella huonosti	ottaa mukaan	1.078259041
+ylentää	huolehtia	0.702853015
+sallia	myöntää	0.599030482
+rukoilla	lupautua	0.84736564
+siunata	palvella	1.119878481
+halata	nähdä	1.002125294
+riippua	viettää	0.929886144
+suojella	kiusata	1.221537075
+ylentää	sopia	0.835687834
+liittyä seuraan	siunata	0.96041809
+rohkaista	kohdata	0.928190317
+anoa	omistautua	1.220796417
+antaa	puolustaa	1.033412057
+avustaa	lohduttaa	0.53490358
+auttaa	turvata	0.630099496
+kunnioittaa	armahtaa	0.940472875
+sisältää	matkia	0.93051574
+palvella	luvata	1.048255865
+anoa	yhdistää	1.003943619
+anoa	olla samaa mieltä	1.00680711
+halata	käsitellä	1.058004205
+herättää	kunnioittaa	1.083499183
+sitoutua	liittyä seuraan	0.838846342
+vannoa	suojella	0.863695517
+tehdä yhteistyötä	käsitellä	0.944713557
+palvella	kiusata	0.953476463
+antaa anteeksi	nähdä	0.865325946
+juhlia	auttaa	1.278933364
+kohdella	suositella	1.007619957
+palvella	viihdyttää	1.232653379
+rohkaista	viihdyttää	1.101219025
+seurata	auttaa	0.85348438
+antaa	turvata	0.956968908
+yhdistää	luottaa	0.873989337
+kiusoitella	sopia	1.055338283
+antaa anteeksi	anoa	0.984421328
+lorvailla	olla samaa mieltä	1.128489755
+nähdä	myöntää	1.132550067
+viettää	halata	0.829854743
+luvata	erota	1.273120013
+luottaa	rukoilla	0.822700082
+liittyä	palvella	0.699896129
+käsitellä	suostutella	1.142942574
+nostaa lasi	suostutella	1.202494833
+avustaa	käsitellä	0.84334079
+liittyä	edistää	0.845456044
+omistautua	seurata	1.189329563
+viihdyttää	avustaa	1.022843847
+rauhoittaa	suositella	0.869220128
+mennä naimisiin	avustaa	0.98019573
+viihdyttää	rukoilla	0.792395038
+sopia	panetella	1.170767662
+kohdella huonosti	lorvailla	0.926592137
+hajota	yhdistää	1.366159151
+vapauttaa	antaa	1.042981781
+nähdä	suostutella	1.034588198
+tavoittaa	kohdella huonosti	1.093890639
+lorvailla	turvata	1.263140325
+ottaa mukaan	mennä naimisiin	0.955988876
+rohkaista	ylentää	0.903461592
+nolata	rohkaista	1.227219357
+hajota	hoitaa	1.116188079
+suositella	antaa anteeksi	1.207828305
+olla eri mieltä	kiusata	0.977620523
+edistää	rukoilla	1.051171273
+siunata	nostaa lasi	1.05238211
+liittyä	rohkaista	0.766463841
+ottaa mukaan	olla samaa mieltä	0.831482769
+herättää	tehdä yhteistyötä	0.903799595
+siunata	omistautua	0.693615334
+kiusoitella	neuvoa	1.332652195
+sopia	liittyä	0.78330862
+huolehtia	anoa	0.907571367
+seurata	armahtaa	1.253420734
+vierailla	neuvoa	0.818315842
+palvella	rukoilla	1.081539883
+turvata	hajota	1.43200019
+nostaa lasi	yhtyä	0.984779118
+vihkiä	erota	1.547514907
+edistää	juhlia	1.111154593
+kiusata	rohkaista	1.126705176
+esitellä	nostaa lasi	0.933781618
+rohkaista	kunnioittaa	0.707632263
+puolustaa	viettää	1.112995935
+viihdyttää	nolata	1.345434619
+antaa anteeksi	rohkaista	1.019751268
+vannoa	ottaa mukaan	0.817556279
+ottaa mukaan	tervehtiä	0.588548803
+vaatia	seurata	1.274693843
+liittyä	kohdella	0.843897239
+panetella	rohkaista	1.172506893
+rauhoittaa	nolata	1.156969975
+yhtyä	ylentää	0.791178959
+vapauttaa	vaatia	0.931695758
+välittää	rauhoittaa	0.714683887
+nostaa lasi	viettää	0.876843417
+hajota	tavoittaa	1.062560366
+käsitellä	riippua	0.959688608
+liittyä seuraan	kohdata	0.589865529
+vierailla	kunnioittaa	1.198250204
+matkia	riippua	0.915230825
+antaa	halailla	0.883329818
+avustaa	tavata	0.837984967
+rauhoittaa	panetella	1.103167162
+johtaa	viihdyttää	1.088778434
+tehdä yhteistyötä	puolustaa	0.538222533
+vapauttaa	tavata	0.963607434
+kohdella huonosti	johtaa	1.004223767
+matkia	olla eri mieltä	1.048289123
+kohdata	matkia	1.331832379
+kunnioittaa	esitellä	1.027634829
+vaatia	rukoilla	1.325850512
+vaatia	suudella	0.991858775
+vapauttaa	antaa anteeksi	1.164883656
+turvata	nähdä	1.144287864
+olla samaa mieltä	tavata	0.68135296
+rohkaista	yhtyä	0.883258943
+viettää	rukoilla	0.932679749
+kohdella	riippua	0.763971221
+suojella	ylentää	0.848357789
+halailla	kohdella	1.120734369
+neuvoa	vakuuttaa	1.000524873
+omistautua	esitellä	0.962538328
+vannoa	lupautua	0.465259887
+luvata	ylentää	0.980029364
+turvata	kunnioittaa	0.691844414
+yhdistää	panetella	1.298522392
+liittyä seuraan	lohduttaa	0.710237268
+suojella	suostutella	1.250207196
+halailla	juhlia	0.902775446
+osallistua	nostaa lasi	1.066794278
+mennä naimisiin	erota	1.573492163
+herättää	kohdata	0.877786942
+tavata	nolata	1.073827236
+herättää	anoa	0.982407083
+tehdä yhteistyötä	nostaa lasi	0.950042904
+sallia	suojella	0.88355593
+avustaa	olla samaa mieltä	0.899460824
+lupautua	sopia	0.642016175
+matkia	käsitellä	0.966241077
+avustaa	liittyä	0.647188554
+yhdistää	juhlia	0.828574182
+suojata	vaatia	1.462381
+tavata	vakuuttaa	1.083536177
+hajota	sopia	1.074781233
+suostutella	erota	1.086429011
+yhtyä	sisältää	0.838502528
+halailla	riippua	0.886581857
+rohkaista	antaa	0.873135774
+ottaa mukaan	vierailla	1.069966009
+kunnioittaa	erota	1.196493703
+yhtyä	liittyä	0.516849882
+nolata	juhlia	1.480303813
+edistää	palvella	1.006911911
+vakuuttaa	puolustaa	0.970922714
+esitellä	rauhoittaa	1.015803439
+tavoittaa	nähdä	0.910880154
+halata	juhlia	0.958248003
+turvata	hoitaa	0.704451087
+rauhoittaa	tavoittaa	1.041063617
+neuvoa	tavoittaa	1.154684346
+luvata	vapauttaa	0.749484327
+mennä naimisiin	hajota	1.567672192
+käsitellä	kiusoitella	0.991542783
+rauhoittaa	suudella	1.133476001
+sallia	vierailla	0.886903231
+ylentää	kiusoitella	1.121554296
+vapauttaa	matkia	0.917006473
+lupautua	seurata	1.066735058
+nostaa lasi	yhdistää	0.810443877
+liittyä seuraan	suojella	0.867140717
+neuvoa	osallistua	0.892868759
+tehdä yhteistyötä	riippua	0.833874428
+esitellä	huolehtia	0.953104371
+ylentää	sallia	0.993638115
+viettää	olla samaa mieltä	0.904591601
+nähdä	olla samaa mieltä	0.738834965
+vakuuttaa	liittyä seuraan	1.014079466
+kohdella	nähdä	1.125273223
+rukoilla	kohdella huonosti	1.370834438
+suojata	rauhoittaa	0.905550405
+olla eri mieltä	rauhoittaa	1.290143803
+esitellä	kohdella	0.923325825
+suojata	myöntää	1.225004816
+kiusata	rukoilla	1.283671885
+vierailla	liittyä seuraan	0.79345654
+vakuuttaa	panetella	1.122710209
+siunata	lorvailla	1.153584068
+myöntää	omistautua	0.770519549
+sitoutua	välittää	0.672500912
+suojata	kunnioittaa	0.808810589
+sitoutua	tavoittaa	1.075721539
+viihdyttää	liittyä seuraan	0.957280294
+panetella	hajota	0.708865401
+panetella	suostutella	1.13850183
+lohduttaa	yhdistää	0.871048885
+yhtyä	halata	0.869474371
+sisältää	neuvoa	0.818104928
+tervehtiä	välittää	0.813380319
+avustaa	kunnioittaa	0.819265256
+sopia	olla eri mieltä	1.083117603
+menettää	halata	1.41866056
+tavata	auttaa	1.02640422
+menettää	välittää	1.20009346
+avustaa	riippua	0.905122014
+matkia	tavata	1.103168238
+hoitaa	suojella	0.652123545
+vannoa	avustaa	0.829607676
+palvella	suojella	1.00245362
+herättää	lohduttaa	1.06863081
+tehdä yhteistyötä	olla eri mieltä	1.035907836
+välittää	rukoilla	0.855978608
+antaa	suositella	0.815096206
+yhdistää	suudella	0.633024871
+vannoa	sisältää	0.799770437
+vapauttaa	vannoa	0.989532205
+luvata	rauhoittaa	0.929894734
+johtaa	rohkaista	0.880581629
+vaatia	tavoittaa	1.061933881
+vierailla	suositella	1.072750324
+kohdella	osallistua	0.820418117
+antaa anteeksi	sallia	1.069111972
+vaatia	suositella	0.962241359
+lohduttaa	vapauttaa	1.02494149
+neuvoa	antaa anteeksi	1.062730094
+vakuuttaa	kohdata	1.018647569
+siunata	suudella	0.693590812
+hajota	ottaa mukaan	1.114807385
+riippua	suojella	0.814135961
+nostaa lasi	suojata	1.206244842
+antaa anteeksi	johtaa	1.21842425
+luottaa	matkia	0.997660826
+esitellä	luottaa	0.895529123
+kohdella huonosti	ylentää	1.403306823
+suojata	vapauttaa	0.810099281
+menettää	nostaa lasi	1.446078669
+liittyä seuraan	hajota	1.055061015
+vakuuttaa	olla samaa mieltä	0.96239438
+vihkiä	avustaa	1.036695724
+vierailla	edistää	0.95660089
+tavoittaa	palvella	0.901780671
+tavata	yhdistää	0.999923647
+palvella	lupautua	1.043814106
+halata	olla eri mieltä	1.229097865
+kiusata	liittyä seuraan	1.11533064
+kohdella	rukoilla	1.111574903
+suudella	erota	1.479609735
+liittyä	välittää	0.807430332
+myöntää	kohdata	1.188789978
+halata	suudella	0.52793491
+juhlia	anoa	1.26729518
+sisältää	sopia	0.734129624
+edistää	matkia	0.945645984
+yhtyä	myöntää	0.844467166
+omistautua	vannoa	0.662643684
+kiusata	halailla	1.547332844
+käsitellä	vierailla	0.947043999
+suojella	kiusoitella	1.060060711
+rohkaista	käsitellä	0.906548051
+nostaa lasi	luvata	0.971264971
+olla samaa mieltä	lohduttaa	0.831076137
+kiusata	käsitellä	0.923378775
+käsitellä	panetella	1.085555963
+viihdyttää	antaa	1.043342008
+kohdella	sopia	0.819270806
+rauhoittaa	kunnioittaa	0.820190899
+ottaa mukaan	rohkaista	0.924042683
+suojella	sitoutua	0.611854167
+sopia	olla samaa mieltä	0.775004883
+esitellä	erota	1.088422039
+suojella	mennä naimisiin	0.757964769
+tavata	suojata	0.935812424
+suojata	avustaa	0.743396922
+juhlia	ylentää	1.120469159
+halailla	yhdistää	0.638919855
+tehdä yhteistyötä	antaa anteeksi	0.97744419
+tehdä yhteistyötä	suudella	0.770964565
+antaa	panetella	1.223946244
+tavata	palvella	1.041482483
+hajota	rohkaista	1.198873454
+lorvailla	panetella	0.7852245
+sisältää	tavoittaa	0.656116349
+vannoa	kohdata	0.808020252
+herättää	viihdyttää	1.198230041
+mennä naimisiin	yhtyä	0.700308888
+yhdistää	ottaa mukaan	0.797297911
+huolehtia	osallistua	0.636538748
+suojata	liittyä	0.804941226
+turvata	olla eri mieltä	1.233684175
+kohdella	kiusata	0.573559818
+sitoutua	omistautua	0.462842644
+suudella	herättää	1.201413636
+liittyä	lupautua	0.804770114
+ylentää	viihdyttää	1.024531428
+vakuuttaa	avustaa	1.07012913
+avustaa	rukoilla	1.036514697
+suojata	kohdella huonosti	1.273991924
+sisältää	armahtaa	0.934315487
+herättää	osallistua	1.189964487
+luvata	kohdata	0.918882436
+tavoittaa	puolustaa	0.925694197
+kiusata	nolata	0.221102146
+omistautua	liittyä	0.705052658
+tervehtiä	halata	0.681456967
+liittyä seuraan	vaatia	1.074247692
+osallistua	välittää	0.673954216
+hajota	kiusoitella	0.717826199
+neuvoa	kohdella	0.942636036
+kohdella huonosti	avustaa	1.089586139
+vierailla	tehdä yhteistyötä	0.954024704
+yhdistää	palvella	1.071356873
+luvata	armahtaa	1.035565007
+nostaa lasi	turvata	1.121400853
+tervehtiä	sitoutua	0.768139889
+esitellä	ylentää	1.099553461
+myöntää	lorvailla	1.326504703
+luottaa	nolata	1.254442042
+yhdistää	halata	0.75731408
+lohduttaa	vannoa	0.938980974
+osallistua	panetella	1.106376488
+herättää	vaatia	1.154828553
+tavata	kohdella	0.983506191
+halailla	erota	1.541801337
+rohkaista	tehdä yhteistyötä	0.65213856
+juhlia	olla eri mieltä	1.161291321
+armahtaa	rohkaista	0.903742185
+halata	liittyä seuraan	0.790895401
+nähdä	nostaa lasi	0.742563856
+kohdella	halata	1.055250114
+halata	matkia	1.259556505
+ottaa mukaan	puolustaa	0.956466789
+kiusoitella	auttaa	1.128169649
+tavata	huolehtia	0.969183997
+sallia	luvata	0.619249759
+liittyä	rauhoittaa	0.936094771
+halata	panetella	1.470901016
+seurata	siunata	1.062305569
+edistää	olla eri mieltä	1.239426427
+halata	puolustaa	0.903444047
+viettää	suositella	0.992443161
+halailla	sopia	0.833186705
+rauhoittaa	vannoa	0.865391395
+välittää	antaa	0.720105376
+avustaa	vapauttaa	1.031894956
+liittyä	menettää	1.117206096
+omistautua	vapauttaa	0.865845093
+armahtaa	hajota	1.327037219
+antaa	nähdä	1.010071851
+suostutella	tervehtiä	0.960948816
+sallia	halailla	0.864170479
+vierailla	nähdä	0.648303307
+viettää	antaa anteeksi	0.830683913
+nähdä	rauhoittaa	1.293891028
+kiusoitella	edistää	0.966222909
+kunnioittaa	antaa anteeksi	1.090415604
+seurata	nostaa lasi	1.295022795
+rukoilla	kiusoitella	1.302093008
+herättää	myöntää	1.271855817
+juhlia	rukoilla	0.861071203
+kohdata	halata	0.805865695
+sallia	omistautua	0.774061171
+mennä naimisiin	viettää	1.06154096
+tervehtiä	nostaa lasi	1.082101451
+puolustaa	turvata	0.357388582
+vihkiä	rukoilla	0.491504168
+kohdella huonosti	menettää	0.671982383
+auttaa	mennä naimisiin	0.97757243
+nolata	yhdistää	1.417361741
+lupautua	puolustaa	0.856130808
+ottaa mukaan	viihdyttää	1.052494285
+tervehtiä	antaa anteeksi	0.970298199
+olla samaa mieltä	puolustaa	0.727041754
+tervehtiä	kohdella	0.975149936
+turvata	käsitellä	1.208405708
+puolustaa	sallia	0.967655008
+panetella	nähdä	1.122628847
+sitoutua	sopia	0.679258529
+avustaa	ylentää	0.928054282
+hoitaa	ottaa mukaan	0.773905312
+hajota	luvata	1.252351789
+suojella	kohdata	0.968751596
+menettää	olla samaa mieltä	1.282154778
+menettää	rohkaista	1.208549649
+rohkaista	anoa	1.007650989
+antaa	sitoutua	0.947082894
+halailla	vakuuttaa	0.941694078
+yhdistää	turvata	0.738122442
+nolata	olla samaa mieltä	1.326884505
+hoitaa	välittää	0.612260389
+liittyä seuraan	nähdä	0.849671184
+sitoutua	tavata	0.818144821
+neuvoa	suudella	1.010469536
+lohduttaa	halata	0.896819726
+sitoutua	olla samaa mieltä	0.796771218
+vakuuttaa	johtaa	0.740655324
+sallia	kohdata	0.859903621
+liittyä seuraan	menettää	0.992377406
+matkia	tavoittaa	0.799599172
+mennä naimisiin	armahtaa	1.030153287
+vakuuttaa	menettää	1.204001496
+antaa	tavata	0.995441494
+panetella	kohdella huonosti	0.385168999
+rauhoittaa	vierailla	1.303298252
+panetella	turvata	1.223728408
+rauhoittaa	mennä naimisiin	1.145205549
+johtaa	kohdata	1.082608766
+hoitaa	luottaa	0.649394336
+kiusoitella	kohdata	0.989555037
+puolustaa	huolehtia	0.690713994
+suojata	liittyä seuraan	0.809638649
+luvata	kiusoitella	1.187510404
+armahtaa	vakuuttaa	1.022146617
+rukoilla	tavata	1.060605197
+juhlia	tavata	1.006075107
+osallistua	luvata	0.607391734
+vapauttaa	nostaa lasi	0.931978133
+anoa	palvella	1.155239041
+sisältää	kohdella	0.858862631
+nähdä	palvella	1.146213973
+seurata	ylentää	0.906626913
+antaa	antaa anteeksi	0.957013124
+vaatia	riippua	1.099712432
+olla samaa mieltä	luottaa	0.653678692
+vihkiä	suudella	0.527903462
+omistautua	vihkiä	0.534252257
+käsitellä	olla samaa mieltä	1.086179517
+vapauttaa	yhdistää	0.937568419
+kiusoitella	viihdyttää	1.347907517
+avustaa	tavoittaa	0.790765652
+ottaa mukaan	juhlia	1.033882719
+armahtaa	erota	1.37592741
+sopia	luvata	0.643178893
+siunata	avustaa	1.016856193
+luvata	rohkaista	0.921341411
+omistautua	lohduttaa	0.938036487
+käsitellä	vapauttaa	1.010082131
+lohduttaa	nolata	1.114706735
+lupautua	ottaa mukaan	0.933718316
+vapauttaa	tavoittaa	0.927033646
+kohdella	antaa	0.979862722
+herättää	liittyä	1.141047979
+sisältää	rohkaista	0.750844052
+vakuuttaa	palvella	0.815137396
+omistautua	johtaa	0.955643778
+sitoutua	vapauttaa	0.886097044
+menettää	turvata	1.421639826
+avustaa	luottaa	0.760151697
+palvella	käsitellä	1.250345921
+luvata	käsitellä	1.053044241
+rukoilla	halailla	0.916929477
+tehdä yhteistyötä	viihdyttää	0.901116634
+palvella	hoitaa	0.689809916
+juhlia	käsitellä	1.112177625
+huolehtia	lupautua	0.846050392
+edistää	lupautua	0.915314819
+nostaa lasi	panetella	1.468961778
+olla samaa mieltä	olla eri mieltä	1.066360825
+osallistua	yhdistää	0.856913895
+omistautua	kohdata	0.983562276
+viettää	nähdä	0.579385246
+turvata	viettää	1.073883085
+juhlia	suojata	1.101946322
+lupautua	kohdata	0.801632859
+kohdella huonosti	anoa	1.102876691
+turvata	yhtyä	0.650448053
+käsitellä	ottaa mukaan	0.947541651
+osallistua	rohkaista	0.66472776
+vakuuttaa	edistää	1.040059183
+olla samaa mieltä	nostaa lasi	0.992134707
+hajota	myöntää	1.244766024
+suojata	välittää	0.683279931
+sisältää	halailla	0.846037465
+käsitellä	myöntää	1.268486501
+kunnioittaa	seurata	0.871732649
+lupautua	johtaa	0.95743564
+puolustaa	panetella	1.123953912
+suudella	tavoittaa	1.019072441
+siunata	vihkiä	0.483927872
+kunnioittaa	johtaa	0.673059765
+siunata	esitellä	1.209846577
+vakuuttaa	nähdä	1.043958027
+vaatia	olla samaa mieltä	1.15827065
+tervehtiä	halailla	0.736866438
+nähdä	erota	0.889201183
+sisältää	anoa	0.673729857
+suositella	yhtyä	0.879866829
+esitellä	hoitaa	0.852888542
+puolustaa	käsitellä	1.323098752
+nähdä	tervehtiä	0.697028303
+erota	yhdistää	1.298696
+kiusoitella	sallia	1.232257189
+suositella	tavoittaa	1.046485092
+rauhoittaa	antaa	1.02033358
+kunnioittaa	vihkiä	0.792801355
+herättää	olla eri mieltä	1.21206341
+lorvailla	kiusoitella	0.883472582
+mennä naimisiin	kohdata	1.115858621
+vakuuttaa	kohdella	1.047308619
+rukoilla	tehdä yhteistyötä	0.817707843
+suudella	kiusata	1.549778392
+lohduttaa	luvata	0.951029023
+esitellä	panetella	1.13637359
+tavoittaa	erota	0.986245964
+matkia	ottaa mukaan	1.008255406
+anoa	lupautua	0.947256155
+panetella	liittyä seuraan	1.083818185
+suojella	neuvoa	1.2129149
+edistää	nostaa lasi	1.211858819
+seurata	erota	1.133728016
+edistää	vapauttaa	1.147426143
+rohkaista	olla eri mieltä	1.367611665
+neuvoa	turvata	1.257281196
+kiusata	nostaa lasi	1.647182912
+avustaa	tehdä yhteistyötä	0.559880747
+kunnioittaa	kiusata	1.230269223
+siunata	kohdata	1.016213173
+vierailla	välittää	1.070540893
+mennä naimisiin	myöntää	0.849387427
+hajota	osallistua	1.172742604
+sallia	vaatia	1.013888424
+vannoa	käsitellä	0.892994205
+vapauttaa	tehdä yhteistyötä	0.843941084
+hoitaa	herättää	0.927492717
+suositella	välittää	0.838375403
+neuvoa	rauhoittaa	1.256035235
+kiusoitella	vakuuttaa	1.149674889
+erota	välittää	1.254510272
+yhdistää	tervehtiä	0.784195768
+armahtaa	sitoutua	1.014657762
+luottaa	vapauttaa	0.821394824
+menettää	vierailla	1.033200019
+vierailla	kiusoitella	1.142801277
+ottaa mukaan	neuvoa	1.000371189
+tavoittaa	vannoa	0.984984755
+anoa	seurata	1.069690184
+nolata	suositella	1.205534231
+sitoutua	juhlia	1.038560026
+kiusoitella	halailla	1.43820771
+käsitellä	mennä naimisiin	1.279783497
+suojata	lupautua	0.779643393
+mennä naimisiin	vihkiä	0.23278612
+nähdä	nolata	1.072075652
+neuvoa	rukoilla	1.057825449
+herättää	välittää	1.019071216
+vaatia	vihkiä	1.228615836
+suositella	liittyä	0.850852355
+myöntää	avustaa	0.887445576
+turvata	halailla	0.930697965
+edistää	johtaa	1.006884018
+auttaa	hoitaa	0.53003912
+vannoa	erota	1.242213758
+huolehtia	käsitellä	0.974960324
+tervehtiä	myöntää	0.879425579
+tehdä yhteistyötä	auttaa	0.717088422
+viettää	yhtyä	0.903686629
+suojella	johtaa	1.040279251
+olla samaa mieltä	esitellä	0.829546729
+tavata	menettää	0.994054896
+armahtaa	kiusata	1.297269218
+juhlia	matkia	1.278299969
+käsitellä	antaa anteeksi	0.906559858
+ottaa mukaan	suositella	0.849511329
+liittyä	halata	0.68389668
+kunnioittaa	liittyä seuraan	0.843307987
+edistää	rauhoittaa	0.936585524
+viettää	sisältää	0.7022131
+auttaa	omistautua	0.91774262
+neuvoa	yhdistää	0.989931693
+luvata	vakuuttaa	0.765502052
+seurata	liittyä seuraan	0.896716042
+rukoilla	liittyä seuraan	0.985418692
+lohduttaa	sallia	1.008277807
+vakuuttaa	riippua	0.970250354
+kiusata	kohdella huonosti	0.323504729
+käsitellä	tavata	1.006070439
+hoitaa	sallia	0.926616411
+kunnioittaa	mennä naimisiin	0.884573642
+halata	esitellä	0.878109969
+vakuuttaa	välittää	0.670521256
+vakuuttaa	liittyä	0.832692438
+antaa	neuvoa	0.966232062
+seurata	yhtyä	0.897208509
+suojata	luottaa	0.789910462
+omistautua	vaatia	1.254290879
+nähdä	yhdistää	1.099464099
+mennä naimisiin	herättää	1.301182482
+kohdella huonosti	halata	1.54762374
+lohduttaa	sisältää	0.73414101
+anoa	halailla	0.977190775
+halata	myöntää	1.004243821
+suojata	palvella	0.857610058
+vaatia	esitellä	0.838944745
+sopia	vierailla	0.973119873
+rauhoittaa	tehdä yhteistyötä	0.768883539
+rukoilla	myöntää	0.847896653
+sopia	yhtyä	0.850897701
+erota	avustaa	1.082176246
+kohdata	suojata	0.821554565
+tervehtiä	rauhoittaa	1.05169063
+luvata	lorvailla	1.11764583
+mennä naimisiin	suudella	0.440913989
+rukoilla	lohduttaa	1.071245493
+lorvailla	johtaa	1.139958234
+vihkiä	suojata	0.83965322
+liittyä	panetella	1.177396411
+kohdata	turvata	0.935349345
+tavata	myöntää	0.989389008
+sisältää	vierailla	0.76990392
+antaa	lohduttaa	0.83869454
+vaatia	lohduttaa	1.361922746
+osallistua	mennä naimisiin	0.787407174
+palvella	olla eri mieltä	1.132346845
+lohduttaa	tervehtiä	1.063513642
+lorvailla	huolehtia	1.308932154
+armahtaa	edistää	1.083539562
+johtaa	nostaa lasi	1.074268262
+suudella	huolehtia	0.924823056
+riippua	erota	1.086742216
+hoitaa	tervehtiä	0.901876856
+ottaa mukaan	suojata	0.835801569
+johtaa	suostutella	1.045330424
+ylentää	matkia	0.932803473
+yhdistää	tavoittaa	0.876706348
+vannoa	olla samaa mieltä	0.673814598
+lohduttaa	luottaa	0.771213843
+panetella	omistautua	1.408473329
+rukoilla	nolata	1.33341443
+johtaa	yhdistää	0.893575812
+suudella	myöntää	0.975177241
+rukoilla	vakuuttaa	0.814176798
+osallistua	suojella	0.642878627
+auttaa	siunata	0.941659679
+menettää	viettää	0.944987051
+armahtaa	suositella	0.981850575
+nostaa lasi	lupautua	0.790660664
+esitellä	mennä naimisiin	0.988558116
+nostaa lasi	mennä naimisiin	0.908322999
+esitellä	yhtyä	0.761566339
+ottaa mukaan	edistää	0.88129995
+lorvailla	kunnioittaa	1.163538501
+olla samaa mieltä	liittyä	0.67377583
+suostutella	myöntää	1.134131699
+nolata	edistää	0.919849368
+sallia	rohkaista	1.030899873
+rukoilla	vapauttaa	1.037531563
+vihkiä	tavoittaa	1.091396956
+kiusoitella	puolustaa	1.109065171
+sitoutua	avustaa	0.804642981
+puolustaa	antaa anteeksi	1.311861275
+turvata	anoa	1.235256896
+anoa	tehdä yhteistyötä	0.978464651
+tervehtiä	auttaa	0.825567858
+neuvoa	kiusata	1.229154749
+juhlia	suojella	1.178103393
+hajota	kohdella	0.763538011
+puolustaa	hoitaa	0.574928922
+anoa	tervehtiä	1.057077465
+johtaa	käsitellä	1.177052044
+sitoutua	auttaa	0.969362062
+siunata	yhtyä	0.749104012
+yhdistää	seurata	0.960168825
+neuvoa	käsitellä	0.740487848
+riippua	huolehtia	1.057786337
+suostutella	vaatia	0.661040328
+yhdistää	menettää	1.371846255
+edistää	olla samaa mieltä	1.18833879
+tavoittaa	siunata	1.088104447
+neuvoa	lohduttaa	1.24327164
+siunata	kohdella	1.129899236
+omistautua	rohkaista	0.877517242
+sitoutua	kohdella huonosti	1.484225571
+lupautua	sitoutua	0.374895248
+edistää	nähdä	0.958521397
+olla samaa mieltä	lupautua	0.770557922
+siunata	vapauttaa	0.999575459
+herättää	neuvoa	0.960512898
+vihkiä	kiusata	1.525758534
+luottaa	käsitellä	0.94926467
+nostaa lasi	hoitaa	1.226542233
+palvella	olla samaa mieltä	0.956214763
+kohdella huonosti	suudella	1.570854798
+puolustaa	vaatia	1.368400715
+nolata	ylentää	1.330375795
+hoitaa	armahtaa	1.003350753
+liittyä seuraan	juhlia	1.160836508
+vakuuttaa	sallia	0.784858409
+ylentää	suudella	0.825509636
+antaa anteeksi	liittyä	1.031046245
+hoitaa	sisältää	0.711156602
+suositella	liittyä seuraan	0.776409057
+sallia	sopia	1.08286411
+neuvoa	yhtyä	1.188955382
+vaatia	tavata	1.097428794
+palvella	tehdä yhteistyötä	0.534549296
+suojata	anoa	1.17391599
+käsitellä	menettää	0.929752945
+auttaa	suojella	0.71937388
+puolustaa	ylentää	0.819932906
+vaatia	halailla	1.04262106
+hoitaa	suostutella	1.108379282
+kohdata	antaa	0.956686573
+siunata	liittyä	0.909023758
+riippua	vapauttaa	0.799553052
+kohdata	osallistua	0.594862385
+lorvailla	nostaa lasi	1.027955473
+edistää	antaa	0.96236854
+olla samaa mieltä	sisältää	0.80606946
+olla eri mieltä	antaa	0.874330342
+turvata	olla samaa mieltä	0.65758585
+turvata	suostutella	1.21000548
+suudella	käsitellä	1.05977149
+vakuuttaa	lorvailla	1.117606348
+suositella	lohduttaa	1.010862471
+kunnioittaa	myöntää	0.961470939
+vierailla	tavata	0.596118518
+rohkaista	liittyä seuraan	0.739592378
+avustaa	edistää	0.724862627
+nolata	lorvailla	0.834253483
+luottaa	anoa	0.852811156
+menettää	viihdyttää	1.330263201
+menettää	suojella	1.300846936
+huolehtia	yhdistää	0.772198622
+rauhoittaa	juhlia	1.505697531
+avustaa	sisältää	0.700938831
+suostutella	liittyä seuraan	1.09048708
+edistää	herättää	0.840342157
+halailla	rauhoittaa	1.204199771
+rohkaista	tavata	0.959553497
+rauhoittaa	osallistua	1.044877939
+riippua	tavoittaa	1.051602712
+anoa	tavoittaa	1.235435999
+sisältää	luottaa	0.684207054
+viihdyttää	seurata	1.22815538
+juhlia	johtaa	1.143838592
+halailla	esitellä	0.928012703
+vihkiä	hoitaa	1.060898285
+olla samaa mieltä	viihdyttää	0.909038788
+herättää	luvata	1.218083084
+tehdä yhteistyötä	suositella	0.702664752
+halailla	huolehtia	0.796846208
+lohduttaa	olla eri mieltä	1.295724742
+luvata	myöntää	0.577171558
+hoitaa	menettää	0.993967082
+armahtaa	suostutella	1.194572148
+suojata	sopia	1.002073966
+mennä naimisiin	panetella	1.566217863
+lorvailla	liittyä	1.014766236
+nolata	ottaa mukaan	1.116654041
+vannoa	rohkaista	0.733767238
+viettää	tehdä yhteistyötä	0.751019793
+sitoutua	viihdyttää	0.74235207
+tavoittaa	kohdata	0.891587545
+herättää	auttaa	1.010945176
+myöntää	antaa	1.002746557
+suudella	suojata	0.86346783
+suojata	vierailla	1.14986864
+riippua	kiusata	1.039254835
+vannoa	suudella	0.693673379
+hoitaa	nähdä	0.955110114
+rauhoittaa	rukoilla	1.23718715
+rohkaista	juhlia	1.249061691
+myöntää	hoitaa	1.068421496
+vierailla	antaa	0.98540623
+vihkiä	huolehtia	0.912389807
+nähdä	mennä naimisiin	1.168896294
+luvata	rukoilla	0.779042819
+vierailla	luottaa	1.038224786
+vapauttaa	ylentää	0.95647807
+ylentää	herättää	1.199382996
+esitellä	suojata	0.956188505
+juhlia	seurata	1.354563491
+sitoutua	huolehtia	0.788211466
+kohdata	sopia	0.880307592
+vihkiä	myöntää	0.862081235
+mennä naimisiin	halata	0.688574209
+vierailla	panetella	1.198439173
+suojata	hoitaa	0.61581491
+suojella	lupautua	0.716582776
+johtaa	nähdä	1.029782651
+tavata	kohdata	0.341097374
+turvata	sopia	0.908285313
+luottaa	antaa anteeksi	0.739972835
+puolustaa	liittyä seuraan	0.763718164
+lohduttaa	halailla	0.976698258
+seurata	liittyä	0.956573526
+rukoilla	puolustaa	1.0018902
+rauhoittaa	lorvailla	1.18122203
+ylentää	halailla	0.897124195
+käsitellä	rukoilla	1.136586574
+vannoa	sopia	0.70974653
+herättää	rohkaista	0.975794027
+kiusata	myöntää	1.249187049
+palvella	riippua	1.090132171
+tavata	mennä naimisiin	1.120761529
+nostaa lasi	matkia	1.286898626
+palvella	liittyä seuraan	0.751096009
+hoitaa	nolata	1.062312748
+palvella	kunnioittaa	0.89073892
+olla eri mieltä	antaa anteeksi	1.369195799
+ylentää	vakuuttaa	0.900237328
+tavoittaa	vakuuttaa	0.963855873
+osallistua	tavata	0.502441131
+käsitellä	viettää	0.787048542
+palvella	suudella	1.017391409
+vierailla	vannoa	0.898765121
+lorvailla	tehdä yhteistyötä	0.962728149
+avustaa	nähdä	0.958316792
+suojella	tavoittaa	0.933392709
+osallistua	edistää	0.920102222
+juhlia	tavoittaa	1.21623141
+lupautua	vihkiä	0.564237619
+kohdella huonosti	rauhoittaa	1.186363881
+seurata	rohkaista	0.836784409
+halailla	liittyä seuraan	0.804462841
+puolustaa	lohduttaa	0.620438495
+nolata	mennä naimisiin	1.616548693
+antaa anteeksi	suojata	1.285085398
+seurata	vakuuttaa	1.020938949
+turvata	kiusoitella	1.104568494
+tervehtiä	riippua	0.907018902
+suostutella	vihkiä	1.284047313
+puolustaa	sopia	1.079567922
+sitoutua	sallia	0.911434453
+neuvoa	suojata	1.172565741
+auttaa	liittyä seuraan	0.635498895
+antaa anteeksi	lorvailla	0.968472556
+luottaa	kunnioittaa	0.770521431
+liittyä seuraan	riippua	0.945681285
+menettää	puolustaa	1.3647193
+auttaa	esitellä	0.919538945
+auttaa	panetella	1.189632293
+luottaa	vannoa	0.638816765
+nolata	puolustaa	1.315328914
+esitellä	tavata	0.424765168
+lorvailla	suositella	1.08535275
+ylentää	vierailla	1.393933951
+riippua	suositella	1.007221906
+vakuuttaa	sopia	0.801635941
+kohdella	ottaa mukaan	0.852940625
+seurata	osallistua	0.878415419
+suojella	olla eri mieltä	1.236325797
+tehdä yhteistyötä	siunata	0.844779544
+huolehtia	matkia	1.17561914
+halata	auttaa	1.049622086
+viettää	tavata	0.680622871
+panetella	tavata	1.124746073
+avustaa	sopia	0.910808038
+siunata	kiusoitella	1.395091518
+antaa	kiusoitella	1.083658698
+riippua	antaa anteeksi	0.929480812
+olla samaa mieltä	siunata	1.023374846
+yhtyä	kohdella huonosti	1.357107564
+ylentää	kiusata	1.336948872
+halata	seurata	1.129643058
+hoitaa	juhlia	1.203125213
+vaatia	palvella	1.406982688
+riippua	neuvoa	0.900899251
+kiusoitella	erota	0.854579017
+vihkiä	käsitellä	1.204691607
+hajota	seurata	1.010175673
+suojata	herättää	1.065798754
+tavata	ottaa mukaan	0.752004285
+tervehtiä	rukoilla	0.968986271
+sitoutua	kohdella	1.024560427
+panetella	riippua	1.106712988
+esitellä	riippua	0.87711184
+sitoutua	halailla	0.796689938
+armahtaa	nolata	1.295536041
+halailla	tavoittaa	0.92720907
+kiusata	avustaa	1.056157623
+panetella	lupautua	1.33654516
+neuvoa	tehdä yhteistyötä	1.015839646
+suostutella	suudella	1.111627985
+sallia	olla eri mieltä	1.136556756
+turvata	myöntää	1.049745511
+liittyä	kohdata	0.747583941
+mennä naimisiin	johtaa	1.017700599
+esitellä	luvata	0.702645855
+suojella	vaatia	1.492513378
+vapauttaa	johtaa	1.099446528
+erota	viihdyttää	1.275686444
+omistautua	lupautua	0.490893549
+kohdata	lorvailla	0.884727043
+kiusata	liittyä	1.191068464
+käsitellä	yhtyä	1.099335167
+liittyä	mennä naimisiin	0.773129626
+sopia	liittyä seuraan	0.780558251
+hajota	menettää	0.469902193
+nolata	neuvoa	1.167792729
+auttaa	yhtyä	0.736201075
+kiusoitella	kunnioittaa	1.034355825
+matkia	suojella	1.062851645
+yhdistää	riippua	0.978044922
+kohdella	puolustaa	0.948240216
+esitellä	viettää	0.674181347
+siunata	erota	1.438520424
+erota	kohdata	1.012786988
+viettää	matkia	1.183631482
+riippua	johtaa	0.923564093
+kohdella huonosti	liittyä	1.248092092
+siunata	halata	0.905739555
+kunnioittaa	sitoutua	0.683179393
+sallia	kiusata	1.056848342
+välittää	avustaa	0.588425949
+halata	rohkaista	0.922005299
+kohdata	tervehtiä	0.432980856
+auttaa	rauhoittaa	0.741065656
+seurata	palvella	0.860291762
+auttaa	avustaa	0.438696852
+huolehtia	tehdä yhteistyötä	0.734836467
+lupautua	rauhoittaa	1.038753534
+vierailla	antaa anteeksi	1.018569208
+kohdella huonosti	liittyä seuraan	1.11567485
+ylentää	lupautua	0.900314839
+yhtyä	luottaa	0.613983855
+kiusoitella	antaa anteeksi	1.328930281
+tervehtiä	erota	1.020628523
+avustaa	suositella	0.732635528
+lohduttaa	hajota	1.187026316
+viettää	vannoa	0.942984976
+halailla	luottaa	0.702738811
+vakuuttaa	tehdä yhteistyötä	0.849656771
+puolustaa	lorvailla	1.322059817
+suositella	kiusoitella	1.001643066
+herättää	vierailla	1.282541114
+nolata	avustaa	1.080352836
+suositella	herättää	1.003365937
+armahtaa	yhtyä	1.022584065
+kiusata	kohdata	1.036411119
+siunata	tavata	1.130252015
+mennä naimisiin	rohkaista	1.110413822
+antaa anteeksi	vakuuttaa	1.096157714
+siunata	sisältää	0.928155761
+riippua	nähdä	0.900859286
+nostaa lasi	tavoittaa	1.224473292
+vannoa	panetella	1.13111372
+sitoutua	rukoilla	0.674251091
+palvella	auttaa	0.773355932
+viettää	neuvoa	0.803481232
+nähdä	matkia	1.170051634
+suostutella	omistautua	1.174490751
+myöntää	sitoutua	0.834206672
+luvata	suositella	0.916940626
+huolehtia	suojata	0.710123215
+olla samaa mieltä	halata	0.686822847
+kiusata	rauhoittaa	1.203267727
+tehdä yhteistyötä	menettää	1.09806634
+esitellä	liittyä seuraan	0.578381464
+vihkiä	juhlia	0.954957181
+tehdä yhteistyötä	juhlia	0.932032007
+nolata	vapauttaa	1.0111166
+tervehtiä	antaa	0.898170489
+yhdistää	omistautua	0.539746719
+esitellä	puolustaa	1.080008913
+tehdä yhteistyötä	halailla	0.785570939
+välittää	rohkaista	0.644147257
+siunata	vaatia	1.330434553
+olla eri mieltä	ottaa mukaan	1.092876669
+vierailla	tavoittaa	0.971038231
+esitellä	lorvailla	0.817858659
+antaa	yhtyä	1.123287607
+suositella	osallistua	0.670342366
+vaatia	nähdä	0.926367577
+välittää	viettää	0.7994549
+käsitellä	sisältää	0.624616056
+suositella	halata	0.820653846
+nähdä	suojata	1.025094814
+panetella	lohduttaa	1.118967198
+vapauttaa	panetella	1.084996748
+seurata	kiusoitella	0.820011368
+kiusata	vaatia	1.237862467
+antaa anteeksi	lohduttaa	1.200315095
+nolata	seurata	0.790680571
+ottaa mukaan	sitoutua	0.834505739
+matkia	antaa anteeksi	1.270448918
+hoitaa	tavata	0.870025671
+avustaa	viettää	0.878362371
+edistää	suudella	1.096327809
+herättää	vakuuttaa	0.998194765
+lorvailla	herättää	0.849943278
+suojata	auttaa	0.712392537
+hajota	yhtyä	1.319087954
+kunnioittaa	juhlia	1.14933066
+sisältää	rauhoittaa	1.010156926
+matkia	suositella	1.145934174
+halailla	antaa anteeksi	1.026381064
+tavoittaa	menettää	1.0412667
+vannoa	kiusoitella	1.02713459
+liittyä seuraan	ottaa mukaan	0.525601185
+sopia	tervehtiä	0.744996476
+vakuuttaa	siunata	0.920680355
+ylentää	suostutella	1.234537522
+rauhoittaa	myöntää	1.18103356
+antaa anteeksi	liittyä seuraan	1.057951117
+luottaa	suudella	0.838892575
+tervehtiä	suojata	0.811217622
+suudella	esitellä	0.927975665
+myöntää	viettää	1.085893601
+sallia	riippua	0.823234484
+antaa	sisältää	0.881450133
+liittyä seuraan	vapauttaa	0.953635348
+panetella	tervehtiä	1.136603393
+esitellä	neuvoa	0.750830143
+panetella	seurata	0.825618942
+anoa	tavata	0.929046101
+riippua	sisältää	0.844125292
+vaatia	osallistua	1.053290669
+turvata	ylentää	0.64519734
+tavata	antaa anteeksi	1.029191984
+lupautua	viettää	0.95740564
+halata	erota	1.513563711
+tervehtiä	omistautua	0.832824122
+osallistua	antaa	0.910264821
+menettää	anoa	0.989567704
+herättää	antaa	0.966684831
+herättää	omistautua	1.286489893
+palvella	sisältää	0.911618825
+armahtaa	matkia	1.042292962
+suudella	tervehtiä	0.825981029
+yhdistää	auttaa	0.89172759
+tervehtiä	kiusoitella	1.087107299
+suudella	vakuuttaa	0.90374771
+suojella	luvata	0.81987661
+suudella	menettää	1.452570701
+menettää	myöntää	1.289810317
+liittyä	luvata	0.718586638
+sopia	vihkiä	0.691326283
+siunata	matkia	1.166922109
+lupautua	suositella	0.838214739
+lorvailla	viihdyttää	0.995497974
+lorvailla	matkia	0.912697461
+neuvoa	rohkaista	1.111131315
+halata	hajota	1.346800153
+nähdä	ylentää	1.223252001
+sopia	armahtaa	0.622541056
+tavoittaa	suostutella	1.233067941
+yhdistää	kiusata	1.402089328
+vapauttaa	rauhoittaa	0.956045337
+suudella	turvata	0.821059524
+ylentää	anoa	1.211929445
+luvata	nähdä	1.058998225
+kohdella	panetella	0.610071995
+olla samaa mieltä	antaa	0.9387513
+suudella	sallia	0.802780652
+suojella	yhtyä	0.775154215
+olla eri mieltä	sisältää	0.925863909
+kiusoitella	armahtaa	1.300434788
+hoitaa	käsitellä	0.830944021
+suositella	esitellä	0.761702524
+kiusata	puolustaa	1.334645547
+sopia	herättää	0.916720702
+olla samaa mieltä	kiusoitella	1.134564223
+juhlia	palvella	1.299363989
+käsitellä	nähdä	0.825249151
+suojata	viihdyttää	0.943373003
+osallistua	tavoittaa	0.67190211
+auttaa	antaa	0.923134574
+suostutella	lupautua	0.98486029
+tervehtiä	vannoa	0.834499839
+vierailla	olla eri mieltä	0.998559804
+kohdella	huolehtia	0.92623063
+antaa anteeksi	sopia	0.675945962
+vakuuttaa	viettää	0.924416934
+turvata	luottaa	0.686733177
+liittyä	rukoilla	0.863321819
+viettää	antaa	0.780852984
+sopia	suudella	0.870390788
+kohdella	turvata	0.969074137
+hoitaa	mennä naimisiin	0.989533827
+liittyä seuraan	vannoa	0.710141438
+luvata	olla samaa mieltä	0.633721357
+palvella	ottaa mukaan	1.088193845
+välittää	antaa anteeksi	0.916799426
+halata	viihdyttää	0.925661418
+antaa anteeksi	ylentää	1.044988207
+halailla	omistautua	0.566198809
+neuvoa	panetella	1.231620565
+vannoa	siunata	0.554116673
+yhtyä	kiusata	1.29298705
+anoa	vannoa	0.951651164
+kunnioittaa	antaa	0.922972973
+matkia	johtaa	1.016247731
+neuvoa	matkia	1.142270676
+välittää	lorvailla	1.079521852
+mennä naimisiin	olla eri mieltä	1.366897528
+huolehtia	viihdyttää	1.00780013
+ylentää	panetella	1.17118801
+nolata	antaa	1.127342861
+tavata	rauhoittaa	1.176487997
+kohdella	anoa	0.908251068
+johtaa	armahtaa	1.195593004
+tavata	luvata	0.760788686
+tervehtiä	matkia	1.089709258
+halata	ylentää	0.951279594
+nolata	halailla	1.50417386
+lupautua	suudella	0.674447945
+matkia	vihkiä	1.234629702
+mennä naimisiin	yhdistää	0.525470042
+siunata	rukoilla	0.278837247
+menettää	herättää	1.037601707
+kohdata	rukoilla	1.059956283
+menettää	kiusoitella	0.685144412
+esitellä	vakuuttaa	1.115324369
+edistää	välittää	0.676692383
+kohdella huonosti	yhdistää	1.468068462
+tervehtiä	yhtyä	0.677649845
+ottaa mukaan	kiusata	1.100138613
+sallia	viettää	0.857970531
+menettää	yhtyä	1.283949858
+tavata	seurata	1.011693225
+yhdistää	lupautua	0.673234334
+viihdyttää	kohdata	0.919914338
+lohduttaa	tavoittaa	0.782446957
+luottaa	edistää	0.945491176
+lohduttaa	turvata	0.719043126
+nähdä	sitoutua	1.084341625
+myöntää	matkia	1.054756782
+erota	yhtyä	1.403880245
+omistautua	antaa anteeksi	1.003060592
+huolehtia	rauhoittaa	0.719217706
+kiusoitella	viettää	1.125244014
+juhlia	omistautua	0.961627911
+anoa	kiusata	1.152339084
+johtaa	vierailla	1.053250715
+rauhoittaa	suojella	0.821189749
+nähdä	kiusata	1.227222226
+ylentää	ottaa mukaan	0.844755243
+hajota	kiusata	0.670125084
+nostaa lasi	rohkaista	1.255949465
+antaa anteeksi	myöntää	1.151561039
+siunata	myöntää	0.927839724
+armahtaa	esitellä	0.883360029
+sopia	kunnioittaa	0.932518525
+kohdella huonosti	edistää	0.935691414
+avustaa	halata	0.891141008
+vakuuttaa	suostutella	1.083874947
+vihkiä	riippua	0.977248392
+suudella	armahtaa	1.065696531
+lorvailla	ylentää	1.283912918
+vihkiä	tervehtiä	0.913365198
+auttaa	antaa anteeksi	1.167148824
+käsitellä	osallistua	0.968657679
+sitoutua	olla eri mieltä	1.142149491
+auttaa	vihkiä	0.996257638
+hoitaa	vakuuttaa	0.932412859
+vihkiä	vakuuttaa	0.877385302
+anoa	suojella	1.214209715
+antaa anteeksi	rauhoittaa	1.43434255
+puolustaa	nostaa lasi	1.288410297
+suositella	anoa	0.692832484
+panetella	nolata	0.377830051
+hajota	lorvailla	0.788542561
+armahtaa	yhdistää	1.089419235
+luottaa	omistautua	0.711973531
+esitellä	avustaa	0.767084187
+ylentää	kohdella	0.966971912
+luottaa	sallia	0.803445901
+siunata	luottaa	0.775889707
+vakuuttaa	sitoutua	0.834283994
+hoitaa	vapauttaa	0.903528619
+kiusoitella	lupautua	1.274688371
+vaatia	lorvailla	1.023309032
+luottaa	vaatia	1.167016383
+antaa	halata	0.95859742
+vierailla	vakuuttaa	1.096668601
+olla eri mieltä	esitellä	0.989758871
+vierailla	halata	0.821998516
+nostaa lasi	lohduttaa	1.287332111
+kohdella huonosti	välittää	1.297846188
+suositella	vapauttaa	0.935286851
+neuvoa	halailla	0.995240952
+sitoutua	suudella	0.712838336
+sitoutua	antaa anteeksi	0.891122901
+tavata	liittyä	0.747122536
+sallia	ottaa mukaan	1.011391088
+kunnioittaa	luvata	0.785942288
+mennä naimisiin	välittää	0.886446861
+turvata	liittyä seuraan	0.829955053
+riippua	suudella	0.75483607
+viihdyttää	siunata	0.979612869
+anoa	vakuuttaa	0.983033334
+vihkiä	sallia	0.847325783
+vannoa	viihdyttää	0.761430853
+luvata	yhdistää	0.641978012
+erota	lupautua	1.307180866
+osallistua	halailla	0.930986071
+vapauttaa	ottaa mukaan	0.952493279
+siunata	ottaa mukaan	1.032909439
+luvata	suostutella	1.023372254
+yhtyä	olla samaa mieltä	0.767683026
+sallia	erota	1.17716705
+hajota	anoa	0.973248906
+kohdata	menettää	1.07992934
+vaatia	antaa	1.106413121
+kohdata	nostaa lasi	1.088326217
+tehdä yhteistyötä	kiusata	1.122209418
+riippua	kiusoitella	0.905085292
+sitoutua	hajota	1.307903052
+johtaa	tavoittaa	1.090452434
+yhdistää	suostutella	0.997871687
+mennä naimisiin	edistää	1.095880962
+kohdella	suudella	1.098397567
+sallia	huolehtia	0.96196485
+rauhoittaa	olla samaa mieltä	0.949799054
+vapauttaa	mennä naimisiin	0.941331154
+kiusata	sitoutua	1.389943293
+vihkiä	hajota	1.621478011
+neuvoa	lorvailla	0.986601617
+käsitellä	nolata	1.057480628
+olla samaa mieltä	liittyä seuraan	0.710001139
+menettää	juhlia	1.470815588
+vakuuttaa	turvata	0.885508818
+nostaa lasi	olla eri mieltä	1.246588168
+tehdä yhteistyötä	liittyä	0.557540706
+vapauttaa	vakuuttaa	1.169967203
+tavata	vannoa	0.869997737
+seurata	riippua	0.967404958
+palvella	yhtyä	0.777512722
+avustaa	armahtaa	0.976270756
+riippua	rohkaista	1.087256939
+vaatia	juhlia	1.012575807
+luottaa	vihkiä	0.734804659
+sisältää	lupautua	0.715732164
+suudella	ottaa mukaan	0.880721999
+viettää	erota	0.997689704
+kiusata	välittää	1.223785171
+antaa	vannoa	0.964328162
+suojella	lorvailla	1.086198395
+suostutella	viettää	0.737393187
+halailla	hajota	1.329438528
+juhlia	lorvailla	0.962027238
+rohkaista	suudella	1.016970721
+vannoa	vihkiä	0.548821745
+tavoittaa	käsitellä	0.946852375
+omistautua	nostaa lasi	0.884982205
+suostutella	avustaa	0.975963673
+kunnioittaa	hajota	1.320331312
+neuvoa	lupautua	0.977973891
+menettää	johtaa	1.056277444
+rauhoittaa	viihdyttää	1.352499019
+liittyä	sallia	0.807713326
+nolata	palvella	0.992244497
+tavoittaa	välittää	0.781587064
+suojata	rukoilla	0.887078579
+antaa anteeksi	panetella	1.536205619
+tervehtiä	luvata	0.75440845
+vapauttaa	tervehtiä	0.886067226
+menettää	osallistua	1.051761344
+armahtaa	herättää	1.174889378
+armahtaa	palvella	1.047560781
+riippua	ottaa mukaan	1.007449448
+erota	suositella	1.15219512
+tavata	herättää	1.048015738
+sitoutua	vannoa	0.54728385
+nähdä	sallia	0.856778888
+rauhoittaa	herättää	1.281315157
+rauhoittaa	kohdata	1.244171339
+mennä naimisiin	suostutella	1.233357525
+lohduttaa	matkia	0.956823562
+halata	sisältää	0.817268139
+herättää	turvata	1.159581366
+nolata	sisältää	0.971054354
+rukoilla	mennä naimisiin	0.536913684
+suojella	panetella	1.235793164
+turvata	tavoittaa	1.041218116
+olla eri mieltä	tavata	0.967812545
+rohkaista	vihkiä	1.158637249
+kunnioittaa	välittää	0.735600762
+ylentää	vihkiä	0.639093368
+suositella	olla eri mieltä	1.02572615
+halata	omistautua	0.619694975
+kiusoitella	anoa	1.139628512
+vaatia	mennä naimisiin	1.166911083
+kohdella huonosti	tavata	1.137054574
+luvata	olla eri mieltä	1.15916972
+huolehtia	nähdä	1.127915462
+nähdä	juhlia	0.760283066
+nähdä	rohkaista	0.97020015
+nähdä	hajota	0.948298765
+osallistua	nähdä	0.874923378
+lorvailla	halailla	1.145593701
+tehdä yhteistyötä	myöntää	0.876776937
+auttaa	osallistua	0.687076026
+palvella	kohdella huonosti	1.064531293
+omistautua	luvata	0.827655638
+rauhoittaa	vihkiä	1.170973815
+sitoutua	tehdä yhteistyötä	0.728865085
+myöntää	lupautua	0.78746533
+sitoutua	mennä naimisiin	0.285206662
+riippua	hajota	1.099847721
+erota	suojella	1.179651994
+halailla	seurata	1.215305981
+lohduttaa	johtaa	0.98702658
+turvata	suojata	0.664177734
+suojella	halata	0.863422136
+kiusata	osallistua	1.100125415
+nähdä	suositella	0.959896246
+kiusata	suostutella	1.189417866
+rohkaista	tavoittaa	0.89902999
+vaatia	huolehtia	1.171654826
+vakuuttaa	ottaa mukaan	1.071736803
+sopia	lorvailla	0.87134469
+armahtaa	rauhoittaa	1.068692063
+erota	johtaa	1.052558311
+vaatia	sopia	0.925863276
+hoitaa	viihdyttää	1.089538239
+viettää	auttaa	0.833779822
+myöntää	kohdella huonosti	1.288238221
+palvella	neuvoa	1.207416874
+suojella	suositella	0.950997468
+osallistua	johtaa	0.958867479
+avustaa	ottaa mukaan	0.779872303
+mennä naimisiin	suojata	0.78952855
+neuvoa	mennä naimisiin	1.196435954
+hajota	huolehtia	1.205930774
+halailla	kunnioittaa	1.014558819
+hoitaa	sitoutua	1.015702952
+menettää	lupautua	1.36350769
+rohkaista	puolustaa	0.774412969
+kohdella huonosti	matkia	0.677743528
+osallistua	palvella	0.723862786
+tavata	halailla	0.86350773
+puolustaa	neuvoa	1.321316635
+suostutella	suojata	1.394507271
+kiusoitella	suostutella	1.21306074
+johtaa	sopia	1.073768524
+kohdata	palvella	1.018428734
+kiusata	antaa	1.094296038
+esitellä	antaa	0.877584715
+huolehtia	kohdata	1.035373011
+turvata	huolehtia	0.660091205
+hajota	avustaa	1.061459873
+siunata	turvata	0.709253799
+nostaa lasi	neuvoa	0.991661864
+lohduttaa	nähdä	1.058344367
+olla samaa mieltä	tehdä yhteistyötä	0.711554335
+luottaa	puolustaa	0.853133303
+olla samaa mieltä	tavoittaa	0.954226788
+huolehtia	myöntää	0.977517425
+omistautua	mennä naimisiin	0.514681771
+liittyä	nähdä	0.977166969
+siunata	antaa anteeksi	0.908017621
+herättää	sitoutua	1.219322244
+anoa	rukoilla	1.304621627
+vihkiä	ottaa mukaan	1.020106842
+herättää	antaa anteeksi	0.9869723
+käsitellä	vaatia	1.101931678
+ottaa mukaan	kiusoitella	0.968429805
+vierailla	nostaa lasi	0.884090235
+vihkiä	kohdella	1.121306145
+seurata	kohdella	0.65073057
+avustaa	rohkaista	0.492971087
+vierailla	liittyä	0.908484816
+sopia	myöntää	0.795293807
+erota	auttaa	1.205940532
+sopia	ottaa mukaan	0.917111254
+palvella	puolustaa	0.75726546
+vaatia	avustaa	1.194318824
+välittää	nolata	1.287723466
+turvata	suositella	0.927240067
+suostutella	osallistua	0.974508269
+rauhoittaa	halata	1.184900815
+suostutella	anoa	0.805885321
+hajota	suojella	1.303994225
+vaatia	liittyä	1.126213789
+kohdella	yhtyä	0.865591217
+omistautua	erota	1.401895518
+vannoa	huolehtia	0.808796836
+suudella	antaa	0.874476738
+auttaa	kunnioittaa	0.951337374
+avustaa	kiusoitella	0.935177393
+liittyä	hoitaa	0.736435944
+halailla	puolustaa	0.914149586
+lorvailla	suudella	1.134103344
+olla samaa mieltä	antaa anteeksi	1.008425816
+antaa	luottaa	0.843052851
+rukoilla	ylentää	0.850275168
+sopia	siunata	0.872149517
+hoitaa	rohkaista	0.516780807
+avustaa	suudella	1.002156293
+johtaa	kohdella	0.801282001
+ottaa mukaan	esitellä	0.575589784
+panetella	sitoutua	1.359184066
+luvata	välittää	0.865146269
+olla samaa mieltä	neuvoa	0.898450081
+sopia	osallistua	0.685541258
+halailla	ottaa mukaan	0.919080414
+sisältää	nähdä	0.602820751
+neuvoa	avustaa	0.852141408
+viihdyttää	viettää	0.767186564
+johtaa	liittyä seuraan	0.969770288
+halailla	suostutella	1.138363567
+palvella	herättää	1.114280938
+palvella	luottaa	0.879582428
+välittää	liittyä seuraan	0.726223778
+tervehtiä	vaatia	0.99450748
+lohduttaa	viettää	0.943900916
+hoitaa	neuvoa	1.034962502
+suudella	matkia	1.26753479
+siunata	hoitaa	0.987745054
+ylentää	siunata	0.708115707
+omistautua	vierailla	1.050463544
+puolustaa	hajota	1.42282997
+juhlia	turvata	1.158263079
+viettää	suojella	1.090036664
+palvella	johtaa	0.789420904
+suojata	erota	1.202012282
+herättää	nolata	1.132337997
+armahtaa	tervehtiä	0.999542716
+suositella	suudella	0.964236489
+vannoa	mennä naimisiin	0.565408481
+seurata	tavoittaa	0.859489795
+hoitaa	panetella	1.153318852
+suojata	ylentää	0.733378264
+ottaa mukaan	viettää	0.979897498
+armahtaa	lohduttaa	0.986710306
+nolata	vierailla	1.102735933
+nolata	viettää	1.143284702
+erota	sitoutua	1.300069304
+kunnioittaa	nähdä	1.125209611
+mennä naimisiin	sisältää	0.940092545
+tehdä yhteistyötä	luottaa	0.637574492
+rukoilla	herättää	1.264728767
+halailla	hoitaa	0.882740901
+turvata	nolata	1.339227203
+lupautua	kiusata	1.409046428
+sisältää	viihdyttää	0.868979925
+esitellä	vapauttaa	0.658962691
+suostutella	sopia	0.860160357
+yhdistää	rukoilla	0.646844239
+suositella	mennä naimisiin	1.047459357
+lohduttaa	anoa	0.870840137
+olla eri mieltä	luottaa	1.224656899
+suojata	luvata	0.877538435
+juhlia	kohdella huonosti	1.485858973
+kiusata	juhlia	1.43812687
+lorvailla	lupautua	1.046965868
+luottaa	johtaa	0.8788234
+edistää	vihkiä	1.011057263
+suostutella	tavata	1.163445795
+liittyä	suojella	0.849057523
+puolustaa	mennä naimisiin	0.803314188
+auttaa	anoa	0.854683903
+nostaa lasi	sallia	0.866499091
+suojata	edistää	0.944808703
+tervehtiä	turvata	0.945556179
+kiusata	matkia	0.476390873
+suojella	turvata	0.437096517
+kohdata	yhdistää	0.95799115
+nostaa lasi	vakuuttaa	0.959173208
+lohduttaa	ottaa mukaan	0.878688747
+vaatia	kohdella	1.124602619
+viihdyttää	vierailla	0.659980678
+kunnioittaa	lohduttaa	0.945986092
+vierailla	kohdella huonosti	1.15439479
+tervehtiä	sallia	0.843493848
+kohdella	viettää	1.076744086
+kunnioittaa	tervehtiä	0.931027669
+suudella	suojella	0.912465081
+rauhoittaa	riippua	1.16502948
+halailla	nähdä	1.029120719
+yhdistää	ylentää	0.806517015
+kohdella huonosti	kohdella	0.626088834
+yhtyä	osallistua	0.555644166
+välittää	puolustaa	0.620522902
+nostaa lasi	sitoutua	0.949705676
+liittyä	olla eri mieltä	1.150349026
+tervehtiä	menettää	1.051071603
+välittää	johtaa	0.829411621
+armahtaa	vierailla	1.335099672
+nostaa lasi	juhlia	0.366981222
+panetella	herättää	1.222897149
+ylentää	liittyä seuraan	0.957134518
+viihdyttää	nähdä	0.732808638
+menettää	suositella	1.081964008
+turvata	tehdä yhteistyötä	0.604284559
+kiusata	auttaa	1.154511754
+anoa	nolata	1.117466842
+suojella	nolata	1.22427638
+suojella	rukoilla	0.849680303
+luvata	mennä naimisiin	0.929003895
+luvata	sitoutua	0.641251346
+yhtyä	rukoilla	0.868005052
+nolata	siunata	1.425538048
+nolata	vannoa	1.166314561
+rukoilla	omistautua	0.828047517
+antaa	liittyä seuraan	0.8800914
+esitellä	rukoilla	1.119465666
+ottaa mukaan	kunnioittaa	0.946308025
+panetella	menettää	0.925971694
+sisältää	myöntää	0.867536277
+seurata	matkia	0.626814246
+armahtaa	tehdä yhteistyötä	1.038574559
+ylentää	lohduttaa	0.994157358
+halailla	käsitellä	1.063862381
+johtaa	liittyä	0.898189265
+rohkaista	erota	1.273857397
+lorvailla	erota	1.01846082
+omistautua	tavata	0.939953729
+esitellä	vihkiä	0.944126564
+vannoa	välittää	0.626908945
+tavata	tervehtiä	0.293268329
+vihkiä	halailla	0.665334497
+riippua	lohduttaa	0.990744574
+ottaa mukaan	tavoittaa	0.907534566
+kohdata	antaa anteeksi	0.907227088
+esitellä	sopia	0.837613762
+luottaa	viihdyttää	0.960098867
+turvata	armahtaa	1.037972544
+nähdä	kiusoitella	1.218166346
+viihdyttää	vapauttaa	1.065520732
+yhtyä	olla eri mieltä	1.215390659
+edistää	erota	0.996504631
+sisältää	juhlia	1.032443985
+halailla	luvata	0.739137634
+sitoutua	yhtyä	0.716688091
+johtaa	tavata	1.081563046
+mennä naimisiin	kiusata	1.602174476
+antaa anteeksi	avustaa	1.116190889
+matkia	esitellä	1.058518457
+rohkaista	olla samaa mieltä	0.858255436
+kohdella	omistautua	1.13373956
+esitellä	sitoutua	0.98214122
+siunata	kohdella huonosti	1.501362776
+kohdella	palvella	0.820307536
+ottaa mukaan	liittyä	0.57494224
+seurata	esitellä	1.032884233
+esitellä	kohdata	0.557761933
+vapauttaa	neuvoa	0.959911059
+tervehtiä	liittyä	0.56170026
+huolehtia	kiusoitella	1.133191927
+yhdistää	siunata	0.684066368
+antaa anteeksi	vihkiä	0.866351176
+rohkaista	kohdella	0.727986585
+seurata	rauhoittaa	0.949149275
+juhlia	tervehtiä	0.935255401
+välittää	neuvoa	1.016004783
+olla eri mieltä	anoa	0.774388302
+herättää	riippua	0.877695962
+tavoittaa	panetella	1.137495645
+antaa	suostutella	0.97503359
+viihdyttää	anoa	0.96609333
+yhtyä	vierailla	1.065407774
+viettää	siunata	1.086662865
+viihdyttää	liittyä	1.018014794
+huolehtia	halata	0.873234008
+vaatia	rauhoittaa	1.444313406
+ylentää	sisältää	0.997276551
+sisältää	kiusata	1.001556819
+käsitellä	herättää	0.630481308
+suostutella	antaa anteeksi	1.268229892
+rauhoittaa	erota	1.242565936
+kunnioittaa	vannoa	0.820909965
+puolustaa	vierailla	1.287371047
+juhlia	sopia	0.8934127
+suojata	osallistua	0.710185847
+riippua	luottaa	0.941539958
+kiusata	viettää	1.199133238
+sopia	halata	0.855471395
+sisältää	liittyä	0.621492512
+hoitaa	liittyä seuraan	0.659488832
+sitoutua	halata	0.790575074
+auttaa	nähdä	1.017878721
+siunata	luvata	0.838034269
+omistautua	armahtaa	1.015841247
+omistautua	osallistua	0.642697908
+suojata	käsitellä	1.131984052
+avustaa	puolustaa	0.67300227
+viihdyttää	suositella	1.026442221
+osallistua	halata	0.899601333
+siunata	vierailla	1.220094017
+erota	hajota	0.701974307
+kiusoitella	vihkiä	1.454196508
+nostaa lasi	sopia	0.903921864
+neuvoa	sitoutua	1.026554468
+nostaa lasi	rauhoittaa	1.540934677
+vihkiä	suojella	0.933658949
+vihkiä	puolustaa	0.918386593
+vannoa	olla eri mieltä	1.124123509
+suudella	seurata	1.246768937
+siunata	halailla	0.795304908
+rukoilla	osallistua	0.944070552
+kohdella huonosti	huolehtia	1.357668362
+tehdä yhteistyötä	tavata	0.687972984
+neuvoa	anoa	0.650314983
+rauhoittaa	yhdistää	1.05455555
+ottaa mukaan	suojella	0.862080907
+halailla	vapauttaa	0.890382791
+anoa	vierailla	0.900904043
+antaa	avustaa	0.78496096
+erota	antaa	1.147206156
+ylentää	tervehtiä	0.870311572
+vapauttaa	olla samaa mieltä	0.79883934
+johtaa	ylentää	0.948263494
+lorvailla	avustaa	1.105912232
+rohkaista	luottaa	0.713375605
+kohdella	nostaa lasi	1.312179142
+anoa	osallistua	0.867991856
+huolehtia	herättää	1.090143263
+lorvailla	suojata	1.013038238
+kohdella	suostutella	1.202727549
+vakuuttaa	halata	0.995046222
+lorvailla	auttaa	1.201746981
+avustaa	vierailla	0.999518569
+nähdä	herättää	0.886868245
+suostutella	juhlia	1.35077266
+palvella	kiusoitella	0.957502646
+panetella	palvella	1.046668234
+palvella	myöntää	0.931224362
+vakuuttaa	vannoa	0.621756494
+välittää	esitellä	0.83045664
+lupautua	tavata	0.748921194
+lupautua	mennä naimisiin	0.614291931
+auttaa	tavoittaa	0.89646825
+lorvailla	ottaa mukaan	0.898343899
+tervehtiä	seurata	1.129321153
+suudella	antaa anteeksi	0.986914322
+luvata	edistää	0.925443844
+suositella	vihkiä	1.124624313
+suositella	auttaa	0.965690993
+vihkiä	neuvoa	1.070345594
+esitellä	tavoittaa	0.764840392
+kohdella huonosti	sallia	1.1281021
+vannoa	yhtyä	0.643024231
+liittyä seuraan	huolehtia	0.753331267
+seurata	nähdä	1.059005366
+luottaa	halata	0.755846832
+välittää	käsitellä	1.065538666
+kohdella huonosti	turvata	1.420517099
+nostaa lasi	nolata	1.478055634
+juhlia	luottaa	1.157340139
+neuvoa	vaatia	0.86183579
+sitoutua	riippua	0.970707408
+vaatia	auttaa	1.314955142
+vakuuttaa	kohdella huonosti	1.182299518
+liittyä seuraan	edistää	0.906399684
+välittää	hajota	1.165106928
+kiusata	erota	0.826858669
+nähdä	vihkiä	1.159615028
+nolata	sitoutua	1.423275291
+myöntää	nostaa lasi	1.102581307
+edistää	halata	1.098254245
+ottaa mukaan	rauhoittaa	0.95908379
+suudella	kiusoitella	1.364649159
+suositella	kohdella huonosti	1.185421943
+viihdyttää	antaa anteeksi	0.87927623
+kunnioittaa	osallistua	0.815988328
+rauhoittaa	omistautua	1.038128272
+palvella	huolehtia	0.979706428
+viihdyttää	olla eri mieltä	1.110380336
+puolustaa	vapauttaa	0.852364413
+tervehtiä	johtaa	1.04859771
+nähdä	lorvailla	0.670230325
+mennä naimisiin	halailla	0.685861876
+vannoa	antaa anteeksi	0.779053736
+suositella	panetella	1.208428427
+halata	ottaa mukaan	0.921034309
+tehdä yhteistyötä	liittyä seuraan	0.491319122
+yhtyä	matkia	1.07332736
+esitellä	hajota	1.023385662
+nähdä	ottaa mukaan	0.90602723
+rohkaista	lupautua	1.022250544
+menettää	palvella	1.077186043
+käsitellä	ylentää	1.294742488
+tavata	tavoittaa	0.901722163
+kunnioittaa	puolustaa	0.778503309
+vierailla	olla samaa mieltä	0.983112315
+käsitellä	lupautua	1.089154951
+herättää	sisältää	0.90207148
+hoitaa	vannoa	0.791236658
+sallia	johtaa	0.912981098
+menettää	nähdä	0.980719931
+luvata	kiusata	1.390592269
+ylentää	tavoittaa	1.108038501
+hajota	edistää	0.955912668
+halailla	olla eri mieltä	1.231601778
+olla samaa mieltä	herättää	1.118368583
+liittyä	lohduttaa	0.771646222
+hoitaa	luvata	0.913648014
+menettää	auttaa	1.167310858
+antaa	ylentää	0.943650732
+tavata	suositella	0.858308728
+suudella	puolustaa	0.952765522
+antaa	kohdella huonosti	1.076939098
+hoitaa	lohduttaa	0.505480127
+rohkaista	turvata	0.696286681
+vihkiä	sitoutua	0.45133594
+suojella	vierailla	1.150130921
+panetella	avustaa	1.025906338
+kiusata	sopia	1.202988538
+armahtaa	suojella	1.155522364
+riippua	sopia	0.750698276
+sitoutua	ylentää	0.74452434
+suostutella	liittyä	1.004974398
+suositella	omistautua	0.886345489
+puolustaa	anoa	1.117230798
+esitellä	suojella	1.140141817
+välittää	nähdä	1.020379787
+armahtaa	halata	1.043896545
+lohduttaa	vierailla	1.107346463
+vakuuttaa	suojella	1.037859147
+rauhoittaa	käsitellä	1.355199388
+nolata	sopia	1.241817183
+suojella	avustaa	0.718152455
+yhdistää	hoitaa	0.971623473
+suudella	olla samaa mieltä	0.771534018
+kunnioittaa	ylentää	0.603101633
+seurata	suositella	1.079533964
+riippua	siunata	0.873810758
+rauhoittaa	matkia	1.121642387
+huolehtia	luottaa	0.736648782
+siunata	rohkaista	1.101140681
+panetella	kiusata	0.427203713
+mennä naimisiin	lorvailla	1.285925984
+menettää	luvata	1.26609066
+sitoutua	edistää	1.0371974
+edistää	anoa	1.002653852
+puolustaa	herättää	1.337990674
+nolata	johtaa	1.036792575
+seurata	edistää	0.814820502
+kunnioittaa	kohdella	1.022824681
+hoitaa	lorvailla	1.108058714
+kohdella huonosti	olla samaa mieltä	1.373918968
+liittyä	anoa	1.056946477
+tehdä yhteistyötä	kunnioittaa	0.700099977
+herättää	kiusoitella	0.985509512
+suositella	suostutella	0.73179163
+käsitellä	seurata	1.048529568
+kohdella	lorvailla	1.031650669
+olla samaa mieltä	tervehtiä	0.649087284
+kohdella huonosti	hoitaa	1.119579586
+riippua	olla eri mieltä	1.147237646
+menettää	vapauttaa	1.098402043
+neuvoa	sopia	0.844434763
+tavoittaa	edistää	0.961481679
+osallistua	sallia	1.055120475
+halata	tavata	0.816319859
+vihkiä	herättää	1.305742085
+menettää	sopia	1.113316426
+viihdyttää	tavata	0.836733735
+panetella	kiusoitella	0.555559343
+käsitellä	esitellä	0.731636143
+osallistua	turvata	0.659088584
+sallia	vapauttaa	1.097167848
+olla eri mieltä	neuvoa	0.958520031
+tavata	kunnioittaa	1.05332144
+suojella	kohdella	0.867068817
+nolata	kohdella huonosti	0.306042108
+suostutella	seurata	1.244015738
+nolata	yhtyä	1.281624473
+antaa	huolehtia	0.740930859
+vannoa	seurata	0.817823381
+luvata	tehdä yhteistyötä	0.706233356
+vakuuttaa	luottaa	0.919980043
+tehdä yhteistyötä	nolata	1.062845721
+luottaa	liittyä seuraan	0.768207762
+panetella	viettää	1.245672396
+suojata	nolata	1.161842913
+omistautua	sisältää	0.981461408
+luottaa	neuvoa	1.106572348
+erota	antaa anteeksi	1.563839932
+antaa anteeksi	hoitaa	1.043102021
+kiusata	vakuuttaa	1.110753589
+osallistua	vannoa	0.614847804
+sitoutua	lohduttaa	0.873116203
+hajota	viihdyttää	1.234044528
+herättää	juhlia	1.490942581
+ottaa mukaan	luvata	0.951669663
+liittyä seuraan	matkia	1.009760449
+sisältää	kunnioittaa	1.062513943
+omistautua	edistää	1.143214128
+herättää	erota	1.264819028
+vihkiä	liittyä	0.803559273
+antaa anteeksi	kohdella	1.010825098
+yhtyä	halailla	0.835093852
+tavoittaa	yhtyä	0.900493506
+vakuuttaa	osallistua	0.978072744
+panetella	sallia	1.045468644
+lupautua	luottaa	0.606006059
+olla eri mieltä	suudella	1.200527853
+kohdella huonosti	kohdata	1.064517164
+rukoilla	suostutella	1.266336445
+lupautua	vakuuttaa	0.866026816
+matkia	välittää	0.987182426
+kohdella huonosti	mennä naimisiin	1.672260241
+kiusata	seurata	0.802896283
+vaatia	johtaa	1.149738376
+nostaa lasi	rukoilla	0.782238709
+kohdella	suojata	0.968029692
+armahtaa	vaatia	1.35356579
+edistää	suojella	1.008116352
+ottaa mukaan	tehdä yhteistyötä	0.577022304
+yhdistää	olla eri mieltä	1.26868039
+suudella	vapauttaa	0.954380266
+kohdata	välittää	0.892591518
+vihkiä	välittää	0.752768416
+siunata	rauhoittaa	1.25333618
+halata	lupautua	0.978880069
+rauhoittaa	turvata	0.711648686
+tehdä yhteistyötä	välittää	0.646536017
+suojata	sitoutua	0.745809332
+rohkaista	suostutella	1.149815683
+huolehtia	vakuuttaa	0.926085023
+mennä naimisiin	antaa anteeksi	1.077267022
+riippua	menettää	1.007473098
+vapauttaa	lorvailla	1.09732907
+liittyä	kunnioittaa	0.831179442
+rohkaista	matkia	1.013071722
+viihdyttää	vihkiä	0.932979769
+liittyä	riippua	0.769659975
+olla eri mieltä	rukoilla	1.319635139
+nähdä	suudella	0.870653636
+kohdella huonosti	olla eri mieltä	0.802863458
+anoa	myöntää	1.168554758
+juhlia	viihdyttää	0.491102756
+riippua	turvata	0.944097318
+sallia	herättää	1.102735047
+kohdella huonosti	kunnioittaa	1.252148377
+tervehtiä	viettää	0.610680318
+lupautua	välittää	0.797103487
+liittyä seuraan	avustaa	0.611671138
+siunata	antaa	1.144733208
+auttaa	riippua	0.827942864
+sitoutua	käsitellä	1.168553439
+käsitellä	kunnioittaa	1.244035591
+yhtyä	juhlia	1.074589447
+yhdistää	liittyä	0.699545473
+avustaa	huolehtia	0.367514288
+luottaa	hajota	1.133418846
+kohdata	avustaa	0.846347097
+sallia	kohdella	0.878984322
+sitoutua	seurata	1.120436493
+juhlia	huolehtia	1.11369499
+suojella	antaa anteeksi	1.184197071
+johtaa	sisältää	0.974854791
+edistää	viettää	0.966132538
+liittyä seuraan	nolata	1.057231973
+olla samaa mieltä	ylentää	0.929674997
+johtaa	suositella	1.298859104
+panetella	yhtyä	1.163621998
+kiusoitella	suojata	1.134059701
+rohkaista	edistää	0.689292031
+tervehtiä	herättää	1.181349632
+siunata	johtaa	0.896986585
+suositella	yhdistää	0.938585199
+antaa anteeksi	osallistua	0.947228066
+kohdella huonosti	antaa anteeksi	1.445450973
+menettää	mennä naimisiin	1.586102962
+avustaa	hoitaa	0.548154214
+yhtyä	edistää	1.085524369
+panetella	matkia	0.632119547
+sisältää	rukoilla	0.928749211
+myöntää	vapauttaa	0.948908799
+halailla	viihdyttää	0.824174285
+vakuuttaa	lohduttaa	1.051191185
+ottaa mukaan	erota	1.048606729
+rukoilla	suudella	0.806207338
+tavata	sallia	0.727669942
+kohdata	sisältää	0.820995316
+nolata	vaatia	1.164518368
+liittyä	suudella	0.792335617
+sopia	tehdä yhteistyötä	0.802596759
+tavoittaa	halata	0.899465262
+siunata	huolehtia	1.023447083
+sisältää	osallistua	0.61748928
+viihdyttää	lohduttaa	1.143635014
+esitellä	myöntää	1.036070324
+seurata	vapauttaa	0.916011593
+mennä naimisiin	matkia	1.282795616
+ylentää	luottaa	0.700117586
+lohduttaa	rauhoittaa	0.702971473
+riippua	ylentää	0.89709003
+kiusoitella	tehdä yhteistyötä	0.986319135
+menettää	kiusata	0.641736274
+kohdella	kohdata	1.125090488
+erota	lohduttaa	1.17112068
+myöntää	liittyä	0.852610193
+tehdä yhteistyötä	esitellä	0.801365031
+viihdyttää	käsitellä	1.079768024
+rukoilla	armahtaa	1.005460446
+turvata	sisältää	0.910062392
+kiusata	olla samaa mieltä	1.378197375
+yhdistää	myöntää	0.827942369
+tehdä yhteistyötä	sallia	0.911802189
+kunnioittaa	menettää	1.343259065
+mennä naimisiin	luottaa	0.624124473
+hajota	suudella	1.371196714
+vihkiä	vapauttaa	1.043725533
+juhlia	kohdella	1.287323287
+yhtyä	tehdä yhteistyötä	0.576364342
+juhlia	siunata	1.133970317
+erota	liittyä	1.113803381
+vapauttaa	armahtaa	0.957945358
+esitellä	menettää	0.994399796
+juhlia	vapauttaa	0.970773632
+menettää	rukoilla	1.465180946
+osallistua	erota	1.030968373
+olla eri mieltä	kunnioittaa	1.16954254
+omistautua	huolehtia	0.741460791
+olla eri mieltä	suojata	1.229932096
+sisältää	vaatia	0.761662186
+vakuuttaa	matkia	1.07266357
+puolustaa	viihdyttää	1.123944287
+suostutella	palvella	1.130699202
+sopia	edistää	1.017632917
+juhlia	puolustaa	1.271122704
+hoitaa	matkia	0.944150554
+kohdata	auttaa	1.028790215
+rauhoittaa	sopia	0.863440225
+nostaa lasi	halailla	0.949404655
+panetella	sisältää	0.955117127
+tavata	neuvoa	0.901161442
+panetella	juhlia	1.431503206
+lohduttaa	edistää	0.800743111
+luvata	vaatia	0.989637913
+erota	anoa	1.105754014
+sallia	suostutella	1.064994278
+suostutella	ottaa mukaan	1.131323513
+antaa anteeksi	menettää	1.348863081
+rohkaista	suojella	0.704135588
+puolustaa	nähdä	1.197509649
+viettää	anoa	0.925872111
+myöntää	juhlia	1.199982107
+olla samaa mieltä	huolehtia	0.747247286
+hoitaa	halata	0.948389347
+olla eri mieltä	armahtaa	1.333001022
+lupautua	kohdella	1.03581379
+vakuuttaa	erota	1.256757475
+esitellä	kohdella huonosti	1.1303786
+vierailla	hoitaa	1.088949145
+panetella	luottaa	1.14932245
+yhtyä	suostutella	1.231154806
+tavoittaa	viettää	0.851124751
+kunnioittaa	yhdistää	0.875946051
+luottaa	suostutella	1.110441522
+tervehtiä	esitellä	0.426704919
+rauhoittaa	kohdella	0.887031702
+tervehtiä	hajota	1.044809836
+ylentää	hoitaa	0.94592583
+tehdä yhteistyötä	lohduttaa	0.771428878
+antaa	liittyä	0.820242808
+halailla	olla samaa mieltä	0.803597957
+hajota	kohdata	1.187789055
+lupautua	luvata	0.604184972
+tavata	puolustaa	0.891339354
+tehdä yhteistyötä	matkia	0.983254473
+erota	myöntää	1.138324941
+vaatia	kohdata	1.21885786
+lorvailla	sisältää	0.852374255

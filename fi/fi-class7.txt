@@ -1,0 +1,1226 @@
+Word1	Word2	Score
+dominoida	lannistaa	0.984361212
+jättää huomiotta	laiminlyödä	0.522517252
+haitata	pahentaa	0.934538659
+tahrata	hämätä	1.001879451
+hylätä	juovuttaa	1.089441961
+erottaa	teeskennellä	0.84061183
+korruptoida	laiminlyödä	0.985660751
+sivuuttaa	syyttää	1.142978791
+karttaa	huumata	0.957546366
+kieltäytyä	jättää välistä	0.614761582
+alentaa	häiritä	0.879680772
+mulkoilla	pilkata	0.80193697
+matkia	halveksia	1.1598733
+pidättyä	loukata	1.215289738
+jättää huomiotta	pilkata	0.939312366
+nolata	kummitella	1.025544576
+kiusata	laiminlyödä	0.970058597
+vastustaa	kohdella huonosti	0.855856083
+vaivata	sekoittaa	0.929411735
+rikkoa	alentaa	1.126443026
+nolata	karttaa	1.14268733
+nuhdella	karttaa	1.054592906
+vastustaa	määrätä	0.862660654
+hylätä	mulkoilla	1.25862951
+huumata	hylätä	1.100454619
+mulkoilla	halveksia	0.930351959
+röykyttää	syyttää	0.71762919
+pilkata	valehdella	1.049540818
+arvostella	jättää huomiotta	1.11036267
+sekoittaa	röykyttää	1.227512031
+korruptoida	panetella	1.158580308
+valehdella	vastustaa	1.082965314
+hämätä	matkia	0.812225919
+pilkata	imitoida	1.109064202
+mulkoilla	syyttää	1.081455204
+kiusoitella	jättää huomiotta	0.803790328
+alentaa	välttää	1.087695192
+sivuuttaa	rasittaa	1.122039447
+alentaa	dominoida	0.930015491
+pahentaa	välttää	0.88769882
+rasittaa	karttaa	0.983251486
+hämätä	nolata	1.164190299
+arvostella	loukata	0.553422835
+dominoida	nolata	0.908187101
+mulkoilla	röykyttää	1.051860072
+pidättyä	hämätä	0.989504004
+nöyryyttää	kiusata	0.488562073
+lannistaa	kieltäytyä	1.192893674
+häiritä	korruptoida	1.038266153
+loukata	määrätä	0.951730811
+mulkoilla	rikkoa	1.399489031
+vaivata	imitoida	1.232732382
+erottaa	korruptoida	0.858872161
+hylätä	matkia	1.00982037
+kiusata	dominoida	0.838592605
+röykyttää	rasittaa	1.160234367
+mulkoilla	vaivata	0.778874806
+teeskennellä	vastustaa	0.867768634
+pahentaa	pettää	1.007975316
+arvostella	tahrata	1.075857226
+jättää huomiotta	lannistaa	1.042211924
+kieltäytyä	kritisoida	1.103872433
+huumata	mulkoilla	1.214334677
+kummitella	häiritä	0.985576694
+lannistaa	valehdella	1.01829194
+lannistaa	tahrata	0.902757522
+olla tunnustamatta	panetella	1.008578004
+arvostella	nuhdella	0.50853904
+nuhdella	häiritä	1.007695919
+sekoittaa	karttaa	0.989958743
+häiritä	määrätä	0.849925872
+pilkata	alentaa	0.611007518
+matkia	vaivata	1.23402595
+kummitella	kieltäytyä	1.155375993
+rasittaa	hypnotisoida	1.065512351
+jättää välistä	huumata	1.066812129
+rasittaa	jättää huomiotta	0.959027903
+kiusata	nuhdella	0.747509109
+määrätä	syyttää	0.877115147
+häiritä	teeskennellä	1.05964118
+dominoida	jättää välistä	0.894398983
+huumata	määrätä	1.003276988
+hypnotisoida	korruptoida	0.984089425
+nuhdella	pettää	1.078443838
+häiritä	haitata	0.711094743
+vastustaa	hypnotisoida	1.21850675
+nolata	tahrata	0.893486626
+pettää	arvostella	1.147720354
+olla tunnustamatta	pidättyä	0.831791355
+korruptoida	teeskennellä	0.900072708
+sekoittaa	kiusoitella	1.094941121
+kiusoitella	hämätä	1.115298446
+sivuuttaa	mulkoilla	1.423391373
+korruptoida	haitata	0.997793582
+syyttää	häiritä	0.999408386
+olla tunnustamatta	laiminlyödä	0.975747897
+mulkoilla	hämätä	1.025494165
+välttää	pilkata	1.202708589
+nuhdella	kiusoitella	0.852882981
+arvostella	lannistaa	0.66194103
+sivuuttaa	rikkoa	0.867246292
+välttää	kiusata	1.209474393
+sivuuttaa	häiritä	1.034792259
+kiusoitella	kohdella huonosti	0.828398719
+valehdella	sekoittaa	0.833287731
+hypnotisoida	välttää	1.418657693
+loukata	häiritä	0.75187025
+nöyryyttää	haitata	0.90371266
+hämätä	arvostella	1.151693355
+juovuttaa	olla tunnustamatta	0.952711445
+pidättyä	vaivata	1.291975546
+haitata	loukata	0.874404095
+hypnotisoida	rikkoa	1.219627226
+juovuttaa	määrätä	1.021863271
+nuhdella	sivuuttaa	1.043973166
+teeskennellä	kiusata	1.119387757
+nöyryyttää	määrätä	0.875074116
+häiritä	rikkoa	1.114765318
+pahentaa	lannistaa	1.154115608
+hypnotisoida	matkia	1.098040615
+haitata	rikkoa	1.30531859
+hämätä	vaivata	1.038446128
+pettää	välttää	0.808575344
+matkia	vastustaa	0.923803823
+nuhdella	alentaa	0.677989892
+kummitella	kohdella huonosti	0.900355675
+laiminlyödä	pidättyä	0.761400896
+nolata	juovuttaa	1.294310418
+kummitella	karttaa	0.974745531
+nöyryyttää	teeskennellä	1.070582465
+vastustaa	hämätä	0.859607788
+kummitella	erottaa	1.169651277
+haitata	matkia	1.244793311
+pettää	pidättyä	0.978412556
+valehdella	nuhdella	1.103874394
+kummitella	hylätä	1.159608965
+valehdella	teeskennellä	0.687187529
+karttaa	mulkoilla	1.219691343
+nuhdella	syyttää	0.49978384
+pilkata	erottaa	1.220621537
+nöyryyttää	korruptoida	0.869973647
+häiritä	arvostella	0.957150754
+juovuttaa	hämätä	0.800967006
+erottaa	laiminlyödä	0.961861283
+nolata	mulkoilla	1.042685281
+laiminlyödä	loukata	0.956111035
+jättää huomiotta	halveksia	0.975706796
+arvostella	juovuttaa	1.385583181
+pidättyä	tahrata	1.002272849
+kummitella	kiusata	0.966937607
+välttää	dominoida	1.073541611
+valehdella	dominoida	1.025934993
+jättää välistä	loukata	0.997977464
+valehdella	rikkoa	1.029883457
+kummitella	pilkata	0.901113903
+korruptoida	välttää	0.959706955
+hypnotisoida	määrätä	1.015741751
+valehdella	nolata	1.032003438
+kiusoitella	halveksia	0.657183657
+tahrata	välttää	1.01886273
+imitoida	karttaa	0.827452432
+lannistaa	nöyryyttää	0.534697438
+kummitella	huumata	1.339751751
+kritisoida	hylätä	1.130043954
+kummitella	kritisoida	1.061985
+arvostella	halveksia	0.721620733
+hämätä	haitata	0.957269027
+imitoida	hylätä	0.976544294
+haitata	määrätä	0.949913743
+pettää	valehdella	0.393149635
+hämätä	teeskennellä	0.432960554
+arvostella	mulkoilla	1.099521177
+vastustaa	tahrata	0.948638819
+laiminlyödä	tahrata	0.883777381
+erottaa	sivuuttaa	0.742306598
+korruptoida	pidättyä	1.020452246
+jättää välistä	vastustaa	0.772487894
+laiminlyödä	imitoida	1.068989149
+hämätä	määrätä	1.016743756
+vaivata	arvostella	1.077964574
+alentaa	jättää huomiotta	0.92183334
+teeskennellä	tahrata	1.020613982
+rasittaa	kiusata	0.879872733
+pahentaa	laiminlyödä	1.078540219
+jättää huomiotta	kummitella	0.899696088
+matkia	sivuuttaa	1.089510877
+panetella	sivuuttaa	0.987897444
+jättää välistä	teeskennellä	0.869631071
+teeskennellä	nuhdella	1.164562775
+pettää	laiminlyödä	1.096473457
+syyttää	pidättyä	1.261082956
+hämätä	sivuuttaa	0.842696025
+teeskennellä	haitata	1.065709638
+sivuuttaa	kummitella	1.149938146
+valehdella	määrätä	1.091857842
+panetella	alentaa	0.706657489
+arvostella	vastustaa	1.180840011
+vastustaa	halveksia	1.010932745
+haitata	pettää	0.976025476
+rikkoa	hylätä	0.996318976
+hämätä	korruptoida	0.878790897
+huumata	tahrata	1.20494892
+erottaa	vaivata	1.215433547
+erottaa	sekoittaa	1.150231334
+kiusata	vastustaa	1.023918348
+valehdella	vaivata	1.013241224
+kohdella huonosti	hypnotisoida	1.034657606
+pilkata	hämätä	1.117568635
+röykyttää	alentaa	0.754447538
+laiminlyödä	kieltäytyä	0.817330986
+olla tunnustamatta	pettää	0.65833072
+karttaa	korruptoida	1.020526507
+kummitella	vastustaa	0.984945317
+kummitella	olla tunnustamatta	0.988239384
+kohdella huonosti	määrätä	0.949713474
+erottaa	hypnotisoida	1.38952779
+määrätä	kummitella	0.988642076
+hylätä	häiritä	0.850788215
+pidättyä	haitata	1.297710308
+erottaa	loukata	1.196264717
+alentaa	loukata	0.488649239
+kieltäytyä	sekoittaa	1.037139964
+kritisoida	pettää	1.141432095
+pidättyä	vastustaa	0.759312116
+jättää huomiotta	olla tunnustamatta	0.484989667
+määrätä	välttää	1.046448745
+teeskennellä	kiusoitella	1.096852239
+erottaa	huumata	1.415297465
+pidättyä	nuhdella	1.204434672
+vaivata	tahrata	1.042730052
+matkia	valehdella	0.870186273
+häiritä	jättää huomiotta	0.923597204
+valehdella	nöyryyttää	1.016143387
+haitata	jättää huomiotta	0.895484735
+syyttää	imitoida	1.094159988
+kritisoida	juovuttaa	1.380200913
+valehdella	huumata	1.180163929
+halveksia	imitoida	1.084474134
+kiusoitella	lannistaa	0.816709779
+rikkoa	panetella	1.262637473
+vastustaa	panetella	0.923967576
+halveksia	kohdella huonosti	0.664332948
+olla tunnustamatta	syyttää	1.178526544
+pettää	kohdella huonosti	0.959176647
+välttää	nolata	1.245934374
+karttaa	kieltäytyä	0.563032078
+dominoida	arvostella	0.911830848
+jättää huomiotta	kiusata	0.970487178
+imitoida	loukata	1.004885708
+korruptoida	syyttää	0.995381494
+panetella	kummitella	1.016308683
+kritisoida	arvostella	0.168559221
+röykyttää	pilkata	0.701303524
+hylätä	haitata	0.985138153
+välttää	pidättyä	0.528673582
+vastustaa	pilkata	0.94882944
+sekoittaa	pilkata	1.167268996
+rasittaa	panetella	0.844621755
+kohdella huonosti	dominoida	0.980996613
+sekoittaa	pidättyä	1.086665371
+mulkoilla	haitata	1.017388233
+syyttää	juovuttaa	1.316961603
+panetella	pilkata	0.621450028
+hypnotisoida	syyttää	1.307069285
+nöyryyttää	vastustaa	1.036157642
+jättää huomiotta	tahrata	0.946617951
+mulkoilla	vastustaa	0.859808931
+karttaa	kiusoitella	0.899701498
+häiritä	valehdella	1.161314823
+kieltäytyä	vaivata	1.246398321
+arvostella	nolata	0.696999669
+kiusoitella	syyttää	0.941608284
+erottaa	välttää	0.732166477
+olla tunnustamatta	matkia	1.089603755
+röykyttää	kiusata	0.650094539
+rasittaa	lannistaa	1.172324623
+olla tunnustamatta	hämätä	0.745415699
+teeskennellä	pilkata	1.052675694
+halveksia	kiusata	0.507559969
+välttää	olla tunnustamatta	0.622987039
+arvostella	haitata	0.967852421
+rasittaa	korruptoida	1.127953151
+alentaa	erottaa	1.196889792
+pettää	nolata	1.112566081
+haitata	rasittaa	0.66390449
+dominoida	vastustaa	0.923937616
+mulkoilla	lannistaa	0.99356522
+jättää huomiotta	määrätä	1.008538263
+kieltäytyä	olla tunnustamatta	0.83819483
+erottaa	kritisoida	1.324087581
+syyttää	teeskennellä	1.060979627
+pidättyä	lannistaa	1.374558364
+nolata	pilkata	0.446658186
+kohdella huonosti	jättää huomiotta	0.763961915
+kritisoida	sekoittaa	1.321032978
+laiminlyödä	sivuuttaa	0.575956101
+juovuttaa	alentaa	1.19131191
+dominoida	teeskennellä	0.983386483
+jättää huomiotta	hypnotisoida	1.13029818
+arvostella	hypnotisoida	1.382979943
+huumata	syyttää	1.383793212
+kummitella	syyttää	0.98828671
+alentaa	pettää	1.047242928
+määrätä	pilkata	0.949754837
+hypnotisoida	nolata	0.972142218
+huumata	kritisoida	1.424999662
+korruptoida	jättää huomiotta	0.785626892
+pettää	sivuuttaa	0.760429278
+korruptoida	loukata	0.887923661
+määrätä	halveksia	0.851920911
+dominoida	sekoittaa	1.061909726
+panetella	loukata	0.56144167
+sivuuttaa	halveksia	1.072423881
+jättää välistä	kritisoida	1.174351024
+valehdella	hypnotisoida	1.0410419
+arvostella	pilkata	0.669247748
+pahentaa	huumata	1.473918675
+hypnotisoida	pettää	1.087058577
+kummitella	laiminlyödä	1.121841447
+juovuttaa	pahentaa	1.406414651
+laiminlyödä	valehdella	0.969278123
+kiusoitella	korruptoida	1.033699738
+jättää huomiotta	nolata	0.998685263
+määrätä	arvostella	0.894348628
+olla tunnustamatta	röykyttää	1.141082261
+vaivata	halveksia	0.942422227
+kritisoida	tahrata	1.051155277
+vaivata	määrätä	0.907547178
+erottaa	kieltäytyä	1.038842921
+olla tunnustamatta	vaivata	1.074044206
+pilkata	jättää välistä	1.079837814
+huumata	olla tunnustamatta	1.114615606
+kiusata	olla tunnustamatta	1.178290322
+hylätä	alentaa	1.127628788
+haitata	kohdella huonosti	0.835874813
+pidättyä	määrätä	0.977917923
+karttaa	pahentaa	0.83290873
+alentaa	rasittaa	1.004830432
+nöyryyttää	halveksia	0.413429352
+valehdella	kieltäytyä	0.98304491
+panetella	teeskennellä	1.094657617
+huumata	rikkoa	1.232377661
+rasittaa	olla tunnustamatta	1.005364925
+sekoittaa	pahentaa	1.152929745
+juovuttaa	pettää	0.922190894
+röykyttää	rikkoa	1.174610152
+vaivata	huumata	0.948129071
+loukata	kritisoida	0.578720985
+hylätä	kieltäytyä	0.606901113
+hämätä	loukata	1.073373026
+huumata	pettää	0.952458133
+pettää	kiusoitella	1.019015761
+arvostella	sivuuttaa	1.224693254
+hypnotisoida	imitoida	1.078100814
+kiusoitella	haitata	1.141775838
+hämätä	karttaa	0.700119979
+mulkoilla	nöyryyttää	0.887894061
+kritisoida	rikkoa	1.250897652
+kritisoida	häiritä	1.02679783
+loukata	juovuttaa	1.112792598
+rikkoa	tahrata	1.074009531
+matkia	välttää	1.095590009
+nöyryyttää	vaivata	0.877678426
+kritisoida	röykyttää	0.699011877
+jättää huomiotta	hämätä	0.738283583
+alentaa	nolata	0.398444123
+teeskennellä	nolata	1.161498789
+erottaa	valehdella	0.9464774
+nolata	kieltäytyä	1.279394398
+rasittaa	hämätä	1.009872601
+pahentaa	sivuuttaa	0.938841222
+hämätä	nöyryyttää	1.134751584
+pahentaa	nolata	1.185532733
+kohdella huonosti	teeskennellä	0.968598181
+lannistaa	korruptoida	1.114388993
+nuhdella	loukata	0.608052081
+arvostella	nöyryyttää	0.642228767
+hämätä	jättää välistä	0.83564671
+rikkoa	olla tunnustamatta	0.96000649
+nöyryyttää	kohdella huonosti	0.50577056
+röykyttää	huumata	1.407948481
+kohdella huonosti	kiusata	0.544593433
+sivuuttaa	karttaa	0.345938259
+imitoida	valehdella	0.797451308
+teeskennellä	sekoittaa	0.714169272
+mulkoilla	nuhdella	1.143113279
+teeskennellä	kieltäytyä	0.877212945
+juovuttaa	pilkata	1.012520245
+kummitella	teeskennellä	0.808792024
+hylätä	kohdella huonosti	0.903835741
+imitoida	rasittaa	1.202609306
+erottaa	arvostella	1.322825314
+panetella	erottaa	1.218110409
+halveksia	huumata	1.341585195
+karttaa	arvostella	1.134895824
+pidättyä	mulkoilla	1.426820925
+arvostella	sekoittaa	1.2808583
+jättää välistä	mulkoilla	1.427051429
+nolata	kritisoida	0.766917496
+kiusata	häiritä	0.791125381
+välttää	nöyryyttää	1.193427633
+hypnotisoida	kieltäytyä	1.305557149
+valehdella	kummitella	0.807764582
+häiritä	pahentaa	1.14001287
+rasittaa	pahentaa	1.218366718
+määrätä	kritisoida	0.966558534
+nöyryyttää	rikkoa	1.242042173
+määrätä	hylätä	0.738247014
+kritisoida	matkia	0.987872783
+juovuttaa	rikkoa	1.128434703
+pidättyä	kieltäytyä	0.310316908
+syyttää	jättää huomiotta	1.047761875
+pidättyä	kiusata	1.318253167
+erottaa	lannistaa	1.456327744
+haitata	nolata	0.891539865
+sivuuttaa	röykyttää	1.054254971
+nolata	määrätä	0.984332654
+lannistaa	määrätä	0.976473435
+jättää välistä	syyttää	1.081268069
+pidättyä	nolata	1.336777283
+mulkoilla	rasittaa	0.630638878
+matkia	lannistaa	0.954085474
+nöyryyttää	olla tunnustamatta	1.203166574
+vastustaa	rikkoa	1.124535311
+kiusoitella	pidättyä	1.213614061
+juovuttaa	nöyryyttää	1.27815615
+hämätä	kohdella huonosti	0.974581562
+rikkoa	vaivata	1.198572867
+välttää	jättää välistä	0.327889395
+vastustaa	juovuttaa	1.073614558
+hämätä	erottaa	1.075800347
+sivuuttaa	nolata	1.168241349
+karttaa	kritisoida	1.082283161
+mulkoilla	kritisoida	1.08614267
+kritisoida	valehdella	1.000212391
+lannistaa	sivuuttaa	1.183253683
+imitoida	häiritä	1.201078214
+vaivata	nuhdella	0.990199922
+kiusata	pilkata	0.399775764
+jättää välistä	kohdella huonosti	0.943307343
+rikkoa	karttaa	0.713470209
+teeskennellä	vaivata	1.042967397
+jättää välistä	panetella	1.048278383
+karttaa	laiminlyödä	0.65547093
+nolata	kiusoitella	0.612862556
+hypnotisoida	panetella	1.174930241
+vaivata	häiritä	0.453513125
+kiusoitella	vaivata	0.888398208
+jättää välistä	nöyryyttää	1.1059374
+kieltäytyä	hämätä	0.915568758
+röykyttää	hylätä	1.056425146
+sekoittaa	kiusata	1.207248994
+mulkoilla	kieltäytyä	1.33953065
+arvostella	kiusoitella	0.883886084
+nolata	rikkoa	1.237961211
+nolata	häiritä	0.748562302
+kritisoida	jättää huomiotta	1.167581644
+dominoida	korruptoida	1.060499123
+nolata	röykyttää	0.63300578
+kohdella huonosti	korruptoida	0.835647358
+häiritä	juovuttaa	0.967847616
+nolata	vaivata	0.79879967
+jättää välistä	laiminlyödä	0.658015749
+hypnotisoida	kummitella	0.985460935
+imitoida	pettää	0.825685983
+sekoittaa	jättää välistä	0.977278047
+välttää	vastustaa	0.894791817
+kiusata	valehdella	1.073482425
+alentaa	pidättyä	1.195118981
+rikkoa	kiusata	1.274490229
+matkia	karttaa	0.818791245
+syyttää	lannistaa	0.767083426
+nuhdella	huumata	1.224480027
+pilkata	rikkoa	1.153876171
+syyttää	karttaa	1.101161866
+välttää	teeskennellä	0.910290859
+kohdella huonosti	loukata	0.396932815
+pidättyä	kritisoida	1.217686261
+nolata	olla tunnustamatta	1.113672526
+häiritä	mulkoilla	0.69370147
+kieltäytyä	pilkata	1.190098071
+jättää välistä	tahrata	1.001279851
+korruptoida	määrätä	0.967648561
+huumata	sivuuttaa	1.156784944
+loukata	sekoittaa	1.030811254
+haitata	lannistaa	0.971222974
+halveksia	häiritä	0.853126099
+vastustaa	pahentaa	1.186978525
+kohdella huonosti	nuhdella	0.67432385
+laiminlyödä	nolata	1.046322583
+teeskennellä	rasittaa	1.002206912
+sekoittaa	kohdella huonosti	1.059145399
+määrätä	alentaa	0.811177312
+imitoida	sivuuttaa	1.118907269
+hylätä	pidättyä	0.576780698
+kritisoida	pilkata	0.738378403
+sivuuttaa	juovuttaa	1.162339519
+halveksia	röykyttää	0.512063142
+arvostella	valehdella	1.043438918
+teeskennellä	jättää huomiotta	0.720325492
+halveksia	lannistaa	0.591221147
+jättää huomiotta	valehdella	0.681333838
+tahrata	pahentaa	0.974694136
+huumata	pilkata	1.118979538
+loukata	mulkoilla	0.993204943
+rasittaa	välttää	1.191417882
+syyttää	dominoida	0.888459957
+jättää huomiotta	nuhdella	0.950816148
+teeskennellä	hypnotisoida	0.938450462
+rikkoa	kieltäytyä	0.966664308
+loukata	rikkoa	1.057600633
+nolata	matkia	1.172048671
+vaivata	juovuttaa	0.874216374
+rikkoa	halveksia	1.198371655
+välttää	kritisoida	1.18125006
+syyttää	kieltäytyä	1.113174007
+pidättyä	jättää huomiotta	0.576733078
+sivuuttaa	välttää	0.308759636
+panetella	kiusata	0.619911316
+huumata	sekoittaa	0.728110138
+nöyryyttää	kummitella	0.962375679
+sekoittaa	alentaa	1.248111643
+imitoida	sekoittaa	1.032023852
+tahrata	hylätä	0.882568745
+kritisoida	lannistaa	0.713927682
+halveksia	karttaa	1.101416687
+kummitella	kiusoitella	1.072825316
+pettää	lannistaa	1.199428856
+tahrata	karttaa	0.993352409
+kummitella	sekoittaa	1.122269978
+halveksia	hämätä	1.11358468
+laiminlyödä	lannistaa	1.18959432
+huumata	matkia	1.118937652
+rasittaa	pidättyä	1.143655065
+haitata	röykyttää	1.02018353
+rasittaa	laiminlyödä	1.136278407
+hämätä	röykyttää	1.063529803
+juovuttaa	välttää	1.30203136
+haitata	välttää	1.195411736
+valehdella	rasittaa	1.173946686
+tahrata	kiusoitella	1.079343235
+panetella	nöyryyttää	0.682836107
+panetella	pahentaa	1.245739452
+rasittaa	häiritä	0.401717139
+dominoida	kiusoitella	0.749192087
+matkia	teeskennellä	0.549680103
+kieltäytyä	loukata	1.096754551
+välttää	kummitella	1.128651429
+erottaa	rasittaa	1.199869658
+matkia	pahentaa	1.237620599
+nöyryyttää	tahrata	0.971309759
+kiusoitella	röykyttää	0.782303302
+pilkata	häiritä	0.685760572
+loukata	karttaa	1.049119198
+määrätä	kiusata	0.84219423
+vaivata	vastustaa	1.03046795
+kohdella huonosti	alentaa	0.564264508
+pahentaa	nöyryyttää	1.096245932
+laiminlyödä	matkia	1.008716103
+pahentaa	valehdella	0.938044438
+pahentaa	dominoida	1.226920986
+mulkoilla	teeskennellä	1.015576618
+röykyttää	lannistaa	0.653195123
+pettää	matkia	0.834408188
+tahrata	syyttää	1.056690593
+olla tunnustamatta	jättää välistä	0.784220279
+karttaa	vaivata	1.107342078
+loukata	matkia	0.999366889
+karttaa	pilkata	1.065727313
+haitata	hypnotisoida	1.172167801
+dominoida	pidättyä	1.075454749
+rikkoa	kohdella huonosti	1.12531114
+arvostella	laiminlyödä	1.064064274
+matkia	pidättyä	1.008473775
+pettää	panetella	0.994752971
+lannistaa	alentaa	0.560149241
+jättää välistä	pettää	0.892516216
+alentaa	karttaa	1.069215729
+välttää	häiritä	1.113659662
+nolata	sekoittaa	1.134322393
+erottaa	nolata	1.255263836
+nöyryyttää	sivuuttaa	1.161066654
+tahrata	häiritä	0.96518074
+määrätä	laiminlyödä	0.906274223
+syyttää	kiusata	0.75168243
+loukata	teeskennellä	1.060599713
+loukata	hypnotisoida	1.149610459
+pidättyä	pilkata	1.244750602
+haitata	syyttää	1.004889484
+hylätä	dominoida	0.804973813
+rasittaa	vaivata	0.423015046
+hypnotisoida	pahentaa	1.39014647
+haitata	tahrata	1.189588004
+röykyttää	häiritä	1.011149747
+hypnotisoida	huumata	1.02128108
+rasittaa	loukata	0.938036439
+välttää	mulkoilla	1.472229752
+nöyryyttää	syyttää	0.694269113
+kritisoida	kohdella huonosti	0.778590752
+pahentaa	alentaa	1.126166067
+hypnotisoida	laiminlyödä	1.179921749
+sekoittaa	välttää	1.113468692
+häiritä	hypnotisoida	1.089681192
+nuhdella	lannistaa	0.651363732
+hämätä	välttää	0.927629099
+pidättyä	erottaa	1.012889692
+erottaa	jättää välistä	0.781264158
+jättää huomiotta	pahentaa	0.850101341
+haitata	vastustaa	1.191166575
+imitoida	matkia	0.121105581
+lannistaa	olla tunnustamatta	1.262122313
+korruptoida	pahentaa	0.851912056
+panetella	laiminlyödä	0.839538706
+sivuuttaa	pidättyä	0.572206949
+laiminlyödä	vaivata	1.03777025
+kiusata	alentaa	0.565107544
+laiminlyödä	halveksia	1.014580573
+pahentaa	imitoida	1.174362625
+pidättyä	rikkoa	0.854012291
+halveksia	valehdella	1.003973548
+pahentaa	arvostella	1.219936586
+hypnotisoida	vaivata	1.078339568
+vastustaa	laiminlyödä	0.836158552
+korruptoida	kieltäytyä	0.989727327
+tahrata	pilkata	0.886106354
+imitoida	kritisoida	0.952573765
+imitoida	korruptoida	1.008982131
+röykyttää	laiminlyödä	1.025982439
+juovuttaa	laiminlyödä	1.138137961
+kiusata	erottaa	1.348252385
+jättää huomiotta	imitoida	1.031716874
+panetella	haitata	0.890410297
+nuhdella	panetella	0.785936849
+karttaa	määrätä	0.852353921
+jättää välistä	matkia	0.94159269
+syyttää	valehdella	0.933183119
+kiusata	pettää	1.089648704
+jättää välistä	hylätä	0.702422963
+kiusoitella	jättää välistä	1.02454394
+kieltäytyä	pettää	1.004764263
+vaivata	kritisoida	1.099855952
+olla tunnustamatta	dominoida	0.970900963
+hylätä	teeskennellä	0.860805934
+jättää välistä	alentaa	1.079801364
+pidättyä	karttaa	0.54651526
+tahrata	erottaa	1.299157018
+tahrata	sivuuttaa	0.985038771
+sekoittaa	hypnotisoida	0.940458712
+hämätä	hylätä	0.907908145
+loukata	syyttää	0.666208622
+nolata	syyttää	0.699136793
+huumata	juovuttaa	0.268843109
+jättää huomiotta	panetella	0.933903114
+kritisoida	nuhdella	0.596438775
+jättää välistä	nolata	1.19231047
+pahentaa	teeskennellä	1.121997641
+dominoida	juovuttaa	1.024606953
+imitoida	välttää	1.080085983
+vaivata	pilkata	0.731696367
+kieltäytyä	sivuuttaa	0.62970787
+dominoida	hypnotisoida	0.967608754
+olla tunnustamatta	kritisoida	1.309442248
+panetella	lannistaa	0.666158045
+vaivata	syyttää	1.058929012
+kiusoitella	erottaa	1.027848929
+halveksia	kritisoida	0.775482391
+nöyryyttää	dominoida	0.912771092
+syyttää	pettää	1.15413789
+rikkoa	määrätä	1.014867526
+kiusoitella	hylätä	0.928288639
+pahentaa	kiusoitella	1.105313756
+karttaa	hypnotisoida	1.168837284
+nuhdella	jättää välistä	1.02468523
+karttaa	jättää huomiotta	0.309027492
+tahrata	mulkoilla	1.016088556
+laiminlyödä	hämätä	0.853959418
+pettää	tahrata	1.032860831
+sivuuttaa	sekoittaa	1.02508481
+imitoida	hämätä	0.789935284
+röykyttää	nöyryyttää	0.644987223
+jättää huomiotta	sivuuttaa	0.296114609
+hämätä	kummitella	0.722599473
+nuhdella	korruptoida	1.074752577
+välttää	valehdella	0.860210369
+pilkata	lannistaa	0.608105602
+korruptoida	kummitella	1.065803896
+haitata	kieltäytyä	1.131255806
+alentaa	halveksia	0.553691478
+nöyryyttää	matkia	1.109683483
+korruptoida	kiusata	0.946756576
+pilkata	nöyryyttää	0.405539971
+vaivata	kohdella huonosti	0.801252418
+kiusoitella	pilkata	0.581043913
+tahrata	kieltäytyä	0.934050015
+lannistaa	loukata	0.548566723
+arvostella	huumata	1.429890845
+kummitella	halveksia	0.971615808
+röykyttää	arvostella	0.65910266
+halveksia	loukata	0.420235513
+nolata	panetella	0.700721404
+sekoittaa	rikkoa	0.926345283
+lannistaa	vastustaa	1.031845333
+sekoittaa	halveksia	1.099628527
+karttaa	erottaa	0.803591908
+imitoida	arvostella	1.00188381
+juovuttaa	kieltäytyä	1.059068324
+imitoida	olla tunnustamatta	1.079575154
+rikkoa	kiusoitella	1.087987187
+panetella	kritisoida	0.83003565
+syyttää	laiminlyödä	1.004760346
+nöyryyttää	kritisoida	0.744288265
+halveksia	korruptoida	0.979669383
+juovuttaa	mulkoilla	1.013888584
+nöyryyttää	imitoida	1.103417309
+karttaa	juovuttaa	1.000283702
+vaivata	alentaa	0.710357001
+huumata	kohdella huonosti	1.128567582
+juovuttaa	nuhdella	1.25929093
+olla tunnustamatta	pahentaa	0.903746421
+juovuttaa	teeskennellä	0.959397188
+teeskennellä	lannistaa	1.166962807
+kritisoida	kiusata	0.736497471
+välttää	kiusoitella	1.108355349
+tahrata	panetella	0.729484313
+juovuttaa	haitata	1.01073996
+määrätä	sivuuttaa	0.910835206
+imitoida	lannistaa	0.937523213
+kummitella	rikkoa	1.243825413
+välttää	rikkoa	0.867954544
+kieltäytyä	määrätä	0.87965602
+loukata	nolata	0.442066679
+kohdella huonosti	lannistaa	0.625660743
+erottaa	vastustaa	1.146526287
+haitata	erottaa	1.296757852
+välttää	vaivata	1.127055308
+halveksia	erottaa	1.307499066
+huumata	jättää huomiotta	0.795872351
+hylätä	jättää huomiotta	0.601078344
+arvostella	hylätä	1.144111911
+välttää	nuhdella	1.081337921
+karttaa	kiusata	1.044267017
+pidättyä	kummitella	1.288138783
+laiminlyödä	kohdella huonosti	0.760975564
+mulkoilla	imitoida	1.102565611
+nöyryyttää	pettää	1.085264585
+haitata	kummitella	0.940938356
+häiritä	laiminlyödä	0.98718835
+olla tunnustamatta	mulkoilla	1.247025739
+pahentaa	pidättyä	1.063448915
+kummitella	imitoida	0.839419955
+hämätä	rikkoa	0.865243877
+valehdella	juovuttaa	1.038136784
+mulkoilla	alentaa	1.067481833
+vaivata	röykyttää	1.086904665
+haitata	imitoida	1.26539612
+huumata	nolata	1.324677263
+tahrata	alentaa	0.841349402
+hylätä	pilkata	0.978623553
+sekoittaa	vastustaa	1.079499427
+häiritä	pidättyä	1.090866828
+pidättyä	kohdella huonosti	1.032571849
+kiusoitella	nöyryyttää	0.586187849
+panetella	kiusoitella	0.825277685
+olla tunnustamatta	sekoittaa	0.885843823
+olla tunnustamatta	pilkata	1.106737405
+laiminlyödä	pilkata	0.914991177
+röykyttää	hypnotisoida	1.273732353
+halveksia	pilkata	0.586024962
+huumata	haitata	1.124638878
+kritisoida	syyttää	0.644768462
+määrätä	olla tunnustamatta	0.904168475
+nöyryyttää	rasittaa	0.918167389
+pilkata	nuhdella	0.73627321
+nöyryyttää	erottaa	1.232708656
+röykyttää	karttaa	0.990100277
+nuhdella	määrätä	0.904584863
+pahentaa	rikkoa	1.044685821
+karttaa	kohdella huonosti	0.880965576
+karttaa	panetella	1.053811072
+jättää huomiotta	pettää	0.745903332
+pettää	karttaa	0.713225007
+arvostella	kiusata	0.715041224
+kummitella	alentaa	1.050378653
+nuhdella	hypnotisoida	1.40658426
+karttaa	dominoida	0.923813453
+jättää välistä	karttaa	0.388542237
+korruptoida	röykyttää	0.926188043
+sekoittaa	matkia	0.934340518
+korruptoida	juovuttaa	1.053324864
+kiusoitella	kritisoida	0.959414698
+olla tunnustamatta	korruptoida	0.935179252
+huumata	lannistaa	1.327721528
+valehdella	mulkoilla	1.087185832
+tahrata	olla tunnustamatta	1.051543824
+hämätä	pettää	0.634762916
+sekoittaa	jättää huomiotta	0.963300754
+pilkata	kohdella huonosti	0.522512882
+häiritä	olla tunnustamatta	1.072776666
+lannistaa	hypnotisoida	1.235830546
+pettää	röykyttää	1.078243923
+tahrata	kiusata	1.04288598
+loukata	röykyttää	0.567079647
+jättää huomiotta	vaivata	0.963133854
+teeskennellä	pidättyä	0.887261374
+hämätä	alentaa	1.146084749
+pettää	rikkoa	1.032997586
+arvostella	korruptoida	1.060441126
+halveksia	nolata	0.498344314
+sekoittaa	hämätä	0.68176187
+rikkoa	teeskennellä	0.917220533
+nuhdella	rikkoa	1.184551968
+kiusata	mulkoilla	0.84821757
+kieltäytyä	matkia	0.935361005
+panetella	röykyttää	0.936171828
+nuhdella	olla tunnustamatta	1.105258813
+lannistaa	hämätä	1.186641427
+rasittaa	kieltäytyä	1.097074196
+hypnotisoida	kiusoitella	1.093594936
+rasittaa	kritisoida	1.235046355
+matkia	kiusata	1.17200462
+valehdella	röykyttää	0.884999751
+kieltäytyä	välttää	0.600151051
+karttaa	haitata	1.086759859
+nöyryyttää	nuhdella	0.646896003
+kummitella	arvostella	0.97541312
+olla tunnustamatta	valehdella	0.606971045
+välttää	hylätä	0.736614357
+imitoida	huumata	1.147103587
+arvostella	panetella	0.762619012
+erottaa	jättää huomiotta	0.734580014
+jättää välistä	rikkoa	0.81198738
+erottaa	röykyttää	1.213076223
+panetella	halveksia	0.684414608
+nöyryyttää	häiritä	0.796446978
+jättää huomiotta	matkia	0.937699269
+imitoida	teeskennellä	0.523011418
+vastustaa	imitoida	1.030584394
+kohdella huonosti	välttää	1.02760919
+kritisoida	teeskennellä	1.068278831
+rasittaa	huumata	0.956943564
+pettää	määrätä	0.986307303
+määrätä	panetella	0.862040935
+kritisoida	haitata	1.08844303
+syyttää	matkia	1.147471329
+hylätä	pahentaa	0.977339193
+jättää välistä	halveksia	1.102255462
+karttaa	lannistaa	1.126654155
+karttaa	nöyryyttää	1.159817976
+määrätä	matkia	0.932971523
+sekoittaa	lannistaa	1.278856165
+kiusoitella	kieltäytyä	1.050695464
+huumata	dominoida	1.007035952
+valehdella	kiusoitella	1.06173069
+teeskennellä	pettää	0.608011999
+valehdella	karttaa	0.662692169
+arvostella	kieltäytyä	1.184696518
+kiusoitella	loukata	0.587484865
+hylätä	hypnotisoida	1.155972746
+panetella	vaivata	0.886401703
+laiminlyödä	kritisoida	1.116388708
+nöyryyttää	laiminlyödä	0.894724236
+olla tunnustamatta	kiusoitella	0.944909658
+halveksia	juovuttaa	1.191184525
+haitata	nuhdella	0.926182478
+nolata	imitoida	1.141834012
+teeskennellä	röykyttää	1.001571003
+korruptoida	tahrata	0.93816265
+kohdella huonosti	kieltäytyä	1.045156027
+alentaa	matkia	1.0972274
+dominoida	nuhdella	0.855189119
+matkia	häiritä	1.14308294
+valehdella	loukata	1.038729572
+määrätä	imitoida	0.94089798
+korruptoida	valehdella	0.810347989
+halveksia	pettää	1.05380065
+huumata	kiusoitella	1.284396716
+jättää huomiotta	röykyttää	1.009945924
+rasittaa	kummitella	0.98202187
+olla tunnustamatta	erottaa	0.71023341
+vaivata	hylätä	0.931183026
+teeskennellä	määrätä	0.965701315
+loukata	dominoida	0.954048076
+kiusata	hypnotisoida	1.070137119
+vastustaa	kieltäytyä	0.614799842
+panetella	pidättyä	1.073744647
+tahrata	valehdella	1.151933742
+tahrata	kummitella	1.194465425
+laiminlyödä	rikkoa	0.685976064
+jättää välistä	kiusata	1.050972874
+loukata	jättää huomiotta	0.94347421
+halveksia	välttää	1.099830936
+hylätä	panetella	0.956146011
+määrätä	kiusoitella	0.780760282
+pettää	mulkoilla	1.034158704
+rasittaa	arvostella	1.194071618
+häiritä	dominoida	0.82818403
+korruptoida	hylätä	0.877733717
+alentaa	syyttää	0.680040354
+sekoittaa	laiminlyödä	1.198176035
+karttaa	vastustaa	0.84727166
+alentaa	kieltäytyä	1.125676476
+nöyryyttää	huumata	1.258331277
+kohdella huonosti	sivuuttaa	0.969275531
+hylätä	karttaa	0.668714695
+jättää välistä	jättää huomiotta	0.329869073
+dominoida	panetella	0.921016772
+pettää	häiritä	1.073578259
+sivuuttaa	valehdella	0.755963136
+kritisoida	pahentaa	1.253866841
+rikkoa	arvostella	1.227796731
+mulkoilla	laiminlyödä	1.330627631
+kiusoitella	kiusata	0.429032637
+kohdella huonosti	olla tunnustamatta	0.959800638
+pilkata	pettää	1.038769537
+korruptoida	pilkata	0.841895165
+vaivata	pahentaa	0.945745531
+erottaa	pahentaa	1.031717457
+röykyttää	matkia	1.036088433
+kritisoida	korruptoida	1.120996247
+haitata	kiusata	0.986236338
+huumata	hämätä	0.975426373
+dominoida	laiminlyödä	0.959062161
+halveksia	olla tunnustamatta	1.091890629
+nuhdella	tahrata	1.107608241
+dominoida	hämätä	1.018633705
+erottaa	rikkoa	1.13003005
+rasittaa	matkia	1.151289878
+juovuttaa	tahrata	1.090999614
+sekoittaa	rasittaa	0.937668014
+lannistaa	rikkoa	1.435990043
+pilkata	sivuuttaa	1.053327918
+sivuuttaa	hypnotisoida	1.379144299
+huumata	välttää	1.251777868
+mulkoilla	dominoida	0.948551319
+röykyttää	imitoida	1.049417631
+nuhdella	kummitella	0.992932377
+rikkoa	rasittaa	1.274074338
+pettää	erottaa	0.861201933
+hylätä	sekoittaa	1.033698738
+kiusata	huumata	1.331249034
+vastustaa	nuhdella	1.236135847
+vastustaa	röykyttää	1.052385725
+kohdella huonosti	erottaa	1.01770382
+jättää välistä	rasittaa	1.060317856
+pettää	korruptoida	0.867667946
+loukata	huumata	1.223826323
+vastustaa	häiritä	0.941564394
+huumata	vastustaa	1.003573899
+pilkata	syyttää	0.727969549
+hämätä	kiusata	1.159668255
+mulkoilla	sekoittaa	1.181899489
+imitoida	erottaa	1.018382988
+kohdella huonosti	häiritä	0.669124015
+dominoida	röykyttää	1.024857944
+rikkoa	syyttää	1.175709954
+olla tunnustamatta	sivuuttaa	0.568810961
+kritisoida	alentaa	0.651973534
+rasittaa	pettää	0.991518014
+rikkoa	dominoida	1.03233403
+loukata	välttää	1.119709218
+olla tunnustamatta	hylätä	0.740955097
+vastustaa	alentaa	1.091177699
+hylätä	sivuuttaa	0.682311819
+laiminlyödä	teeskennellä	0.949842588
+olla tunnustamatta	alentaa	1.085382838
+halveksia	nuhdella	0.60851457
+loukata	kiusata	0.523979503
+häiritä	huumata	1.065602111
+kiusata	imitoida	1.159759367
+jättää välistä	imitoida	1.062371497
+pettää	vaivata	0.972846923
+haitata	alentaa	0.794833744
+pettää	kummitella	0.840979399
+loukata	vastustaa	1.069954947
+syyttää	sekoittaa	1.262290695
+huumata	kieltäytyä	1.03422851
+arvostella	jättää välistä	1.153717303
+teeskennellä	huumata	0.89252745
+arvostella	syyttää	0.617251247
+hylätä	laiminlyödä	0.738157661
+pahentaa	kohdella huonosti	1.016506825
+huumata	panetella	1.355956846
+häiritä	panetella	0.932310189
+karttaa	välttää	0.304834005
+jättää huomiotta	kieltäytyä	0.579169154
+syyttää	hylätä	1.114535651
+sivuuttaa	alentaa	1.060436435
+panetella	juovuttaa	1.278248676
+määrätä	dominoida	0.134064603
+määrätä	jättää välistä	0.812263507
+hylätä	rasittaa	0.840228758
+valehdella	haitata	0.987345633
+sekoittaa	haitata	0.979917471
+haitata	vaivata	0.411438421
+juovuttaa	hypnotisoida	1.026434069
+pahentaa	jättää välistä	0.925530469
+vastustaa	hylätä	0.807521144
+lannistaa	häiritä	1.02703144
+pahentaa	kummitella	1.035577084
+vaivata	lannistaa	1.044067357
+juovuttaa	pidättyä	1.111143411
+loukata	tahrata	1.004302804
+alentaa	laiminlyödä	0.810628596
+nuhdella	hämätä	1.161207237
+nolata	korruptoida	0.922032434
+kieltäytyä	panetella	1.077478161
+tahrata	kohdella huonosti	0.796015553
+kiusoitella	vastustaa	1.027729927
+jättää välistä	pidättyä	0.547520371
+määrätä	tahrata	0.955926932
+huumata	korruptoida	1.141796277
+kieltäytyä	dominoida	0.940286057
+vastustaa	pettää	0.948071657
+korruptoida	rikkoa	1.05924915
+teeskennellä	karttaa	0.734435533
+rasittaa	vastustaa	0.873188123
+hypnotisoida	pilkata	1.026390169
+matkia	dominoida	0.940444234
+mulkoilla	pahentaa	1.236336604
+kiusoitella	sivuuttaa	0.988892743
+teeskennellä	alentaa	1.119892663
+arvostella	pidättyä	1.270423969
+välttää	röykyttää	1.032180567
+valehdella	panetella	1.042037402
+imitoida	alentaa	1.089579482
+kieltäytyä	nuhdella	1.06900746
+arvostella	alentaa	0.627261967
+kummitella	röykyttää	0.884159237
+mulkoilla	hypnotisoida	0.95927423
+pettää	dominoida	0.982438357
+alentaa	kiusoitella	0.811695346
+röykyttää	pahentaa	1.011164144
+kiusata	lannistaa	0.647408338
+rasittaa	kiusoitella	0.772932348
+juovuttaa	imitoida	1.198677652
+sivuuttaa	dominoida	0.985126036
+kiusoitella	laiminlyödä	1.076386668
+haitata	halveksia	0.990327535
+kiusoitella	juovuttaa	1.188503946
+tahrata	rasittaa	0.945192524
+arvostella	teeskennellä	1.094599071
+jättää huomiotta	juovuttaa	0.856317226
+korruptoida	sekoittaa	0.754719188
+häiritä	kiusoitella	0.767514703
+vaivata	dominoida	0.913200461
+halveksia	pahentaa	1.121683336
+sekoittaa	nuhdella	1.151452211
+sivuuttaa	haitata	1.146059055
+korruptoida	vaivata	0.991990333
+kohdella huonosti	rasittaa	0.791193261
+sivuuttaa	teeskennellä	0.872181074
+nuhdella	erottaa	1.268412489
+olla tunnustamatta	loukata	1.073409148
+kummitella	loukata	0.935079553
+teeskennellä	olla tunnustamatta	0.763836124
+lannistaa	jättää välistä	1.207264685
+arvostella	olla tunnustamatta	1.255129795
+erottaa	juovuttaa	1.194955323
+jättää välistä	kummitella	1.125936738
+hypnotisoida	tahrata	1.111152009
+hylätä	loukata	0.918075607
+pilkata	matkia	1.139639045
+laiminlyödä	nuhdella	1.004719554
+nuhdella	nolata	0.628208168
+mulkoilla	matkia	1.04739173
+nuhdella	rasittaa	1.130127887
+alentaa	valehdella	0.968402339
+sekoittaa	nöyryyttää	1.11666156
+jättää huomiotta	nöyryyttää	0.96730908
+kummitella	matkia	0.789341952
+olla tunnustamatta	vastustaa	0.910994981
+välttää	jättää huomiotta	0.40307127
+jättää huomiotta	dominoida	0.990521573
+nuhdella	pahentaa	1.179060476
+röykyttää	kohdella huonosti	0.717228244
+juovuttaa	sekoittaa	0.742994513
+olla tunnustamatta	haitata	1.111095098
+häiritä	sekoittaa	0.965479242
+nöyryyttää	nolata	0.281203242
+kieltäytyä	kiusata	1.254077215
+kohdella huonosti	imitoida	1.045193593
+panetella	imitoida	1.23792457
+rasittaa	syyttää	1.219353591
+kiusata	hylätä	1.068730969
+kritisoida	dominoida	0.883401919
+pettää	loukata	1.044630594
+häiritä	kieltäytyä	1.066229333
+jättää välistä	korruptoida	0.988499875
+matkia	juovuttaa	1.156104717
+imitoida	kiusoitella	1.103364822
+vaivata	kiusata	0.862923056
+rasittaa	dominoida	0.7915184
+karttaa	häiritä	0.994926447
+vastustaa	kritisoida	1.180474566
+kieltäytyä	röykyttää	1.171778827
+hypnotisoida	hämätä	0.884912143
+alentaa	korruptoida	0.892867008
+jättää välistä	röykyttää	0.975787568
+imitoida	pidättyä	0.969313938
+määrätä	röykyttää	1.054324754
+syyttää	panetella	0.791989136
+huumata	pidättyä	1.07034923
+sivuuttaa	kiusata	1.141256878
+arvostella	matkia	1.030022511
+haitata	dominoida	1.015814912
+hämätä	panetella	1.035637814
+dominoida	tahrata	1.010287359
+kohdella huonosti	arvostella	0.62731794
+dominoida	kummitella	0.90222414
+hypnotisoida	jättää välistä	1.350543828
+matkia	kiusoitella	1.117408914
+juovuttaa	kummitella	1.174369551
+nöyryyttää	alentaa	0.526333995
+halveksia	rasittaa	0.938162435
+kohdella huonosti	matkia	1.052795194
+imitoida	rikkoa	0.925363741
+röykyttää	nuhdella	0.729401112
+kohdella huonosti	nolata	0.620681477
+halveksia	kieltäytyä	1.182170178
+syyttää	vastustaa	1.063123197
+matkia	panetella	1.302249089
+jättää välistä	valehdella	0.875435105
+valehdella	kohdella huonosti	0.951611141
+juovuttaa	kiusata	1.235135335
+kohdella huonosti	syyttää	0.653314962
+häiritä	jättää välistä	1.01773651
+kritisoida	hämätä	1.141328863
+rikkoa	matkia	0.944882312
+kohdella huonosti	panetella	0.733386462
+korruptoida	mulkoilla	1.237386747
+erottaa	syyttää	1.330832584
+kiusata	pahentaa	1.143611402
+välttää	syyttää	1.162689569
+syyttää	halveksia	0.740538314
+tahrata	imitoida	1.225603386
+vastustaa	sivuuttaa	0.881290778
+laiminlyödä	haitata	1.250927516
+vaivata	loukata	0.719154617
+nuhdella	matkia	0.967490289
+valehdella	hylätä	0.925940914
+loukata	nöyryyttää	0.451340262
+rasittaa	nolata	0.983513801
+hypnotisoida	kritisoida	1.299024216
+määrätä	mulkoilla	1.003439363
+pidättyä	hypnotisoida	1.425930721
+kummitella	vaivata	1.021347248
+sivuuttaa	kritisoida	1.199563347
+mulkoilla	kohdella huonosti	1.011182155
+pahentaa	määrätä	1.207749272
+tahrata	halveksia	0.926459774
+pilkata	pahentaa	1.029149115
+häiritä	hämätä	1.052198973
+dominoida	pilkata	0.931293524
+nöyryyttää	kieltäytyä	1.130302336
+välttää	panetella	1.040548699
+pahentaa	loukata	0.940583449
+nuhdella	hylätä	0.996030525
+tahrata	matkia	1.294188999
+erottaa	mulkoilla	1.520279377
+määrätä	sekoittaa	1.085191353
+karttaa	olla tunnustamatta	0.606476102
+alentaa	huumata	1.228804922
+välttää	arvostella	1.246552135
+nuhdella	imitoida	0.979117012
+loukata	pilkata	0.382822214
+nolata	hylätä	1.101800563
+laiminlyödä	välttää	0.59214068
+kieltäytyä	imitoida	0.984836995
+juovuttaa	lannistaa	1.19659606
+hypnotisoida	halveksia	1.094945971
+panetella	mulkoilla	1.108762226
+hypnotisoida	olla tunnustamatta	1.145496405
+kieltäytyä	pahentaa	1.007782325
+matkia	korruptoida	1.017230855
+vaivata	jättää välistä	1.135544714
+haitata	pilkata	0.883455842
+dominoida	erottaa	1.134927888
+juovuttaa	kohdella huonosti	1.083517292
+kiusata	nolata	0.506729468
+syyttää	hämätä	1.130602375
+panetella	sekoittaa	1.259952886
+hylätä	nöyryyttää	1.067205638
+lannistaa	nolata	0.595923132
+kiusoitella	mulkoilla	1.07544432
+rasittaa	määrätä	0.859344697
+jättää huomiotta	mulkoilla	1.191270536
+erottaa	hylätä	0.676649995
+haitata	jättää välistä	1.149462192
+tahrata	röykyttää	1.132229827
+matkia	erottaa	1.045439257
+pahentaa	syyttää	1.169793331
+mulkoilla	kummitella	0.87762226
+korruptoida	vastustaa	1.236707982
+sivuuttaa	korruptoida	0.904328825
+halveksia	teeskennellä	1.063342245
+hypnotisoida	alentaa	1.116531508
+määrätä	erottaa	1.069861443
+vaivata	sivuuttaa	1.100523506
+rasittaa	juovuttaa	0.846302759
+hämätä	valehdella	0.710026068
+sivuuttaa	jättää välistä	0.239298857
+vastustaa	nolata	1.165176578
+jättää huomiotta	rikkoa	0.921273853
+lannistaa	kummitella	0.997991776
+loukata	sivuuttaa	1.044994348
+pidättyä	halveksia	1.213372247
+välttää	lannistaa	1.191839518
+röykyttää	juovuttaa	1.266201153
+pidättyä	nöyryyttää	1.368047527
+lannistaa	hylätä	1.131480937
+pidättyä	valehdella	1.074128137
+tahrata	sekoittaa	1.122267707
+hylätä	pettää	0.855744139
+pahentaa	hämätä	0.914853631
+nöyryyttää	hypnotisoida	0.97568915
+laiminlyödä	huumata	1.071562915
+imitoida	dominoida	0.960860369
+dominoida	halveksia	0.913411104
+juovuttaa	jättää välistä	1.083600641
+halveksia	hylätä	1.022658314
+pettää	sekoittaa	0.764948454
+pidättyä	röykyttää	1.300066467
+vastustaa	jättää huomiotta	0.857473881
+erottaa	häiritä	1.286375537
+pilkata	rasittaa	0.828730388
