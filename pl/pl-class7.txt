@@ -1,0 +1,1486 @@
+Word1	Word2	Score
+przedrzeźniać	błagać	1.0458228278869248
+ostrzec	poinformować	0.8099367445113187
+zachęcać	zwracać się	0.7003221421595222
+ostrzec	krzyczeć	1.2288942138266437
+opowiedzieć	modlić się	1.1732266376516043
+opisać	polecać	1.1760091275752345
+wyznać	poprosić	1.1502226094967514
+instruować	doradzać	0.363064851299973
+błagać	rozmawiać	0.8745345474124628
+modlić się	przysięgać	0.9510108591050785
+obiecywać	odpowiedzieć	1.384012604890495
+rozmawiać	nie zgadzać się	1.1045514084174
+żądać	rozmawiać	1.0608968150935199
+żądać	nie zgadzać się	1.0776491269205322
+mówić	wyznać	0.8179174453559597
+obiecywać	przekonać	0.7663562147093625
+opowiedzieć	debatować	0.7637088940956244
+namawiać	powtarzać	0.993571351158575
+obiecywać	skłonić	0.7928015366420377
+błagać	obiecywać	0.9261996887549584
+odrzec	upraszać	0.9958353108920912
+upraszać	doradzać	0.8229618722777061
+bełkotać	szeptać	0.7102032425151732
+poprosić	powiadamiać	0.9942456966763786
+pozdrawiać	instruować	1.1937596999316173
+pytać	skłonić	0.7124386169810019
+przysięgać	wołać	1.1917010389508191
+przedrzeźniać	pozdrawiać	1.1492216458972249
+dyskutować	upraszać	1.0125534859804246
+szeptać	przyznać	1.1090414420357295
+nakłaniać	poinformować	1.0137454527644383
+nadmienić	bełkotać	0.988479293502496
+pytać	odpowiedzieć	0.9189895027978293
+nie zgadzać się	opowiedzieć	1.3131533460818388
+doradzać	sugerować	0.6101576650842112
+obiecywać	żądać	1.2275682710803462
+żądać	zaprzeczać	1.0840346704175352
+obiecywać	opowiedzieć	1.2887391690840828
+zapewnić	przekonać	1.026756315604205
+namawiać	powiedzieć	0.7490462799784687
+sugerować	rozkazać	1.0259066189089725
+wydzierać się	namawiać	1.0568103201390322
+przekonać	nakłaniać	0.25111608075391173
+debatować	polecać	0.8137363875208081
+pozdrawiać	powiadamiać	1.2120393420235263
+przerywać	zaprzeczać	0.8818069261725429
+opisać	nie zgadzać się	1.0047371232058186
+zapewnić	upraszać	0.977163237127179
+rozmawiać	modlić się	0.9770007147663171
+zaprzeczać	skłonić	0.890966795666204
+pytać	nakłaniać	0.7143561158770929
+doradzać	wyrazić	1.0606335255668176
+dyskutować	bełkotać	1.1472042807812735
+ogłosić	zgadzać się	1.1200507216132853
+żądać	skłonić	0.998425018945924
+zwracać się	zaprzeczać	1.0120093445733318
+nie zgadzać się	szeptać	1.197984413334005
+nie zgadzać się	przekonać	0.8886503368379517
+doradzać	rozmawiać	0.8469492438355298
+pozdrawiać	przerywać	1.0944282810645545
+przypominać	zaprzeczać	0.8098632325087683
+powiadamiać	polecać	1.1239923098279854
+instruować	zwracać się	0.7055141877561092
+zapewnić	opowiedzieć	1.0788080583521598
+wołać	opowiedzieć	1.234764663086654
+ogłosić	nie zgadzać się	1.053555352828358
+przerywać	nie zgadzać się	0.8634134878412596
+odpowiedzieć	wyrazić	0.6856491667289882
+poinformować	poprosić	1.0236529358670343
+sugerować	odrzec	1.0323393112681112
+przyznać	upraszać	0.8845499843123789
+twierdzić	mówić	0.5455458061157804
+przysięgać	twierdzić	1.2917691924161956
+przypominać	zwracać się	1.12448613751027
+pozdrawiać	modlić się	1.2201004758242573
+skłonić	przysięgać	0.938456730171268
+przerywać	zgadzać się	1.1144592628883967
+ostrzec	zaprzeczać	1.0501771106700233
+opowiedzieć	przysięgać	1.1658766223713761
+bełkotać	mówić	1.1454197031091198
+powtarzać	modlić się	1.3407335935111542
+przyznać	powiadamiać	1.0662375503595558
+komunikować się	zachęcać	0.8504749178322241
+poprosić	odpowiedzieć	0.9230777732705289
+odpowiedzieć	ogłosić	0.8552635365122349
+przysięgać	szeptać	1.016030757343392
+sugerować	instruować	0.6031535743354053
+odrzec	debatować	0.738253723859585
+zgadzać się	odpowiedzieć	0.8561293318335579
+upraszać	nakłaniać	0.5372936038919957
+debatować	protestować	0.9824711772915199
+zaprzeczać	nie zgadzać się	0.5796775990506784
+krzyczeć	opowiedzieć	1.3768250954323877
+modlić się	dyskutować	1.093042332228168
+skłonić	wołać	1.1449921920329198
+zwracać się	przekonać	0.6845367294875028
+komunikować się	rozkazać	1.0653515193127874
+nie zgadzać się	nakłaniać	0.9686792254599521
+nie zgadzać się	modlić się	1.1078125229361537
+rozmawiać	twierdzić	0.4788926437700894
+protestować	wyznać	0.9076501109776529
+przypominać	instruować	0.8098686206060022
+nie zgadzać się	poinformować	0.919459203267538
+żądać	przerywać	0.8440710624716337
+instruować	nakłaniać	0.7422677116878009
+narzekać	przyznać	1.062929644175159
+szeptać	komunikować się	1.0217253433248297
+narzekać	przekonać	0.8649600870370251
+pytać	wyrazić	0.8302881194480841
+przedrzeźniać	namawiać	0.7953968177144115
+opisać	nadmienić	1.1325910616415484
+obiecywać	zgadzać się	1.623061320363621
+nakłaniać	narzekać	0.8230555812976915
+nie zgadzać się	mówić	1.0738857058653826
+krzyczeć	przekonać	0.9864676189970062
+powtarzać	opisać	1.0702093673773008
+błagać	szeptać	0.8773654900427126
+odpowiedzieć	komunikować się	0.7267426904015346
+narzekać	rozkazać	1.0137858446646772
+obiecywać	nie zgadzać się	1.0481036004844948
+doradzać	poprosić	0.974052775210294
+poinformować	wrzeszczeć	1.0601076938884253
+odrzec	powtarzać	1.0004147020287266
+instruować	przedrzeźniać	1.0918963710817764
+twierdzić	szeptać	0.9282653505632595
+poprosić	rozkazać	1.1677226561531417
+namawiać	krzyczeć	0.9982942034346788
+opisać	namawiać	0.8163535183480977
+namawiać	instruować	0.7032238740833029
+debatować	wrzeszczeć	1.1013509971693651
+pozdrawiać	sugerować	1.1130651110725112
+sugerować	przysięgać	1.0980014889248997
+wydzierać się	nie zgadzać się	0.8488699136096829
+przypominać	żądać	0.8307762336684223
+zwracać się	wydzierać się	1.140255957041721
+nie zgadzać się	polecać	1.1221187395936343
+poinformować	zwracać się	0.8150069795582044
+wyznać	zachęcać	0.9695080272453666
+powtarzać	komunikować się	0.9939210361738641
+upraszać	protestować	0.9181046592452212
+wyznać	pytać	0.90474256740474
+zaprzeczać	nadmienić	1.0242929274372004
+komunikować się	wyznać	0.8292182110997987
+krzyczeć	nakłaniać	0.9595175360909194
+zwracać się	poprosić	0.9076615240133644
+protestować	zachęcać	0.8855244739732885
+modlić się	upraszać	0.7610168687732463
+odpowiedzieć	żądać	1.0235711769114983
+przerywać	ogłosić	1.0378110859518181
+poinformować	komunikować się	0.8213082013599818
+instruować	rozmawiać	0.8936292678702706
+przerywać	szeptać	0.9406746088900725
+narzekać	wyznać	0.9963809023900043
+wołać	odrzec	1.1710160785870118
+zaprzeczać	przyznać	1.1165962913008878
+twierdzić	instruować	1.0673842029430276
+pozdrawiać	odpowiedzieć	0.9475878310165395
+protestować	sugerować	0.9763748530361245
+protestować	doradzać	1.2020193647750959
+obiecywać	przedrzeźniać	1.1756781563881404
+debatować	skłonić	0.8003917041131646
+zaprzeczać	twierdzić	1.0619815432426667
+zwracać się	protestować	0.9553812886658295
+modlić się	mówić	1.0908041394193682
+szeptać	odpowiedzieć	1.1342706228089918
+nakłaniać	modlić się	1.0892346625062792
+błagać	krzyczeć	1.1693062546737487
+poprosić	modlić się	0.8903676428852724
+ogłosić	wyrazić	0.7341979707735123
+wrzeszczeć	powiedzieć	1.0788404572829875
+pozdrawiać	nakłaniać	0.9042128180610268
+powiedzieć	nadmienić	0.6786492571918709
+rozkazać	skłonić	0.8889566728813357
+pytać	twierdzić	0.8724191227162791
+rozmawiać	powiedzieć	0.5739185861897529
+zgadzać się	pozdrawiać	1.0305103055749414
+krzyczeć	powtarzać	1.0005835431853098
+żądać	powtarzać	1.1648483499337978
+wyrazić	powtarzać	1.164813110225682
+wołać	wydzierać się	0.9712273278960182
+namawiać	rozmawiać	0.8447503069686523
+obiecywać	zachęcać	0.8165398506900677
+mówić	przypominać	0.9743103420675648
+odrzec	odpowiedzieć	0.4418618084504169
+wydzierać się	nadmienić	1.0293657270200556
+mówić	przyznać	0.7969890139838308
+upraszać	odpowiedzieć	0.9589800499493871
+bełkotać	instruować	1.2659389799544682
+szeptać	zaprzeczać	0.9759377107728026
+bełkotać	krzyczeć	0.7051333474013017
+obiecywać	szeptać	0.882747220033812
+odrzec	polecać	0.8727196133130103
+obiecywać	twierdzić	1.3974262687903014
+obiecywać	ogłosić	1.236359006916026
+przypominać	powtarzać	0.7489539541627779
+instruować	ogłosić	0.7038772171289062
+opisać	przyznać	0.9009241145168634
+polecać	wydzierać się	0.8731267911086527
+zaprzeczać	wyrazić	0.9012500567510935
+zapewnić	mówić	1.1662580399074873
+komunikować się	ostrzec	1.2444088587776048
+ogłosić	zaprzeczać	0.9184592866088246
+debatować	doradzać	0.9130127508912368
+nadmienić	ogłosić	0.7389500632755397
+instruować	powtarzać	1.1337325972206085
+pozdrawiać	obiecywać	1.2683355976422188
+przyznać	zapewnić	1.0108750580692498
+nadmienić	przekonać	0.9502770769510932
+przerywać	mówić	1.0490572230303368
+opowiedzieć	upraszać	0.8856639400029372
+ogłosić	błagać	0.8970816104319008
+przyznać	nakłaniać	0.9703583632793414
+powiadamiać	wyznać	1.1254331495523322
+poinformować	doradzać	0.9658116849221531
+przysięgać	zapewnić	0.9031280942616826
+polecać	poprosić	1.1423844924173332
+debatować	narzekać	1.234338060194524
+przyznać	poprosić	1.1735671336900502
+skłonić	twierdzić	0.8953006679098413
+rozmawiać	opisać	0.8776467816715211
+rozkazać	wrzeszczeć	0.8235549086326767
+zaprzeczać	pozdrawiać	0.9885496755599862
+dyskutować	pytać	0.9549825609529536
+wyrazić	przedrzeźniać	0.9147578380071862
+przypominać	narzekać	1.1901224667689918
+modlić się	ostrzec	1.1924928028158979
+krzyczeć	żądać	0.9190359962127175
+dyskutować	zapewnić	1.1116756741407503
+ogłosić	przypominać	0.785569784445574
+błagać	zapewnić	1.1924670085169051
+sugerować	opowiedzieć	1.0328450570680752
+bełkotać	rozkazać	0.9858677727294468
+nadmienić	zachęcać	0.9476417642017914
+sugerować	opisać	0.9482083404742306
+dyskutować	instruować	0.9470474407529534
+wydzierać się	powtarzać	1.076065940955837
+wołać	wyrazić	0.9901803821959123
+pozdrawiać	przypominać	0.9441076141779517
+polecać	ostrzec	0.9684309143065414
+powiedzieć	szeptać	1.077967075119264
+pytać	komunikować się	0.9678855942621337
+powiedzieć	dyskutować	0.62158410112245
+poinformować	nadmienić	1.0193250812020573
+zachęcać	szeptać	0.9576578772651286
+zaprzeczać	rozmawiać	0.9945364640212245
+dyskutować	zaprzeczać	0.9778867593485892
+zgadzać się	narzekać	1.1275692651851426
+protestować	przyznać	1.034323377369007
+zachęcać	ogłosić	0.9800700638087989
+przysięgać	rozmawiać	1.0572586702706945
+sugerować	przekonać	0.4965284945946296
+pozdrawiać	poprosić	0.8940449711519299
+mówić	namawiać	0.7576469649398825
+poprosić	szeptać	0.7922033474877999
+zgadzać się	zachęcać	0.9230811841617136
+krzyczeć	modlić się	1.3235517015162814
+doradzać	wołać	1.0883076403434038
+ostrzec	pozdrawiać	1.0705326417543424
+przerywać	zapewnić	1.2572314240015696
+pytać	mówić	1.0406995003253021
+wrzeszczeć	odpowiedzieć	0.9329212150932042
+błagać	nie zgadzać się	1.0133403193304058
+wrzeszczeć	komunikować się	0.9902885359424544
+pozdrawiać	opisać	0.9882865392498144
+poprosić	powtarzać	1.1992474773333086
+żądać	protestować	0.9773755806364539
+obiecywać	komunikować się	1.2293333130260993
+krzyczeć	przerywać	0.8372393819325714
+szeptać	wydzierać się	1.2420324992839773
+ogłosić	opisać	0.9142690460473425
+przyznać	poinformować	1.130001303250529
+błagać	sugerować	0.6938239184310941
+rozmawiać	debatować	0.28387413863267996
+narzekać	instruować	1.2289158155746929
+sugerować	powtarzać	0.936849489259065
+szeptać	nadmienić	1.0728815002927996
+przekonać	twierdzić	0.8168607897273594
+ostrzec	ogłosić	0.8570378392674404
+zapewnić	obiecywać	0.8242959710800833
+narzekać	polecać	1.1214470396761351
+debatować	powiedzieć	0.7070660822797489
+dyskutować	opisać	1.0204317026754153
+sugerować	nadmienić	0.9202501751356195
+wyznać	rozkazać	1.1628054737240832
+doradzać	przysięgać	1.0228714129209469
+poinformować	wołać	1.16402214232216
+dyskutować	narzekać	1.2191386414003682
+twierdzić	zapewnić	1.213095710188936
+wrzeszczeć	namawiać	1.0363601845324952
+bełkotać	nie zgadzać się	0.8821407830787888
+szeptać	powiadamiać	1.1651270249419168
+modlić się	żądać	1.3281093901293133
+skłonić	sugerować	0.4743526011272036
+twierdzić	komunikować się	0.6680736186561568
+wołać	protestować	1.162118648528412
+zwracać się	mówić	0.6606346855093722
+bełkotać	wyrazić	1.0961396663357137
+skłonić	bełkotać	0.8808812991324764
+modlić się	rozkazać	1.268565123753333
+upraszać	powiadamiać	0.930343250338344
+wołać	narzekać	1.2029701459289883
+poinformować	przedrzeźniać	1.1567153652193405
+powiedzieć	wydzierać się	1.161345048791003
+zaprzeczać	nakłaniać	0.9960529553377013
+skłonić	wyrazić	0.7733877926492614
+rozmawiać	wyrazić	0.6367276686183196
+sugerować	powiedzieć	0.9147976334576056
+wołać	obiecywać	1.477025798555059
+doradzać	rozkazać	1.1770936554348097
+odpowiedzieć	mówić	0.529658831318865
+narzekać	skłonić	0.9023277894899532
+nadmienić	wyznać	0.7784872948667741
+zaprzeczać	przedrzeźniać	0.8582369843180411
+modlić się	przedrzeźniać	1.2959900615266684
+przysięgać	odrzec	1.0785206192013976
+przypominać	rozkazać	0.822208858214051
+obiecywać	ostrzec	1.2632260737088177
+przypominać	upraszać	0.9045448031342163
+odpowiedzieć	twierdzić	0.5635663165940855
+nadmienić	odrzec	0.6436962857610388
+opowiedzieć	twierdzić	0.6932178847569435
+pozdrawiać	namawiać	0.9136020628697489
+ogłosić	krzyczeć	1.1593920939916973
+odrzec	doradzać	1.0757398578697048
+krzyczeć	skłonić	0.9929968880125827
+wrzeszczeć	odrzec	0.9714362325062619
+pytać	przekonać	0.7474147352537797
+modlić się	opisać	1.1886053075982812
+przedrzeźniać	sugerować	0.8394693346781484
+opowiedzieć	powiadamiać	0.9759568565593333
+twierdzić	debatować	0.6430601861819994
+przedrzeźniać	żądać	0.8869432119211702
+błagać	namawiać	0.5353471845533962
+mówić	opisać	0.9646006157342243
+poprosić	wydzierać się	1.2153049363423647
+protestować	nadmienić	0.9971590048150253
+rozmawiać	przypominać	1.0165844666762045
+rozkazać	powiedzieć	0.9602583665687138
+wydzierać się	przerywać	0.759884739109285
+wyrazić	polecać	0.87293756051041
+instruować	ostrzec	0.8890002072827676
+przerywać	skłonić	0.9043144823415363
+powiedzieć	zgadzać się	0.9393449407634284
+zgadzać się	rozkazać	1.0114598697382167
+komunikować się	bełkotać	1.2771840434339414
+nie zgadzać się	nadmienić	1.0431567941332252
+zgadzać się	opowiedzieć	1.2919183117866808
+doradzać	wrzeszczeć	1.2527850756427714
+przysięgać	wydzierać się	0.9873022509716766
+wyrazić	obiecywać	1.3448580108308854
+pytać	opowiedzieć	1.1876158105660775
+wyrazić	wrzeszczeć	0.8769199297361516
+żądać	przekonać	0.9595200681104664
+rozmawiać	przyznać	0.6416349517197664
+narzekać	doradzać	1.219023771550894
+upraszać	wydzierać się	1.0466582851620183
+zwracać się	szeptać	1.2198643656444088
+rozmawiać	sugerować	0.9557696443825727
+przyznać	doradzać	1.196624161579585
+skłonić	opisać	0.910971984878329
+powiadamiać	doradzać	1.087620559914475
+wyznać	dyskutować	0.7791131708455211
+debatować	upraszać	0.9833544403620746
+opowiedzieć	przerywać	1.211677339563294
+przysięgać	komunikować się	1.0437741617363059
+bełkotać	poprosić	1.053210676032791
+modlić się	ogłosić	1.0235247834211372
+nadmienić	ostrzec	1.1130955114864753
+wyznać	nie zgadzać się	1.0787515214893337
+namawiać	przerywać	0.8832121282556497
+pytać	bełkotać	1.2246473709188959
+zaprzeczać	namawiać	0.9865152639374867
+mówić	rozmawiać	0.5441672874356098
+modlić się	przyznać	1.2294658249932093
+żądać	zgadzać się	1.165677877619526
+zapewnić	przedrzeźniać	1.2845707957410353
+poprosić	instruować	0.9818833598620822
+nakłaniać	żądać	1.0585475420970818
+poinformować	opisać	0.9392419675123872
+wydzierać się	skłonić	1.0823412602862983
+wydzierać się	błagać	1.1310325975879822
+opowiedzieć	odpowiedzieć	0.8263079175267162
+błagać	doradzać	0.9580802561845162
+poprosić	dyskutować	1.0518548676255
+powtarzać	upraszać	1.0056745567581615
+nadmienić	krzyczeć	0.9956271524921674
+protestować	powtarzać	0.7746769998927553
+pytać	ostrzec	0.8931493291135081
+zgadzać się	ostrzec	1.270721058414615
+przedrzeźniać	opisać	1.3202906759291728
+ogłosić	wołać	1.102561905464013
+pytać	poprosić	1.0242857448696434
+debatować	zwracać się	0.9350096340370901
+instruować	poinformować	0.7602648371084206
+przysięgać	debatować	1.153764052432174
+ostrzec	namawiać	0.7891109044437319
+doradzać	namawiać	0.684429461832227
+sugerować	twierdzić	0.8997865401679305
+polecać	modlić się	1.2061483517293985
+modlić się	komunikować się	1.0573189815215518
+opisać	narzekać	1.180832011585706
+upraszać	poinformować	0.9166917211029632
+sugerować	przyznać	0.9136550148478851
+przerywać	komunikować się	1.0343456111287928
+skłonić	przypominać	0.8610862776301648
+szeptać	instruować	1.047088228406892
+twierdzić	wydzierać się	1.0848518960586024
+ogłosić	przysięgać	1.0286756666174213
+żądać	zwracać się	1.0198051908948054
+modlić się	wołać	1.6177077818913668
+przysięgać	zgadzać się	1.3122967299605994
+zaprzeczać	wołać	1.266521184962391
+przypominać	krzyczeć	0.9807157506201478
+narzekać	pytać	0.8898224371002924
+skłonić	powiedzieć	0.8105540380647279
+rozkazać	twierdzić	1.113768461208844
+przysięgać	nie zgadzać się	0.9065040251831842
+zgadzać się	doradzać	1.3574674970373217
+szeptać	rozkazać	1.130185806764903
+poinformować	zapewnić	1.1358260535455313
+ogłosić	twierdzić	0.7511563198554502
+bełkotać	zachęcać	1.0026225182753383
+przyznać	nie zgadzać się	1.1006555198608345
+narzekać	szeptać	1.0755714687015117
+zachęcać	przypominać	0.7678322197150506
+namawiać	pytać	0.8037363507520233
+narzekać	pozdrawiać	0.9621112364869803
+protestować	rozmawiać	1.0014681570527297
+narzekać	nie zgadzać się	0.9243362426277154
+debatować	pozdrawiać	0.9801987385170602
+odpowiedzieć	rozkazać	0.9561500062659173
+powiedzieć	bełkotać	1.026169069578145
+komunikować się	nakłaniać	0.8928868754416807
+zwracać się	zgadzać się	1.177228991328892
+obiecywać	odrzec	1.3281881317884014
+odrzec	żądać	1.179102319742736
+odpowiedzieć	zaprzeczać	1.0089652699490692
+zachęcać	poinformować	0.8778237693600007
+ostrzec	dyskutować	1.0446643723090305
+przekonać	poinformować	0.8621886102105406
+nadmienić	żądać	1.0716029026071237
+błagać	zachęcać	0.6035052264123179
+rozkazać	przerywać	0.9116433275736803
+zachęcać	instruować	0.6881973053546232
+ostrzec	wołać	1.311223248221576
+opisać	zapewnić	1.1553709039856526
+przerywać	wołać	1.42018385579668
+opowiedzieć	ostrzec	1.1602892218914456
+opisać	pytać	1.1626548506008612
+dyskutować	przysięgać	1.2066679145797337
+żądać	szeptać	1.1257623145917353
+sugerować	ogłosić	0.9144229608015743
+dyskutować	wydzierać się	1.1307537255405267
+skłonić	odpowiedzieć	0.8898050221075288
+pytać	przypominać	0.8061511087241302
+odpowiedzieć	zapewnić	1.2475958441126818
+przypominać	bełkotać	1.0629567046207884
+wyznać	zwracać się	1.0124540095794903
+powiadamiać	przerywać	0.9763667902460794
+pytać	poinformować	1.057953890025523
+polecać	krzyczeć	0.8770677877489234
+polecać	wyznać	1.0028142338786596
+sugerować	pytać	0.8072192962938856
+poinformować	debatować	0.9997900753691775
+przedrzeźniać	pytać	0.9540413224914106
+zwracać się	dyskutować	0.9180562940731778
+wrzeszczeć	protestować	0.7984392549464712
+pozdrawiać	dyskutować	1.0050965305674187
+komunikować się	zwracać się	0.7740865120389891
+namawiać	nadmienić	0.9376614587286044
+wyrazić	nadmienić	0.8875571905692979
+debatować	zgadzać się	0.8842881211993218
+zachęcać	mówić	0.8679752620646675
+bełkotać	poinformować	1.2925743661520852
+ostrzec	wyznać	0.9684722946262009
+ostrzec	przerywać	1.2402657305979585
+dyskutować	odrzec	0.7780274101666904
+protestować	nakłaniać	0.8515973456881601
+sugerować	zachęcać	0.469849594526962
+odrzec	wyrazić	0.7995313809177435
+narzekać	nadmienić	1.1464633076549104
+zapewnić	pozdrawiać	1.0096198723900034
+rozkazać	dyskutować	0.9936428093813721
+upraszać	przedrzeźniać	1.122430718895652
+przekonać	błagać	0.5678452239046643
+odpowiedzieć	bełkotać	1.0959001924202771
+rozkazać	nie zgadzać się	1.0049634447574562
+pozdrawiać	odrzec	1.0108586132077868
+namawiać	przyznać	0.9029305322917214
+żądać	narzekać	1.1091169570309776
+doradzać	powiedzieć	0.8847702114908215
+szeptać	mówić	1.021000485661075
+powiadamiać	rozmawiać	0.9941770287651331
+opowiedzieć	zaprzeczać	1.1242758825992134
+pytać	powtarzać	0.9198582865186018
+przyznać	opowiedzieć	1.0614083858696237
+bełkotać	wołać	1.3873135295833443
+przyznać	zgadzać się	1.3262476181242928
+nie zgadzać się	zapewnić	1.0049584648326746
+pytać	zwracać się	1.0732249438858728
+obiecywać	krzyczeć	1.1669600232413782
+rozmawiać	wołać	1.0515914020283
+wyznać	wyrazić	1.1777678789097867
+rozmawiać	powtarzać	1.1035396141486808
+debatować	zachęcać	0.9060543261345234
+rozmawiać	wrzeszczeć	1.1251281564304958
+skłonić	pozdrawiać	0.9120433772131399
+poprosić	opisać	0.8856664985195676
+ostrzec	błagać	1.0247500398107008
+obiecywać	debatować	1.2819884469355718
+opowiedzieć	błagać	1.0250583788183543
+nie zgadzać się	przedrzeźniać	0.77717177676455
+wyrazić	przyznać	0.8869835457098622
+zachęcać	doradzać	0.7181955499628455
+powtarzać	zapewnić	1.1640290263373032
+poprosić	opowiedzieć	1.0568551043229926
+powiedzieć	zapewnić	1.3112933538341316
+poinformować	twierdzić	1.004184702578015
+mówić	zaprzeczać	0.9367600456057912
+mówić	przekonać	0.7766048376466654
+przedrzeźniać	narzekać	0.6943053354436468
+pozdrawiać	wołać	1.219579568519661
+bełkotać	błagać	0.9667692888972786
+zgadzać się	skłonić	0.96702368712159
+twierdzić	przyznać	0.9568708554497055
+błagać	wrzeszczeć	1.1544312251857451
+szeptać	modlić się	0.7666445382320933
+wrzeszczeć	opowiedzieć	1.3474895077698665
+mówić	ogłosić	0.7447479920789515
+opisać	nakłaniać	0.8999613542594956
+powiadamiać	ogłosić	0.6951455339330217
+odpowiedzieć	powtarzać	0.9421313293673413
+modlić się	odpowiedzieć	1.2422609946134806
+odrzec	powiedzieć	0.5965712224911466
+zapewnić	przypominać	0.9880249929438711
+wrzeszczeć	twierdzić	1.1108795938576024
+odpowiedzieć	krzyczeć	1.0061303607920553
+zaprzeczać	doradzać	1.1744276188821703
+nie zgadzać się	pytać	0.8445386580202605
+przysięgać	mówić	1.1472347226859163
+ostrzec	odpowiedzieć	1.166829848666708
+wołać	dyskutować	1.0790859523452347
+skłonić	modlić się	1.0271744006227843
+powiadamiać	powtarzać	1.066439166812069
+przyznać	rozkazać	1.1331038713826493
+zapewnić	powiadamiać	1.1091015128633863
+twierdzić	przerywać	1.0043142923986967
+dyskutować	odpowiedzieć	0.6104856926414448
+zwracać się	upraszać	0.8478659804757135
+instruować	wyznać	0.9292953655856041
+dyskutować	przekonać	0.869686514079135
+żądać	ostrzec	1.1077805831494223
+mówić	instruować	0.8089459813046413
+namawiać	poprosić	0.5947712368375144
+szeptać	zapewnić	0.9313548207867575
+polecać	dyskutować	0.83522423423235
+poinformować	obiecywać	1.1048427183139018
+wrzeszczeć	przysięgać	0.9638140366751506
+doradzać	przerywać	1.108393857367533
+ostrzec	powtarzać	1.452207833204757
+sugerować	ostrzec	0.6937987641420845
+rozkazać	przysięgać	1.1183311094646102
+powiedzieć	zwracać się	0.793636718214728
+zapewnić	protestować	1.0771485409708426
+skłonić	powiadamiać	0.862648261242095
+upraszać	pozdrawiać	0.9149498581605696
+debatować	wyznać	0.8457744030265191
+rozmawiać	przedrzeźniać	1.346045702029873
+rozmawiać	poprosić	0.9533329369957911
+zgadzać się	polecać	0.9360746580762985
+wydzierać się	zachęcać	1.0751819861911083
+opowiedzieć	bełkotać	1.3674038390675165
+upraszać	sugerować	0.6089086793658149
+doradzać	odpowiedzieć	1.0374725286393796
+powiedzieć	przysięgać	1.182057278870209
+odrzec	opisać	1.0892951592561995
+odrzec	powiadamiać	0.8945981785834688
+odpowiedzieć	przedrzeźniać	1.0801203142725502
+skłonić	komunikować się	0.9144737760865193
+żądać	rozkazać	0.3392704251078667
+rozmawiać	zapewnić	1.0600559495853268
+debatować	przyznać	0.7236015995632512
+powiadamiać	przedrzeźniać	0.9974227039512064
+opowiedzieć	namawiać	0.8520908186999371
+upraszać	rozkazać	0.9969792221009284
+ostrzec	opisać	0.9218861373456585
+debatować	rozkazać	1.076517363596648
+wyznać	odrzec	0.8831864517194744
+przypominać	obiecywać	0.8707927009192538
+dyskutować	krzyczeć	1.1261879190328798
+powiedzieć	twierdzić	0.4715536946422321
+doradzać	żądać	1.2220467420839043
+krzyczeć	poinformować	1.1124277314927524
+przekonać	upraszać	0.4699663034435437
+zachęcać	nakłaniać	0.20582096343146114
+narzekać	powtarzać	0.778049332169886
+poprosić	upraszać	0.38302444176770156
+namawiać	komunikować się	0.9337449571595999
+przysięgać	ostrzec	1.2935358442379985
+wołać	upraszać	1.2630163048866458
+ostrzec	przedrzeźniać	1.1521824900182005
+instruować	rozkazać	1.1020602779500426
+rozmawiać	wyznać	0.7411916595220185
+powiedzieć	nakłaniać	0.810603154365462
+modlić się	odrzec	1.060764255862222
+odpowiedzieć	namawiać	0.867667562351994
+ostrzec	doradzać	0.9566549294474163
+opisać	żądać	1.1323670982584124
+wyznać	wrzeszczeć	1.0379805406844689
+powtarzać	wrzeszczeć	1.0305523548953721
+polecać	upraszać	1.000843741226982
+przysięgać	opisać	1.1591697049749403
+ostrzec	upraszać	0.8895176202326905
+przedrzeźniać	przyznać	1.193640818093547
+wołać	mówić	1.105027000231942
+powtarzać	debatować	1.1191566380461362
+przypominać	komunikować się	0.8314788346723251
+nie zgadzać się	zachęcać	0.9120914198315554
+przerywać	upraszać	1.1136547516156756
+powtarzać	twierdzić	1.2104560611024262
+odpowiedzieć	zwracać się	0.8304390461710291
+nakłaniać	szeptać	0.9060061183646342
+bełkotać	wyznać	1.0820937294864588
+namawiać	debatować	0.9092517642715168
+pytać	rozmawiać	0.9131722177419631
+szeptać	zgadzać się	1.3659777624279739
+poinformować	rozmawiać	1.050569721907648
+namawiać	przekonać	0.23181764941768818
+obiecywać	zwracać się	1.2864834763944544
+wyznać	sugerować	0.896244303621775
+modlić się	wydzierać się	1.336672813800128
+wydzierać się	komunikować się	0.9888012635035092
+powtarzać	skłonić	0.8957411898659934
+polecać	żądać	0.917254701109604
+doradzać	zwracać się	0.7886710179666732
+twierdzić	żądać	1.1486485357328522
+dyskutować	sugerować	0.9931396257312526
+opisać	upraszać	0.830716397132942
+powtarzać	zaprzeczać	0.9723015651434529
+zwracać się	opisać	1.0461228039681834
+nadmienić	przerywać	1.1411720302615052
+odrzec	zgadzać się	0.8596004985803288
+pozdrawiać	polecać	1.0913914351733276
+przerywać	wyrazić	0.9320684385170059
+debatować	poprosić	1.0667547606111458
+ogłosić	odrzec	0.7720378552199315
+skłonić	protestować	0.8840362660262119
+namawiać	sugerować	0.3213577458640826
+błagać	polecać	1.1262931055338432
+przedrzeźniać	wydzierać się	0.6404946865046558
+instruować	zgadzać się	1.300788974799569
+sugerować	debatować	1.0240400941882744
+powtarzać	przedrzeźniać	0.9061381418881415
+twierdzić	zachęcać	0.916894808056931
+poinformować	przysięgać	1.0599293659330533
+ogłosić	wrzeszczeć	1.026867004443807
+zapewnić	wydzierać się	1.2181478303882458
+przedrzeźniać	ogłosić	1.217814033476161
+powiedzieć	nie zgadzać się	1.1277502985918098
+wyznać	powtarzać	1.1443549658383259
+doradzać	opisać	1.1756457859561487
+doradzać	nakłaniać	0.6842772139399176
+bełkotać	polecać	0.8789141402884455
+ogłosić	wydzierać się	1.1311868645768914
+odrzec	przerywać	0.9183692895244057
+mówić	przedrzeźniać	1.2209035722660273
+narzekać	obiecywać	1.0328486292058912
+narzekać	twierdzić	1.0610688756931022
+bełkotać	wydzierać się	0.768727453966103
+krzyczeć	doradzać	1.2441736036408504
+zwracać się	zapewnić	1.070029221358748
+ogłosić	poinformować	0.6838232272090481
+sugerować	komunikować się	1.0865937992427084
+nadmienić	pozdrawiać	1.0762019966802276
+polecać	nadmienić	0.7519300559172097
+odrzec	zachęcać	0.820532707356144
+powiadamiać	wołać	0.9128282898092106
+opowiedzieć	powiedzieć	0.6867534973536408
+polecać	wrzeszczeć	0.9203510716183346
+zaprzeczać	polecać	1.0891019353764593
+bełkotać	sugerować	0.9350400481409734
+twierdzić	protestować	1.1413686026293859
+protestować	instruować	1.1594841547291501
+ogłosić	komunikować się	0.7983414243940458
+wołać	powiedzieć	1.0193643036387057
+zachęcać	powtarzać	0.8998269758968338
+zaprzeczać	debatować	0.9686663505164355
+odrzec	rozkazać	1.2120054297826164
+nadmienić	pytać	0.9299455289425345
+nadmienić	wołać	1.2526577969539066
+zachęcać	krzyczeć	1.014076113266253
+pytać	zgadzać się	1.0441380807989538
+bełkotać	narzekać	0.887202127784453
+nakłaniać	zgadzać się	0.9678792672461545
+powiedzieć	upraszać	1.0017973269571199
+wrzeszczeć	przekonać	0.9638650759421372
+przerywać	przysięgać	1.1361290162456092
+dyskutować	zachęcać	0.8817658338675485
+ogłosić	bełkotać	1.1294837335761647
+wrzeszczeć	poprosić	1.2101723710337189
+przekonać	zgadzać się	1.0359533431375976
+ogłosić	pytać	0.9967022227738276
+mówić	sugerować	0.9549159565301167
+protestować	odrzec	0.9319412202047622
+przedrzeźniać	powiedzieć	1.0472794181894156
+rozmawiać	upraszać	0.8834291713827789
+bełkotać	debatować	1.2495606217642647
+odrzec	twierdzić	0.6694289117452513
+powtarzać	mówić	1.1445394139609208
+ostrzec	przypominać	0.9686829013741773
+namawiać	modlić się	0.8739675230224532
+polecać	przypominać	0.9773355302478862
+nie zgadzać się	skłonić	0.7917775207931246
+zwracać się	modlić się	1.191732018165193
+ogłosić	debatować	0.7423626116477149
+instruować	powiadamiać	1.000192828779573
+modlić się	debatować	1.1058058731454026
+nie zgadzać się	sugerować	0.931834410109944
+instruować	pytać	1.0204360941102486
+przysięgać	przyznać	0.9352057646067344
+rozkazać	rozmawiać	1.0040590413736945
+rozkazać	protestować	0.9237570930762393
+wydzierać się	przekonać	0.9448101975092995
+szeptać	odrzec	1.1236183654612069
+modlić się	protestować	1.0680763732098075
+przekonać	przerywać	0.8802537070879988
+bełkotać	powtarzać	1.206207651224603
+modlić się	doradzać	1.0567998244772252
+zaprzeczać	wrzeszczeć	0.7662349480578121
+protestować	wydzierać się	0.7834462865915871
+pytać	przerywać	0.9648277620955238
+przerywać	przedrzeźniać	0.6149210413911607
+poinformować	modlić się	1.24734507372632
+przekonać	poprosić	0.6957496713593576
+szeptać	upraszać	0.8486946733700353
+dyskutować	protestować	1.0417207526633918
+wydzierać się	nakłaniać	1.0516734264864636
+odrzec	poprosić	0.9419543011517577
+polecać	zapewnić	1.3330423576913208
+przerywać	nakłaniać	0.888185804475146
+skłonić	rozmawiać	0.7770242261487349
+żądać	namawiać	1.0804280288413102
+wydzierać się	opowiedzieć	1.3053464878620515
+polecać	pytać	0.9504767971735256
+wyznać	przerywać	1.2586520383618172
+instruować	krzyczeć	1.2874567465353424
+rozkazać	pozdrawiać	1.1693316169793004
+pozdrawiać	doradzać	1.299842606155163
+wołać	opisać	1.2507969515174417
+debatować	opisać	0.8677762540001548
+powiadamiać	błagać	0.9509878799197238
+debatować	wydzierać się	1.1101196071777686
+odrzec	przypominać	0.9755258558480114
+opisać	krzyczeć	1.2096182735874983
+narzekać	zachęcać	0.8869400584254902
+upraszać	narzekać	1.0384950445293475
+przypominać	powiadamiać	1.015097413291657
+komunikować się	odrzec	0.750577249578117
+dyskutować	przedrzeźniać	1.2409645537384155
+nakłaniać	dyskutować	0.855835711410729
+debatować	przekonać	0.8469635982788654
+rozmawiać	dyskutować	0.32085934470408195
+odrzec	mówić	0.6424789484838009
+rozkazać	wyrazić	1.0647412822365525
+pytać	żądać	0.9184362875202954
+przypominać	przerywać	1.011492523746331
+dyskutować	doradzać	0.9412329747529146
+debatować	ostrzec	1.031855585881288
+przyznać	błagać	1.1364970766854123
+instruować	przerywać	1.0637484122775909
+wyznać	odpowiedzieć	0.9608982579216669
+wyznać	przyznać	0.9275052470266184
+twierdzić	modlić się	1.1302506846180655
+opowiedzieć	żądać	1.1384366567975586
+odrzec	nakłaniać	0.8784407056509675
+powiedzieć	wyrazić	0.7308774128287432
+poinformować	rozkazać	1.0075398768831807
+wyznać	skłonić	0.8295497632592018
+pozdrawiać	błagać	0.9030788575879231
+błagać	przypominać	1.006128014245921
+błagać	żądać	1.2394084216793508
+żądać	zapewnić	1.281223560062549
+rozmawiać	polecać	0.7970881926622517
+poinformować	żądać	1.0212312711552542
+szeptać	powtarzać	1.219042178726755
+poprosić	żądać	1.2298663451811849
+wyrazić	poinformować	1.153648118189924
+ostrzec	zapewnić	1.2147962448973146
+instruować	debatować	0.9915732887403707
+pozdrawiać	przekonać	0.9336423921544507
+rozmawiać	odpowiedzieć	0.6489553263899882
+polecać	przysięgać	1.200380025878427
+przekonać	bełkotać	0.8013009946772118
+namawiać	zwracać się	0.7340001847797785
+upraszać	żądać	1.0788235867871008
+mówić	wyrazić	0.7450704626178548
+dyskutować	żądać	1.0841451766458448
+przypominać	odpowiedzieć	1.0421729303007672
+rozkazać	powiadamiać	0.9637208658769342
+zapewnić	sugerować	1.1181968208518054
+ostrzec	powiedzieć	1.025745087461963
+wrzeszczeć	sugerować	1.0915266208215728
+nadmienić	twierdzić	0.6672398876608986
+przerywać	sugerować	0.9182241793175897
+wrzeszczeć	wydzierać się	0.1274184852716092
+polecać	wołać	1.1847132829921272
+rozkazać	nadmienić	1.037300004884385
+zgadzać się	bełkotać	1.271200644652835
+instruować	skłonić	0.6769538164181833
+krzyczeć	nie zgadzać się	0.9121034039003943
+namawiać	rozkazać	1.056000104831345
+poinformować	protestować	0.9742621167661214
+rozkazać	wydzierać się	0.8305264550293213
+powiadamiać	powiedzieć	0.8327382849345899
+powiadamiać	komunikować się	0.807189381753651
+żądać	wyznać	1.2391107028777169
+nakłaniać	mówić	0.8054123389235281
+zachęcać	powiedzieć	0.8248215132681262
+pozdrawiać	poinformować	1.177401942109224
+wyrazić	pozdrawiać	1.139628992302953
+rozkazać	krzyczeć	0.8630656962832235
+wołać	krzyczeć	0.897812835829152
+modlić się	pytać	1.286262772725954
+przekonać	opisać	0.8396430852324459
+mówić	dyskutować	0.5844584823557221
+przerywać	zachęcać	0.8677534781202954
+nakłaniać	ostrzec	0.7818826689650266
+ogłosić	polecać	0.9739822476985006
+obiecywać	przyznać	1.167160112152546
+bełkotać	przyznać	1.0445476905016358
+skłonić	doradzać	0.702793076237843
+ostrzec	narzekać	1.016614610154223
+rozmawiać	przerywać	1.1732504323574786
+twierdzić	bełkotać	1.1035302960185818
+dyskutować	poinformować	1.0945127303120974
+opowiedzieć	wyrazić	0.8845220288621146
+zachęcać	poprosić	0.6267766077113857
+protestować	przekonać	0.9071177489993523
+poprosić	ostrzec	1.0148177304005492
+debatować	błagać	1.0273996055915193
+narzekać	komunikować się	1.1633753211943407
+opowiedzieć	zachęcać	0.7797959861435015
+ostrzec	mówić	1.0016835022734607
+ogłosić	rozkazać	0.9852372715343294
+żądać	debatować	1.1752867636914102
+opowiedzieć	nakłaniać	0.8917837644937118
+wydzierać się	ostrzec	1.3110078743672497
+zgadzać się	rozmawiać	0.9737968914968345
+doradzać	twierdzić	1.0281407146574553
+debatować	nadmienić	0.8827502490344332
+wrzeszczeć	dyskutować	1.1148274910248563
+pytać	doradzać	1.0631988144809201
+upraszać	błagać	0.4911174449109388
+doradzać	obiecywać	1.0126885621638002
+wyznać	wydzierać się	1.0407810561732502
+pytać	obiecywać	1.0046191268156943
+pozdrawiać	szeptać	1.1427729000245905
+przypominać	poprosić	1.0155553776669046
+nadmienić	wrzeszczeć	1.0356609138556585
+nakłaniać	sugerować	0.30278024030658784
+krzyczeć	przedrzeźniać	0.5863620501000997
+przyznać	ogłosić	0.9707015826211586
+pytać	wrzeszczeć	1.008268019791411
+debatować	nakłaniać	0.9008813005781663
+poinformować	błagać	0.994552630107444
+odpowiedzieć	wydzierać się	0.9948127729206958
+krzyczeć	wyznać	0.9634446350298699
+zgadzać się	krzyczeć	1.079025726664389
+mówić	protestować	0.9876981452498503
+zapewnić	komunikować się	1.0513615857056329
+poinformować	zaprzeczać	0.9020891927475819
+protestować	polecać	1.0464223915188384
+wrzeszczeć	przypominać	0.9885528646317294
+przedrzeźniać	twierdzić	1.2188808385975187
+przypominać	nadmienić	1.004104480372055
+szeptać	przypominać	0.9665697814026196
+zachęcać	rozkazać	1.0373711707486524
+nadmienić	komunikować się	0.8768894089103576
+zwracać się	przyznać	0.9728056081837959
+wołać	powtarzać	1.2055487461228964
+nakłaniać	odpowiedzieć	0.8778651462513978
+polecać	komunikować się	0.9565947389929578
+przerywać	narzekać	0.8257898881240158
+twierdzić	namawiać	0.8230741157854431
+narzekać	zwracać się	1.3475910759006293
+zapewnić	debatować	1.1473119761131365
+zachęcać	wrzeszczeć	1.0753709790573533
+rozkazać	przedrzeźniać	0.863109624629355
+bełkotać	modlić się	1.0529266146281695
+poinformować	wydzierać się	1.0630885888004429
+powiadamiać	żądać	1.0098664801190431
+odpowiedzieć	instruować	0.9281374624068347
+krzyczeć	zwracać się	1.1665599053391777
+pytać	wydzierać się	0.9835757718921976
+polecać	powtarzać	1.137742253701451
+zapewnić	wrzeszczeć	1.256375410643446
+obiecywać	rozmawiać	1.2358596224580876
+opowiedzieć	pozdrawiać	1.280482301242993
+szeptać	poinformować	1.0603272709940603
+narzekać	powiedzieć	1.0117933874085376
+zachęcać	namawiać	0.17585186868086788
+rozkazać	opisać	1.0972261612810392
+żądać	przyznać	1.1950921502014287
+dyskutować	debatować	0.2313855659301278
+wyrazić	instruować	1.0056470152341812
+odrzec	instruować	0.9631323516073053
+sugerować	wołać	1.1122348260360648
+sugerować	zwracać się	0.8194844530409013
+powiedzieć	przypominać	1.0369767567268375
+nie zgadzać się	pozdrawiać	0.9202190137342592
+zgadzać się	wydzierać się	1.0520542987385237
+szeptać	przedrzeźniać	1.2202534020610354
+wyrazić	upraszać	0.9185204578044663
+wyznać	pozdrawiać	1.205678285920163
+zwracać się	wyrazić	0.9664820435290987
+wrzeszczeć	mówić	1.082981064715371
+bełkotać	powiadamiać	1.226755136953787
+szeptać	wołać	1.582779675770293
+dyskutować	opowiedzieć	0.7240784214050492
+przypominać	wyrazić	1.09568626584522
+odrzec	namawiać	0.8855720199761441
+rozmawiać	narzekać	1.2078947716000656
+komunikować się	nie zgadzać się	1.0496796911389747
+modlić się	przekonać	0.8173673183867827
+dyskutować	błagać	1.0329294363060484
+przysięgać	błagać	1.1249844169671874
+nakłaniać	powiadamiać	0.9186589546474202
+polecać	sugerować	0.896637674373446
+nie zgadzać się	dyskutować	0.9934797631208702
+przypominać	przyznać	1.0263167701598013
+powiadamiać	zgadzać się	1.0643570129848798
+doradzać	nadmienić	1.078126972958927
+pozdrawiać	zachęcać	0.9018075422230568
+twierdzić	wyznać	0.7296928903684242
+krzyczeć	debatować	1.061960816418248
+powiadamiać	nie zgadzać się	0.8195922972255093
+powtarzać	dyskutować	1.0784235282528956
+opowiedzieć	mówić	0.6619390681899865
+powtarzać	nakłaniać	0.9195324945400618
+zapewnić	rozkazać	1.1962773102524122
+zwracać się	błagać	0.8563893304491061
+przedrzeźniać	wrzeszczeć	0.6099530884441637
+obiecywać	nadmienić	1.400623664190597
+odpowiedzieć	powiedzieć	0.5211050678326496
+szeptać	wyrazić	1.065924640594212
+opowiedzieć	narzekać	1.3806287619612854
+doradzać	nie zgadzać się	1.0903003462204528
+modlić się	błagać	0.7049910926847213
+krzyczeć	upraszać	1.0852631530993833
+opowiedzieć	poinformować	0.9929045986781708
+protestować	przysięgać	0.9496778530508497
+przerywać	odpowiedzieć	0.9822482136701228
+przypominać	protestować	0.8075790499616786
+zwracać się	przerywać	1.1581232906286518
+instruować	wołać	1.0457578105912733
+wrzeszczeć	pozdrawiać	1.11496170012708
+powtarzać	błagać	1.17588311066258
+pozdrawiać	ogłosić	1.05535133259747
+wydzierać się	zaprzeczać	0.7237678647297044
+zwracać się	wrzeszczeć	1.0729141323715492
+błagać	opisać	0.8571311351405523
+mówić	polecać	0.825535094083706
+opisać	przypominać	1.221448564049374
+wyrazić	sugerować	0.8871307224073176
+komunikować się	żądać	1.0852093857655263
+krzyczeć	rozmawiać	1.0914730255517424
+poinformować	odpowiedzieć	1.0545174365067458
+powiedzieć	zaprzeczać	1.0118341777236899
+mówić	narzekać	1.1145229976235325
+modlić się	wrzeszczeć	1.354946447567577
+obiecywać	modlić się	0.8875780193768954
+skłonić	opowiedzieć	0.9294444146945088
+wołać	przypominać	1.3416415803769273
+żądać	wołać	0.997570905118397
+przypominać	namawiać	0.7291694780162367
+namawiać	szeptać	0.9176860348984761
+błagać	wyznać	1.1138517158419678
+wyrazić	debatować	0.735345155283713
+błagać	odpowiedzieć	1.0594224130487924
+narzekać	powiadamiać	1.0112349110121848
+opisać	przerywać	1.10171311001377
+odpowiedzieć	powiadamiać	1.02988237917888
+bełkotać	opisać	1.1552920496762893
+mówić	pozdrawiać	1.0584706265046957
+narzekać	namawiać	0.8437944599322504
+zapewnić	wyrazić	1.2364374992496283
+przysięgać	bełkotać	0.9774412466405539
+przysięgać	pytać	1.1386318549684393
+powiedzieć	pytać	0.9712914806942406
+skłonić	przekonać	0.3133904873741795
+przysięgać	wyznać	0.995621230011443
+zwracać się	skłonić	0.7841658478947748
+bełkotać	zwracać się	1.1852799805968897
+narzekać	protestować	0.8928973706795472
+zgadzać się	sugerować	1.117452626340594
+namawiać	skłonić	0.3480832930092943
+przedrzeźniać	opowiedzieć	1.5067248472581007
+powiadamiać	przysięgać	1.103579039418279
+nadmienić	odpowiedzieć	0.7223404961995783
+wrzeszczeć	skłonić	1.0667087333712066
+powiedzieć	pozdrawiać	1.117250440139144
+krzyczeć	odrzec	0.9968633481517176
+zgadzać się	nie zgadzać się	1.1586221807267183
+powtarzać	opowiedzieć	1.4084482500695668
+twierdzić	opisać	0.9807167227857714
+przerywać	obiecywać	1.204843692437629
+przyznać	instruować	1.073371391164753
+przerywać	dyskutować	1.1937504349205248
+przyznać	krzyczeć	1.0191696380775646
+zapewnić	skłonić	1.024899004606108
+mówić	poprosić	0.9866185033939461
+wydzierać się	sugerować	1.0977868707018064
+przedrzeźniać	przekonać	0.7990510229659715
+polecać	obiecywać	1.312245781591414
+dyskutować	komunikować się	0.6426900887885512
+opowiedzieć	instruować	0.8058867788630546
+polecać	opowiedzieć	1.2444816944622112
+krzyczeć	wrzeszczeć	0.11200309304641397
+przypominać	nie zgadzać się	0.7909751546450501
+bełkotać	zapewnić	1.0826238101789534
+powtarzać	przekonać	0.9511206389915198
+mówić	wydzierać się	1.0722784047731304
+zwracać się	nie zgadzać się	1.0259667857163515
+wyznać	wołać	0.9603776622994641
+bełkotać	nakłaniać	0.9007543518576343
+opowiedzieć	ogłosić	0.6513642416288041
+poprosić	obiecywać	0.9725239171865748
+odpowiedzieć	przekonać	0.8172439490608802
+opisać	zaprzeczać	1.0932545636885864
+zgadzać się	modlić się	1.454523735376094
+zgadzać się	zaprzeczać	1.1889078620860338
+przekonać	powiedzieć	0.745942347857188
+nadmienić	upraszać	1.0520303790826708
+żądać	sugerować	1.1134659882331137
+komunikować się	poprosić	0.9835958572495151
+błagać	nakłaniać	0.6003519404299872
+powiedzieć	przerywać	0.9719030460425657
+zwracać się	twierdzić	0.8536936013621107
+poinformować	zgadzać się	1.2932266442070772
+namawiać	powiadamiać	0.8870899046513567
+instruować	opisać	1.055672433411563
+przypominać	modlić się	1.0773308916559168
+narzekać	błagać	1.053544556646454
+protestować	bełkotać	0.9699764957242001
+powiadamiać	modlić się	1.183241139762374
+zapewnić	pytać	1.0694260606444057
+pozdrawiać	przyznać	1.0090386104000868
+wołać	namawiać	1.2160743419117874
+ogłosić	poprosić	0.8574530256098645
+przypominać	doradzać	0.7833607181071082
+odrzec	rozmawiać	0.7674859957974959
+powiadamiać	debatować	0.944505389701002
+przekonać	ogłosić	0.8877505038388607
+ostrzec	przekonać	0.8610207963751271
+wyrazić	modlić się	1.2158045451321895
+błagać	nadmienić	1.140782617160413
+nie zgadzać się	wrzeszczeć	0.9066671790667102
+odrzec	przyznać	0.9977009644857139
+namawiać	polecać	0.9118252343582681
+ogłosić	narzekać	1.096445745610833
+opowiedzieć	nadmienić	0.9491864163735017
+sugerować	krzyczeć	0.9875087785635214
+zwracać się	nadmienić	1.0548861011964359
+protestować	zaprzeczać	0.6064937439342467
+nadmienić	nakłaniać	0.9254467270811135
+nadmienić	modlić się	1.2664130010593473
+zaprzeczać	komunikować się	0.9947328080072696
+przysięgać	poprosić	1.1802129145658031
+zaprzeczać	poprosić	1.0599315687704187
+odpowiedzieć	zachęcać	0.8161624938564668
+twierdzić	nakłaniać	0.8956619308333078
+protestować	komunikować się	0.8776157521298114
+powiedzieć	komunikować się	0.6986735538975681
+wyznać	doradzać	0.9463245212423289
+krzyczeć	wyrazić	0.9095779048372328
+obiecywać	powiedzieć	1.3778464838613778
+komunikować się	opowiedzieć	0.7506636051060354
+protestować	opisać	0.9258949603451475
+przypominać	twierdzić	1.0413078498691317
+przysięgać	instruować	1.1177709523865649
+instruować	zapewnić	1.0008606749929432
+skłonić	przedrzeźniać	0.7985962895291692
+obiecywać	powtarzać	0.9679436584656717
+przekonać	szeptać	0.8106053494674976
+nadmienić	przyznać	1.054790769846735
+protestować	wyrazić	0.9695172842938781
+rozmawiać	szeptać	0.9308719178162292
+zaprzeczać	pytać	0.7974189836962754
+mówić	błagać	0.92430492505515
+wrzeszczeć	szeptać	1.2697592126349004
+odrzec	przedrzeźniać	0.9886659002993562
+twierdzić	zgadzać się	0.8596209001808851
+przypominać	przysięgać	0.9430193005129456
+mówić	zgadzać się	1.0433785975105574
+poprosić	sugerować	0.7569555588920439
+instruować	komunikować się	0.8127701813606004
+błagać	wyrazić	0.9534770754077028
+doradzać	mówić	0.8392363567146444
+powtarzać	nadmienić	1.0699855674641499
+instruować	upraszać	0.8478888898016952
+pytać	szeptać	1.103948927521019
+pytać	zachęcać	0.7426100463949175
+opowiedzieć	wyznać	1.164468843158083
+nakłaniać	skłonić	0.19786076660262086
+powiedzieć	wyznać	0.835358938647079
+obiecywać	nakłaniać	0.8505188541196288
+upraszać	bełkotać	0.9696441555019538
+wyznać	namawiać	0.8321773759374006
+upraszać	pytać	0.8754107696898571
+krzyczeć	zaprzeczać	0.8876074639820285
+zachęcać	powiadamiać	0.8300226116378728
+przedrzeźniać	poprosić	1.0850126170847971
+debatować	przerywać	1.2293631106933973
+przerywać	protestować	0.9448850195228414
+wołać	nie zgadzać się	1.3677090348131504
+błagać	pytać	1.013948007756396
+ogłosić	namawiać	0.9589576687158444
+przerywać	poinformować	0.9941343401579665
+przyznać	powiedzieć	0.9625101754289048
+wrzeszczeć	narzekać	0.6951648101911527
+wydzierać się	instruować	1.223991591464233
+przekonać	odrzec	0.7547680180954677
+bełkotać	doradzać	1.1483139957106292
+nie zgadzać się	odrzec	0.9911788275077685
+powiadamiać	obiecywać	1.173165321662772
+zwracać się	pozdrawiać	1.2219125125735615
+zwracać się	ogłosić	0.9260807620726355
+odrzec	zwracać się	0.7928769750606474
+twierdzić	pozdrawiać	1.1163995429005584
+opisać	komunikować się	1.0666154268547727
+powtarzać	nie zgadzać się	0.8890563044218549
+polecać	nakłaniać	0.8141727769377561
+odpowiedzieć	wołać	1.0760098249013788
+powiadamiać	protestować	0.9474078328971626
+żądać	wyrazić	1.11300596023224
+wydzierać się	odrzec	0.9941652634195197
+błagać	protestować	0.9271328927576984
+szeptać	opowiedzieć	0.9260591529296383
+poinformować	narzekać	1.1222174396431885
+skłonić	ostrzec	0.7690342383267255
+protestować	powiedzieć	1.0571969083703083
+wołać	zachęcać	1.12918745811241
+skłonić	przyznać	0.8568016661931409
+pozdrawiać	powtarzać	0.826086122757398
+zaprzeczać	przekonać	0.8756560050224031
+zachęcać	upraszać	0.5985322295538126
+opowiedzieć	przekonać	0.7995934413675577
+sugerować	zaprzeczać	1.043263094301264
+instruować	zaprzeczać	1.0636004298557142
+przerywać	polecać	1.053631147486841
+wyrazić	ostrzec	1.059099360371694
+skłonić	dyskutować	0.8068612743986243
+narzekać	odpowiedzieć	0.9244644853654198
+komunikować się	upraszać	0.9200731883976935
+modlić się	zaprzeczać	1.083416238054885
+odrzec	skłonić	0.8197115659742991
+odrzec	błagać	1.0502378621305961
+poprosić	nie zgadzać się	1.156846508132673
+namawiać	protestować	0.868866547602819
+obiecywać	namawiać	0.9049100098957454
+zgadzać się	powtarzać	1.0183508320634518
+zgadzać się	opisać	1.176272300138116
+zgadzać się	wrzeszczeć	1.112146858948559
+pytać	wołać	1.01735701565428
+opisać	wyznać	1.1934985787808248
+wrzeszczeć	obiecywać	1.1382958284939282
+błagać	przerywać	0.9287891456430976
+obiecywać	rozkazać	1.161586314055546
+mówić	debatować	0.7063642690970099
+przedrzeźniać	przypominać	0.8711529407979598
+zgadzać się	poprosić	1.212109386691409
+zaprzeczać	odrzec	0.9033050653907955
+powiadamiać	wyrazić	1.0067261831375034
+komunikować się	przyznać	0.7950036022859284
+błagać	zgadzać się	1.2600301844250192
+ostrzec	szeptać	0.9443571482661496
+wyznać	szeptać	1.0779336122869967
+dyskutować	przypominać	1.0462091952599717
+obiecywać	instruować	1.0707663070761075
+przypominać	nakłaniać	0.7441746537763481
+nakłaniać	wyznać	0.8333101603348351
+nakłaniać	wyrazić	0.8320143149684308
+zwracać się	nakłaniać	0.7447985489580167
+wyznać	zapewnić	1.0510936137976328
+przyznać	zachęcać	0.9785320683834051
+krzyczeć	poprosić	1.2208332228758612
+poinformować	wyznać	0.9801118555513889
+rozmawiać	zachęcać	0.8784259972170563
+protestować	odpowiedzieć	0.9745995304247612
+sugerować	odpowiedzieć	1.011482609499967
+debatować	wołać	1.08403799304378
+bełkotać	przerywać	0.7920075749772002
+zaprzeczać	upraszać	0.9517074976087941
+zwracać się	przedrzeźniać	1.218782134942225
+nie zgadzać się	upraszać	1.0148987425934524
+wrzeszczeć	przyznać	1.1116856571193217
+przypominać	przekonać	0.7877961938899782
+błagać	skłonić	0.5671092255641347
+mówić	powiadamiać	0.7954474498797066
+rozkazać	polecać	0.8802173401793442
+ogłosić	powiedzieć	0.7837942877287737
+namawiać	dyskutować	0.8996940670501753
+wydzierać się	wyrazić	0.8886952654411258
+żądać	ogłosić	1.0482362402225722
+instruować	nie zgadzać się	1.0351759936641014
+powtarzać	przerywać	0.9971090077115233
+powtarzać	doradzać	1.119162873020223
+sugerować	przypominać	0.8216469328144345
+sugerować	szeptać	0.9378406632075055
+poprosić	nakłaniać	0.5514622652129642
+żądać	zachęcać	1.0372915056373222
+powiadamiać	nadmienić	1.0476102519812962
+zgadzać się	namawiać	1.0262478951878342
+przekonać	wyznać	0.8104206110477029
+powiadamiać	wydzierać się	1.0172902490965758
+zachęcać	opisać	0.9305833273378328
+nadmienić	skłonić	0.9433831894395504
+ostrzec	twierdzić	1.0202306272080093
+zgadzać się	wyrazić	0.9091304176756003
+zapewnić	narzekać	1.246669753419807
+rozkazać	zaprzeczać	0.9852960447815272
+krzyczeć	powiedzieć	1.0793057590962634
+opisać	opowiedzieć	0.5897751441367401
+skłonić	ogłosić	0.9527847908024758
+przedrzeźniać	zachęcać	0.7912811529751215
+namawiać	wyrazić	0.8449750979388541
+rozkazać	mówić	0.9523644096925442
+poprosić	błagać	0.49211973971341877
+odrzec	pytać	1.0393097307645038
+ogłosić	protestować	0.9624322637485516
+narzekać	krzyczeć	0.6387037202813002
+wyznać	przedrzeźniać	1.2282343783379985
+polecać	szeptać	1.0168317217771154
+wyznać	zgadzać się	1.3839165050406739
+przedrzeźniać	nakłaniać	0.8241317267965202
+przyznać	dyskutować	0.8114051636572084
+ostrzec	bełkotać	1.2356594069602227
+namawiać	upraszać	0.5369904656696355
+wydzierać się	obiecywać	1.1928530019763905
+komunikować się	przedrzeźniać	1.154507528571
+krzyczeć	powiadamiać	1.0757330092130821
+skłonić	zachęcać	0.3481590369138802
+zachęcać	zapewnić	1.0975580443593973
+ogłosić	powtarzać	1.139741592395772
+obiecywać	opisać	1.0012809516482637
+namawiać	nakłaniać	0.1970221712831586
+przysięgać	zachęcać	0.9305335454356239
+sugerować	modlić się	0.9922640370486974
+zaprzeczać	narzekać	0.7723843429707452
+sugerować	narzekać	0.9229362362493886
+wydzierać się	pozdrawiać	1.0778114150451035
+twierdzić	poprosić	1.0301834376765993
+dyskutować	szeptać	0.9760007451050603
+opisać	szeptać	0.9048094271109324
+polecać	przekonać	0.8902307913575674
+ogłosić	wyznać	0.7684757371986991
+pozdrawiać	przysięgać	1.1175483001078204
+powiadamiać	dyskutować	1.0585942668502106
+szeptać	debatować	1.0252711272806896
+rozmawiać	zwracać się	0.8018297723372809
+wołać	przekonać	1.1880590443986392
+nadmienić	zapewnić	1.3190580027916172
+doradzać	szeptać	0.9727571324756227
+nie zgadzać się	ostrzec	1.0788712134719927
+instruować	wrzeszczeć	1.2430765591106003
+rozmawiać	ostrzec	1.029738645695635
+ogłosić	nakłaniać	0.9502764614623233
+poinformować	polecać	1.3283206476102782
+zgadzać się	upraszać	1.1906459054935266
+nakłaniać	rozkazać	0.9770325733681258
+wydzierać się	narzekać	0.6941090817007736
+błagać	zaprzeczać	1.0517212216482645
+przypominać	wyznać	1.1218380035612405
+przysięgać	obiecywać	0.7778342543636791
+wydzierać się	opisać	1.2032677760984054
+upraszać	wyznać	0.9811684662598398
+zwracać się	opowiedzieć	0.8326165287372416
+ogłosić	doradzać	0.8551268359686292
+komunikować się	wołać	0.9971899151153287
+krzyczeć	pozdrawiać	1.1485956176412804
+wyrazić	przekonać	0.8129450174318279
+modlić się	przerywać	1.0749152921696283
+opowiedzieć	przypominać	1.0252189422079734
+rozkazać	błagać	1.1715867269839253
+wołać	błagać	1.4129550709688539
+twierdzić	polecać	0.7058464943219134
+doradzać	przekonać	0.6508172497999604
+zapewnić	krzyczeć	1.2554491471111042
+zgadzać się	komunikować się	0.7310645400601447
+instruować	modlić się	1.1206754158908794
+przedrzeźniać	protestować	0.8189914466729152
+żądać	przysięgać	1.1813968686562193
+twierdzić	wołać	1.1489979988333734
+powiadamiać	poinformować	0.5738734093237072
+przekonać	przyznać	0.8896674664951384
+krzyczeć	protestować	0.7965734544771771
+polecać	zwracać się	1.1557207156854277
+doradzać	opowiedzieć	0.8143980667677212
+komunikować się	wyrazić	0.7468980432839968
+narzekać	odrzec	1.0397401482974657
+opisać	powiadamiać	1.099326445998621
+mówić	żądać	0.9320196649566785
+polecać	powiedzieć	0.7417330579555458
+nie zgadzać się	debatować	1.0708059712625573
+odpowiedzieć	opisać	1.0310493744259084
+poinformować	powtarzać	1.2208316071585386
+nadmienić	zgadzać się	1.0830217431147757
+nadmienić	rozmawiać	0.847186976586465
+wrzeszczeć	nakłaniać	1.045392919898024
+przysięgać	narzekać	1.279617547385021
+zgadzać się	dyskutować	0.9055702568598674
+skłonić	szeptać	0.9077889917729316
+ostrzec	wrzeszczeć	1.2784811763421884
+pytać	powiadamiać	0.8233418124252029
+nakłaniać	wołać	1.1944069695758992
+upraszać	skłonić	0.5790030931834401
+instruować	polecać	0.9287080581733065
+obiecywać	upraszać	0.9406808499286137
+powiadamiać	zwracać się	0.8118852072822489
+ogłosić	dyskutować	0.7495793396748747
+bełkotać	przedrzeźniać	0.8725508504516357
+zachęcać	modlić się	0.9154829164565178
+pytać	krzyczeć	1.022582610334993
+protestować	obiecywać	1.0427723245989675
+ostrzec	zwracać się	1.0142506095329122
+powiadamiać	ostrzec	0.943041300258151
+powiedzieć	modlić się	1.1262120070800044
+debatować	przedrzeźniać	1.285444652043649
+sugerować	powiadamiać	1.0154371255676762
+przekonać	komunikować się	0.8566627380545766
+dyskutować	nadmienić	0.7915478070880062
+żądać	wrzeszczeć	0.8492902170905647
+wołać	poprosić	1.3924493581795132
+zapewnić	poprosić	1.1720157336490238
+nakłaniać	rozmawiać	0.826813944210471
+żądać	bełkotać	1.109177086243843
+namawiać	nie zgadzać się	0.9131179718445901
+skłonić	poinformować	1.0134639728057004
+wydzierać się	przyznać	1.0984238459915712
+upraszać	ogłosić	0.9609293178154537
+powiedzieć	poprosić	0.9486095905223857
+pytać	debatować	0.9368110894051477
+komunikować się	błagać	0.9628577092740044
+komunikować się	krzyczeć	0.9387848787452145
+zgadzać się	wołać	1.1241626582828816
+rozmawiać	bełkotać	1.1908395155578033
+zapewnić	odrzec	1.3035417125863378
+instruować	przekonać	0.6947207349873129
+poinformować	przypominać	0.8577981311961856
+odpowiedzieć	polecać	0.8973248119401995
+przyznać	polecać	0.890551451918542
+obiecywać	dyskutować	1.3291570648811246
+upraszać	wrzeszczeć	1.0573932489784392
+rozkazać	pytać	0.8363557330253614
+bełkotać	pozdrawiać	1.1319345163811145
+zaprzeczać	wyznać	1.056890827025982
+sugerować	obiecywać	0.9813549286254655
+poprosić	skłonić	0.5525709477413526
+powtarzać	zwracać się	1.2313413313096762
+krzyczeć	wydzierać się	0.1409296464095803
+namawiać	przysięgać	0.9767910457949711
+powiadamiać	zaprzeczać	0.7815313164505181
+mówić	obiecywać	1.3380559452566425
+doradzać	zapewnić	0.9427220119125278
+opowiedzieć	protestować	1.1080255995819053
+sugerować	poinformować	1.0575833933094871
+twierdzić	powiadamiać	0.9236184624672813
+instruować	błagać	0.9895623206887224
+rozmawiać	komunikować się	0.6278424540775717
+debatować	komunikować się	0.7120899419292721
+wyrazić	przysięgać	1.2715981386815338
+przedrzeźniać	zgadzać się	1.0433402077726437
+pytać	protestować	0.7797462156363835
+powtarzać	rozkazać	1.1057150650956984
+protestować	szeptać	1.0700264646128697
+żądać	instruować	1.102385569429714
+odpowiedzieć	nie zgadzać się	1.1208219898560141
+wrzeszczeć	wołać	0.9310381210418882
+narzekać	modlić się	1.2831432029653496
+nadmienić	instruować	1.043004046488595
+zaprzeczać	bełkotać	1.0077371630472265
+wołać	rozkazać	1.0506701397685776
+poprosić	przerywać	1.07575008597529
+zapewnić	ogłosić	0.9294913036023251
+szeptać	krzyczeć	1.2263598704769583
+nadmienić	mówić	0.6327395558532142
+nie zgadzać się	wyrazić	1.0664690286636682
+przysięgać	upraszać	1.0343140204677437
+przedrzeźniać	nadmienić	1.0067578407454625
+opowiedzieć	rozkazać	1.179317018655522
+zgadzać się	zapewnić	1.4854782002694418
+ostrzec	rozkazać	1.125839423836469
+opisać	powiedzieć	1.0331332087522878
+zwracać się	rozkazać	1.0015873960460706
+powiadamiać	wrzeszczeć	0.9860488561317803
+opowiedzieć	rozmawiać	0.6681899170882273
+zwracać się	wołać	1.1248938799398953
+wołać	przedrzeźniać	1.1581970623354734
+twierdzić	dyskutować	0.5528246365598241
+pozdrawiać	rozmawiać	1.0439636588314707
+przysięgać	zaprzeczać	1.000624879493439
+polecać	doradzać	0.975231529728465
+przyznać	pytać	1.0129813616444376
+rozkazać	przekonać	0.9674336924718194
+ostrzec	przyznać	0.9222572129794611
+opowiedzieć	odrzec	0.8245700632134086
+przekonać	rozmawiać	0.8016470644505921
+poinformować	powiedzieć	0.9104268999473382
+wyznać	obiecywać	1.1050320411287007
+nie zgadzać się	twierdzić	1.2289076572003161
+zgadzać się	protestować	1.0630666918830534
+żądać	pozdrawiać	1.1209574949845047
+debatować	odpowiedzieć	0.6208822456960196
+powiedzieć	instruować	0.8688778268328698
+nadmienić	przysięgać	1.2706457875784944
+przekonać	powiadamiać	0.7748015307011893
+poprosić	protestować	1.0761679512600064
+zgadzać się	przypominać	1.1591760258132393
+wrzeszczeć	bełkotać	0.774829594269896
+ostrzec	protestować	1.1756528196609035
+twierdzić	wyrazić	0.7840411490278593
+przysięgać	przekonać	0.8514468680273264
+mówić	poinformować	0.9082457123312205
+zaprzeczać	zachęcać	0.8714143818607375
+przyznać	odpowiedzieć	1.0188069966281628
+wyrazić	zachęcać	0.8031635817662852
+twierdzić	upraszać	0.9309462128035507
+odrzec	bełkotać	1.0927430961833529
+przyznać	przerywać	1.227516143407979
+przypominać	debatować	1.020400637778641
+poprosić	wyrazić	0.9489402540942165
+powiedzieć	błagać	0.9157330504319494
+doradzać	przedrzeźniać	1.1396575178273516
+powtarzać	przyznać	0.9855908682624638
+krzyczeć	twierdzić	1.1177696162801851
+przyznać	wołać	1.2087719914981816
+poinformować	odrzec	1.052026418623254
+narzekać	poprosić	1.031852291202636
+wyrazić	narzekać	0.8748056279987215
+odpowiedzieć	przysięgać	1.146143453413322
+wyrazić	opisać	1.1113456701253581
+dyskutować	wyrazić	0.8028552242516709
+zachęcać	polecać	0.8722533357958785
+doradzać	komunikować się	0.9964880792453726
+mówić	upraszać	1.0124859721174848
+powtarzać	powiedzieć	1.1315127421880518
+komunikować się	pozdrawiać	0.9923806335109994
+twierdzić	błagać	1.0010800802894375
+protestować	nie zgadzać się	0.499748952122399
+mówić	skłonić	0.8202552626963034
+wołać	zapewnić	1.1673737513357332
+przekonać	zachęcać	0.2707771282538887
+zaprzeczać	zapewnić	0.978271809541781
+przysięgać	powtarzać	1.139660988561096
+zwracać się	przysięgać	1.113808276215366
+przysięgać	krzyczeć	1.0341889137507179
+żądać	wydzierać się	0.8598057604249562
+ogłosić	rozmawiać	0.8357112310101389
+skłonić	polecać	0.7580568216287098
+rozmawiać	wydzierać się	1.147239769479259
+namawiać	zapewnić	1.094129987477381
+ogłosić	szeptać	1.0844961254174283
+powiedzieć	mówić	0.2578233044148534
+wydzierać się	przypominać	0.9421625676452194
+pytać	pozdrawiać	0.9075683593893127
+poprosić	nadmienić	1.0988186952080692
+zaprzeczać	obiecywać	0.969785816177934
+modlić się	wyznać	1.1517023646870181
+poinformować	namawiać	0.8793594152191317
+bełkotać	obiecywać	0.9379744045154393
+powiedzieć	żądać	0.9378685137979961
+zapewnić	modlić się	0.9210430841186306
+wrzeszczeć	opisać	1.1956918375504633
+namawiać	bełkotać	0.9744047662064348
+przedrzeźniać	polecać	0.9258418579712223
+przysięgać	nakłaniać	0.9954293742187653
+zachęcać	ostrzec	0.8218564190726181
+doradzać	wydzierać się	1.2767261250708006
+odrzec	ostrzec	1.3094904413798296
+protestować	pozdrawiać	0.9611256943481002
+wrzeszczeć	przerywać	0.8134251287451638
+przysięgać	przedrzeźniać	1.125063105949397
+mówić	krzyczeć	1.1738429579091811
+zapewnić	nakłaniać	1.081599802983952
+komunikować się	mówić	0.6736867013861714

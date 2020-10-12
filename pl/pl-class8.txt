@@ -1,0 +1,1177 @@
+Word1	Word2	Score
+przedrzeźniać	doglądać	1.1176571741618215
+naśladować	kooperować	1.1061837642352286
+stronić	zależeć	1.2653962393893088
+ustąpić	powitać	0.841291684956709
+narzucać się	doradzać	1.2056454252838322
+zaślubić	poślubić	0.07194365060121297
+troszczyć się	zależeć	0.8725024951653547
+doradzać	pomagać	0.5025352681679895
+udzielać	integrować	1.0060423440114836
+bawić się	ustąpić	1.0077201951703665
+zaślubić	zachęcać	1.056980120428893
+unikać	obchodzić się	0.7240829787450247
+bronić	uwalniać	1.0489342016020744
+naśladować	unikać	1.372599833775921
+pocieszać	wspomagać	0.36959182196437484
+zaślubić	zaprosić	1.0724383825339405
+odwiedzać	integrować	0.8752836262648084
+zachęcać	ustąpić	0.8561048077629316
+doradzać	powitać	0.9353315485805609
+naśladować	doglądać	1.0107629284610415
+przedstawić	obchodzić się	0.9635920124394579
+zależeć	poganiać	1.3935362807367533
+poślubić	współpracować	1.3600588596144738
+integrować	unikać	1.0705173833053507
+unikać	spiskować	0.8821073011398999
+pomagać	jednoczyć	0.8460751124243456
+przedstawić	narzucać się	0.9284673512790416
+przedstawić	fatygować	1.0884744170777019
+poślubić	doglądać	0.971437401919541
+pokrzepiać	doglądać	0.49016274738782095
+pomagać	odwiedzać	0.6873590765834596
+mieć wpływ	chronić	1.0464791863263458
+zabezpieczyć	integrować	1.1592264992094383
+zachęcać	spotykać	0.9410098241891399
+słuchać się	służyć	1.0187205930887056
+traktować	wspomagać	0.874872608399172
+spotykać	wybaczyć	0.933460400036263
+wspierać	przedrzeźniać	0.9785953136123413
+znosić	spotykać	0.7819964415516966
+zaskoczyć	kooperować	1.2903044503287575
+zaprosić	obchodzić się	0.9671788815258954
+narzucać się	poślubić	1.3840093624635474
+przebaczyć	udzielać	0.8161054638292436
+poganiać	powitać	1.1464888933674098
+pocieszać	zaskoczyć	1.169749151509119
+pocieszać	spotykać	0.948953643811309
+powitać	bawić się	0.8849380292369451
+wspierać	służyć	0.47235585730212926
+bawić się	zachęcać	1.153780380212089
+bronić	odwiedzać	0.8913330662964953
+poganiać	spiskować	0.8707004732566002
+obchodzić się	słuchać się	0.8226226538989371
+troszczyć się	przebaczyć	0.9042374755525904
+fatygować	doglądać	0.8452514060911769
+spiskować	użyczyć	1.0506834721742535
+polegać	pomagać	0.8740897039299887
+współpracować	przebaczyć	0.9151655583676869
+wspierać	poganiać	1.2789082743681919
+fatygować	unikać	1.362761103209257
+ratować	spotykać	1.062047586615008
+zaślubić	współpracować	1.434355364065526
+fatygować	zaskoczyć	1.240395393762629
+spiskować	mieć wpływ	1.1331707561703936
+przedrzeźniać	zaprosić	1.1545916255214592
+spiskować	wspierać	1.2601804707690585
+traktować	kooperować	1.0934719966892992
+udzielać	traktować	1.189364053734524
+troszczyć się	bawić się	1.3459951044918568
+wybaczyć	użyczyć	0.7886367264171641
+przedrzeźniać	kooperować	1.1413406889078468
+spiskować	fatygować	1.5428058703598613
+znosić	ustąpić	0.7543864948226461
+zaślubić	integrować	1.220551431627392
+obchodzić się	fatygować	1.1566484161256239
+unikać	służyć	1.0406349759209916
+zaprosić	służyć	0.8789044387673747
+uwalniać	zaprosić	0.9437084221162282
+wspierać	zachęcać	0.6551489495166753
+przedstawić	użyczyć	0.7953917127189234
+zachęcać	poganiać	1.1335253225503155
+przebaczyć	wspierać	0.8780580564635946
+zabezpieczyć	poślubić	1.0134211059858487
+unikać	kooperować	1.2814121314565905
+użyczyć	zabezpieczyć	0.9024737088596034
+naśladować	powitać	1.177310789285722
+wspierać	zaprosić	0.8151230487874837
+jednoczyć	spotykać	0.43616990660902394
+wybaczyć	kooperować	0.9929257879021027
+zabezpieczyć	przebaczyć	0.9598837931312176
+spotykać	służyć	0.85417464388675
+kooperować	wspomagać	0.9512108415358086
+kooperować	troszczyć się	1.0000788079549832
+poślubić	chronić	1.084448862152263
+słuchać się	zachęcać	1.0219686436086919
+udzielać	powitać	1.0267361700928381
+jednoczyć	powitać	0.9349182174914965
+słuchać się	kooperować	0.8665196142021516
+mieć wpływ	doglądać	1.014861437224117
+unikać	przedstawić	1.1173314949857682
+spotykać	polegać	0.7906832012489619
+zabezpieczyć	kooperować	1.237318883484277
+doradzać	bronić	0.741951842653593
+kooperować	zaprosić	0.9674792571701685
+wspomagać	fatygować	0.9627209324559645
+pomagać	przebaczyć	0.8351556433312604
+wybaczyć	integrować	1.037049149049898
+ustąpić	unikać	0.6239278610359089
+przedrzeźniać	zależeć	1.143816795544956
+ustąpić	uwalniać	0.9657808852942145
+poganiać	polegać	1.2783772297924394
+stronić	doglądać	1.1851784008721449
+udzielać	uwalniać	1.0383238444672118
+kooperować	odwiedzać	1.0086030734392053
+kooperować	zależeć	0.8297498498386958
+zaślubić	wybaczyć	1.1951881001845472
+zaślubić	służyć	1.2288378569781666
+słuchać się	wspierać	1.0415629247728486
+fatygować	kooperować	1.3891175109883585
+bronić	narzucać się	1.154849483810799
+integrować	poganiać	1.2882105711920724
+unikać	zabezpieczyć	1.205033634902182
+uwalniać	troszczyć się	1.0820582350369514
+zaślubić	troszczyć się	1.1725063895275434
+wspierać	wspomagać	0.21600343794292984
+ratować	kooperować	1.227717933409648
+kooperować	pomagać	0.9439681013654881
+pokrzepiać	traktować	1.004563517508274
+naśladować	zależeć	0.9145758289385131
+ratować	chronić	0.24992933944440376
+traktować	zaślubić	1.4866004230668646
+naśladować	poganiać	1.6449370460020343
+powitać	polegać	0.896087615151583
+kooperować	poganiać	1.446463877101153
+pokrzepiać	znosić	1.0008961491614807
+zależeć	mieć wpływ	0.7265790877947722
+ratować	doradzać	0.7388633650035117
+przedrzeźniać	pocieszać	1.056453043954045
+użyczyć	doradzać	0.9215022724582651
+zaskoczyć	poganiać	0.9583828953217656
+pocieszać	kooperować	0.9434836519260464
+mieć wpływ	bawić się	1.002864700612095
+zaprosić	leczyć	0.9358754461261675
+ustąpić	traktować	0.9094729479673203
+uwalniać	znosić	0.9981861062800484
+odwiedzać	zachęcać	0.8004933526979648
+troszczyć się	współpracować	0.9777908945803359
+traktować	spotykać	0.8919158391494726
+leczyć	naśladować	0.9091641925915985
+ustąpić	narzucać się	0.9349938180124472
+leczyć	uwalniać	0.9489402768049198
+fatygować	ustąpić	1.2650922313841202
+naśladować	stronić	1.3351673495719516
+współpracować	integrować	0.4302534753906944
+unikać	poganiać	1.0995943102686738
+doglądać	przedstawić	0.9701870483976217
+współpracować	spotykać	0.5130935428623917
+uwalniać	pomagać	0.903660138246047
+pocieszać	chronić	0.5645710803479298
+stronić	udzielać	1.0867382486450798
+wspierać	ratować	0.5246895284481766
+ustąpić	pocieszać	0.9054440389966664
+zabezpieczyć	współpracować	1.2479209392738213
+traktować	pocieszać	1.012285815148973
+jednoczyć	pocieszać	0.9493336238823838
+odwiedzać	chronić	1.073456503786853
+służyć	współpracować	0.9250203761050364
+doglądać	troszczyć się	0.3847931226787114
+wybaczyć	służyć	0.8863320574194538
+doradzać	unikać	1.051786065642383
+słuchać się	wybaczyć	0.9001266594716876
+polegać	odwiedzać	0.8404587809771209
+zabezpieczyć	stronić	1.198180345891295
+poganiać	udzielać	1.2035549749934848
+troszczyć się	przedrzeźniać	1.013188048838007
+służyć	obchodzić się	0.8167815437992344
+poślubić	zachęcać	1.0688172744366498
+obchodzić się	stronić	0.7346900247292402
+spiskować	doradzać	1.3998187881026058
+wybaczyć	polegać	0.8810228678617789
+troszczyć się	spotykać	0.8052210461901615
+współpracować	poganiać	1.4201224567705368
+unikać	doglądać	1.1722334844861522
+fatygować	chronić	0.8040943694714107
+jednoczyć	wspierać	0.8501276385556639
+zależeć	leczyć	0.8710999254405264
+bronić	naśladować	0.9582973972816813
+ustąpić	pokrzepiać	0.9028465798539911
+traktować	przebaczyć	0.7329210678712497
+zachęcać	narzucać się	1.1773464405922527
+polegać	zabezpieczyć	1.023132314988978
+zabezpieczyć	słuchać się	1.1592915434365962
+odwiedzać	współpracować	1.002540822770888
+kooperować	zaślubić	1.5030219341094315
+pomagać	zaprosić	0.7910337905990469
+poganiać	jednoczyć	1.0935133658460343
+bawić się	doglądać	1.2677597825475313
+bronić	chronić	0.22964589360901677
+spotykać	integrować	0.40439072144331933
+pomagać	ratować	0.4857162195016181
+pokrzepiać	słuchać się	1.0035020716414196
+unikać	traktować	0.9120672997549985
+zaprosić	przebaczyć	1.1738249298641332
+bawić się	stronić	1.0812189744716132
+przebaczyć	ustąpić	0.5991561047633107
+przedrzeźniać	zachęcać	1.2379883860916658
+przedrzeźniać	ustąpić	1.0852818535728013
+zaślubić	spiskować	1.6607169487762445
+zależeć	zachęcać	0.9545323466268372
+zaskoczyć	użyczyć	0.883990885415603
+zaślubić	odwiedzać	1.104871592567748
+zachęcać	stronić	1.0376419930121554
+znosić	przedstawić	0.9367497042583193
+poślubić	ustąpić	1.267378175314219
+troszczyć się	chronić	0.40580464744318273
+troszczyć się	poganiać	1.1162063453421514
+polegać	uwalniać	1.1616604999272278
+zależeć	przebaczyć	0.8447601484594905
+chronić	słuchać się	1.1157018069687077
+narzucać się	zabezpieczyć	1.1806438516675914
+znosić	mieć wpływ	1.0540276154217125
+jednoczyć	obchodzić się	0.8006686887367251
+integrować	narzucać się	1.173472503918386
+służyć	zachęcać	0.789227895908554
+poganiać	spotykać	1.019889817600775
+spotykać	bronić	1.0168793492050898
+stronić	integrować	1.053435896006948
+doradzać	przebaczyć	0.913507596249292
+zaprosić	wspomagać	0.8912482029072366
+integrować	ratować	1.1726608758257904
+uwalniać	wspierać	1.0203937082176022
+bronić	zabezpieczyć	0.2853330372247821
+przedrzeźniać	poślubić	1.5441656997515139
+kooperować	bronić	1.1569129450999054
+poganiać	służyć	1.2597626508158977
+poganiać	bronić	1.3566839203981222
+współpracować	kooperować	0.08911829849022959
+doglądać	jednoczyć	0.9685617096199601
+służyć	jednoczyć	0.8780926309328889
+znosić	wspierać	1.0034570317133165
+służyć	integrować	1.0102242268737007
+troszczyć się	naśladować	1.0407585943607114
+użyczyć	chronić	0.8984505094478085
+zabezpieczyć	przedstawić	1.1597117810483348
+stronić	słuchać się	1.0759370838227664
+leczyć	unikać	0.9737026799522984
+doradzać	bawić się	1.3537967504525468
+służyć	odwiedzać	0.7886958922478242
+spotykać	zaprosić	0.5729576153444756
+udzielać	przedstawić	1.1166033924927927
+poganiać	pokrzepiać	1.2750800779640667
+leczyć	bawić się	1.2895160415909173
+udzielać	znosić	1.0882388562997583
+służyć	powitać	0.9130466645679347
+poganiać	poślubić	1.3996890660960315
+spotykać	obchodzić się	0.776296996889416
+ratować	ustąpić	1.0532361309544767
+polegać	przedrzeźniać	1.107417060377716
+spiskować	słuchać się	1.1772568274778754
+bawić się	przedrzeźniać	1.3131339086233103
+troszczyć się	fatygować	0.7547672428919074
+pomagać	doglądać	0.5934385560960685
+powitać	bronić	1.0061476778551712
+zaślubić	ustąpić	1.2557063060115192
+ratować	zaskoczyć	1.2600115914434191
+stronić	kooperować	1.3018202967307089
+udzielać	użyczyć	0.7954977444621301
+wybaczyć	mieć wpływ	0.7855171805859078
+polegać	służyć	1.0231272269827831
+ustąpić	pomagać	0.8412835189123821
+integrować	kooperować	0.4237992002523994
+zaślubić	wspomagać	0.8753856967056254
+obchodzić się	traktować	0.6879079728482476
+służyć	traktować	0.8244183337544467
+spotykać	pokrzepiać	0.8409374515715238
+spiskować	poślubić	1.6769108989944372
+bronić	mieć wpływ	1.1108078003936497
+słuchać się	wspomagać	1.1250591926644475
+ustąpić	odwiedzać	0.9630929924524011
+obchodzić się	troszczyć się	0.742166030598161
+uwalniać	traktować	1.1128261484732629
+wspierać	narzucać się	1.221353477307277
+udzielać	fatygować	0.9997134635847392
+mieć wpływ	słuchać się	0.897071079813332
+uwalniać	poślubić	1.2033360298227995
+zależeć	odwiedzać	0.9118703723821181
+traktować	narzucać się	1.1382662756969368
+troszczyć się	bronić	0.47957215328002273
+udzielać	zaprosić	1.1065716704452233
+chronić	zabezpieczyć	0.24141687560638045
+udzielać	słuchać się	0.9232064479596658
+odwiedzać	spotykać	0.5670020706514844
+integrować	bawić się	1.0880755739184826
+znosić	bawić się	1.031843869963558
+wspomagać	doglądać	0.6448429588162301
+udzielać	zależeć	0.8906454389609199
+pokrzepiać	przedrzeźniać	1.0692572221235637
+fatygować	wybaczyć	1.1663255308205955
+przebaczyć	naśladować	1.0711463506184924
+zaślubić	pokrzepiać	0.9396370472782923
+narzucać się	współpracować	1.3249311744513155
+ustąpić	współpracować	0.9448234641736571
+spotykać	kooperować	0.5509409463387289
+przebaczyć	ratować	1.0360330994557714
+uwalniać	chronić	1.0265832286320549
+spotykać	narzucać się	0.9150388482949149
+znosić	przebaczyć	0.7573935150544845
+naśladować	spotykać	1.043450355727845
+troszczyć się	zabezpieczyć	0.5313236933009713
+znosić	jednoczyć	0.9944349356192677
+powitać	mieć wpływ	0.9869008457976625
+przedstawić	zaślubić	1.29007147850664
+traktować	bronić	1.0193949907326716
+uwalniać	unikać	0.8844466937123333
+przedstawić	bronić	1.174246582904838
+odwiedzać	ratować	0.8561264488423618
+współpracować	pocieszać	0.9642937737199063
+zabezpieczyć	doglądać	0.594620101227329
+słuchać się	poganiać	1.2080958494275091
+słuchać się	przebaczyć	0.9313963281143484
+znosić	zachęcać	1.1483246989749127
+przebaczyć	użyczyć	0.7713252631447403
+odwiedzać	unikać	1.256188661686333
+zachęcać	unikać	1.0470414429464419
+spiskować	uwalniać	1.015355128685133
+troszczyć się	odwiedzać	0.6514358684041783
+zaskoczyć	doglądać	1.1657667857080376
+doradzać	współpracować	0.9151697342140648
+przebaczyć	unikać	0.7638757719661227
+troszczyć się	znosić	0.8695069829169689
+powitać	zależeć	1.0374218959379087
+poganiać	mieć wpływ	1.0269960565695262
+spiskować	przedstawić	0.942887404034494
+wspomagać	unikać	1.0294384818792448
+jednoczyć	narzucać się	1.219706561801668
+powitać	narzucać się	0.9493600659903335
+użyczyć	spotykać	0.850402022345495
+troszczyć się	pomagać	0.3095418576445586
+leczyć	wybaczyć	0.9114081411590917
+troszczyć się	powitać	0.7928091410505625
+doradzać	uwalniać	1.0556975005867508
+spotykać	mieć wpływ	0.878337554888647
+troszczyć się	spiskować	1.2461770442219113
+zależeć	pomagać	0.9626345525286707
+zaskoczyć	przebaczyć	0.8505363637484485
+spiskować	zaprosić	1.153270416996498
+spiskować	zaskoczyć	0.8810423837291077
+fatygować	leczyć	0.8315263757757738
+wybaczyć	pokrzepiać	0.8490166147662715
+doglądać	odwiedzać	0.5739522046849448
+słuchać się	troszczyć się	0.9005609772543334
+bawić się	wybaczyć	1.2157212154394519
+fatygować	stronić	1.2973648585609083
+współpracować	jednoczyć	0.3831389600513137
+udzielać	poślubić	1.2321711831408153
+przedstawić	naśladować	1.080074483259596
+ustąpić	spiskować	0.7114216430815442
+zależeć	doradzać	0.828963782163992
+leczyć	spiskować	1.2821110910904923
+przedrzeźniać	unikać	0.8561772465274632
+bronić	pomagać	0.4352687196862374
+współpracować	bronić	1.137051185236402
+bronić	pocieszać	0.6245019906115514
+poganiać	przedstawić	1.0606223228474847
+polegać	przedstawić	0.7590588550800266
+polegać	użyczyć	0.8940668575545679
+ustąpić	służyć	1.1183157665191492
+odwiedzać	przedrzeźniać	1.3161593811869856
+fatygować	integrować	1.3166287369030434
+przedrzeźniać	narzucać się	0.8430422492749765
+zaślubić	stronić	1.393019669259732
+mieć wpływ	troszczyć się	0.9343490034583002
+użyczyć	ustąpić	0.7534486713321794
+poślubić	fatygować	1.0915309501765849
+ustąpić	doglądać	0.9441300572889768
+słuchać się	zaślubić	1.2223018311370355
+współpracować	chronić	1.2026690463036918
+jednoczyć	zachęcać	1.011507972705731
+jednoczyć	fatygować	1.2925178575898215
+obchodzić się	wspierać	0.7569167960149222
+fatygować	bronić	0.8226754006750593
+zabezpieczyć	poganiać	1.2742210162379548
+zabezpieczyć	leczyć	0.49128036848376155
+ratować	zależeć	1.0436865749599997
+chronić	integrować	1.239342913593335
+leczyć	ratować	0.5201148450217338
+użyczyć	zależeć	0.8257246344159965
+bawić się	udzielać	1.349256029864563
+doglądać	zaprosić	0.9528994563322181
+jednoczyć	spiskować	0.9324123626029084
+zaślubić	chronić	1.0778356436584955
+zależeć	jednoczyć	0.7427699054352989
+użyczyć	słuchać się	0.8742040721099873
+pokrzepiać	leczyć	0.45112209219370186
+obchodzić się	odwiedzać	0.9759834480964487
+zabezpieczyć	znosić	1.0620581990308875
+narzucać się	zaskoczyć	1.02950368104393
+polegać	jednoczyć	0.7332025946616617
+wspomagać	narzucać się	1.2908568294184408
+zaślubić	pocieszać	0.8404549199183515
+ustąpić	obchodzić się	0.6824034695028086
+chronić	narzucać się	1.1785693307012104
+słuchać się	poślubić	1.1874355929280167
+chronić	kooperować	1.209595574937885
+chronić	przebaczyć	0.944096927387337
+bronić	zaskoczyć	1.355699755312853
+bronić	bawić się	1.5365389961474452
+wspierać	zaskoczyć	1.1118968052845162
+wybaczyć	ustąpić	0.5932793542220844
+poganiać	przebaczyć	1.04660174172253
+poślubić	zaskoczyć	1.4411549846485938
+przedrzeźniać	zabezpieczyć	1.0304138080668743
+ratować	znosić	1.0313062802313469
+użyczyć	znosić	0.8477826042573704
+wspomagać	wybaczyć	0.9280009809421139
+traktować	stronić	0.9159585488298458
+bronić	ustąpić	1.1881438334522174
+spotykać	przebaczyć	0.9355876097104143
+pocieszać	doradzać	0.5823054929309395
+zaślubić	pomagać	1.0456506122483384
+naśladować	wspomagać	0.9907565754150979
+unikać	zaślubić	1.446503434734157
+znosić	słuchać się	0.9668053556107317
+poganiać	bawić się	1.0102091736620304
+uwalniać	zależeć	1.252154621024814
+fatygować	powitać	0.8828137477515575
+poganiać	chronić	1.331174744883862
+bronić	obchodzić się	0.9465498064414469
+udzielać	pokrzepiać	0.7002632455919635
+zabezpieczyć	pocieszać	0.6672579110591603
+fatygować	bawić się	1.4370270527565878
+troszczyć się	pocieszać	0.4593551734558599
+przebaczyć	bawić się	1.2259814645100278
+wybaczyć	chronić	0.9625505520606672
+pomagać	fatygować	0.8704663261440138
+doradzać	doglądać	0.5852068970229262
+troszczyć się	integrować	0.9194221460513406
+kooperować	jednoczyć	0.4241524309472421
+obchodzić się	zachęcać	0.9228421464533939
+narzucać się	obchodzić się	1.1051808016261644
+poślubić	unikać	1.4497772095362607
+pokrzepiać	pocieszać	0.15752116117813614
+stronić	unikać	0.1079673257571331
+naśladować	odwiedzać	1.129950989563706
+doradzać	udzielać	0.6347580612561285
+spotykać	bawić się	0.930784730882075
+służyć	troszczyć się	0.40685872997431843
+pocieszać	użyczyć	0.986851070759616
+powitać	zaskoczyć	0.8724077344451453
+słuchać się	przedstawić	0.945122718770422
+odwiedzać	narzucać się	1.1961803604448085
+wybaczyć	zachęcać	0.9919746648447166
+bawić się	zaprosić	0.9635522534931922
+spotykać	wspomagać	0.936562381011943
+bronić	udzielać	0.8698915994879433
+naśladować	pomagać	0.9524276630235393
+traktować	słuchać się	1.0797465233353165
+doglądać	poganiać	1.1726048182478699
+pocieszać	odwiedzać	0.8404604688052933
+przedstawić	zachęcać	1.0434081636303891
+bawić się	naśladować	1.3614740400433656
+zachęcać	użyczyć	0.8551922535971717
+zaślubić	powitać	0.9845944626373354
+jednoczyć	mieć wpływ	0.8077928791111607
+integrować	zależeć	0.8375267085217827
+poślubić	pomagać	1.043331129994852
+przebaczyć	wspomagać	0.9037068381073482
+uwalniać	użyczyć	0.99699808228701
+pocieszać	przebaczyć	0.9131930677494071
+naśladować	przedrzeźniać	0.7590496611228221
+doradzać	jednoczyć	0.9344368934781724
+pocieszać	naśladować	0.9992730025342799
+leczyć	traktować	1.0407288591645614
+traktować	poślubić	1.4586207562456768
+jednoczyć	wybaczyć	0.9507728297648571
+doradzać	kooperować	0.9077907732564376
+wspierać	fatygować	0.8507604155320031
+zaskoczyć	doradzać	1.2135243062078243
+narzucać się	służyć	1.1955615209096682
+leczyć	słuchać się	0.9871807789102897
+wspierać	bronić	0.5097796087702744
+leczyć	narzucać się	1.1131958625828795
+powitać	wspierać	0.8334561596198108
+udzielać	spiskować	1.1780329377168925
+doglądać	zaślubić	0.9960339071381283
+leczyć	kooperować	1.0020440535057267
+polegać	pocieszać	0.7862419037482652
+ratować	jednoczyć	0.9878008103934006
+zaślubić	doradzać	0.9662099731298043
+powitać	wspomagać	0.9283775146454236
+polegać	zależeć	0.41113999644993643
+zaprosić	chronić	0.9366717938744007
+zaskoczyć	uwalniać	0.9859138841906515
+mieć wpływ	polegać	0.7186677813909836
+polegać	narzucać się	1.106370069517805
+bawić się	narzucać się	0.9621254748629455
+wspomagać	bawić się	1.350477023901892
+użyczyć	doglądać	0.9057825022709802
+zachęcać	współpracować	1.0659607336073085
+ratować	troszczyć się	0.5564795089856497
+narzucać się	spiskować	1.0753045029520978
+stronić	odwiedzać	1.2857529360789572
+użyczyć	troszczyć się	0.8711972684609751
+stronić	przedrzeźniać	0.8734299363996336
+traktować	odwiedzać	1.0692065812094864
+znosić	zależeć	0.9764687444182569
+użyczyć	służyć	0.9778997517591896
+chronić	leczyć	0.568933415078713
+zależeć	traktować	1.0142884615047916
+pomagać	współpracować	0.9029499824402946
+chronić	polegać	1.0463301188574676
+udzielać	leczyć	0.5851841780345634
+zaskoczyć	integrować	1.0674534158876199
+poślubić	leczyć	1.0452258509304966
+chronić	przedstawić	1.1754209781815559
+polegać	zaślubić	1.119412754462924
+narzucać się	stronić	1.1311834270201109
+narzucać się	zależeć	1.1157825682893916
+obchodzić się	bawić się	0.9990813876638516
+leczyć	przedrzeźniać	0.9854920448944414
+powitać	pomagać	0.9196080861639526
+naśladować	współpracować	1.1401335380635098
+chronić	znosić	0.9465602224106017
+udzielać	unikać	1.0675247276182278
+odwiedzać	znosić	0.8926562678988749
+kooperować	polegać	0.81726729404942
+jednoczyć	zaślubić	1.2875146436538778
+ustąpić	zaskoczyć	0.8809124370556789
+bronić	zależeć	1.014217636536252
+jednoczyć	zabezpieczyć	1.040132645809269
+troszczyć się	udzielać	0.7188511535601152
+zależeć	bawić się	1.0993213299599889
+unikać	pocieszać	0.975191272191979
+zależeć	chronić	1.0171850415437034
+zaprosić	bronić	0.9477148513948904
+troszczyć się	przedstawić	0.9085152250002637
+spotykać	leczyć	0.8872799194007753
+współpracować	powitać	1.093064166523742
+przedrzeźniać	udzielać	1.1250406572498182
+mieć wpływ	naśladować	0.9009026224909217
+integrować	zachęcać	1.0094889764347246
+jednoczyć	przebaczyć	0.9686686194812698
+współpracować	traktować	1.0613486080256702
+doglądać	uwalniać	1.1678273001102004
+przedrzeźniać	mieć wpływ	1.0874236544328604
+kooperować	ustąpić	0.9326307410193962
+zaskoczyć	słuchać się	1.2410385284944017
+troszczyć się	zachęcać	0.8493936054004173
+spotykać	doradzać	0.8882355399113299
+zachęcać	zaprosić	0.9869974194637866
+spotykać	zaślubić	1.1100734231905145
+poślubić	wybaczyć	1.2051606352967021
+doradzać	słuchać się	0.9557634098418295
+obchodzić się	naśladować	1.0003820959534961
+jednoczyć	bawić się	1.1142064813917674
+leczyć	przebaczyć	0.8714507346321216
+fatygować	uwalniać	1.0120786218122502
+odwiedzać	zaprosić	0.8109872302644143
+pomagać	udzielać	0.7756284290235888
+użyczyć	stronić	1.067355966989985
+pokrzepiać	polegać	0.8567401016015208
+ratować	stronić	1.1604551534003837
+uwalniać	służyć	1.099631075470746
+poślubić	powitać	0.9530293923872872
+powitać	unikać	1.1899497436064874
+znosić	zaprosić	1.0685307254112941
+wspierać	zależeć	0.9438419421911741
+zaskoczyć	odwiedzać	1.0833140498068488
+zachęcać	spiskować	1.2778231996850258
+zachęcać	polegać	0.9005980956440001
+wybaczyć	pocieszać	0.9348782975275297
+pokrzepiać	troszczyć się	0.39992584269002446
+naśladować	poślubić	1.1513344738521933
+narzucać się	pomagać	1.1533419913094447
+bronić	spiskować	1.4710280879981734
+traktować	doglądać	0.872689554921453
+obchodzić się	użyczyć	0.9641980113024113
+integrować	pokrzepiać	1.0498437268301986
+kooperować	służyć	0.925608023062598
+słuchać się	zależeć	0.6832840689036297
+leczyć	bronić	0.5165184157971784
+wybaczyć	odwiedzać	1.1605818354519153
+pomagać	obchodzić się	0.8975295976364442
+znosić	kooperować	1.0473624309010643
+przedrzeźniać	spotykać	1.1409251147477715
+fatygować	ratować	0.7274956840713829
+przedstawić	integrować	0.6984962155148282
+poganiać	użyczyć	1.1326550906578072
+polegać	troszczyć się	0.9310429797435387
+pomagać	wybaczyć	0.8614752097431384
+leczyć	wspierać	0.5194805717354523
+mieć wpływ	współpracować	0.9407678312659679
+polegać	doglądać	0.8361484093007305
+ustąpić	wspierać	0.858443396092997
+obchodzić się	powitać	0.9598160547180498
+wspierać	udzielać	0.7494726308721372
+służyć	bawić się	1.474219817431152
+wybaczyć	stronić	0.7199099118979199
+odwiedzać	leczyć	0.8761694279508576
+zachęcać	przebaczyć	0.9653937620540392
+leczyć	przedstawić	1.0357528866985894
+powitać	znosić	0.9277654590559695
+bawić się	zabezpieczyć	1.4752941435042328
+pomagać	unikać	0.962264220687952
+polegać	zaskoczyć	0.8690924562103692
+uwalniać	powitać	1.06206581151183
+ratować	pocieszać	0.5614444412872269
+jednoczyć	ustąpić	0.8050673539047798
+przedrzeźniać	uwalniać	1.2301356056311454
+pokrzepiać	pomagać	0.3786034825404199
+polegać	wspomagać	0.8950385038947887
+zaskoczyć	unikać	1.0934127727674987
+powitać	użyczyć	0.9322366760042252
+bawić się	uwalniać	1.1231450079221843
+współpracować	zaskoczyć	1.2389578364500387
+troszczyć się	ustąpić	0.8773444089686778
+zaślubić	przebaczyć	1.1525169005945957
+zaprosić	zabezpieczyć	0.8800540161959869
+przebaczyć	kooperować	0.9527312151291348
+polegać	ustąpić	0.861685896126577
+powitać	zabezpieczyć	0.9782342012705552
+ustąpić	integrować	0.801181067599153
+doradzać	stronić	1.0791172585856124
+ratować	poślubić	1.0739174910589149
+zabezpieczyć	uwalniać	1.0244490226608358
+wybaczyć	bronić	0.9717647502788842
+ratować	służyć	0.6800589782930166
+obchodzić się	doradzać	0.7649372017066287
+zaślubić	bawić się	1.251746809163454
+wspierać	wybaczyć	0.9158788896287843
+spiskować	przebaczyć	0.8792347387000734
+pocieszać	integrować	1.047903658934397
+udzielać	naśladować	1.189793652721041
+wybaczyć	spiskować	0.9425874616364454
+troszczyć się	jednoczyć	0.8646850718347143
+leczyć	pocieszać	0.5575667350192347
+wspierać	unikać	1.056066587706549
+ustąpić	zależeć	1.0570065350253939
+pokrzepiać	jednoczyć	0.7642119022657391
+troszczyć się	wspierać	0.3082036277856473
+wspomagać	leczyć	0.531017149933861
+doglądać	powitać	0.8468455653002144
+spotykać	zabezpieczyć	0.9756800761139169
+zależeć	wspomagać	0.9669498358155691
+służyć	przedstawić	0.9541058476307887
+zaprosić	polegać	1.0162135210362486
+traktować	znosić	0.6673035175853741
+poślubić	mieć wpływ	1.106971740158857
+służyć	zaskoczyć	1.3224768482375908
+integrować	obchodzić się	0.8596950864063428
+poślubić	znosić	1.3574190296840536
+chronić	stronić	1.0402503449713758
+pomagać	zabezpieczyć	0.5115059929214839
+przedstawić	poślubić	1.2294504643292155
+pocieszać	służyć	0.6074459022542671
+traktować	użyczyć	0.8853306355035282
+znosić	bronić	0.998099233787432
+bawić się	słuchać się	1.0684935656511463
+współpracować	wspierać	0.845229426169331
+znosić	zaślubić	1.3583663511342265
+słuchać się	doglądać	1.0790591041411166
+fatygować	spotykać	1.01895801291425
+przedstawić	przebaczyć	0.9180613552171205
+zaskoczyć	wybaczyć	0.9354659467727446
+przedstawić	kooperować	0.87984989699228
+pocieszać	spiskować	1.2608557812944348
+traktować	troszczyć się	0.7754249541346891
+znosić	doglądać	0.9576947533777909
+pomagać	spiskować	1.1849308695636593
+naśladować	wybaczyć	1.1117983271918246
+zabezpieczyć	wybaczyć	0.9839622170586296
+pomagać	wspomagać	0.3444695549757517
+chronić	doglądać	0.6237121219258396
+przedstawić	bawić się	0.8381913026184297
+przedstawić	zależeć	0.7935449787160265
+zachęcać	udzielać	0.7820382049664295
+stronić	wspomagać	1.0489961862252482
+zaprosić	integrować	0.773410369947386
+troszczyć się	poślubić	1.1677143624810244
+integrować	słuchać się	0.8803789517124276
+przedrzeźniać	powitać	1.317706492716288
+udzielać	mieć wpływ	1.0608854601587083
+doradzać	poganiać	1.3191324767352268
+jednoczyć	zaskoczyć	0.9901684278846983
+fatygować	doradzać	0.9112272729219252
+odwiedzać	doradzać	0.7953486515056226
+doradzać	polegać	0.8539489348760556
+fatygować	zaprosić	0.8156466946197813
+jednoczyć	leczyć	0.9787470135077172
+przedstawić	współpracować	0.8331025023533339
+troszczyć się	zaprosić	0.8046768111654056
+mieć wpływ	wspomagać	0.9315383328800686
+poganiać	narzucać się	0.8618009365085508
+unikać	pokrzepiać	0.9983770198899433
+zabezpieczyć	udzielać	0.904242080223542
+mieć wpływ	uwalniać	1.1355783510390742
+wspomagać	odwiedzać	0.7450569963543452
+polegać	obchodzić się	0.8778929573580999
+uwalniać	wspomagać	1.0601433650014678
+ratować	słuchać się	1.1322724518699412
+wspomagać	znosić	0.8809714932037557
+ustąpić	udzielać	0.7495181555212154
+polegać	bronić	1.0212522174386889
+współpracować	leczyć	1.0427208060739834
+powitać	spiskować	1.0938006179651285
+powitać	zaprosić	0.5991126264628055
+chronić	naśladować	0.9690005080241136
+pocieszać	stronić	0.9718437934940846
+ratować	użyczyć	1.0548701617815475
+ratować	przedrzeźniać	0.9458054577292081
+spiskować	zależeć	1.3691283031468313
+wybaczyć	przebaczyć	0.06577771089074014
+zaskoczyć	stronić	1.1367938450451434
+fatygować	słuchać się	1.3675208241666383
+zależeć	unikać	1.2896665989096017
+zachęcać	doradzać	0.5381760727449149
+zabezpieczyć	odwiedzać	0.8978920700122054
+służyć	bronić	0.46873107051146745
+przedstawić	spotykać	0.5480993669919244
+narzucać się	wybaczyć	1.0620998177994128
+obchodzić się	chronić	0.9584232657026241
+pocieszać	powitać	0.9398888073651974
+zaślubić	zależeć	1.2080197004744404
+bawić się	chronić	1.5137942279198282
+bawić się	spiskować	0.8805066334039616
+użyczyć	współpracować	0.9634492923715982
+integrować	użyczyć	0.9303522079901864
+kooperować	doglądać	1.0411007830516192
+jednoczyć	udzielać	0.9686641864924185
+służyć	pomagać	0.3774027169969733
+obchodzić się	ratować	0.9813797389561157
+poślubić	bawić się	1.2268532677312125
+spotykać	spiskować	0.8801043078548101
+pokrzepiać	chronić	0.563029355167414
+przedstawić	mieć wpływ	1.0044208787501423
+traktować	mieć wpływ	1.1369534476846297
+stronić	służyć	1.0159343682245403
+wspomagać	jednoczyć	0.8991206406374997
+spotykać	poślubić	1.131896316989643
+obchodzić się	przebaczyć	0.9201896638114944
+naśladować	jednoczyć	1.018342717635202
+bronić	użyczyć	0.9635624123535512
+chronić	wspomagać	0.5455297992806625
+wspomagać	zaskoczyć	1.1337840896121905
+współpracować	polegać	0.6980044058621441
+integrować	doradzać	0.9696108634586672
+naśladować	wspierać	0.9625096353311606
+użyczyć	naśladować	1.1630239394362556
+naśladować	spiskować	1.6182538871379195
+zachęcać	traktować	1.188817951894337
+służyć	poślubić	1.2392734277573683
+powitać	leczyć	0.8878452081583635
+służyć	doradzać	0.5373692946063054
+służyć	naśladować	1.0015355815730644
+pokrzepiać	poślubić	0.930262366710131
+przebaczyć	narzucać się	1.0801854533821353
+zabezpieczyć	naśladować	1.0583634433166875
+bronić	ratować	0.25514561947827935
+doglądać	obchodzić się	0.8302721229967419
+pocieszać	poślubić	0.8573483204598753
+leczyć	użyczyć	0.9968090788685462
+stronić	pomagać	0.9808153872553733
+zabezpieczyć	fatygować	0.9109845158876088
+stronić	znosić	0.9942776565975385
+zaprosić	przedstawić	0.6515004606811569
+zaskoczyć	naśladować	0.9920514048069266
+służyć	przedrzeźniać	0.8950478388074995
+zaprosić	zaskoczyć	1.0978714015140152
+naśladować	ustąpić	1.2159533107212768
+zachęcać	zabezpieczyć	0.8021132013700242
+zabezpieczyć	ustąpić	1.0491944703470415
+zależeć	służyć	1.0078579094980835
+pocieszać	słuchać się	1.0305111989695772
+doradzać	naśladować	0.9717004377325533
+znosić	służyć	1.0662933133240309
+narzucać się	uwalniać	1.0810019395621708
+pokrzepiać	fatygować	0.8835837796548023
+powitać	odwiedzać	0.5955384450375693
+słuchać się	spotykać	0.8153356472119526
+obchodzić się	zaskoczyć	1.251126993079386
+troszczyć się	wybaczyć	0.9053734371712076
+fatygować	traktować	1.2601099721547577
+chronić	pomagać	0.4371190215948149
+wspierać	pokrzepiać	0.34464080023024174
+pokrzepiać	współpracować	0.8893180720050146
+wybaczyć	doglądać	1.050315613005756
+ratować	zaprosić	0.8928653396157982
+leczyć	zachęcać	0.7600096388275285
+chronić	przedrzeźniać	0.975017166320452
+przedstawić	zaskoczyć	0.8846691155809078
+polegać	stronić	1.1277338984083212
+ratować	zachęcać	0.9883024974581259
+uwalniać	zaślubić	1.1854507740037727
+pomagać	użyczyć	0.8396044046701121
+przebaczyć	fatygować	1.1241024945687326
+wspomagać	zachęcać	0.7496539120170012
+fatygować	współpracować	1.4065783341016318
+odwiedzać	bawić się	1.1925420708211256
+fatygować	pocieszać	0.9657536871164368
+wspierać	zabezpieczyć	0.5766182248221692
+przebaczyć	służyć	0.8639127829439233
+zaślubić	przedrzeźniać	1.5584807926750242
+troszczyć się	zaskoczyć	1.1383815166756561
+stronić	pokrzepiać	1.0064572280315882
+pocieszać	zachęcać	0.7171934412848068
+kooperować	powitać	1.1590468380870462
+przebaczyć	stronić	0.7624711935258652
+wspomagać	zabezpieczyć	0.6356603035564952
+użyczyć	pokrzepiać	0.8791371001360945
+leczyć	zaskoczyć	1.0084514963800164
+odwiedzać	przebaczyć	1.1277235548705216
+udzielać	służyć	0.7989282506508428
+przedrzeźniać	obchodzić się	0.9139689032973138
+pomagać	słuchać się	1.003474806767743
+słuchać się	ustąpić	0.7758078006025225
+poślubić	polegać	1.0663954762507448
+doradzać	wybaczyć	0.9385710088060861
+ustąpić	poganiać	0.8456403555800567
+doradzać	zabezpieczyć	0.8141249960377683
+wspierać	stronić	1.0792089655027126
+pocieszać	przedstawić	1.1208343514605885
+odwiedzać	poślubić	1.109164185399695
+doradzać	przedstawić	1.0941421665299138
+poganiać	wybaczyć	1.03448624759779
+zależeć	zabezpieczyć	1.0189019599313283
+zachęcać	uwalniać	1.0331958409260769
+unikać	znosić	0.8140179848635337
+znosić	współpracować	0.999629698915049
+poganiać	zaślubić	1.4062231333225887
+doglądać	przebaczyć	0.985137086824454
+doradzać	znosić	1.1023309137723438
+zaprosić	unikać	1.2545764016415037
+bronić	przedrzeźniać	0.9122985271286319
+zaskoczyć	pomagać	1.0523083488864526
+mieć wpływ	obchodzić się	0.7956573676238058
+zależeć	pokrzepiać	0.9451935182161957
+doradzać	poślubić	0.9713177414629217
+wspierać	polegać	0.8262262360200475
+powitać	integrować	0.9584876853058887
+odwiedzać	udzielać	0.8490000551243007
+mieć wpływ	zaskoczyć	0.9182144662302286
+zaskoczyć	traktować	1.0805991868811617
+leczyć	polegać	0.897230623137208
+odwiedzać	fatygować	0.7535620823077156
+integrować	leczyć	1.0359930769885963
+poganiać	znosić	1.0150583483585194
+spotykać	udzielać	0.963123811324098
+kooperować	mieć wpływ	0.8993438957598442
+przedrzeźniać	poganiać	1.212480586912378
+pocieszać	obchodzić się	1.0054778157627704
+leczyć	pomagać	0.487962199172469
+uwalniać	odwiedzać	1.1006308923040913
+słuchać się	przedrzeźniać	1.2504203894421146
+obchodzić się	kooperować	0.972795615083883
+zaślubić	fatygować	1.0564733712094498
+jednoczyć	poślubić	1.3105978848889726
+traktować	przedrzeźniać	0.7203291730262926
+powitać	pokrzepiać	0.8357824239106626
+pomagać	znosić	0.8848964987485828
+doradzać	chronić	0.6284562960249597
+poganiać	pocieszać	1.2075712821754707
+jednoczyć	zaprosić	0.9235746486382208
+przebaczyć	pokrzepiać	0.8664862475907414
+polegać	bawić się	1.036627883227884
+wspierać	pocieszać	0.3505037033295957
+znosić	narzucać się	0.8227916410688173
+kooperować	poślubić	1.3853166528084337
+zaskoczyć	chronić	1.2657725461209393
+doradzać	leczyć	0.705880706176915
+troszczyć się	doradzać	0.5164855181631597
+współpracować	słuchać się	0.8370624547944819
+przedrzeźniać	integrować	1.0356146860541278
+integrować	przebaczyć	1.0538781649552689
+przedstawić	ustąpić	0.8731637017399518
+ratować	mieć wpływ	1.1057698470874988
+ratować	uwalniać	0.8675200291382
+poganiać	traktować	1.2574090008282368
+wspierać	przedstawić	1.0040216128068866
+zabezpieczyć	mieć wpływ	1.1044448307183805
+chronić	jednoczyć	0.9878950658653797
+użyczyć	fatygować	0.9914810790851267
+ustąpić	doradzać	0.8188491663866571
+zaprosić	doradzać	1.0284603250921551
+chronić	traktować	0.9957260574072412
+zaprosić	zależeć	1.0610975317506872
+bronić	zaślubić	1.0944183520382795
+wspomagać	spiskować	1.295466292390452
+użyczyć	odwiedzać	0.784103585794434
+wspomagać	obchodzić się	0.7848622137895538
+naśladować	uwalniać	1.2762278879069564
+zachęcać	kooperować	1.0221310508109442
+kooperować	bawić się	1.1480909388190703
+doglądać	współpracować	1.056880610680262
+zaskoczyć	zależeć	1.058633992457492
+powitać	traktować	0.9764251603335876
+pokrzepiać	doradzać	0.5963960171465086
+udzielać	wspomagać	0.713798780213483
+leczyć	poganiać	1.2206612308656692
+doradzać	wspierać	0.4273939972945682
+bawić się	ratować	1.536724021695324
+bronić	stronić	1.2149605788696098
+stronić	współpracować	1.2705490099783507
+pokrzepiać	kooperować	0.8759002979858722
+uwalniać	przebaczyć	0.8824515506759609
+udzielać	polegać	0.860193412520516
+wspomagać	użyczyć	0.8540612108382017
+wybaczyć	zaprosić	1.1421187072298986
+pocieszać	doglądać	0.6059970478334172
+spotykać	zależeć	0.7462859423457603
+współpracować	spiskować	1.1493776436672223
+integrować	pomagać	0.9607117325417368
+unikać	słuchać się	1.1678226951826882
+uwalniać	przedstawić	0.9403118016849491
+bawić się	traktować	1.3316972286634943
+wspomagać	pokrzepiać	0.3752525919061737
+zaskoczyć	udzielać	1.154461394432319
+zależeć	obchodzić się	0.9838607242705888
+spiskować	kooperować	1.179529555760595
+znosić	obchodzić się	0.7015708048263349
+mieć wpływ	stronić	0.8856808172063494
+doradzać	mieć wpływ	0.8368453683750824
+obchodzić się	poganiać	1.1060290130447485
+odwiedzać	jednoczyć	0.8403972319670641
+polegać	słuchać się	0.6688489393269759
+ustąpić	mieć wpływ	0.8453215597458766
+użyczyć	zaślubić	1.3817935600488622
+zachęcać	fatygować	0.7480954221393532
+ratować	zaślubić	1.1001556230385443
+bawić się	pocieszać	1.3454464472291652
+pokrzepiać	narzucać się	1.2921442640469978
+spiskować	przedrzeźniać	1.0594294653478147
+odwiedzać	mieć wpływ	1.131184908017752
+poślubić	obchodzić się	1.215879436347888
+służyć	spiskować	1.3015355822055805
+narzucać się	kooperować	1.3674738434356597
+kooperować	udzielać	1.0149928133749682
+znosić	leczyć	1.0593425153575655
+użyczyć	jednoczyć	0.8894030875039816
+wspierać	użyczyć	0.9007740712537057
+uwalniać	wybaczyć	0.8755630050336166
+pokrzepiać	mieć wpływ	0.9746501703475919
+unikać	współpracować	1.279398434258023
+zabezpieczyć	ratować	0.3740391213423505
+zabezpieczyć	pokrzepiać	0.5663812802386927
+mieć wpływ	przebaczyć	0.7972804082898286
+zaskoczyć	pokrzepiać	1.212276963920089
+przedrzeźniać	współpracować	1.1463066542522249
+znosić	integrować	1.081712871647128
+służyć	mieć wpływ	1.0581887144355724
+stronić	spiskować	0.8632091246551488
+wspierać	integrować	0.9157000729585903
+zaślubić	naśladować	1.1592952956821325
+narzucać się	pocieszać	1.2286669309249223
+obchodzić się	udzielać	0.8602015101284947
+chronić	służyć	0.5328057820941878
+zaprosić	ustąpić	0.8564640650474743
+integrować	mieć wpływ	0.8722599412862648
+ustąpić	wspomagać	0.9606877370371852
+pokrzepiać	bronić	0.5704526181408681
+fatygować	przedrzeźniać	1.2803386608262066
+wspomagać	bronić	0.6056850934687622
+chronić	zachęcać	0.7847055665693834
+unikać	ratować	1.1484689387806557
+zachęcać	bronić	0.8109891582660319
+udzielać	współpracować	1.065686466995466
+polegać	unikać	1.1500971116988967
+leczyć	doglądać	0.6386478651471456
+stronić	leczyć	0.9928268776037329
+współpracować	uwalniać	1.3989276196823586
+doradzać	przedrzeźniać	1.0976921886338924
+bawić się	zaskoczyć	0.9328258677688489
+przebaczyć	poślubić	1.1632080189723395
+spiskować	zabezpieczyć	1.4386285462597754
+mieć wpływ	leczyć	0.9012501630625599
+obchodzić się	zaślubić	1.2210476771444525
+znosić	pocieszać	0.9951186856992724
+udzielać	zaślubić	1.2209107338304217
+naśladować	narzucać się	1.0993242245800887
+słuchać się	jednoczyć	0.7342488107842153
+obchodzić się	wybaczyć	0.9094372217607377
+przedstawić	wybaczyć	0.897876117055886
+odwiedzać	poganiać	1.233187304410983
+zabezpieczyć	zaskoczyć	1.2558381219981538
+uwalniać	stronić	0.9064561264474267
+powitać	przebaczyć	1.0735464663383307
+unikać	bawić się	1.1581093495508248
+jednoczyć	traktować	1.048820514870027
+poganiać	uwalniać	1.1799216765331217
+zależeć	wybaczyć	0.8216856393650918
+zaślubić	zabezpieczyć	1.0231612092392421
+wybaczyć	znosić	0.7376620978704751
+spiskować	odwiedzać	1.2100143745070837
+traktować	naśladować	1.0476465263767483
+obchodzić się	leczyć	0.885976565656711
+udzielać	wybaczyć	0.8361774448450388
+narzucać się	unikać	1.1063563426868748
+traktować	doradzać	1.0490008117236227
+obchodzić się	współpracować	0.9331025218446581
+zaskoczyć	zachęcać	1.1222358258384673
+przebaczyć	polegać	0.8719966183749358
+uwalniać	jednoczyć	1.0547904978404548
+spotykać	doglądać	0.7753226133093818
+służyć	pokrzepiać	0.5618243911460153
+wspomagać	współpracować	0.9743923491584194
+uwalniać	kooperować	1.4081635649937159
+chronić	udzielać	0.8269373184939645
+doglądać	ratować	0.6548445776781255
+ratować	wspomagać	0.5946395508451496
+przedstawić	traktować	0.9386487808647644
+przedrzeźniać	użyczyć	1.0454587788544505
+poślubić	stronić	1.3991428855653365
+doradzać	wspomagać	0.3931941338034535
+traktować	wybaczyć	0.7401950223911776
+przedrzeźniać	jednoczyć	1.1013991898493412
+służyć	zabezpieczyć	0.594967380017799
+przedstawić	pomagać	0.9190434365579686
+współpracować	wybaczyć	0.9695489062597384
+słuchać się	zaprosić	1.0125279229189634
+wspierać	pomagać	0.24569955946366182
+naśladować	zaprosić	1.2001065938170667
+spiskować	doglądać	1.2581459488157605
+wspomagać	troszczyć się	0.3534630724269646
+wspomagać	poganiać	1.3194272886237686
+poganiać	fatygować	1.294036172227212
+zależeć	współpracować	0.8238388867303374
+fatygować	naśladować	1.1085764017681394
+powitać	chronić	1.020192685029337
+doglądać	bronić	0.57924452543935
+traktować	polegać	1.0106542211641896
+użyczyć	unikać	1.122815907892101
+ratować	poganiać	1.3331537072509305
+wybaczyć	unikać	0.7126917968296821
+ratować	naśladować	0.9910393087572212
+bronić	przebaczyć	0.9425035384830801
+mieć wpływ	unikać	0.9660963114874597
+narzucać się	doglądać	1.1942060325602064
+chronić	spiskować	1.5062894332081136
+przedstawić	powitać	0.5789644652913203
+wspomagać	poślubić	0.8915984561640016
+zaskoczyć	zaślubić	1.3915224413041536
+użyczyć	poślubić	1.4386225209667416
+obchodzić się	spiskować	1.2035657756646463
+ratować	spiskować	1.4349012247973336
+polegać	integrować	0.7626916798954982
+wybaczyć	powitać	1.0485833912514153
+udzielać	ratować	0.9109587560543777
+wspomagać	służyć	0.4851608923968207
+jednoczyć	stronić	1.0255903579767776
+pomagać	traktować	0.7836767950441685
+spotykać	chronić	1.0501604956109036
+zachęcać	pomagać	0.6954246373912023
+zachęcać	naśladować	1.1143560946189488
+zachęcać	pokrzepiać	0.7613758784082465
+wspomagać	przedrzeźniać	1.0609242841739692
+integrować	bronić	1.2328701620779317
+udzielać	pocieszać	0.6954394456211934
+przedrzeźniać	znosić	0.7660349230883758
+poślubić	zależeć	1.1671221536844423
+wspierać	chronić	0.5264759244284227
+powitać	zachęcać	0.7597115694805776
+przedstawić	ratować	1.1231146444955824
+pomagać	pocieszać	0.39277834078857665
+wspierać	bawić się	1.2983874280432355
+unikać	chronić	1.149845357859806
+przedstawić	pokrzepiać	1.033183549315962
+troszczyć się	narzucać się	1.1037322642997862
+uwalniać	integrować	1.2550477720916606
+zaślubić	leczyć	1.055917455393073
+zależeć	pocieszać	1.008424880202576
+pokrzepiać	odwiedzać	0.7343601724515957
+zaprosić	narzucać się	0.7048684888391709
+wspomagać	integrować	0.9734764606469974
+integrować	doglądać	1.1862365228748906
+mieć wpływ	pocieszać	0.9231529026767621
+przedstawić	odwiedzać	0.8255895508655096
+spiskować	traktować	1.212949060861348
+wspierać	traktować	0.8389687293943698
+leczyć	troszczyć się	0.6220213557340933
+zachęcać	mieć wpływ	0.7812069716657198
+narzucać się	udzielać	1.4102235911617411
+traktować	zaprosić	1.0682394780738123
+pomagać	przedrzeźniać	0.8489399924430565
+współpracować	ratować	1.2272142405722568
+chronić	ustąpić	1.0947004175437898
+wspierać	doglądać	0.5771158565164248
+spotykać	uwalniać	1.0578461961206873
+polegać	naśladować	0.8796458274336854
+współpracować	zaprosić	0.9565584265426644
+zaślubić	wspierać	0.8922552568450693
+unikać	jednoczyć	0.9703752761952658
+traktować	integrować	1.1738804065238924
+ratować	narzucać się	1.169243887182223
+użyczyć	narzucać się	1.0580491627492015
+służyć	leczyć	0.5071210425715309
+spotykać	zaskoczyć	1.008111649858787
+troszczyć się	unikać	0.9973844923686367
+pocieszać	zaprosić	0.9278895812188762
+ustąpić	leczyć	0.9086306825462613
+zaprosić	stronić	1.2528274226327905
+pomagać	poganiać	1.1746996654443813
+ustąpić	stronić	0.6302435299385987
+zachęcać	doglądać	0.6947465210305271
+zależeć	fatygować	1.1600129253407148
+jednoczyć	bronić	0.9787314290208604
+znosić	fatygować	1.1507653611885322
+powitać	spotykać	0.638159460399056
+poślubić	bronić	1.0635407854132382
+obchodzić się	pokrzepiać	1.0420866950198868
+ratować	wybaczyć	1.0487989231330075
+naśladować	integrować	1.017434095274871
+słuchać się	naśladować	1.1476755728327888
+znosić	spiskować	0.9871911860888405
+bawić się	współpracować	1.14178352164558
+poślubić	integrować	1.212426247397698
+pomagać	spotykać	0.8928805215663316
+obchodzić się	zabezpieczyć	0.9113865658847203
+wspierać	poślubić	0.8699423773504661
+zaprosić	mieć wpływ	0.8660105029338218
+wspomagać	przedstawić	1.0330702819139392
+użyczyć	mieć wpływ	1.1251242107284813
+polegać	ratować	1.1140237066468202
+służyć	fatygować	0.7898046453522966
+fatygować	polegać	1.195138614597187
+poślubić	zaprosić	1.0788146188409573
+pocieszać	uwalniać	1.0010476603182463
+odwiedzać	wspierać	0.6961379801132327
+doglądać	służyć	0.5513622368178163
+bawić się	pokrzepiać	1.3464481728731919
+pomagać	mieć wpływ	0.9735522540235971
+narzucać się	słuchać się	1.1783789652161436
+znosić	naśladować	1.0097619225456054
+zaślubić	narzucać się	1.396014803028167
+ustąpić	spotykać	0.7615343621821715
+bronić	unikać	1.350459325416837
+jednoczyć	przedstawić	0.7487408235179943
+słuchać się	uwalniać	1.2260541891124253
+traktować	zabezpieczyć	1.0224189667255428
+stronić	przedstawić	1.103228796822119
+mieć wpływ	fatygować	1.2117005609442506
+bronić	słuchać się	1.0353776660660468
+pomagać	bawić się	1.291714596280065
+traktować	ratować	0.9927081250102782
+fatygować	narzucać się	1.0448201461729791
+uwalniać	obchodzić się	1.1757305276933327
+jednoczyć	integrować	0.30155018902115077
+narzucać się	mieć wpływ	1.0887873549414289
+zależeć	doglądać	0.9874638801858912
+wspierać	spotykać	0.8223083147873812
+mieć wpływ	zaślubić	1.0838413320822573
+słuchać się	powitać	0.9275899640937855
+pokrzepiać	naśladować	1.0654289525853735
+wybaczyć	przedrzeźniać	0.9392148242664425
+bawić się	użyczyć	1.0570951801933681
+polegać	znosić	0.940102468285659
+znosić	zaskoczyć	1.021679516334741
+powitać	stronić	1.095875790009023
+pokrzepiać	ratować	0.6027375264855531
+polegać	spiskować	1.2197352712115663
+przedrzeźniać	przebaczyć	0.928148819079303
+spiskować	integrować	0.9740037915506625
+przedstawić	przedrzeźniać	1.0692666888657862
+pokrzepiać	zaprosić	1.0384469299745493
+zaprosić	użyczyć	1.0166036653334718
+odwiedzać	słuchać się	1.0261343090467483
+wspierać	kooperować	0.8117857143059138
+spiskować	pokrzepiać	1.2638809836481926
+kooperować	użyczyć	0.9638258713602429
+udzielać	doglądać	0.7797969301047885
+stronić	poganiać	1.0560781826432173
+uwalniać	pokrzepiać	1.195111775920917
+stronić	troszczyć się	1.002826089617355
+zaprosić	poganiać	0.8631493928940389
+przedrzeźniać	zaskoczyć	0.9572287733000401
+spotykać	stronić	0.9900339691966397
+spotykać	unikać	1.0205012713901747
+powitać	ratować	1.0022168747463618
+mieć wpływ	wspierać	0.8784553628820715

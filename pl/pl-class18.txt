@@ -1,0 +1,497 @@
+Word1	Word2	Score
+spojrzeć	odzwierciedlać	1.1379034752318933
+przejrzeć	promienieć	1.1580494898020604
+błyskać	mrużyć	0.8627667039995476
+przeszukiwać	zamaskować	0.8450836446528518
+razić	pokazać	0.9992711725255653
+odkryć	obserwować	1.032431606985278
+przejrzeć	słuchać	0.8078727785126417
+prezentować	postrzegać	0.9716611651432183
+odkryć	pominąć	1.0082317611328713
+postrzegać	zamaskować	0.9516618046771818
+odzwierciedlać	pokazać	0.9997690929130783
+promienieć	przeszukiwać	1.0277791677743218
+patrzeć	różnić się	1.1264463682711983
+przeszukiwać	gapić się	0.8726130944850959
+prezentować	naśladować	0.9605921631295142
+promienieć	postrzegać	1.1486703347194083
+znaleźć	udawać	1.1213930456424985
+pokazać	przejrzeć	0.9322028291251672
+przeszukiwać	przejrzeć	0.6899356930938528
+patrzeć	szukać	0.8809830661271496
+razić	odzwierciedlać	0.7696758767931572
+pominąć	odzwierciedlać	1.1678041748835113
+przejrzeć	mrużyć	0.9424110276497353
+prezentować	przejrzeć	0.8760639839099673
+spojrzeć	pokazać	1.0242211825960257
+różnić się	razić	0.9397050032733815
+spojrzeć	słyszeć	0.7619843000204316
+razić	promienieć	0.5585752904315994
+pokazać	znaleźć	1.0817493359680868
+odkryć	różnić się	1.2012771386234309
+patrzeć	błyskać	1.1266871671653818
+zacierać	odzwierciedlać	0.8980704925908154
+słuchać	odkryć	0.9427554064850582
+imitować	słyszeć	1.1830281573962025
+błyskać	słuchać	1.1242117796242033
+oglądać	pominąć	1.1340253322621436
+pokazać	zamaskować	1.1020473379909586
+mrużyć	prezentować	1.005310154414635
+słyszeć	zacierać	1.248573866059129
+szukać	spojrzeć	0.7814263460616898
+oglądać	zamaskować	1.0119060997025855
+pokazać	widzieć	0.93168324053124
+świecić	zacierać	0.9485119503927734
+patrzeć	słuchać	1.0024500800596865
+zacierać	pokazać	1.219272007856611
+gapić się	udawać	1.245844418852371
+błyskać	pojawić się	0.8406494929354875
+obserwować	zacierać	1.0049950170259356
+spojrzeć	gapić się	0.8586989904319241
+mrużyć	odzwierciedlać	0.9501465069979405
+obserwować	prezentować	0.9807274539520179
+odzwierciedlać	szukać	0.9622525758216196
+patrzeć	prezentować	0.9357201517435245
+widzieć	odkryć	0.8770105630818573
+naśladować	szukać	1.093561121641692
+pojawić się	mrużyć	0.9750167673940887
+naśladować	słuchać	1.0762836648769503
+świecić	prezentować	1.0611845334048478
+zamaskować	naśladować	1.044480366328943
+pojawić się	świecić	0.860883227093057
+odkryć	odzwierciedlać	1.1704833054775778
+spojrzeć	oglądać	0.4587243968340224
+udawać	razić	0.9606442801450187
+świecić	mrużyć	0.9044678232343425
+świecić	słuchać	1.0826098382058946
+znaleźć	gapić się	1.0307896131574927
+obserwować	pokazać	0.7997281670742419
+przejrzeć	udawać	1.1484564400936477
+obserwować	mrużyć	0.8939642032705443
+przeszukiwać	zacierać	0.9222581590036112
+pokazać	patrzeć	0.8594339653778903
+postrzegać	widzieć	0.8997103153095449
+znikać	naśladować	1.1353065842932046
+promienieć	imitować	0.6904220373136645
+pominąć	znaleźć	1.0313029141779573
+odkryć	prezentować	1.0219016316885412
+razić	mrużyć	0.9029315015976218
+przeszukiwać	pokazać	1.018457308511927
+odkryć	naśladować	1.29308027434792
+promienieć	znaleźć	1.2889994040282744
+promienieć	patrzeć	1.1061536772738914
+spojrzeć	przejrzeć	0.6294916118269247
+udawać	postrzegać	1.0138307404315892
+prezentować	oglądać	0.9252583010279875
+razić	pojawić się	0.884914529253718
+mrużyć	różnić się	0.7615801628097993
+widzieć	błyskać	1.331182905944822
+oglądać	świecić	1.1661794962142176
+odzwierciedlać	różnić się	0.8448387609671514
+zacierać	mrużyć	0.842512120326128
+pojawić się	patrzeć	0.9605041531897127
+imitować	mrużyć	0.9436852339299823
+zjawić się	gapić się	0.9178060712187317
+zamaskować	imitować	0.9069881508834986
+promienieć	pominąć	1.064878768868096
+oglądać	przejrzeć	0.6131621209405893
+naśladować	razić	1.0082660225530764
+postrzegać	słyszeć	0.9264468824079798
+zacierać	udawać	0.8981071477635522
+szukać	przeszukiwać	0.36335480154182576
+razić	odkryć	1.3926346766840934
+promienieć	udawać	0.7989294223170367
+znikać	postrzegać	1.1860489162697314
+widzieć	udawać	1.2734672715033928
+znaleźć	spojrzeć	0.9249061007796048
+pominąć	udawać	1.1402477990807975
+mrużyć	pominąć	0.9832988169491703
+szukać	promienieć	1.1851236116592156
+świecić	zamaskować	1.0333596653325252
+odkryć	postrzegać	0.7970508732923273
+odzwierciedlać	znikać	0.9392015830030729
+patrzeć	znikać	1.2250257540892722
+udawać	pojawić się	0.8793251348840737
+błyskać	różnić się	1.0582899124839937
+imitować	naśladować	0.5580879910989538
+naśladować	znaleźć	1.123891368157802
+szukać	obserwować	0.8195855439808655
+szukać	imitować	1.2295268300747015
+pojawić się	zamaskować	0.8954155481268081
+gapić się	zacierać	1.088009766907909
+pojawić się	odkryć	1.0386248015299726
+widzieć	mrużyć	1.0978292300938486
+razić	przeszukiwać	1.0738201858970757
+znikać	świecić	1.1521590388439191
+pominąć	patrzeć	1.226846651519056
+świecić	widzieć	1.3662765199723934
+słyszeć	udawać	1.1059477796586188
+prezentować	pokazać	0.25337083065047517
+znikać	widzieć	1.4233786743564536
+promienieć	pojawić się	0.7596654871181773
+pojawić się	pominąć	1.0553650883377512
+słuchać	pokazać	1.1624655115554265
+zacierać	znikać	0.6970400976573705
+pominąć	znikać	0.9908638635346131
+pominąć	zacierać	0.9577932876771168
+zacierać	promienieć	0.8987824388207963
+prezentować	znikać	1.2675624047060903
+znikać	przejrzeć	1.060029390049825
+postrzegać	pojawić się	0.9533290628164279
+naśladować	obserwować	1.213918114895362
+zjawić się	spojrzeć	0.9322728290242186
+zjawić się	słyszeć	0.8371544152577225
+patrzeć	oglądać	0.5809279587913826
+spojrzeć	widzieć	0.5372809592359635
+świecić	słyszeć	1.086806918012756
+słuchać	gapić się	0.8272860887211293
+słuchać	razić	1.0111165822596002
+znaleźć	zacierać	0.9107656618168108
+znikać	słyszeć	1.2700738918926282
+spojrzeć	przeszukiwać	0.7799351032929411
+pominąć	zjawić się	0.9790349433973852
+zacierać	różnić się	0.8591757711642077
+mrużyć	szukać	0.7889038319890549
+zamaskować	prezentować	1.1429588083190336
+zamaskować	obserwować	1.0871950218443707
+pominąć	słuchać	1.242977710001669
+patrzeć	gapić się	0.5707534503387298
+zjawić się	pojawić się	0.3473775320700974
+zacierać	przejrzeć	0.9884329532797828
+znaleźć	patrzeć	1.0515431860958406
+widzieć	prezentować	0.9417528778480085
+promienieć	gapić się	1.2545833982134038
+naśladować	błyskać	0.9821055480266999
+świecić	odkryć	1.302749603609419
+znaleźć	mrużyć	0.9308306057810416
+gapić się	przejrzeć	0.7575031627215856
+odkryć	imitować	1.2926346734240157
+szukać	odkryć	0.7068860936451885
+przeszukiwać	odkryć	0.5704319860631928
+pominąć	błyskać	1.1619047338752575
+promienieć	zamaskować	0.8935978282584873
+obserwować	słuchać	0.9619825182428462
+odzwierciedlać	naśladować	0.50123101547414
+znikać	promienieć	1.1024042758765304
+świecić	przejrzeć	1.1830259771583072
+razić	znikać	1.2062158624066839
+imitować	znaleźć	1.1292612733284855
+pojawić się	obserwować	0.8272368330595246
+gapić się	postrzegać	0.8500376411913113
+naśladować	pokazać	0.9954674180582532
+różnić się	słyszeć	1.0287832332158235
+naśladować	oglądać	1.239627634757299
+pominąć	szukać	1.0382997109884757
+znaleźć	widzieć	0.9327557598126762
+różnić się	promienieć	1.0214903304631546
+postrzegać	razić	1.1588187103481424
+imitować	widzieć	1.3536265034240977
+słuchać	mrużyć	0.9918228254411812
+zacierać	imitować	0.8351412506838519
+oglądać	imitować	1.2457451504071846
+różnić się	przejrzeć	1.0182318216551092
+pokazać	błyskać	0.8560822716151969
+słyszeć	razić	1.0239833908583833
+zjawić się	przeszukiwać	0.9399696799921728
+słuchać	spojrzeć	0.8130320511918218
+różnić się	postrzegać	1.1535862049455894
+prezentować	słyszeć	1.1459752173414686
+prezentować	promienieć	0.9381484459259679
+znaleźć	przeszukiwać	0.5457428739803668
+mrużyć	przeszukiwać	0.8382616516547078
+pokazać	zjawić się	0.7890761332082256
+pojawić się	spojrzeć	1.0045951625884693
+przeszukiwać	oglądać	0.7743708190489258
+zamaskować	zjawić się	0.8892294181681444
+znikać	oglądać	1.2498609124287694
+pojawić się	słuchać	0.9389121449767177
+różnić się	imitować	0.9448859627507266
+zjawić się	patrzeć	0.8821507323100138
+zacierać	szukać	0.8860366744574474
+spojrzeć	imitować	1.3088788383119008
+odzwierciedlać	świecić	0.7676189059978591
+pojawić się	prezentować	0.8332361459199372
+błyskać	odkryć	1.2770849588186188
+obserwować	udawać	1.1984438358426195
+słyszeć	odkryć	0.9621190635663504
+imitować	udawać	0.521294035372937
+gapić się	prezentować	0.8514363106434264
+zjawić się	zacierać	0.9960403475983918
+widzieć	obserwować	0.5805494585204426
+imitować	przeszukiwać	1.0817126175228604
+zjawić się	szukać	0.9849011487061732
+imitować	znikać	1.0608234068863664
+spojrzeć	pominąć	1.1636206043680366
+odkryć	spojrzeć	0.8975305126361253
+promienieć	odkryć	1.284250860897916
+naśladować	postrzegać	1.057900258805381
+postrzegać	imitować	1.1137016375813389
+słyszeć	przejrzeć	0.81395175578753
+gapić się	słyszeć	0.7888318996988805
+udawać	zamaskować	0.8226882465169256
+przejrzeć	odkryć	0.9098366168723215
+przejrzeć	postrzegać	0.6595449009087763
+szukać	zamaskować	0.9256226184420955
+zjawić się	odkryć	0.9084832495224273
+zamaskować	odzwierciedlać	0.886940076306142
+razić	patrzeć	1.1680427697657025
+prezentować	spojrzeć	1.0435296233086784
+prezentować	odzwierciedlać	1.0673886225224505
+znikać	spojrzeć	1.2294872045657397
+zjawić się	promienieć	0.7936427673263713
+znaleźć	prezentować	1.0413160118744245
+patrzeć	imitować	1.2555479981150277
+postrzegać	szukać	0.7837306472283361
+zamaskować	znaleźć	0.8676728141845707
+postrzegać	zjawić się	0.8547965413325604
+razić	gapić się	1.2784424382055461
+świecić	szukać	1.2016583878365175
+spojrzeć	naśladować	1.3034579771729753
+przeszukiwać	różnić się	0.9887281893877697
+pominąć	pokazać	1.3805322028779128
+przeszukiwać	pojawić się	0.8565338986027943
+świecić	różnić się	0.9379296031398158
+postrzegać	patrzeć	0.8839199632918923
+razić	widzieć	1.4244210736472227
+zjawić się	prezentować	0.8405192566149753
+szukać	błyskać	1.170935366442388
+postrzegać	mrużyć	0.8887514211074856
+postrzegać	zacierać	0.8980165074591956
+promienieć	widzieć	1.374502363858545
+odzwierciedlać	widzieć	1.2619988384137784
+znikać	przeszukiwać	0.8849869305725675
+pojawić się	imitować	0.8136560962963008
+zjawić się	obserwować	0.7938256137037115
+pojawić się	oglądać	0.9174234201173267
+pojawić się	gapić się	0.9527232152305849
+słyszeć	oglądać	0.9060309900883657
+imitować	słuchać	1.1334695762023819
+udawać	mrużyć	0.9588328481369746
+znaleźć	świecić	1.3043281203472106
+słuchać	różnić się	1.0590006986030018
+pojawić się	widzieć	1.0111378456131483
+słuchać	postrzegać	0.9520873244829853
+obserwować	przejrzeć	0.8034330628218496
+obserwować	oglądać	0.5733278816562563
+promienieć	oglądać	1.1631701124148526
+mrużyć	zamaskować	0.924351391457224
+pominąć	słyszeć	1.2354572886491397
+przeszukiwać	odzwierciedlać	0.9998880557977553
+razić	oglądać	1.2235859570713767
+słyszeć	widzieć	0.8637345661949581
+szukać	słyszeć	1.050556390206786
+udawać	zjawić się	0.8946625911335564
+oglądać	błyskać	1.1364145754160708
+zjawić się	razić	0.9588120390122623
+znaleźć	razić	1.3830572553050178
+zamaskować	pominąć	0.9306524301246438
+odzwierciedlać	słyszeć	1.0715682547680183
+oglądać	zacierać	1.0259226477856376
+obserwować	odzwierciedlać	1.1931568733165412
+pokazać	różnić się	1.0229221331664602
+postrzegać	pominąć	1.1642164951910192
+zjawić się	błyskać	0.9132434484101903
+odkryć	pokazać	1.0890567186261466
+widzieć	różnić się	1.3526475972967615
+błyskać	przeszukiwać	1.0756446740368288
+prezentować	szukać	1.0088541732513356
+zacierać	widzieć	1.2202040958068852
+szukać	razić	1.2062348540083851
+pominąć	imitować	1.2691329446037993
+postrzegać	znaleźć	0.7836077057935344
+słyszeć	patrzeć	0.9666495015353138
+oglądać	odkryć	0.8877591229170922
+razić	imitować	0.8048385205603328
+znaleźć	słuchać	0.9735843381613033
+świecić	patrzeć	1.1706106517970059
+naśladować	zjawić się	0.821845859740006
+razić	spojrzeć	1.244183765995324
+imitować	pokazać	0.9536897239943566
+błyskać	imitować	0.7106169662385989
+słuchać	oglądać	0.8335090910685211
+znikać	pojawić się	0.9589504747450484
+gapić się	odkryć	0.9044409577813125
+przeszukiwać	świecić	1.0511168512135987
+razić	świecić	0.5308925298252575
+naśladować	udawać	0.6315677212070647
+imitować	odzwierciedlać	0.4759393704292998
+zamaskować	słuchać	1.2295078115064284
+gapić się	różnić się	1.1853539433274651
+przeszukiwać	widzieć	0.8404265629927923
+odzwierciedlać	pojawić się	0.9080366386274041
+imitować	przejrzeć	1.2452482765799904
+gapić się	zamaskować	1.0598294099609462
+pominąć	razić	1.2892058302861742
+razić	prezentować	1.1244757471556355
+przejrzeć	zjawić się	0.7416374731886463
+razić	zacierać	1.0077910929302176
+słyszeć	mrużyć	0.9761508739239401
+obserwować	postrzegać	0.8638201833949534
+znaleźć	zjawić się	0.8991315521184985
+spojrzeć	świecić	1.1516785341459381
+promienieć	odzwierciedlać	0.7460101715646744
+szukać	znikać	0.9437731117299218
+przeszukiwać	pominąć	0.9622809169458093
+pokazać	mrużyć	1.0023027676114689
+słyszeć	obserwować	0.9274903945592374
+znikać	gapić się	1.3666037841129495
+przejrzeć	razić	1.2357443631914597
+przeszukiwać	słyszeć	0.9784142382306699
+patrzeć	mrużyć	0.9116655341018272
+oglądać	postrzegać	0.7441826871577422
+różnić się	pominąć	0.967300253209781
+znikać	zamaskować	0.9373846238148213
+pokazać	udawać	0.9373015184189414
+zjawić się	mrużyć	0.8376539821953842
+znaleźć	znikać	0.9235313607763291
+odzwierciedlać	znaleźć	0.9840217958447284
+naśladować	świecić	0.9329750642555401
+pominąć	świecić	1.1730806246804426
+błyskać	znaleźć	1.2798203781381061
+pokazać	postrzegać	0.964485265510102
+prezentować	różnić się	1.0728701652905088
+znikać	pokazać	1.2141667309268913
+gapić się	oglądać	0.6136213206070567
+przeszukiwać	udawać	0.9802086087730854
+odkryć	zacierać	0.9285976469176574
+znaleźć	oglądać	0.8164166933809193
+przejrzeć	naśladować	1.1028791289191153
+gapić się	naśladować	1.250251286157246
+prezentować	błyskać	1.0040984221229057
+znikać	udawać	0.9828662900797994
+zamaskować	słyszeć	1.2166943468154203
+widzieć	przejrzeć	0.6840281098818937
+udawać	patrzeć	1.1630401353601574
+pokazać	promienieć	0.8275764711638764
+widzieć	pominąć	1.238108312406671
+przeszukiwać	naśladować	1.0591463110934356
+patrzeć	przeszukiwać	0.8679585578043462
+odkryć	mrużyć	0.9226144119740812
+odzwierciedlać	postrzegać	0.930464784377751
+błyskać	obserwować	1.232760694810875
+promienieć	obserwować	1.0338811778487798
+szukać	różnić się	1.1246531750388309
+przejrzeć	pominąć	1.0009829438671887
+słuchać	promienieć	1.1133322217047308
+odkryć	patrzeć	1.0474661401366363
+mrużyć	znikać	0.9076059673654072
+słuchać	przeszukiwać	0.9914429467079886
+świecić	błyskać	0.40071173928200576
+spojrzeć	mrużyć	0.9940904404289479
+słyszeć	błyskać	1.0899336563473347
+imitować	świecić	0.6734201501339081
+naśladować	patrzeć	1.223758001359044
+gapić się	obserwować	0.5418315709594372
+pojawić się	słyszeć	0.8760402938869268
+różnić się	udawać	0.9090920067040554
+słyszeć	słuchać	0.3083586776928598
+pojawić się	pokazać	0.7988746700822595
+pominąć	naśladować	1.1830020941787915
+pominąć	gapić się	1.2453399207044622
+słuchać	udawać	1.149376551489461
+oglądać	mrużyć	0.9343402399527336
+świecić	pokazać	0.9227407167131249
+zjawić się	oglądać	0.8763292004754358
+promienieć	słyszeć	1.1409663862909467
+naśladować	promienieć	0.9311250286170704
+postrzegać	przeszukiwać	0.7417468665381742
+widzieć	patrzeć	0.5867949209385894
+szukać	pojawić się	0.9300073769381779
+spojrzeć	błyskać	1.1300854985773385
+naśladować	widzieć	1.2441116871114972
+odzwierciedlać	zjawić się	0.836053150064229
+szukać	gapić się	0.901617972100861
+zjawić się	różnić się	0.7728498403812745
+udawać	odzwierciedlać	0.784180325554832
+świecić	promienieć	0.30882657494853727
+różnić się	znikać	0.8929977172024759
+znaleźć	obserwować	1.0092393663844337
+spojrzeć	zamaskować	1.031066000755605
+zjawić się	znikać	0.9496055347022444
+błyskać	odzwierciedlać	0.7415106484095921
+zamaskować	zacierać	0.3896161031866662
+znaleźć	słyszeć	0.987090940438373
+odkryć	udawać	1.1961682180286775
+obserwować	przeszukiwać	0.8352471366883417
+widzieć	zjawić się	0.8871652705679719
+zamaskować	odkryć	0.9634319094214612
+widzieć	oglądać	0.47789970107217977
+zamaskować	razić	1.161081257781226
+przejrzeć	błyskać	1.1819696962433752
+zacierać	słuchać	1.186224387387558
+odzwierciedlać	patrzeć	1.173962375580097
+znikać	błyskać	1.1587460959623108
+udawać	świecić	0.8607419500587777
+różnić się	obserwować	1.049142615856774
+błyskać	promienieć	0.35432708912013905
+patrzeć	przejrzeć	0.7549567987547959
+pokazać	słyszeć	1.1409217286557463
+prezentować	pominąć	1.457404434303143
+błyskać	zamaskować	1.0708046889923395
+mrużyć	naśladować	0.9743505068574512
+zacierać	naśladować	0.9939356726682131
+imitować	zjawić się	0.7400423685684167
+obserwować	spojrzeć	0.6793506613486774
+udawać	szukać	1.0079666084022514
+przejrzeć	pojawić się	0.7983494979517662
+gapić się	świecić	1.2166621424398074
+odkryć	znikać	0.9751644820625628
+błyskać	postrzegać	1.1573698752710042
+patrzeć	spojrzeć	0.7324422104683548
+różnić się	znaleźć	1.1134252112681142
+udawać	oglądać	1.1595264658501256
+słuchać	szukać	1.0703179894288892
+prezentować	słuchać	1.1796645213347592
+imitować	obserwować	1.3008673441791139
+zacierać	patrzeć	1.0258692302217134
+promienieć	mrużyć	0.8111435974839699
+spojrzeć	promienieć	1.1786095917345036
+udawać	prezentować	0.9133564697217371
+prezentować	przeszukiwać	0.9682761607886109
+gapić się	mrużyć	1.0337793113482519
+zacierać	pojawić się	0.940193500697183
+znikać	słuchać	1.2612130099283074
+obserwować	znikać	1.2786091087758928
+pokazać	gapić się	0.838121731686467
+zacierać	spojrzeć	1.0402537789554585
+przejrzeć	zamaskować	0.8944466837688687
+oglądać	różnić się	1.3359881861582465
+przejrzeć	znaleźć	0.8113045119934473
+widzieć	szukać	0.8469002394640995
+imitować	gapić się	1.193502435922057
+szukać	pokazać	0.9690053198747618
+oglądać	szukać	0.7500100172822343
+obserwować	patrzeć	0.33341103283611645
+naśladować	pojawić się	0.9260995325619904
+słuchać	odzwierciedlać	0.9437547011430836
+widzieć	gapić się	0.43294097457866804
+pojawić się	znaleźć	0.9605953020256628
+szukać	przejrzeć	0.6490682598750795
+zjawić się	słuchać	0.8703636426759156
+błyskać	gapić się	1.2223199893199754
+patrzeć	zamaskować	1.1520889801726115
+różnić się	zamaskować	0.8603909591042311
+różnić się	pojawić się	0.9576795567508111
+widzieć	zamaskować	1.1242901583569131
+razić	obserwować	1.2408629848573474
+pominąć	obserwować	1.1365700120951006
+odzwierciedlać	gapić się	1.1948262795694145
+słyszeć	naśladować	1.1006676092053398
+prezentować	imitować	0.9853157381301365
+spojrzeć	różnić się	1.317302791423943
+oglądać	odzwierciedlać	1.0765402948587586
+odkryć	znaleźć	0.45711776172603813
+udawać	spojrzeć	1.1246611466105039
+świecić	zjawić się	0.8786755124044981
+świecić	postrzegać	1.1901475142325264
+prezentować	zacierać	1.3072774562355882
+błyskać	zacierać	0.9689306992590596
+razić	błyskać	0.5622324475784148
+słuchać	widzieć	0.8937310978654833
+postrzegać	spojrzeć	0.7275236621509387
+świecić	obserwować	1.2287233601769707
+różnić się	naśladować	1.0124186481019355
+szukać	znaleźć	0.6401323776565193
+udawać	błyskać	0.8613278065200812
+odzwierciedlać	przejrzeć	1.1481996360219864
+pokazać	oglądać	0.9320855666437795

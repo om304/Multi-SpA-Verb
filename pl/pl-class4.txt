@@ -1,0 +1,2212 @@
+Word1	Word2	Score
+poświęcać	powieść się	1.0342049607651362
+wykorzystać	liczyć się	0.9860024943351295
+stawiać czoła	kontrolować	0.9825308244397167
+robić	zdobyć	1.1093139592623547
+kończyć	dążyć	0.9106572955082716
+harować	produkować	0.9634539203457045
+wykorzystać	wykonać	1.153800317065371
+dominować	rekrutować	0.8635002612869421
+uczestniczyć	nagradzać	0.9096412579010046
+produkować	tworzyć	0.6129270555459673
+przezwyciężać	podołać	0.5363482973606374
+uruchomić	kontrolować	1.180438024385928
+hodować	wygrać	1.104483976237134
+ćwiczyć	próbować	0.542152122189841
+przewyższać	zmierzyć się	0.8647615451047354
+utrudniać	udaremnić	0.4383101251439671
+handlować	prosperować	1.0066530711628436
+wykorzystać	kierować	1.0874211575055608
+wykorzystać	prosperować	0.9487378752713067
+kapitulować	wznieść się	0.934458313028936
+robić	utrudniać	0.9971031235010249
+zmierzyć się	współpracować	0.8740900603298998
+robić	wykorzystać	1.2087688805700552
+pokonać	znaczyć	1.0841145442446496
+organizować	powieść się	1.0626093788793889
+stawiać czoła	dążyć	0.9418940378259434
+wyróżniać się	angażować	0.9112737998959304
+podbić	handlować	1.0851532456813662
+ćwiczyć	przewyższać	0.8816666854443019
+dążyć	triumfować	0.7179763779323042
+przezwyciężać	starać się	0.7320942987408696
+działać	kapitulować	0.9638892688253077
+organizować	wykonać	1.2606563176043535
+rekrutować	uruchomić	1.180203830060765
+kooperować	harować	1.1053204661804794
+tworzyć	triumfować	0.9601056771739265
+prowadzić	hodować	1.154629524868547
+kosić	zmagać się	1.1076771599699318
+stawiać czoła	nagradzać	1.0510064434793671
+robić	odważyć się	0.9956548657052088
+zmierzyć się	pokonać	1.0156931009158623
+współpracować	uruchomić	1.102983879666513
+organizować	działać	0.9749789567397997
+pracować	organizować	1.1483477776614777
+uczestniczyć	starać się	0.698565925442204
+utrudniać	przewyższać	1.1003694942756825
+uczestniczyć	uruchomić	1.088198607970421
+rywalizować	zmagać się	0.9236848988557825
+utrudniać	uaktualniać	0.9173088584656757
+dominować	nagradzać	1.014675085420019
+wygrać	przewyższać	0.6446787341946932
+wyróżniać się	dążyć	0.8127125696531861
+kooperować	poświęcać	1.0045146156725304
+rywalizować	triumfować	0.8970476386244142
+rywalizować	uruchomić	0.9701833327484324
+próbować	utrudniać	0.9270094861639827
+ryzykować	wygrać	0.7443681564949337
+uaktualniać	zmagać się	1.0401277845533219
+ukończyć	wyróżniać się	1.095917941782916
+podbić	przeznaczać	1.0870416511489458
+angażować	kapitulować	1.149869217468448
+kapitulować	powtarzać	0.9806473761111603
+dążyć	prowadzić	0.9007837620794704
+kooperować	wykorzystać	1.1437317937731426
+przezwyciężać	prowadzić	0.9657544346938101
+przeznaczać	uczestniczyć	1.2045782222084644
+wygrać	przezwyciężać	0.5542808460685551
+prowadzić	spróbować	0.9017825724473687
+starać się	orać	1.0363342376760347
+dominować	uaktualniać	1.0582992486503686
+zmagać się	prosperować	1.1173063960131875
+przezwyciężać	kończyć	0.8253604185621579
+pokonać	orać	1.135348655191801
+podołać	uczęszczać	0.861566501175797
+próbować	produkować	1.0214132753350003
+osiągnąć	robić	1.0349387767643796
+hodować	przezwyciężać	1.2404197956160827
+pracować	zarządzać	1.3276959820232823
+rywalizować	działać	0.8769106883851508
+przewyższać	uaktualniać	0.888880266795578
+udaremnić	rywalizować	1.104751931140529
+uaktualniać	podbić	1.0192449532068018
+hodować	angażować	1.153595067201082
+kooperować	prowadzić	0.8077411471115468
+poświęcać	zmierzyć się	1.000828097426462
+powieść się	nagradzać	0.7750081862339661
+kooperować	odważyć się	0.8749906630835682
+ćwiczyć	wykonać	0.875237240789553
+próbować	nagradzać	1.181796119950204
+pracować	harować	0.6176162783441389
+dominować	wyróżniać się	0.9075238844021664
+handlować	zastosować	0.922477104149632
+wznieść się	podbić	0.9444120080374878
+utrudniać	powtarzać	0.9847766440049133
+działać	produkować	0.6518231785654965
+zdobyć	udaremnić	1.2744993390262265
+przezwyciężać	poświęcać	1.0217503407186999
+zarządzać	orać	1.2683473235040188
+liczyć się	nagradzać	0.5709031707261435
+pracować	rekrutować	1.197974921993656
+kontrolować	kosić	1.2256545127241758
+podołać	zarządzać	0.9319383195666235
+sterować	nagradzać	1.0236418026368759
+sterować	tworzyć	1.2212500943693707
+osiągnąć	organizować	1.053326543610617
+podołać	wykonać	0.7799443039327868
+przezwyciężać	wykonać	0.9797122194671901
+podbić	wygrać	0.4636068319720947
+wyróżniać się	kooperować	0.9846776536461913
+znaczyć	angażować	0.9753038801268041
+wykonać	liczyć się	0.9188923969185769
+hodować	starać się	0.9777114175868614
+przezwyciężać	harować	1.0058821018116624
+osiągnąć	wykorzystać	1.17202501454885
+uczęszczać	próbować	1.0554026138509238
+zmagać się	pokonać	0.9309643465990357
+sterować	hodować	1.4435622682618505
+pokonać	podołać	0.7783718588299305
+kapitulować	uruchomić	1.0229021077510938
+zawieść	współpracować	0.9693107694115687
+nagradzać	działać	1.0637834836873836
+podbić	angażować	1.0093874076709426
+przewyższać	tworzyć	1.0178136117218288
+ryzykować	uczestniczyć	0.8716347365243307
+odważyć się	podbić	0.7721114956213059
+uaktualniać	wykorzystać	1.0726659427550813
+harować	triumfować	1.046922132156678
+nagradzać	harować	0.8483740204203016
+kooperować	liczyć się	0.7731438196875997
+zawieść	kierować	1.0804078442687157
+produkować	prowadzić	1.2219933315044873
+kapitulować	utrudniać	0.943880442941734
+kontrolować	dominować	0.9036617447218116
+stawiać czoła	odważyć się	0.7229030128772972
+tworzyć	prosperować	0.9457708537833504
+nagradzać	wykonać	1.0993388017132206
+wznieść się	kosić	1.054409213699497
+pokonać	tworzyć	1.2353012139284074
+triumfować	promować	0.953808520909144
+triumfować	spróbować	0.7369044961309122
+ukończyć	przeznaczać	1.1878959573172816
+harować	dążyć	0.9769079170495645
+ukończyć	zarządzać	1.2371813471199182
+przezwyciężać	zdobyć	0.6547548410983203
+produkować	dążyć	1.064231016366159
+wznieść się	spróbować	0.8232667279170964
+uczestniczyć	znaczyć	0.8829358673408317
+wygrać	triumfować	0.27024527289382766
+nagradzać	dokonać	0.8190961127116707
+zmagać się	przeznaczać	1.0538663225486433
+liczyć się	znaczyć	0.5315693438761525
+ćwiczyć	udaremnić	1.0167698016929487
+wygrać	zmagać się	0.9813353395096511
+stawiać czoła	zdobyć	1.072614915268457
+rywalizować	rekrutować	1.0825741045566195
+starać się	promować	0.9910474903702657
+produkować	udaremnić	1.199487526058029
+spróbować	przytłaczać	1.0202291288662948
+produkować	przytłaczać	1.165634128415825
+przytłaczać	kontrolować	1.0371368586453402
+kosić	rekrutować	1.1871813403760811
+przeznaczać	tworzyć	1.0180226521016105
+przytłaczać	rywalizować	1.0505768869492238
+prowadzić	przewyższać	0.9188314306646024
+dążyć	przeznaczać	1.2000189952530775
+zmierzyć się	uaktualniać	0.8630577495097181
+uczestniczyć	utrudniać	0.996538731313409
+wznieść się	powieść się	0.7804567929435107
+powieść się	uczęszczać	0.872261195770641
+udaremnić	zastosować	1.1848223608729576
+pokonać	handlować	1.2431892140313499
+kosić	podołać	1.0414029565302505
+kierować	utrudniać	1.0906860392162594
+wykonać	utrudniać	1.05121970644234
+handlować	organizować	1.2298871681678285
+stawiać czoła	angażować	0.8754629703500704
+wznieść się	przytłaczać	0.7746042076200278
+prosperować	zmierzyć się	0.9042502662628669
+liczyć się	kierować	0.9100060510531733
+przezwyciężać	próbować	0.9800059180268152
+handlować	ryzykować	1.1527690175787277
+dominować	pracować	1.169572989841459
+kosić	wyróżniać się	1.0351917192433937
+przeznaczać	zastosować	1.2572796854224741
+harować	liczyć się	1.0285173478121523
+przewyższać	handlować	1.1288108588619856
+rekrutować	organizować	0.8381402332481257
+kontrolować	spróbować	0.8961819912383762
+osiągnąć	przeznaczać	1.278661002683568
+kapitulować	zmierzyć się	1.0319285721454117
+uaktualniać	liczyć się	1.0071336622009075
+udaremnić	angażować	0.9914850837597761
+przewyższać	wznieść się	0.5971355310522094
+zdobyć	spróbować	1.0516160415188427
+powtarzać	ukończyć	1.3461934094946233
+powtarzać	kontrolować	1.3031807121163077
+stawiać czoła	osiągnąć	0.9522333150366932
+poświęcać	rywalizować	0.92776226556163
+zawieść	wykorzystać	0.8691986231780549
+dążyć	handlować	1.1114171190910827
+wznieść się	zdobyć	0.8573843745325505
+powieść się	zdobyć	0.3366260423004274
+uczestniczyć	pokonać	0.9983742792718977
+działać	sterować	0.9857681022128911
+podbić	uczestniczyć	0.9233763516054935
+promować	pokonać	0.9961963136133963
+przezwyciężać	uruchomić	1.0541139610007262
+prosperować	kosić	1.0185728702613477
+stawiać czoła	dominować	0.8237249618499144
+podołać	rekrutować	1.0121395531838433
+wygrać	udaremnić	1.2031855118768189
+promować	wykonać	1.0508247591394808
+orać	podbić	1.118091642762125
+organizować	zarządzać	0.5531047090848132
+rywalizować	dążyć	0.7814638364892108
+wykorzystać	działać	1.2532080984612253
+zastosować	działać	0.8817034681057909
+wyróżniać się	triumfować	0.9973674062071246
+nagradzać	przezwyciężać	0.9558600623479966
+prowadzić	udaremnić	1.211779694584355
+osiągnąć	pracować	0.923235958369369
+zastosować	wygrać	1.0555182075377352
+kosić	liczyć się	0.9704294451441354
+wznieść się	rekrutować	1.0198788128493312
+nagradzać	kapitulować	1.1763433243026777
+dokonać	prowadzić	1.2228212786481787
+promować	działać	0.9444884930925677
+dokonać	odważyć się	0.7676417387913489
+działać	uczestniczyć	0.866632681663603
+liczyć się	wznieść się	0.5232496679132463
+wykorzystać	rekrutować	1.1321194574678775
+rywalizować	pokonać	0.9195843248419878
+uruchomić	udaremnić	1.1666074579261345
+powtarzać	nagradzać	1.1712015874885624
+przeznaczać	wznieść się	1.042907957102069
+przezwyciężać	utrudniać	1.2258821846261945
+rywalizować	ćwiczyć	0.755247972342584
+zastosować	utrudniać	1.0264647104439022
+przytłaczać	znaczyć	0.9589373692940798
+przytłaczać	kierować	0.8187557370282764
+kosić	spróbować	1.1678595940081091
+wznieść się	odważyć się	0.8292297922121805
+dominować	udaremnić	1.1193334543345326
+osiągnąć	utrudniać	1.1815211552080702
+prowadzić	angażować	0.7633249149404119
+rekrutować	starać się	0.9015583587589368
+handlować	zawieść	1.1511114795101745
+prosperować	uaktualniać	0.8479472679889616
+próbować	osiągnąć	0.9964689788025816
+triumfować	udaremnić	1.2835637092824865
+ryzykować	dokonać	1.019883908292199
+ćwiczyć	odważyć się	0.5980555459983344
+organizować	przeznaczać	1.0319172500814515
+rekrutować	tworzyć	1.153194981338732
+próbować	powtarzać	0.8447267182769799
+triumfować	hodować	1.1574764882408826
+podołać	prowadzić	1.0877086000493212
+dokonać	kapitulować	1.1271640453492227
+angażować	rekrutować	0.8344815175411366
+pokonać	utrudniać	1.1477626266868532
+wygrać	robić	0.9754631547611795
+zarządzać	uczestniczyć	0.8010248804813426
+działać	kierować	1.0471186127568144
+wyróżniać się	współpracować	0.9929285520701595
+wznieść się	wykorzystać	1.096739469248426
+próbować	ukończyć	1.361949116949513
+kontrolować	rekrutować	0.8159743235625235
+utrudniać	wygrać	1.2451740186096485
+ćwiczyć	pokonać	0.8113213541408748
+przewyższać	osiągnąć	0.7199882227993151
+przeznaczać	zdobyć	1.194918808055156
+wykonać	kosić	0.972774927721967
+wygrać	kapitulować	1.1099125980732203
+utrudniać	przytłaczać	0.7186470882092866
+powtarzać	kierować	1.1909475272240913
+wznieść się	poświęcać	0.7024862384288488
+wygrać	przytłaczać	1.1362355165028066
+uaktualniać	działać	0.8948538518382656
+wznieść się	dokonać	0.9877490766228768
+triumfować	dominować	0.5955766820126028
+hodować	próbować	1.3641756867954116
+dominować	znaczyć	1.0203476960742555
+kierować	wygrać	1.037046507864143
+odważyć się	zmagać się	0.6546775175896327
+nagradzać	wygrać	0.8048730711053869
+stawiać czoła	przytłaczać	0.8687809800575539
+podbić	przewyższać	0.9943392577016859
+przytłaczać	udaremnić	0.7302274164301533
+poświęcać	kontrolować	1.1057804038762378
+znaczyć	hodować	1.152085551616737
+pracować	powieść się	1.0540624553845124
+odważyć się	wykorzystać	0.859212323963236
+uruchomić	przytłaczać	1.23119778424356
+przewyższać	uruchomić	0.9323895267793318
+kosić	odważyć się	1.0528815392094155
+zarządzać	zmagać się	1.0158681926085058
+produkować	handlować	1.0611221457887423
+kooperować	prosperować	0.911091493438884
+udaremnić	ryzykować	1.0922271917431603
+pokonać	powtarzać	1.1988616013136353
+harować	podołać	0.9679830088987315
+uaktualniać	powieść się	1.0417290348227448
+tworzyć	uczestniczyć	1.1246305962043002
+dążyć	kierować	1.111081412308083
+próbować	dokonać	1.056924722802449
+przezwyciężać	wznieść się	0.9096904850527359
+triumfować	angażować	0.8569948657746983
+pokonać	triumfować	0.6199360461092277
+nagradzać	pokonać	0.9638559913850345
+wykonać	odważyć się	1.0601335202807998
+harować	osiągnąć	0.9803485209620336
+wyróżniać się	kierować	0.8577997538999259
+wyróżniać się	prosperować	0.7029254191953144
+tworzyć	próbować	1.1371398852227064
+spróbować	współpracować	1.026859145395501
+uaktualniać	rywalizować	1.1268122908344274
+wznieść się	angażować	0.9844882872174231
+handlować	odważyć się	1.1102963315638985
+prosperować	przeznaczać	1.1644718383700325
+hodować	uruchomić	1.34080692428203
+zdobyć	sterować	0.9466702567574474
+przezwyciężać	spróbować	0.6416546987807755
+prowadzić	współpracować	0.8439772520923037
+próbować	handlować	1.3547168144775816
+zarządzać	uaktualniać	1.182187589344067
+handlować	wznieść się	0.9116736733973065
+próbować	kapitulować	0.919122671997896
+zmierzyć się	powieść się	1.0139919252184963
+pokonać	przezwyciężać	0.728334513193257
+zawieść	robić	1.0639632498952005
+odważyć się	współpracować	0.8842024951242199
+osiągnąć	uczestniczyć	0.9274989752320221
+zdobyć	kierować	1.0257335955417821
+produkować	hodować	1.1442310961846767
+angażować	kosić	1.3905319728958951
+uruchomić	promować	0.8787408148492681
+znaczyć	spróbować	1.0307137231203274
+zawieść	nagradzać	1.1537161018784516
+przewyższać	organizować	0.8799289251966788
+zmierzyć się	ukończyć	0.9445489125400247
+stawiać czoła	przezwyciężać	0.8661620415623166
+przezwyciężać	wyróżniać się	0.8468009578077826
+znaczyć	zmagać się	0.928460797088494
+przeznaczać	liczyć się	0.8870967402938041
+poświęcać	przewyższać	0.7324479481186558
+wykorzystać	dążyć	0.9805211706303395
+działać	dokonać	0.8849587734832906
+wznieść się	utrudniać	0.9091468223112816
+robić	przewyższać	0.9577026062477774
+ukończyć	prowadzić	1.1633382473724447
+wygrać	wykonać	0.8917709229633543
+kończyć	liczyć się	0.9506402126882781
+kooperować	spróbować	0.9603281937805049
+podołać	przeznaczać	1.2066340081543938
+robić	angażować	0.9448655016127563
+zastosować	dokonać	0.894145391364512
+wykorzystać	ryzykować	1.1628575161450603
+zawieść	powtarzać	0.9999975450955981
+kapitulować	handlować	1.0612803008041225
+podbić	kończyć	1.069816682399431
+zmagać się	kooperować	0.9939374419119691
+zdobyć	angażować	0.9047365086251817
+starać się	poświęcać	0.7712330245013215
+podbić	ukończyć	0.933909957558381
+orać	ryzykować	1.00921090014395
+wyróżniać się	orać	1.0387471970624775
+kierować	kontrolować	0.6344935792973586
+promować	wykorzystać	0.9092388493167862
+podołać	spróbować	0.7038724252906351
+kooperować	utrudniać	1.2974881892911934
+ryzykować	spróbować	0.8292923591563637
+kooperować	przeznaczać	1.0708299811137538
+liczyć się	udaremnić	0.9237828366624748
+przeznaczać	triumfować	1.269442002985962
+przeznaczać	nagradzać	1.0490882785051006
+utrudniać	zarządzać	1.1734222215415941
+prowadzić	odważyć się	1.006375395233527
+podbić	wyróżniać się	1.0589955800044883
+przezwyciężać	uczęszczać	0.8192505247111008
+pracować	starać się	0.8899259852583118
+zmagać się	zmierzyć się	0.7569861263761684
+kończyć	tworzyć	1.0178513697993778
+uaktualniać	zawieść	1.0449113691828387
+współpracować	triumfować	0.9392165128468991
+kontrolować	prosperować	0.820815554634983
+rywalizować	utrudniać	1.1406949791977412
+powieść się	kosić	1.0077320581203872
+hodować	zmierzyć się	0.9309771499077915
+liczyć się	produkować	1.0176379788706784
+triumfować	uruchomić	0.9983392465592839
+ćwiczyć	wyróżniać się	0.9491263443223259
+tworzyć	podołać	0.9736845251246791
+pokonać	wygrać	0.5450639813254223
+spróbować	kończyć	1.0238131765003635
+pracować	dokonać	0.6951898213815033
+współpracować	wykorzystać	1.1697905635535708
+powtarzać	kosić	1.159078662897304
+robić	dokonać	0.8074076964200022
+próbować	wygrać	1.02094369414974
+poświęcać	przeznaczać	1.0414043089060836
+wykonać	poświęcać	1.0634702787543782
+promować	poświęcać	0.8907585007474208
+odważyć się	starać się	0.4452975140206353
+liczyć się	przewyższać	0.7165028397283857
+ćwiczyć	hodować	1.2413685068505333
+ćwiczyć	produkować	0.9869088717124761
+spróbować	pracować	0.970877283878799
+zmierzyć się	ryzykować	0.727373490920981
+działać	kosić	1.0290783635291156
+handlować	hodować	0.7315785686256846
+przeznaczać	kontrolować	1.1388731685502744
+produkować	zdobyć	1.1155912817362355
+rekrutować	przeznaczać	0.8481673576650872
+prosperować	kończyć	1.0022785240493945
+dokonać	sterować	1.268953231742692
+pracować	tworzyć	0.6801170726572077
+wykonać	zastosować	0.7449419231965742
+sterować	przezwyciężać	0.8664874387861393
+przezwyciężać	kooperować	0.9396306610724079
+promować	kończyć	1.0113883294559167
+zastosować	triumfować	0.9793305331493937
+kontrolować	ćwiczyć	0.835402501617098
+wznieść się	ryzykować	0.7571172657441085
+przezwyciężać	znaczyć	0.9851125892106559
+rekrutować	powtarzać	1.3492847594167128
+spróbować	kapitulować	1.2378496084581765
+kończyć	osiągnąć	0.7937870378164359
+wykonać	robić	0.672661071980375
+powtarzać	kończyć	1.3543427570990425
+pokonać	przytłaczać	1.098503600951904
+uaktualniać	prowadzić	1.2094829203363466
+przeznaczać	promować	0.9581802322207257
+promować	uczestniczyć	0.890718775110753
+uczestniczyć	ćwiczyć	0.8002066190808075
+przezwyciężać	kapitulować	1.1465933996536448
+osiągnąć	zdobyć	0.36996796890896716
+liczyć się	poświęcać	0.737726770783582
+wykonać	uczęszczać	1.066900818716511
+stawiać czoła	prowadzić	0.9261427848106984
+kooperować	kończyć	1.189877223797258
+poświęcać	triumfować	1.0039452190551619
+nagradzać	prowadzić	1.0229336537824516
+handlować	kontrolować	1.3297617675615692
+współpracować	rekrutować	0.8888541764530619
+podołać	robić	0.887522363788896
+prowadzić	starać się	0.8574543906126461
+robić	organizować	1.103646263678416
+powieść się	przeznaczać	1.2607315772566499
+próbować	kontrolować	1.1372042994404274
+liczyć się	robić	0.813223220419156
+osiągnąć	dokonać	0.7830702261601613
+hodować	uaktualniać	1.0999840006021846
+pokonać	zdobyć	0.5895671489062312
+prosperować	uruchomić	0.9608254563757599
+prowadzić	kierować	0.5090447624321052
+rekrutować	sterować	0.8262525320287203
+zastosować	pracować	0.9260248188923984
+prosperować	przytłaczać	1.1521676488810324
+kierować	hodować	1.2468050298658284
+tworzyć	handlować	1.1253191042926236
+pokonać	wykonać	0.827722499814154
+podołać	zawieść	1.2258640873293456
+kończyć	harować	1.0613740007979915
+podbić	próbować	1.2269287242853182
+kosić	dokonać	1.2704870836297288
+podołać	kontrolować	1.0405716790356188
+harować	uczestniczyć	1.0062114826467063
+osiągnąć	wykonać	0.818451426932645
+robić	kapitulować	0.9794285316429298
+rywalizować	spróbować	0.8793773302776802
+podołać	liczyć się	0.7139985990867168
+przeznaczać	przewyższać	1.1635699490078684
+uczestniczyć	wygrać	0.9528093404602352
+pracować	uczestniczyć	0.7786960852407445
+tworzyć	powieść się	1.0437696774362146
+starać się	zawieść	1.0917617921462075
+liczyć się	uczęszczać	0.7913925249468932
+hodować	osiągnąć	1.1589975292947758
+powieść się	zmagać się	1.1797781108947112
+kooperować	nagradzać	0.9303320582378567
+wykorzystać	nagradzać	1.026303764025712
+robić	kooperować	1.1491504801700472
+kontrolować	wygrać	0.7916212512267556
+promować	dominować	0.9793981511290734
+znaczyć	wyróżniać się	0.7846176539154897
+liczyć się	zmagać się	0.8436576720904122
+zastosować	kończyć	0.9021883680766173
+dominować	tworzyć	1.1328292689351505
+wygrać	rywalizować	0.8509769196206347
+tworzyć	harować	0.9044310682819076
+orać	kończyć	1.1553655380945718
+przeznaczać	produkować	0.9932830726836562
+stawiać czoła	przeznaczać	0.905461999179469
+zmagać się	triumfować	1.0168680410591882
+osiągnąć	uczęszczać	0.9721426254755532
+kierować	handlować	1.277151841360375
+zmagać się	zawieść	0.8416177894177117
+robić	wyróżniać się	0.9207317176768127
+zdobyć	odważyć się	0.7762915733213858
+poświęcać	prowadzić	0.9853901010246483
+pokonać	zastosować	0.9418317371740171
+wykonać	działać	0.7088106118257628
+orać	odważyć się	1.0573320200023664
+prowadzić	osiągnąć	0.928560418447188
+przeznaczać	hodować	0.9693524886879739
+kończyć	handlować	1.2191899923332823
+kończyć	organizować	1.3236518521861123
+kosić	sterować	1.3537799495524978
+orać	powtarzać	0.9757770739923973
+dążyć	tworzyć	1.1157121590626595
+prowadzić	wyróżniać się	0.9375240919913069
+uczęszczać	pokonać	0.8317499680292365
+ukończyć	wygrać	0.7909069969023274
+dążyć	uruchomić	0.9579740036429276
+działać	osiągnąć	0.9071529970089135
+kapitulować	zastosować	0.9837444936570113
+prowadzić	ryzykować	1.2107985179202425
+organizować	współpracować	0.6349781955839728
+pokonać	poświęcać	0.9896414085413945
+wyróżniać się	odważyć się	0.7689601338807819
+dokonać	przewyższać	0.7807246432670474
+uczęszczać	znaczyć	0.9527992209091642
+przewyższać	pokonać	0.6856335162424414
+dążyć	zastosować	0.8451491915398357
+sterować	organizować	0.7812380387228125
+przewyższać	spróbować	0.9127737033141597
+przeznaczać	dominować	1.0671820612185243
+uczęszczać	kończyć	0.9595081769846994
+uczęszczać	harować	1.0164503655704549
+ćwiczyć	zarządzać	0.8393952208120152
+zawieść	kooperować	0.9388119333657096
+zawieść	wznieść się	1.0466178523449874
+pracować	prowadzić	1.1532394986539865
+dominować	zmagać się	1.0460396664909177
+uczęszczać	uaktualniać	1.0808028010008557
+robić	dążyć	1.0144867551925891
+rekrutować	robić	1.166809074962988
+nagradzać	przytłaczać	0.9473653287067506
+spróbować	angażować	0.6803507696979213
+dokonać	wyróżniać się	1.0495214447802785
+uczestniczyć	stawiać czoła	0.9289061073594306
+nagradzać	uruchomić	1.111404518181684
+wyróżniać się	utrudniać	0.9884566616013767
+kapitulować	zarządzać	1.1466852039448117
+przytłaczać	ukończyć	1.209564768790592
+nagradzać	dążyć	0.9915674365598653
+promować	stawiać czoła	1.0322185869891138
+kierować	dokonać	1.390775097729776
+kontrolować	przezwyciężać	0.954074482836873
+przezwyciężać	orać	1.170906962126902
+podołać	triumfować	0.4351631585789572
+powtarzać	spróbować	1.0113962247649801
+kierować	poświęcać	1.100852321461543
+organizować	kontrolować	0.5299375173269851
+podołać	rywalizować	0.7344433617020347
+rekrutować	zawieść	1.0095822767515374
+nagradzać	ćwiczyć	0.7304950975184952
+zastosować	powtarzać	1.0235222456483248
+tworzyć	zawieść	1.2582776630706032
+wyróżniać się	udaremnić	1.0317563910195047
+sterować	przeznaczać	1.1391936787871326
+wygrać	promować	1.0011904926595119
+dążyć	powieść się	0.8746512189980266
+próbować	robić	0.8879854725302887
+przeznaczać	angażować	1.0695932587978811
+produkować	nagradzać	1.2421390549003113
+kierować	wykonać	1.3205958464506302
+osiągnąć	starać się	0.7609116201181392
+powtarzać	odważyć się	1.0854306323832292
+osiągnąć	uruchomić	1.0020071534253343
+zawieść	udaremnić	0.8819594691164908
+tworzyć	stawiać czoła	0.7695211979559589
+działać	wygrać	0.863294047060571
+organizować	orać	1.4686655920468008
+zdobyć	uczęszczać	0.9747814951625796
+wykonać	rywalizować	0.977587500747189
+wygrać	liczyć się	0.746036650049387
+rywalizować	zawieść	1.213842811518322
+kosić	poświęcać	1.1362472918800115
+utrudniać	podołać	1.114305359614426
+spróbować	udaremnić	1.0146074918163597
+wznieść się	zarządzać	0.8908959866488632
+dokonać	wykonać	0.4844756310710716
+działać	zawieść	1.117948567234419
+przewyższać	powieść się	0.6392229821047062
+uaktualniać	kooperować	1.3454659888804668
+znaczyć	uruchomić	1.096463048545435
+rywalizować	kapitulować	1.1391466870180031
+ryzykować	nagradzać	1.017730377538558
+zdobyć	nagradzać	0.8639066151186612
+zmagać się	hodować	1.169439609263285
+ukończyć	triumfować	0.7234619666804891
+podbić	liczyć się	0.8980891776116634
+spróbować	sterować	0.8764335233620325
+nagradzać	prosperować	0.8985596515978288
+robić	wznieść się	0.9738701529960989
+orać	tworzyć	1.1080809256082298
+wygrać	zarządzać	0.8279386237984862
+promować	angażować	0.9238792822510031
+ryzykować	angażować	1.0001438758385277
+dążyć	przezwyciężać	0.6965721477585415
+zmierzyć się	zdobyć	1.141461735311666
+ryzykować	przezwyciężać	0.649341076833731
+prosperować	orać	0.9960441753664404
+harować	przeznaczać	0.916001286953436
+starać się	zastosować	0.9745904744283902
+powieść się	prowadzić	0.9510996775985442
+zmagać się	kapitulować	0.8556074766806927
+starać się	wykorzystać	0.9267088232157638
+produkować	zawieść	1.1819717423550593
+rywalizować	osiągnąć	0.863124908493134
+przytłaczać	wykonać	1.1439810871379643
+odważyć się	utrudniać	0.8666722566679335
+ukończyć	produkować	1.051696207551699
+współpracować	dominować	0.7910823684060153
+uruchomić	ukończyć	1.201010808785002
+utrudniać	orać	1.022278535708858
+dominować	przezwyciężać	0.8540498187715148
+próbować	rekrutować	1.1657934204453588
+uczestniczyć	powtarzać	1.0846778518993985
+wykonać	rekrutować	1.235123401242196
+próbować	współpracować	0.9928175056042291
+wygrać	uczęszczać	0.7617930363346097
+powieść się	rekrutować	1.080116856683601
+zastosować	odważyć się	1.1032857822490856
+promować	odważyć się	0.9542225013731358
+handlować	rekrutować	0.9644696176171816
+kierować	ćwiczyć	0.9126904974141465
+znaczyć	wykorzystać	1.2527814058868953
+spróbować	utrudniać	1.0472467830895955
+przezwyciężać	rywalizować	0.79913766490936
+zdobyć	wyróżniać się	0.9327822016710245
+kosić	udaremnić	1.1666757836962784
+organizować	zmierzyć się	0.8340896981739
+współpracować	działać	1.0577765078206778
+współpracować	przewyższać	0.943920610329701
+poświęcać	produkować	1.081941044463237
+zastosować	liczyć się	0.9946285175716878
+ukończyć	przezwyciężać	0.9242484076773444
+tworzyć	działać	0.5794222417514395
+spróbować	prosperować	0.8320460412025426
+wznieść się	wygrać	0.8290530251131776
+wznieść się	osiągnąć	0.8105081150174568
+zmierzyć się	osiągnąć	0.9359398336947584
+starać się	uczęszczać	1.016146203645078
+podołać	przewyższać	0.837212487265035
+działać	wznieść się	0.9457258024483284
+uaktualniać	angażować	1.001540564833264
+spróbować	działać	0.9812514166857327
+nagradzać	handlować	1.0659419247928164
+przewyższać	triumfować	0.7252024365595073
+pokonać	wykorzystać	0.8940855991951077
+wznieść się	próbować	1.0618344422927746
+spróbować	wygrać	0.9018236686986256
+utrudniać	dokonać	1.0638965299228742
+powtarzać	wyróżniać się	1.0854517224162068
+harować	stawiać czoła	0.7352314489201716
+handlować	prowadzić	1.213185914996584
+wznieść się	ukończyć	0.9957056295723669
+prosperować	triumfować	0.7808407095744826
+wykorzystać	orać	1.2230042325141666
+współpracować	starać się	0.9021201486003945
+przytłaczać	kończyć	1.282695559960276
+wykonać	dążyć	0.821630437852808
+udaremnić	uczestniczyć	0.9891959008099919
+odważyć się	zawieść	1.0933021134653969
+stawiać czoła	rekrutować	0.8526153546653058
+dominować	liczyć się	0.8082267795041089
+próbować	ryzykować	0.864959725338733
+przytłaczać	robić	0.9782117084849068
+zawieść	promować	0.8329535168583482
+udaremnić	starać się	0.8623142435017366
+starać się	zdobyć	0.985219720807325
+kosić	nagradzać	1.3266488171993944
+kapitulować	osiągnąć	1.1666601137048558
+kapitulować	uczestniczyć	1.0465523642003849
+ryzykować	odważyć się	0.7069982866072727
+przeznaczać	prowadzić	1.0807188563035406
+promować	ukończyć	1.053617853751315
+zdobyć	kosić	1.0025072923042146
+współpracować	zastosować	1.1844539178351456
+zawieść	hodować	1.1317302392350819
+uruchomić	poświęcać	1.0055922035665374
+wyróżniać się	produkować	1.0334911794114283
+kosić	uruchomić	1.2148779226036872
+organizować	hodować	1.2305303855985068
+dążyć	liczyć się	0.74268937248202
+odważyć się	ukończyć	0.8957067863773556
+przewyższać	przezwyciężać	0.7703348092448506
+produkować	powieść się	1.0663634420649097
+uczęszczać	przytłaczać	1.2342246197862345
+robić	uruchomić	1.0153354700260908
+wygrać	angażować	0.8810976494016978
+ćwiczyć	powieść się	1.0066990644898306
+uczestniczyć	rekrutować	0.8757802242653543
+uaktualniać	handlować	0.9227085069513904
+uczestniczyć	wyróżniać się	0.8776726835550085
+przytłaczać	kapitulować	0.9839740601697397
+dominować	wykonać	1.1780967430125453
+rekrutować	odważyć się	0.9702184968704568
+uczęszczać	handlować	1.1911854296103643
+angażować	uczęszczać	0.7228807632650388
+pracować	kapitulować	0.9636582561962691
+wznieść się	starać się	0.7347316033814949
+organizować	kapitulować	1.3114732331622894
+uczęszczać	hodować	1.1821645797664286
+zmierzyć się	tworzyć	1.0561411601237367
+osiągnąć	powtarzać	1.228253322402342
+odważyć się	dominować	0.9513217867713838
+działać	utrudniać	1.062582388967485
+wznieść się	udaremnić	0.8748361230404791
+powieść się	przytłaczać	1.1873730424692563
+starać się	pokonać	0.8084415270265128
+nagradzać	pracować	0.963758310591796
+wyróżniać się	wykonać	0.9662057977449218
+pokonać	prosperować	0.9121168835149067
+powtarzać	produkować	0.821743436942158
+podbić	współpracować	0.9808574549316846
+kooperować	zdobyć	0.969269909527039
+zdobyć	dokonać	0.9330082602103744
+odważyć się	uruchomić	0.947918887083943
+zdobyć	działać	1.0535814484592123
+wyróżniać się	kontrolować	0.9582940593683988
+współpracować	pracować	1.1244203092103293
+ćwiczyć	kosić	1.158821078974558
+kontrolować	liczyć się	0.9151538659499621
+podołać	powieść się	0.6035806861056525
+uczęszczać	organizować	0.936200656593578
+zmierzyć się	wyróżniać się	0.9620782503910016
+produkować	kosić	1.133316338647534
+tworzyć	wykorzystać	1.2641133779597473
+ćwiczyć	promować	0.9422092558221703
+wyróżniać się	kapitulować	1.1170669260440944
+promować	orać	1.3058869191128197
+udaremnić	zmagać się	0.8634263521851303
+liczyć się	kapitulować	0.898747556585151
+wznieść się	dominować	0.8221364935637112
+poświęcać	zmagać się	0.9253153794602406
+kapitulować	powieść się	1.1080607547652868
+kończyć	rywalizować	1.0720966509922545
+ukończyć	handlować	1.1167516763198968
+udaremnić	odważyć się	0.9834002430462083
+organizować	próbować	1.0860441046929052
+zmierzyć się	kierować	1.0378540624051635
+wyróżniać się	pracować	0.9144205265063008
+ukończyć	kosić	0.9055693334760128
+podbić	zawieść	1.1214184912536693
+podbić	prosperować	0.7848126898563791
+orać	ukończyć	1.1131018765028156
+handlować	wyróżniać się	1.0072118245795962
+kosić	przezwyciężać	1.0813915802250849
+przytłaczać	prowadzić	1.0053855325610137
+kontrolować	nagradzać	1.055310898220065
+zdobyć	prosperować	0.7373548711764507
+poświęcać	przytłaczać	1.0604319501028665
+kończyć	produkować	1.0605760471688612
+osiągnąć	uaktualniać	1.1532483316251787
+dominować	uruchomić	1.2322311478493675
+sterować	powieść się	0.9712818936389301
+przytłaczać	ryzykować	1.1851187951489561
+przeznaczać	uruchomić	1.0098149125981395
+dominować	przytłaczać	0.7908859292219352
+poświęcać	rekrutować	1.037555071387965
+osiągnąć	produkować	1.054479536590998
+ryzykować	triumfować	0.8883609133860103
+dokonać	triumfować	0.8050991597908465
+pokonać	przeznaczać	1.1250164746769618
+prowadzić	zmagać się	1.1313739465250865
+hodować	harować	0.7335346773991149
+dokonać	handlować	1.1032764401629975
+zmierzyć się	liczyć się	0.9041864822329195
+zmierzyć się	spróbować	0.8146020120476554
+podbić	zdobyć	0.6437367322076526
+wykorzystać	hodować	1.1682412920535354
+rekrutować	znaczyć	1.0620703710359665
+rywalizować	uczestniczyć	0.6742389748755202
+kapitulować	harować	1.1469316188425938
+dążyć	przytłaczać	1.1403483291214378
+zarządzać	sterować	0.515649697886833
+spróbować	zarządzać	0.8889840255450924
+prowadzić	kosić	1.3276444858391174
+harować	orać	0.45121376717038914
+kontrolować	rywalizować	0.8261257363626077
+powtarzać	organizować	1.1216165248239653
+zastosować	przewyższać	0.7416530204559658
+kooperować	podołać	1.049504906958962
+zastosować	zmagać się	0.9782073679451756
+pracować	przeznaczać	1.157347526237609
+orać	zmagać się	1.0743823519706917
+robić	produkować	0.6684597528419947
+utrudniać	uczęszczać	1.0483155846591155
+angażować	kontrolować	0.9201971707949334
+nagradzać	zmierzyć się	0.8429645131947483
+wykonać	starać się	0.8907553176085173
+próbować	przytłaczać	0.9271981278461163
+kończyć	zmierzyć się	1.1306638497597794
+orać	uruchomić	1.1544026575570343
+zastosować	uaktualniać	0.8336461982205955
+znaczyć	podołać	1.0382859822922812
+stawiać czoła	kosić	1.1124012129604641
+przytłaczać	tworzyć	1.1605571195719968
+pracować	kontrolować	1.026001211950193
+dominować	hodować	1.2642134029768157
+zmierzyć się	dokonać	0.8790174026810805
+liczyć się	przytłaczać	0.7899198752946912
+podołać	udaremnić	1.1477366592708789
+harować	wykorzystać	1.0421619282009809
+uaktualniać	triumfować	1.0191577805115892
+współpracować	przytłaczać	1.075942009509944
+dokonać	udaremnić	0.9783774210404247
+produkować	prosperować	0.9439505320352938
+wykorzystać	utrudniać	0.979418447131871
+spróbować	podbić	1.0240162110746387
+uaktualniać	orać	1.0622354460111347
+podbić	powtarzać	1.1954766630612927
+promować	robić	0.9528248237938988
+ryzykować	produkować	0.9549257442839896
+uaktualniać	starać się	0.9930952710417705
+przytłaczać	podołać	1.1026113735071132
+sterować	dominować	0.7080921582059776
+przeznaczać	kapitulować	1.0494069205936978
+ćwiczyć	stawiać czoła	0.7200051106151494
+podbić	tworzyć	1.2300571334282682
+wykorzystać	udaremnić	0.9380112156644551
+tworzyć	zastosować	1.1231187175087551
+odważyć się	przytłaczać	0.8630262261118213
+wykonać	prowadzić	1.3334526121241181
+zdobyć	uczestniczyć	1.0583492042577565
+poświęcać	spróbować	0.8326504007220394
+powtarzać	przewyższać	1.1921638390734561
+powtarzać	znaczyć	1.1175680181622323
+dominować	kończyć	1.1530000122933868
+starać się	znaczyć	1.0103713762612723
+promować	zarządzać	1.0470624329081066
+uaktualniać	powtarzać	1.1442540777577348
+starać się	harować	1.0624514641578355
+współpracować	powtarzać	1.3671272831761754
+dominować	osiągnąć	0.8738057807613058
+kontrolować	przewyższać	0.8659529972785894
+prosperować	harować	0.9959792007093965
+zastosować	zarządzać	1.3271396095782249
+prowadzić	próbować	0.9551343808148344
+ukończyć	powieść się	0.7107581013801815
+zawieść	dążyć	1.060309662427267
+poświęcać	podołać	1.0068276473749027
+rekrutować	zastosować	1.1225248566245072
+próbować	prosperować	1.049188550423652
+liczyć się	prosperować	0.7661611430461771
+poświęcać	robić	1.0434446318185673
+przezwyciężać	wykorzystać	1.054647363645472
+rekrutować	dążyć	1.036004708141747
+ukończyć	zdobyć	0.9606417379949883
+wznieść się	wykonać	1.043938093482542
+kończyć	uaktualniać	1.0617210281344371
+pokonać	uaktualniać	1.082974520913329
+zarządzać	ryzykować	1.008132136981631
+poświęcać	zarządzać	1.0646993007069288
+udaremnić	kierować	1.0732928892307014
+wznieść się	powtarzać	1.0391803743531403
+odważyć się	dążyć	0.7319127711430278
+kierować	powieść się	1.109296652757663
+zastosować	podołać	0.9877719080300518
+osiągnąć	dążyć	0.7687150139320167
+zastosować	uczęszczać	0.9006682208081577
+kosić	robić	1.2143781739747295
+działać	orać	1.021285365325775
+prowadzić	uczęszczać	0.9850380538607636
+zmagać się	wykorzystać	1.0254492725426836
+ryzykować	stawiać czoła	0.8965503061564777
+kończyć	powieść się	0.7884817667558294
+ryzykować	kapitulować	1.1747978036993147
+kończyć	nagradzać	0.9200576438728542
+uruchomić	sterować	1.2499979580606564
+dominować	zdobyć	0.6330322559478352
+organizować	stawiać czoła	0.7866060426838588
+współpracować	przeznaczać	1.0792391583617926
+starać się	organizować	0.9252598023856341
+współpracować	udaremnić	1.2199507462152144
+kończyć	pracować	0.8483796695417491
+rekrutować	orać	1.2320532437476575
+harować	dokonać	0.9321262648625581
+współpracować	wykonać	1.366695052011568
+poświęcać	uczęszczać	1.2357999791161005
+spróbować	wyróżniać się	0.8939818870159683
+produkować	uczestniczyć	1.053320199575141
+spróbować	ukończyć	0.9913828381903227
+kosić	hodować	0.6866294078702635
+rywalizować	przeznaczać	1.2925484581516244
+organizować	ukończyć	1.2250213871757738
+ryzykować	pracować	0.8526157489620836
+organizować	przytłaczać	1.0700839812585652
+zastosować	zdobyć	0.9703122829599258
+pokonać	kierować	1.1090694502402358
+zawieść	poświęcać	1.0484589484794982
+przeznaczać	starać się	0.9459486187156089
+angażować	odważyć się	0.7626365895856738
+powtarzać	stawiać czoła	0.8368697813605369
+podołać	kapitulować	1.1667917334232638
+robić	triumfować	0.9963571876106373
+sterować	promować	1.1431997701581509
+wygrać	odważyć się	0.6382316820862776
+starać się	zmierzyć się	0.6498183971375255
+zmagać się	wykonać	0.9170850223852621
+uczestniczyć	przewyższać	0.8342311994797214
+zarządzać	znaczyć	1.083282531027426
+prosperować	kierować	0.9326733251064547
+przeznaczać	przezwyciężać	1.1664191592410866
+starać się	kooperować	0.8753004250868042
+prosperować	stawiać czoła	0.9899251775277609
+ćwiczyć	pracować	0.8339943688654884
+sterować	pokonać	1.0735143346490283
+dokonać	współpracować	1.3275308616455783
+hodować	powieść się	1.1477935504677734
+działać	prosperować	0.9122376838987287
+kierować	podołać	1.0874921213724342
+prowadzić	uruchomić	1.0700925958760008
+nagradzać	uczęszczać	0.9307996416065544
+produkować	uczęszczać	1.0148364393318605
+starać się	uruchomić	1.0523174167317766
+podołać	produkować	1.1026809629389427
+utrudniać	hodować	1.2104137782141218
+triumfować	produkować	0.9926682510724688
+produkować	kierować	1.172226979211895
+znaczyć	przeznaczać	1.1232596881460084
+nagradzać	rywalizować	0.8556452626155826
+rywalizować	liczyć się	0.7785026572824509
+prowadzić	robić	1.0311042994554822
+prosperować	uczestniczyć	0.8023556426353687
+poświęcać	znaczyć	0.9821785500339837
+triumfować	próbować	1.0037481549493612
+powieść się	udaremnić	1.1609984371321282
+robić	pracować	0.32706381865653034
+spróbować	stawiać czoła	0.8300865852910748
+powtarzać	dążyć	1.191897907152415
+wyróżniać się	sterować	0.9515793498059153
+kontrolować	pokonać	0.944063826550285
+triumfować	przytłaczać	1.1547345425765292
+wykorzystać	produkować	1.3088910939325453
+organizować	prosperować	0.8704976609250266
+harować	działać	0.7117558803455202
+ćwiczyć	podbić	0.8222566318391555
+rywalizować	ukończyć	1.1846368792923865
+dokonać	przytłaczać	1.2133411138642074
+sterować	przytłaczać	0.8740903548201862
+dokonać	powtarzać	1.2457251182903948
+harować	kierować	0.9956504013939825
+kończyć	próbować	1.227485256351196
+uczęszczać	kosić	1.2155163771456718
+pracować	angażować	1.143095167051597
+uaktualniać	przytłaczać	1.149672099458748
+uaktualniać	promować	1.0752542383465207
+zdobyć	próbować	1.2237839439125378
+uczestniczyć	orać	1.0270363291992504
+wykonać	uruchomić	1.0077867096260327
+kontrolować	dążyć	1.0332435698648148
+orać	nagradzać	1.0288151216737922
+produkować	stawiać czoła	0.7822451961119198
+działać	dążyć	0.7912186034260537
+pracować	kierować	1.0996084819126029
+uczestniczyć	angażować	0.6161997978781333
+tworzyć	ukończyć	0.9235490775220431
+organizować	przezwyciężać	1.0380945556211307
+znaczyć	rywalizować	0.971060250250093
+zdobyć	utrudniać	1.3563413590622726
+podbić	zarządzać	0.8705654406242068
+pracować	kooperować	1.1257508026686478
+udaremnić	nagradzać	0.9347407758358285
+uczestniczyć	wykorzystać	0.9807340178351215
+przytłaczać	zarządzać	0.7959757453944627
+zmagać się	uruchomić	1.1416205554106442
+orać	podołać	1.1396505809112232
+znaczyć	zmierzyć się	0.8523653168858654
+kontrolować	uaktualniać	1.1656434294087827
+powtarzać	triumfować	1.1471794383494962
+zmagać się	przytłaczać	0.9291380764845943
+podbić	zmierzyć się	0.8027595939535976
+zawieść	stawiać czoła	0.989632266187582
+przezwyciężać	ćwiczyć	0.7225688370856421
+uczestniczyć	sterować	0.8257846403397694
+zarządzać	przewyższać	0.8410174641425435
+robić	nagradzać	1.0859538952043157
+przezwyciężać	działać	0.8205353778710699
+zmagać się	wyróżniać się	0.9277904263877936
+uczestniczyć	ukończyć	1.1241308548137905
+stawiać czoła	poświęcać	0.9239401897876247
+sterować	ryzykować	1.2133711905199134
+kontrolować	współpracować	0.7828915764089092
+wygrać	kooperować	0.9316664554976314
+handlować	przezwyciężać	1.2710105563060408
+zmierzyć się	harować	0.8972662939679072
+zawieść	harować	1.1350540477030482
+tworzyć	spróbować	1.019195622823444
+dążyć	zmagać się	0.8677905605512523
+udaremnić	poświęcać	0.9803389746520382
+kończyć	znaczyć	0.9536095918847914
+stawiać czoła	wykorzystać	1.0703265640505113
+rekrutować	podbić	1.1059379792534285
+ryzykować	poświęcać	0.9427896571880119
+triumfować	uczęszczać	0.7810905891672065
+wykorzystać	kapitulować	0.8037258494486025
+powtarzać	hodować	1.226454170081559
+pokonać	podbić	0.6212698283238703
+spróbować	odważyć się	0.6912133909353662
+uczestniczyć	kierować	0.7933609892067807
+ryzykować	ukończyć	0.9687535833341513
+współpracować	uczestniczyć	0.8016306679055498
+uczęszczać	przeznaczać	1.0326097336920597
+zarządzać	stawiać czoła	0.9332927146914393
+handlować	pracować	1.100628877508611
+osiągnąć	prosperować	0.864642620076612
+zastosować	orać	0.9142454990409552
+liczyć się	rekrutować	0.7781362870789247
+zmagać się	ukończyć	1.0971823955001816
+zawieść	uczęszczać	0.9668358136628074
+starać się	przewyższać	0.6977802494336476
+pracować	utrudniać	0.9725190568684863
+rywalizować	podbić	0.9956087681718765
+promować	wyróżniać się	0.7361120883094272
+ryzykować	osiągnąć	0.9758785135050301
+organizować	spróbować	0.8079106218232908
+angażować	tworzyć	1.0257166504771358
+orać	przewyższać	0.9741310551512373
+orać	handlować	1.0345751169846829
+angażować	osiągnąć	0.9061305315234821
+prowadzić	triumfować	0.8937744293906749
+przytłaczać	harować	1.084094533259424
+przytłaczać	przewyższać	1.0022585429850634
+tworzyć	kierować	1.0848154396708611
+podbić	prowadzić	0.9316167676249063
+dokonać	zmagać się	0.8960023687671779
+przewyższać	pracować	0.8979684517448292
+rekrutować	promować	0.8391065071511402
+pokonać	rekrutować	1.1367484655760642
+utrudniać	angażować	0.9879695066711687
+kończyć	ćwiczyć	0.9983902288322645
+przeznaczać	udaremnić	0.9857162916290088
+harować	wyróżniać się	0.8230699451108127
+powieść się	wykorzystać	1.1649639105233691
+uruchomić	kierować	1.162794087751673
+zarządzać	uczęszczać	0.9148333503665238
+uczęszczać	odważyć się	1.0538963820446807
+odważyć się	prosperować	1.0384124918638522
+zawieść	wygrać	1.1962784617671656
+dokonać	prosperować	1.0664229654002357
+podołać	dokonać	0.7613659702800396
+ryzykować	rekrutować	1.2021841431150502
+ryzykować	promować	1.0166696148339416
+pracować	udaremnić	0.8390652616484449
+dokonać	ukończyć	0.7807540934635695
+powtarzać	liczyć się	1.0330622660964914
+udaremnić	zarządzać	1.153111604168502
+kierować	organizować	0.7222782679324641
+promować	przytłaczać	1.0101234656009896
+handlować	harować	0.8868174016203431
+robić	współpracować	1.151720909874995
+kierować	znaczyć	1.16076972943417
+ukończyć	kierować	1.367863593154394
+uaktualniać	spróbować	1.0535350165534958
+kończyć	kontrolować	1.196580330151706
+rekrutować	osiągnąć	1.084744833789715
+produkować	kapitulować	1.1673876331175352
+wykorzystać	dokonać	1.1005627394920903
+pokonać	kooperować	1.1371599392036393
+zmagać się	stawiać czoła	0.5248753009092123
+osiągnąć	nagradzać	0.8158206033039279
+ukończyć	hodować	0.9491294672736211
+przezwyciężać	osiągnąć	0.6660813436554761
+starać się	zarządzać	0.6729412755794948
+ryzykować	współpracować	0.8312432646913104
+wznieść się	prosperować	0.8544024121529314
+organizować	wyróżniać się	0.9692546190928049
+rekrutować	ukończyć	1.0664726705205576
+zarządzać	wyróżniać się	0.8469424681537018
+kończyć	uczestniczyć	1.0965697844388802
+wykonać	uaktualniać	0.8320753964233581
+prowadzić	utrudniać	1.128897154495858
+przytłaczać	wyróżniać się	0.8802946275210932
+wygrać	sterować	0.9628962916667319
+wykonać	przeznaczać	1.1604798988327363
+podołać	zmagać się	0.9917993017014557
+triumfować	powieść się	0.5451222245710564
+kapitulować	kończyć	0.9717635890497638
+dokonać	spróbować	0.9926438840304029
+dokonać	orać	1.244707971926802
+odważyć się	przezwyciężać	0.6633982602340365
+kontrolować	ryzykować	1.0361563221734327
+kontrolować	kooperować	0.7913909184858029
+prowadzić	zarządzać	0.6711276163849027
+utrudniać	stawiać czoła	0.8921375058223443
+uaktualniać	rekrutować	1.1186185479758979
+organizować	nagradzać	0.9465389854232974
+uczestniczyć	zmagać się	0.9416149825706768
+zdobyć	prowadzić	1.0169292565056658
+współpracować	podołać	1.064454277041242
+kooperować	dokonać	1.3230428047669809
+orać	osiągnąć	1.2155106844661865
+dokonać	stawiać czoła	0.9091043464218194
+robić	zmagać się	0.7013669497453424
+robić	ryzykować	0.898813666899209
+angażować	pokonać	1.0711362893091554
+uczęszczać	ćwiczyć	0.8939336661688648
+prosperować	hodować	0.9483929854103527
+tworzyć	kapitulować	1.2096565716961212
+powtarzać	promować	0.9158716414719552
+angażować	kooperować	0.9146222863426204
+kończyć	odważyć się	0.9795320283419332
+współpracować	zdobyć	0.9378078439546167
+nagradzać	promować	0.866517783429176
+promować	dokonać	0.9471681977568462
+ukończyć	wykorzystać	1.2729269084699255
+osiągnąć	zastosować	1.021717072268022
+poświęcać	działać	1.1480280717700364
+ryzykować	ćwiczyć	0.8530520016851953
+rekrutować	triumfować	1.0132353696240763
+kapitulować	kosić	1.0108357689977607
+rywalizować	zdobyć	1.0485464359185468
+kontrolować	prowadzić	0.680555436517301
+ćwiczyć	działać	0.8157123583704786
+uaktualniać	uczestniczyć	1.0613780231983074
+angażować	powtarzać	1.1652802119196346
+ukończyć	angażować	1.0727830500336055
+hodować	uczestniczyć	1.2887428548236508
+zdobyć	dążyć	0.9007929354437538
+organizować	dokonać	1.2755852941852583
+harować	wznieść się	1.00848160364586
+promować	przezwyciężać	1.0076397454677357
+orać	próbować	1.1564290456745936
+triumfować	starać się	0.890982377921422
+zastosować	produkować	0.8735719400162011
+działać	uczęszczać	0.7433865167372765
+rekrutować	udaremnić	0.9815041634753003
+kosić	dominować	1.1559918890190557
+rekrutować	prowadzić	0.698547041770565
+wykorzystać	uczęszczać	0.9438074606635861
+podołać	wygrać	0.3760121464707258
+sterować	zawieść	1.1546718682930963
+uruchomić	powtarzać	0.904398601922554
+zdobyć	triumfować	0.39428892227200235
+dominować	harować	1.1756586647935925
+uczęszczać	uczestniczyć	0.5973119560278142
+przewyższać	udaremnić	1.0219050764806799
+spróbować	pokonać	1.0537145809405435
+osiągnąć	powieść się	0.3612553926856485
+kosić	osiągnąć	1.0362413730972355
+ukończyć	przewyższać	0.8377894748310449
+kontrolować	utrudniać	1.316458400482552
+wygrać	współpracować	0.9568226708729063
+wyróżniać się	ryzykować	0.9033409764279676
+utrudniać	współpracować	1.302618652594665
+zdobyć	poświęcać	1.104041549757944
+zastosować	uruchomić	0.7946076831171179
+wykorzystać	zastosować	0.9592589870307134
+wygrać	organizować	0.8792835683816866
+uczestniczyć	zmierzyć się	0.7767117286900902
+przezwyciężać	uczestniczyć	0.8364269981788515
+przezwyciężać	podbić	0.7398280405503757
+liczyć się	przezwyciężać	0.764956187438269
+rekrutować	kooperować	0.9290155038828494
+produkować	utrudniać	1.1992640444127052
+wznieść się	kontrolować	0.9291021518218489
+przewyższać	nagradzać	0.807548386154221
+produkować	spróbować	1.0100162930161152
+uczestniczyć	zastosować	1.0036126509432566
+promować	zastosować	1.0439307971265417
+współpracować	poświęcać	1.0169168207852988
+zdobyć	pracować	1.1485181435804817
+ćwiczyć	spróbować	0.5104372776195704
+ryzykować	wykonać	0.855790700906866
+rekrutować	działać	1.0704337003043836
+organizować	odważyć się	0.9667100771972651
+zastosować	kierować	1.3717103748298798
+kosić	triumfować	1.1185660934483839
+kooperować	uruchomić	1.0781011721849607
+dominować	organizować	0.901075356027428
+dominować	zmierzyć się	1.0494993315444858
+nagradzać	poświęcać	0.7310716590931801
+dominować	przewyższać	0.9497117726931213
+sterować	robić	1.064012595259115
+rywalizować	dokonać	0.8426820303859667
+współpracować	kapitulować	1.090199298253299
+powieść się	wykonać	0.7551391043476108
+produkować	orać	1.1483671765773669
+kończyć	dokonać	0.7121925151172004
+kierować	wznieść się	0.9324897037565719
+odważyć się	podołać	0.6101869586561343
+przytłaczać	kooperować	1.0729911096134224
+pokonać	hodować	0.9841955717045804
+zarządzać	kończyć	1.1751923788363432
+sterować	osiągnąć	0.9203128548819335
+zastosować	ukończyć	0.8331042671726666
+pokonać	dążyć	0.729400891580095
+utrudniać	zmagać się	0.8712567321957498
+zmierzyć się	próbować	0.7489016003846318
+wykonać	zarządzać	1.3468362492088144
+sterować	zmierzyć się	0.9611619367585104
+wygrać	znaczyć	0.9101237804387925
+starać się	wygrać	0.8438023383054893
+wykonać	powtarzać	1.3008425684812535
+dominować	ćwiczyć	0.9456833412937471
+odważyć się	tworzyć	0.945694703872309
+sterować	ukończyć	1.1544329019584054
+pokonać	wyróżniać się	0.9911188108550337
+tworzyć	wznieść się	1.1097050782485065
+produkować	starać się	0.9456021884430968
+dążyć	starać się	0.6753790415518383
+stawiać czoła	uczęszczać	1.0695930022415048
+poświęcać	angażować	1.0543239729558471
+uczęszczać	przewyższać	0.9733767278061227
+ukończyć	osiągnąć	0.7341510909035645
+nagradzać	spróbować	0.7716928448786597
+kosić	handlować	1.0372885648091967
+kapitulować	kontrolować	1.2436984333113963
+kooperować	kosić	1.2309707960595062
+powtarzać	przezwyciężać	1.2559447133531272
+orać	wygrać	1.0604568738870477
+kooperować	promować	1.0965323639899283
+stawiać czoła	rywalizować	0.7358336274714514
+stawiać czoła	sterować	0.9436862012602522
+zastosować	prosperować	0.8297812084251986
+kapitulować	znaczyć	0.9255346149505213
+hodować	dokonać	1.2743717599836641
+osiągnąć	zarządzać	0.819631553016198
+uczęszczać	spróbować	0.9925218630536226
+tworzyć	liczyć się	1.0920261780764053
+współpracować	produkować	1.2129686466635718
+dokonać	przezwyciężać	0.7798530085959432
+ukończyć	działać	0.887740240689217
+liczyć się	zawieść	0.8664990996519991
+uaktualniać	próbować	1.0610711207694667
+wyróżniać się	uruchomić	0.9637594965840522
+powieść się	uruchomić	1.0294875516266628
+prosperować	prowadzić	0.9816372063358801
+rekrutować	produkować	1.1429640632677676
+uaktualniać	przeznaczać	0.9841621244223658
+ćwiczyć	utrudniać	0.9913125255495707
+kontrolować	podbić	0.9671355703212207
+ćwiczyć	wykorzystać	1.1083295325426583
+powtarzać	kooperować	1.3548832404034798
+harować	próbować	0.9132989633490283
+kooperować	rywalizować	0.7571952999378941
+ryzykować	działać	0.9423039643391847
+produkować	przewyższać	1.0094472656622546
+angażować	rywalizować	0.9183681866954374
+harować	ryzykować	0.997018935073565
+pracować	wykonać	0.690711405787562
+udaremnić	pokonać	1.1000185760439607
+pracować	odważyć się	1.0589591716642517
+zmagać się	angażować	1.0717860999250988
+przytłaczać	działać	1.1742891837497358
+dążyć	spróbować	0.9232534839585677
+kontrolować	wykonać	1.4030861574002995
+dążyć	współpracować	1.0759553061308473
+odważyć się	poświęcać	0.7607905393523209
+dążyć	hodować	1.0201046008534573
+wykonać	próbować	1.0045065631337693
+przewyższać	hodować	1.0616922928791412
+organizować	harować	1.0499729481194477
+angażować	organizować	0.818764830997705
+sterować	orać	1.37448460621309
+zawieść	przeznaczać	1.065165877316548
+kończyć	uruchomić	1.01936772488727
+wznieść się	zastosować	0.9335521192083207
+próbować	sterować	1.0201792347941914
+stawiać czoła	pokonać	1.117586787585766
+zawieść	pracować	1.0570523047922424
+zmierzyć się	działać	0.9602827158528179
+podbić	pracować	1.0197778916264335
+uczestniczyć	przytłaczać	0.9561243463162038
+powtarzać	wygrać	1.0678944003811517
+przewyższać	wyróżniać się	1.0315055582743093
+podołać	próbować	1.0126703431635735
+rywalizować	uczęszczać	0.8878717350767169
+ukończyć	udaremnić	1.0686469485766177
+liczyć się	próbować	0.9154606857078308
+osiągnąć	przytłaczać	1.1642498602303561
+harować	angażować	1.2246291944422076
+uruchomić	stawiać czoła	1.069663999822877
+dążyć	dominować	0.8715894482622719
+triumfować	ćwiczyć	0.8026086736396844
+hodować	spróbować	1.1029165283501703
+organizować	ryzykować	1.008683172693962
+produkować	dominować	1.075989435417983
+zastosować	nagradzać	1.021868379293645
+prowadzić	harować	1.1137482751046672
+dokonać	angażować	1.0954096548089587
+tworzyć	współpracować	1.3379759590646116
+prowadzić	zmierzyć się	0.9619770252766465
+ryzykować	uaktualniać	0.9688257700677568
+dążyć	sterować	0.953121205068609
+kooperować	podbić	1.029971903920965
+wykorzystać	próbować	1.095891716466455
+podbić	uczęszczać	0.9205605489420088
+ćwiczyć	handlować	1.1924733809998787
+osiągnąć	ćwiczyć	0.7836223177782071
+działać	powtarzać	0.830530458419488
+robić	harować	0.5754195247344676
+pracować	orać	0.8846069983696265
+dokonać	pokonać	0.8144480678318549
+przezwyciężać	robić	0.9748355612735584
+przeznaczać	wykorzystać	1.1786411867055042
+orać	uczęszczać	1.2285496318752356
+sterować	powtarzać	1.4126316472032445
+ćwiczyć	liczyć się	0.8259539059390504
+kooperować	uczestniczyć	0.8014415474767911
+tworzyć	kooperować	1.2977885244442253
+starać się	rywalizować	0.7237830288053438
+przeznaczać	ryzykować	1.1847480999756506
+starać się	angażować	0.7345599413904041
+osiągnąć	tworzyć	1.0219807972491675
+ukończyć	dominować	1.047343997287898
+zmagać się	próbować	0.6720390276790362
+podołać	handlować	1.1153746668436268
+rekrutować	ćwiczyć	1.0335814277371977
+poświęcać	utrudniać	0.9527803770929449
+rywalizować	robić	1.0174025580576915
+sterować	wykonać	1.3253489359977342
+działać	robić	0.3861364272891814
+promować	zmagać się	1.0793669897041478
+dążyć	angażować	0.9384323325638451
+stawiać czoła	hodować	1.1230929595338228
+angażować	kierować	0.7809247913959214
+produkować	angażować	0.9363282672686892
+przytłaczać	przezwyciężać	1.1209439435150679
+wykorzystać	uruchomić	1.031228403255664
+spróbować	zmagać się	1.0572622130499096
+uczestniczyć	handlować	1.0823763738312433
+powtarzać	ryzykować	1.1428241915648982
+pokonać	odważyć się	0.8843484862097853
+kooperować	dominować	0.8133336978221123
+pracować	poświęcać	0.9632719422076806
+promować	liczyć się	0.7224122339220583
+osiągnąć	triumfować	0.40536470175224615
+ćwiczyć	robić	0.8418435635734456
+ryzykować	pokonać	0.718392923930542
+zmierzyć się	wykonać	0.9660847283885893
+działać	prowadzić	1.0186578579287715
+działać	zarządzać	1.2562627622063105
+zarządzać	próbować	0.9848566370932763
+promować	podołać	1.0321065354630703
+stawiać czoła	udaremnić	0.8071581561455378
+kontrolować	osiągnąć	0.7968578412711448
+promować	spróbować	1.0417745439625308
+starać się	ryzykować	0.8019088784279758
+znaczyć	nagradzać	0.8583891211650951
+tworzyć	organizować	1.0571991807104437
+utrudniać	dążyć	1.1348512969198956
+powieść się	kontrolować	0.8503309693678412
+prowadzić	dominować	0.7759968730772667
+zawieść	wyróżniać się	1.170203771090495
+powieść się	kooperować	0.9929906786177434
+zmagać się	rekrutować	1.1500268450109044
+promować	pracować	1.1041388464879642
+zmagać się	współpracować	1.009927137145377
+pokonać	kapitulować	1.0720412412419114
+zawieść	zarządzać	1.1628530561542327
+zmagać się	harować	0.7372216574377687
+handlować	zmierzyć się	1.0551691890231527
+harować	promować	1.1488863046926574
+ryzykować	kończyć	0.9508967158760725
+utrudniać	triumfować	1.2869242372579082
+stawiać czoła	przewyższać	0.8921655798968245
+powtarzać	uczęszczać	1.0808834955557423
+hodować	nagradzać	1.313648243304825
+sterować	przewyższać	0.9692357192808198
+pokonać	pracować	1.0472608100011824
+podołać	dominować	0.8864513695760553
+pracować	sterować	1.2185149599807634
+próbować	pracować	0.9009379015785541
+znaczyć	kontrolować	1.045722566756091
+kontrolować	zdobyć	0.8844470741102943
+zastosować	kosić	1.062963168497557
+podołać	kończyć	0.778484853659421
+osiągnąć	zmagać się	1.060782757547035
+kontrolować	harować	0.9521114491952034
+pokonać	harować	0.9613972444326063
+ukończyć	współpracować	1.2206785778245481
+pokonać	współpracować	1.1484452965602194
+przezwyciężać	rekrutować	0.9612747016244609
+ćwiczyć	zdobyć	0.8439305299428465
+promować	zdobyć	1.111691016563917
+podołać	osiągnąć	0.4188628320608397
+działać	przeznaczać	1.0952275962844102
+orać	powieść się	1.1633199171909732
+tworzyć	znaczyć	1.076708169213957
+tworzyć	dokonać	1.056291174696481
+zawieść	prosperować	1.175239067834405
+zmagać się	organizować	1.1241436706989383
+hodować	kontrolować	1.2007280089779893
+dominować	powtarzać	1.27338782472752
+uruchomić	wznieść się	1.1452993755539753
+podbić	triumfować	0.6634613812512684
+pokonać	osiągnąć	0.5812116574683145
+zarządzać	hodować	1.2089989493470121
+kierować	dominować	0.8607822122738134
+rywalizować	harować	1.1413805233437868
+uczęszczać	sterować	0.8908969334626547
+sterować	liczyć się	0.9250683179625715
+utrudniać	podbić	1.4040461476938415
+handlować	działać	1.0727540183348363
+powieść się	wygrać	0.3512665548625417
+starać się	kapitulować	1.046703237881741
+znaczyć	kooperować	0.9914314778618766
+handlować	wygrać	1.1764144060513362
+wykorzystać	sterować	1.1387844925722606
+ryzykować	prosperować	0.8614292954463976
+hodować	poświęcać	1.1904600127314768
+handlować	osiągnąć	1.0841200079230855
+podołać	zdobyć	0.5344929283965584
+wyróżniać się	zastosować	0.9982039309640718
+poświęcać	organizować	0.9655734796891786
+orać	zawieść	1.2044194937763133
+kończyć	kosić	1.0556252058661233
+nagradzać	angażować	0.8507308567045394
+produkować	przezwyciężać	0.9871637367519196
+zmierzyć się	rekrutować	1.1087731427803424
+odważyć się	zarządzać	0.7296988935397191
+odważyć się	kontrolować	0.872195515623705
+zdobyć	zmagać się	1.241043326999027
+dokonać	produkować	1.0715435637693922
+przezwyciężać	zawieść	1.2091702192800797
+zastosować	zmierzyć się	1.00292996957896
+hodować	kooperować	1.1118705887595364
+tworzyć	promować	1.0211380101904697
+triumfować	odważyć się	0.8610924823430202
+prowadzić	zawieść	1.183167833269714
+kontrolować	udaremnić	1.3187521412601872
+współpracować	handlować	1.1982240064137506
+udaremnić	uaktualniać	1.018832422022368
+próbować	przewyższać	1.0290936057726057
+ćwiczyć	zawieść	1.1830213789851016
+znaczyć	orać	1.2000586917497222
+starać się	kończyć	1.0107759438557729
+podołać	podbić	0.8008550945879284
+zarządzać	kierować	0.4824970256451846
+przewyższać	prosperować	0.8000829461274749
+stawiać czoła	triumfować	0.8827247109875799
+wykorzystać	zmierzyć się	1.0457078291848092
+zmierzyć się	stawiać czoła	0.42791919725512484
+handlować	utrudniać	0.8721610968904775
+rywalizować	organizować	0.7140155902178453
+promować	dążyć	0.9331783211683754
+kooperować	działać	1.0431933792154906
+orać	zmierzyć się	0.8876207237383399
+przewyższać	kończyć	0.816353913139247
+współpracować	kooperować	0.07140382539264083
+ćwiczyć	przeznaczać	1.178518239389952
+działać	podbić	0.8545928263775512
+robić	pokonać	1.073272843032944
+hodować	udaremnić	1.1820660299117012
+promować	prowadzić	0.9743726675093543
+podbić	harować	1.0361128565402884
+kontrolować	tworzyć	1.1067793843452387
+uruchomić	zdobyć	1.0041461790311905
+powieść się	promować	1.0112225805064334
+zarządzać	triumfować	0.9313738723736514
+próbować	udaremnić	0.9181614416846879
+podbić	organizować	0.987152664792705
+zawieść	przytłaczać	0.983454713193581
+starać się	podbić	0.8792370500549176
+zarządzać	nagradzać	0.8572919503614337
+podbić	ryzykować	0.8082444715637492
+kierować	rywalizować	0.878396164253857
+rekrutować	przytłaczać	0.8435130250858169
+kooperować	sterować	0.8177197977263775
+osiągnąć	podbić	0.7716185074412185
+ryzykować	kosić	0.9995940456429533
+angażować	działać	0.9252896195493285
+powtarzać	starać się	1.193654399806555
+powtarzać	prowadzić	1.2836323539442918
+kosić	współpracować	1.2819890597974808
+triumfować	wznieść się	0.7942388629630562
+uruchomić	spróbować	1.0455797497446266
+orać	spróbować	1.0570068815399152
+spróbować	przeznaczać	1.0706588178947636
+angażować	powieść się	0.8953240003418443
+angażować	zastosować	1.066368912632427
+rywalizować	współpracować	0.772185553816999
+rywalizować	orać	1.3197144422382419
+handlować	spróbować	1.1963623002367483
+spróbować	osiągnąć	0.8053765037200218
+wygrać	dominować	0.7453279969000267
+triumfować	przezwyciężać	0.5893609991822397
+odważyć się	przeznaczać	0.8794364151637851
+utrudniać	organizować	1.2504600462563888
+wygrać	wykorzystać	1.113902529133617
+zarządzać	kontrolować	0.4204415056136063
+kosić	zawieść	1.0107457758401706
+handlować	liczyć się	1.0069680681491602
+uruchomić	harować	1.1789253890123461
+przeznaczać	kierować	0.941329899653995
+starać się	nagradzać	0.8907769753783583
+rekrutować	dokonać	1.372711132289059
+robić	zastosować	0.9698200624985454
+dominować	kapitulować	1.0753852776739747
+wygrać	stawiać czoła	0.813397947362799
+zdobyć	hodować	1.1133912050948707
+liczyć się	uruchomić	1.1044189227773886
+produkować	odważyć się	1.0217048064145542
+zmierzyć się	robić	0.7772706722349587
+uaktualniać	kosić	0.9675063713758297
+działać	kontrolować	1.3630850038573428
+rekrutować	kierować	0.7448966277220285
+uczęszczać	wznieść się	0.9578091901432223
+uaktualniać	zdobyć	1.056261550496358
+zmagać się	podbić	1.0726216277120357
+sterować	podołać	1.0295719881970409
+przeznaczać	przytłaczać	0.9109395737023187
+kosić	orać	0.5310179915639082
+zdobyć	znaczyć	1.08608111405334
+współpracować	kierować	0.8802603466534259
+pracować	kosić	1.1573630954569787
+ćwiczyć	uaktualniać	0.825967850693827
+pracować	zmagać się	0.7489663998777263
+poświęcać	uaktualniać	0.8634820246354327
+poświęcać	wykorzystać	1.1796713028042245
+ćwiczyć	orać	1.1108651789998543
+ćwiczyć	angażować	0.746263453930407
+stawiać czoła	zastosować	0.9674982481038681
+wygrać	harować	0.8854138830763726
+organizować	kosić	1.5455568395581973
+poświęcać	wygrać	1.1016332618740263
+udaremnić	działać	1.0018552516282098
+dominować	zastosować	1.168562698321733
+uczestniczyć	podołać	0.9755494685158727
+zarządzać	tworzyć	1.2116450407264983
+powieść się	próbować	1.108031246930274
+tworzyć	uczęszczać	1.0644658073637194
+wznieść się	wyróżniać się	0.9260722161983204
+liczyć się	ukończyć	0.9521643532831747
+udaremnić	osiągnąć	1.1489632474230873
+angażować	zmierzyć się	0.9196640565054423
+hodować	zastosować	0.9825915164141603
+przewyższać	wykonać	0.9880624018771821
+liczyć się	współpracować	0.7545792040412393
+uruchomić	handlować	1.196567126254371
+uruchomić	działać	0.8885857270820713
+ukończyć	uaktualniać	1.0748575400288125
+zdobyć	organizować	1.0555251703178536
+orać	przeznaczać	1.0619168869848346
+kooperować	triumfować	0.9394603354696398
+kosić	harować	0.7124901034251813
+zarządzać	dążyć	0.9733487713707434
+ćwiczyć	znaczyć	1.0761802242227236
+przezwyciężać	zmagać się	1.0651625818282289
+produkować	znaczyć	1.1541172268231434
+starać się	stawiać czoła	0.5589942307307949
+tworzyć	powtarzać	1.0296608349335008
+kooperować	organizować	0.6366760029368889
+triumfować	zawieść	1.1688707823764153
+dominować	pokonać	0.8565855161180924
+wygrać	pracować	0.9762104255381734
+pokonać	liczyć się	0.9328325859433872
+kapitulować	prosperować	1.0395370525452876
+przeznaczać	kończyć	1.2167052606912632
+spróbować	powieść się	0.9340337168934598
+zarządzać	kooperować	0.7395950129804036
+robić	ukończyć	1.0327051015215134
+dążyć	wygrać	0.7001073380709668
+zmierzyć się	dążyć	0.9289892096309867
+kooperować	zmierzyć się	0.8599650477271178
+angażować	kończyć	1.0653386957662758
+kontrolować	robić	1.115202532121613
+zdobyć	przewyższać	0.9004139002456256
+kapitulować	kooperować	1.0437170759151997
+utrudniać	sterować	1.124166907808075
+powieść się	współpracować	1.055358764476952
+kierować	kończyć	1.388260265900164
+wznieść się	produkować	1.0179767132974809
+ćwiczyć	wygrać	0.7076476990925529
+uczestniczyć	robić	0.8637923779073842
+przewyższać	kapitulować	1.1709530810599116
+zarządzać	współpracować	0.7349651028632153
+odważyć się	działać	0.8923607973584751
+pokonać	zarządzać	1.0204467548356617
+handlować	dominować	1.26688677045985
+dążyć	kooperować	0.9693358755366441
+ukończyć	kończyć	0.4175469633868631
+robić	powtarzać	0.6598688603551196
+wyróżniać się	rywalizować	0.9361662736635923
+liczyć się	dokonać	0.9157760278802979
+powieść się	rywalizować	0.9798906531642112
+kapitulować	zawieść	0.5909163494004184
+kosić	promować	1.2695848381165655
+kooperować	udaremnić	1.2134083277805001
+przezwyciężać	współpracować	0.9232525859393181
+ukończyć	ćwiczyć	1.028924273873198
+ryzykować	uruchomić	0.9674779915098155
+dążyć	organizować	1.1267673813882382
+kooperować	produkować	1.2755536034917156
+rekrutować	przewyższać	1.000408810968416
+produkować	organizować	1.0411545527188764
+rywalizować	promować	1.0067085515000251
+wyróżniać się	powieść się	0.8808661363210035
+orać	kontrolować	1.304649993127229
+prowadzić	znaczyć	0.9053213824841885
+dokonać	zawieść	1.2410338962469358
+kapitulować	udaremnić	0.8579058258970149
+kosić	zmierzyć się	1.0253980724562914
+dążyć	uaktualniać	0.9138784292397107
+kierować	podbić	1.0738224875249172
+kończyć	działać	0.8985760969561224
+ćwiczyć	kapitulować	1.097111608391498
+uczęszczać	prosperować	1.0036325243042394
+udaremnić	podbić	1.3551946062978695
+zastosować	próbować	1.037514255262964
+spróbować	robić	1.0090555258500178
+powieść się	ryzykować	0.9621342037803289
+kosić	próbować	1.2308812388227603
+liczyć się	orać	1.0170676285868672
+wznieść się	znaczyć	0.7800217703716832
+uruchomić	podołać	1.1073701941659593
+kontrolować	wykorzystać	1.233148439798161
+dominować	starać się	0.906645982175618
+ćwiczyć	kooperować	0.9230209911578482
+produkować	zarządzać	1.1946897950670285
+starać się	utrudniać	0.921748123139022
+utrudniać	rekrutować	1.0264860918882484
+współpracować	prosperować	0.8964967984361129
+orać	kapitulować	1.224884955916902
+rekrutować	spróbować	0.9632336903370923
+liczyć się	zarządzać	0.9705746722485042
+handlować	znaczyć	1.3242053359594492
+kapitulować	odważyć się	0.9769602476406825
+dążyć	znaczyć	1.0684596989513675
+produkować	uruchomić	0.811373458631615
+uaktualniać	wyróżniać się	1.030776864448179
+przezwyciężać	kierować	0.9975843925403889
+spróbować	wykorzystać	1.0757685450854808
+stawiać czoła	ukończyć	1.0649091483883524
+powieść się	uczestniczyć	1.0406230440257658
+organizować	pokonać	1.1702405726240628
+zmierzyć się	przezwyciężać	0.9410057125320082
+prowadzić	organizować	0.8188817298253398
+odważyć się	rywalizować	0.8237768943088899
+utrudniać	ryzykować	1.0771427021725888
+odważyć się	zmierzyć się	0.5731840328003595
+dominować	uczestniczyć	1.023210341217484
+produkować	pokonać	1.1914224523065202
+kapitulować	hodować	1.1313079077727124
+powtarzać	zarządzać	1.2211811472404188
+wygrać	zdobyć	0.29328965219147096
+orać	angażować	1.3551779655496479
+zmierzyć się	wznieść się	0.9819184296578135
+dokonać	uaktualniać	0.811304266295943
+podołać	dążyć	0.805608454768855
+pracować	triumfować	0.827881108221304
+orać	kierować	1.2498299705386997
+liczyć się	starać się	0.7723606106918968
+wznieść się	orać	1.08805768273363
+kierować	próbować	0.9734403292429008
+dążyć	pracować	0.9639329483266753
+sterować	zmagać się	1.1825821109906782
+starać się	handlować	1.0403015484703664
+przytłaczać	handlować	1.2466018980144336
+podołać	ryzykować	0.9353393188026823
+handlować	stawiać czoła	1.1096794190494093
+wznieść się	dążyć	1.0171324214820554
+triumfować	organizować	0.8890291926397945
+ćwiczyć	dążyć	0.6658727836738306
+ukończyć	pokonać	0.8449558313578472
+podołać	organizować	1.020812926051816
+znaczyć	ryzykować	1.0270950604179818
+liczyć się	wyróżniać się	0.6344810528485239
+poświęcać	ćwiczyć	0.8110623028556653
+przewyższać	zawieść	1.1655286490884542
+współpracować	osiągnąć	1.1377662474755397
+współpracować	wznieść się	0.9274484724674796
+przewyższać	dążyć	0.8321993232569839
+prosperować	znaczyć	1.0602702566786695
+udaremnić	uczęszczać	1.1134958453515456
+harować	rekrutować	1.2030881839283596
+działać	hodować	1.076787948031026
+produkować	uaktualniać	0.8723210581334553
+liczyć się	powieść się	0.6781656317741934
+wykorzystać	organizować	1.1563123623646527
+wykorzystać	handlować	1.2219326753194548
+orać	przytłaczać	1.1608152768521263
+kierować	odważyć się	0.7792332653060666
+hodować	współpracować	1.1081366807498443
+spróbować	liczyć się	0.7692055059104418
+osiągnąć	promować	0.9976586117095753
+zastosować	ćwiczyć	0.9713612864770556
+produkować	sterować	1.2991434713229189
+hodować	tworzyć	1.1249511441847064
+kapitulować	dążyć	0.9972048168795391
+wykonać	zdobyć	1.060681573335411
+prosperować	starać się	0.7515191151777652
+zdobyć	zarządzać	0.8249031274780166
+triumfować	wykonać	0.9333019695191166
+prowadzić	pokonać	1.0678577337533866
+przezwyciężać	pracować	0.9456525307971
+promować	zmierzyć się	1.1253123574637491
+sterować	współpracować	0.8433122073832943
+poświęcać	osiągnąć	1.163530347506305
+zmagać się	nagradzać	1.0500378349804957
+odważyć się	nagradzać	0.7051857704054334
+wykonać	tworzyć	0.8250409360098246
+angażować	podołać	0.8430125531424021
+przewyższać	angażować	0.9568393262468997
+ukończyć	starać się	0.9563856427345234
+promować	handlować	1.132006701595854
+harować	ukończyć	1.029966185390643
+znaczyć	współpracować	0.9673112917532815
+uaktualniać	wznieść się	0.9132412727251927
+poświęcać	dominować	1.052863142084814
+podbić	wykorzystać	1.0813643977861767
+przewyższać	kooperować	0.9015143424342281
+zarządzać	kosić	1.1793195443123732
+próbować	angażować	0.981866809082099
+znaczyć	zawieść	0.9134967787123455
+ukończyć	utrudniać	1.1145136599567023
+hodować	podbić	1.043887157507973
+zmagać się	tworzyć	1.0268769910095075
+handlować	wykonać	1.051063904638547
+zmierzyć się	podołać	0.8160846473981993
+kończyć	wykorzystać	1.211572942100541
+triumfować	nagradzać	0.8871283527369611
+powieść się	pokonać	0.6770505293492648
+zdobyć	orać	1.1277228217206965
+stawiać czoła	uaktualniać	1.0671936966291575
+prosperować	sterować	0.9941514192301688
+współpracować	uaktualniać	1.3189060788434668
+kończyć	zdobyć	0.9861488006970524
+organizować	znaczyć	0.9601017543834708
+uczęszczać	uruchomić	0.8956496451895917
+hodować	liczyć się	0.9413273642347559
+zarządzać	harować	1.297197467704391
+powieść się	dokonać	0.7676462823833023
+harować	ćwiczyć	1.0691024965799676
+kapitulować	sterować	1.11477735913643
+podbić	wykonać	1.0015350800110907
+uruchomić	wygrać	0.9839685231227936
+powieść się	harować	1.0221289488653682
+spróbować	zawieść	1.2801787457637621
+próbować	kooperować	0.9273567787549443
+tworzyć	prowadzić	1.0812947937307822
+współpracować	uczęszczać	0.8180550296806551
+nagradzać	wznieść się	0.7736599129306185
+wygrać	produkować	1.01810607612127
+starać się	podołać	0.7663559795631931
+podołać	uaktualniać	0.9976128257663703
+powieść się	zarządzać	0.8734452263921968
+handlować	rywalizować	1.2937887946861806
+współpracować	angażować	0.8910307454322236
+hodować	robić	1.0622910216316601
+próbować	działać	1.1200403991599648
+próbować	stawiać czoła	0.9565979852295091
+poświęcać	harować	0.960386054199251
+liczyć się	utrudniać	0.9499195854144853
+podbić	dominować	0.669535903882522
+uaktualniać	kapitulować	1.1369150143636035
+zawieść	dominować	1.119721999315788
+wygrać	dokonać	0.8075926023732835
+nagradzać	ukończyć	0.8509820698248046
+pracować	ukończyć	0.816179452871334
+uaktualniać	tworzyć	1.0325904062239641
+ćwiczyć	tworzyć	0.9187754543207967
+wykonać	kapitulować	1.2283978679530312
+organizować	ćwiczyć	0.7426185632555486
+tworzyć	poświęcać	1.1242088517147717
+zmagać się	produkować	0.9629763699981612
+uczestniczyć	spróbować	0.7791237740920637
+tworzyć	wyróżniać się	0.9457418864081367
+uaktualniać	pracować	0.8722627907938292
+uruchomić	dokonać	0.9791506117351552
+dążyć	poświęcać	1.0102281900248902
+triumfować	kierować	1.1004162902534078
+znaczyć	działać	0.9764976993520557
+znaczyć	powieść się	1.0412164922348768
+podbić	kosić	0.9723975278431214
+kapitulować	rekrutować	0.9415640605855689
+angażować	handlować	1.0872445279067824
+ryzykować	przewyższać	0.7419845846029195
+uczęszczać	zmierzyć się	1.0000142532060692
+udaremnić	handlować	1.078019654203584
+utrudniać	dominować	1.192369796918139
+ćwiczyć	uruchomić	0.9098068990995101
+robić	powieść się	1.0539250061513719
+uruchomić	zarządzać	1.1499881791311426
+ćwiczyć	wznieść się	0.8443616254858308
+przewyższać	promować	0.9209417686282756
+wykonać	harować	0.9590447382751044
+wykorzystać	podołać	1.0268300351166662
+zastosować	przytłaczać	1.3052761944791533
+orać	triumfować	1.2267051443503545
+pracować	uruchomić	0.9376023859574096
+robić	uaktualniać	0.9847777860644551
+robić	dominować	1.046318279062798
+nagradzać	tworzyć	1.026746116427759
+prosperować	podołać	0.7946484468320495
+orać	kooperować	1.3142798347686249
+dążyć	kosić	1.0282073806393421
+harować	znaczyć	0.8880387671620942
+ćwiczyć	powtarzać	0.8747855122820872
+wznieść się	pokonać	0.8213564901475993
+podbić	kapitulować	1.1440393474186619
+zastosować	rywalizować	1.0038681772276254
+kapitulować	ukończyć	1.1247824561170416
+starać się	próbować	0.7432944164285075
+zmagać się	kierować	1.0942095823838187
+odważyć się	uaktualniać	1.0613126194110765
+utrudniać	kosić	1.1854997948225112
+próbować	znaczyć	1.0365271747953093
+wznieść się	hodować	0.9863081324692036
+wznieść się	stawiać czoła	0.8261677156182442
+rywalizować	pracować	0.9728672116064674
+przeznaczać	kosić	1.0778718277114785
+uczęszczać	kooperować	0.791865318946772
+podołać	ćwiczyć	0.7083690646878327
+angażować	dominować	0.8115321645234332
+dominować	ryzykować	1.0935659077213276
+udaremnić	sterować	1.1527030999273458
+poświęcać	wyróżniać się	0.9651594470846304
+pracować	powtarzać	0.9707590815911574
+przeznaczać	wyróżniać się	0.91959929834724
+tworzyć	wygrać	0.957917700445289
+uaktualniać	organizować	1.1822581419070692
+wyróżniać się	próbować	0.9378933849377786
+przezwyciężać	udaremnić	1.230750774834356
+promować	organizować	1.0768443775276657
+spróbować	dominować	0.9526503832935204
+kierować	przewyższać	1.0976306379245973
+uczestniczyć	liczyć się	0.7818532426964276
+promować	hodować	1.1643588094772614
+znaczyć	kosić	1.2420822397599125
+hodować	wyróżniać się	0.9857421743844635
+dominować	dokonać	1.2158774135466195
+zarządzać	rekrutować	0.83131237921483
+zarządzać	zmierzyć się	0.8850845228543561
+prowadzić	zastosować	1.3391814980433638
+dążyć	próbować	0.753155166186134
+prowadzić	orać	1.3212144925459346
+ryzykować	uczęszczać	1.0314674549551492
+wykorzystać	powtarzać	1.044008214972769
+powtarzać	przytłaczać	1.1369811023436347
+dokonać	uczestniczyć	1.0029920134193253
+zdobyć	rekrutować	1.0729805434266535
+wykorzystać	zarządzać	1.07684527317779
+wykonać	zawieść	1.3591109761717157
+podołać	ukończyć	0.687668086273897
+kierować	promować	0.9331119977173441
+stawiać czoła	powieść się	1.1136043913111167
+dokonać	starać się	1.071817464653193
+ryzykować	dążyć	0.6395208952712144
+przeznaczać	handlować	1.0061649299406419
+rekrutować	prosperować	0.7582015560488544
+podbić	produkować	1.1136328080605868
+podołać	powtarzać	1.0830284176932221
+próbować	promować	0.9305800437764671
+przezwyciężać	uaktualniać	1.0463098302006328
+pokonać	próbować	0.8907055955230272
+przewyższać	działać	0.8582715717090521
+liczyć się	organizować	0.9627272341835234
+znaczyć	dokonać	1.0056157511317678
+wykonać	ukończyć	0.7722860106161568
+kończyć	stawiać czoła	1.0986061543193484
+uaktualniać	znaczyć	1.1108591095388978
+tworzyć	utrudniać	1.151843003098062
+próbować	przeznaczać	1.1558368243489894
+zmierzyć się	przeznaczać	1.0274552221833502
+osiągnąć	zawieść	1.2538465983083111
+powieść się	zastosować	0.9471323307149636
+pokonać	działać	0.9416953232339836
+promować	znaczyć	0.9765389708561297
+uruchomić	próbować	0.9914952373358725
+uaktualniać	uruchomić	1.006640002430098
+liczyć się	stawiać czoła	0.9453861441609247
+udaremnić	orać	1.0965766634179093
+pracować	znaczyć	0.8635181971974765
+wyróżniać się	wygrać	0.8820086526839697
+dokonać	uczęszczać	1.0192467762080335
+powtarzać	handlować	1.2089048643544467
+kończyć	utrudniać	1.180744445669397
+przytłaczać	zdobyć	1.2855759527010533
+utrudniać	harować	1.1042728656982042
+starać się	robić	0.9092770522932434
+zarządzać	rywalizować	0.8291385321876283
+uaktualniać	harować	1.0087476712598418
+zdobyć	liczyć się	0.8458231776208542
+dominować	rywalizować	0.9661544011336487
+ćwiczyć	sterować	0.9097275706831797
+uaktualniać	sterować	1.269678631056689
+wykonać	spróbować	1.114887435774398
+wykorzystać	przewyższać	1.123941768644669
+wykonać	produkować	0.886395805994314
+robić	tworzyć	0.6030683619157364
+ryzykować	kooperować	0.8044547150962185
+poświęcać	kończyć	1.0401911465108251
+wykonać	znaczyć	1.2124488305447516
+rekrutować	wyróżniać się	0.5865265068388
+nagradzać	kierować	1.0714692234822965
+przytłaczać	angażować	1.0444363530232779
+powieść się	utrudniać	1.2463432607516127
+kosić	wykorzystać	1.1528901306068484
+ćwiczyć	prosperować	0.8493331810491517
+wykonać	stawiać czoła	0.9289225956428303
+zdobyć	wykorzystać	1.240363904431301
+przytłaczać	podbić	1.1875345545663731
+sterować	odważyć się	1.0010159929757527
+zmierzyć się	rywalizować	0.7850092230781898
+robić	stawiać czoła	0.5384794780361681
+sterować	prowadzić	0.3798408674391566
+zawieść	kontrolować	1.2806784805668368
+pokonać	kosić	0.8750229335688632
+udaremnić	znaczyć	1.0136470784726321
+triumfować	sterować	0.9640733448570563
+sterować	kończyć	1.2011286353815072
+utrudniać	prosperować	1.0870799539760916
+orać	dążyć	1.1136181207566853
+próbować	uczestniczyć	0.9127813950628669
+osiągnąć	kierować	1.006743285342031
+rekrutować	nagradzać	0.9372125388630046
+wygrać	prosperować	0.7884269042531392
+wygrać	przeznaczać	1.1826751347228666
+uruchomić	zawieść	1.0163243143702205
+osiągnąć	znaczyć	0.9902952269007104
+odważyć się	hodować	1.0526639370523667
+zmierzyć się	ćwiczyć	0.6839538716367314
+stawiać czoła	współpracować	0.9579364542042086
+ćwiczyć	starać się	0.7208493281375196
+prowadzić	wygrać	0.8963145718538985
+prosperować	udaremnić	1.1222052751656766
+uczęszczać	promować	0.8731802369618684
+kończyć	wygrać	0.8347225738525366
+podołać	wznieść się	0.8331476190657681
+podołać	działać	0.9097632896750387
+podołać	pracować	0.9915439574989258
+uczęszczać	rekrutować	0.9853693523598872
+triumfować	działać	0.8439695421382694
+utrudniać	promować	0.9950350754505409
+zmagać się	przewyższać	0.9899009731252748
+hodować	rekrutować	1.1883455656683033
+triumfować	liczyć się	0.839378891358046
+próbować	odważyć się	0.6626243453425247
+pokonać	kończyć	0.846651805483247
+prowadzić	kończyć	1.0690264814442307
+podbić	dążyć	0.9010491119247617
+powieść się	działać	0.9060740008345027
+wyróżniać się	stawiać czoła	0.8606661707661746
+wykonać	kończyć	0.8151232257308766
+udaremnić	wykonać	1.0471214595443803
+kończyć	udaremnić	1.115950539504948
+sterować	harować	1.2315139885402138
+działać	stawiać czoła	0.6916865818165259
+dążyć	dokonać	0.7496836190655807
+przeznaczać	robić	0.9830152260357328
+dokonać	podbić	0.9750868163997205
+prosperować	dążyć	0.9451283250681883
+uruchomić	organizować	1.2004352656501653
+zarządzać	dokonać	1.1881089745679883
+dokonać	kontrolować	1.1244205631925759
+uczestniczyć	organizować	0.7741465209151116
+działać	liczyć się	0.9202723477066381
+orać	wykonać	1.0536426052544738
+hodować	przytłaczać	1.3081956262008536
+triumfować	kończyć	0.7449821703755443
+kosić	rywalizować	1.3805174517801788
+przewyższać	odważyć się	0.7442362711006054
+powieść się	przezwyciężać	0.6768484678072944
+odważyć się	powieść się	0.7431311986080401
+uaktualniać	wygrać	1.1327820457836624
+poświęcać	orać	0.9462208355372229
+prosperować	pracować	0.9991650797598622
+wygrać	kosić	0.9595226433423932
+próbować	dominować	1.112913110637925
+osiągnąć	liczyć się	0.8190123244134442
+handlować	poświęcać	1.0813805985111429
+ćwiczyć	przytłaczać	1.0285173150794944
+wyróżniać się	osiągnąć	0.9901608322139508
+dominować	wykorzystać	1.065796456688449
+angażować	zawieść	1.163171916217296
+poświęcać	próbować	0.8898840589182551
+przeznaczać	utrudniać	0.96086839526847
+kapitulować	stawiać czoła	0.9304468255361068
+handlować	zdobyć	1.1305855666063653
+liczyć się	ryzykować	0.8469950029190669
+prowadzić	liczyć się	0.7687794208784058
+kooperować	kierować	0.8537789565854916
+promować	kontrolować	1.098413861270429
+zmagać się	powtarzać	0.8767650587363199
+podbić	sterować	0.8899878691857277
+kończyć	wznieść się	1.0025344709592732
+spróbować	starać się	0.4999008640332828
+zawieść	ukończyć	1.0977978591728568
+znaczyć	ukończyć	1.027993338307424
+starać się	przytłaczać	0.8991071363186975
+nagradzać	wyróżniać się	0.8138801165720364
+kooperować	ukończyć	1.1957261053796018
+rywalizować	przewyższać	0.6786862981321786
+produkować	pracować	0.7282134969384371
+utrudniać	uruchomić	1.049241279597097
+handlować	powieść się	1.0006459830490417
+ukończyć	dążyć	0.8186236135937105
+zmagać się	ryzykować	0.9607119394525424
+kapitulować	prowadzić	1.1857235187926707
+kooperować	osiągnąć	1.0757228519256399
+zastosować	podbić	0.9493671225065005
+zarządzać	przezwyciężać	0.9971285019578939
+kosić	kierować	1.1632442567834946
+angażować	zarządzać	0.7389695796944167
+robić	podbić	1.0056567575331214
+zarządzać	prosperować	0.9586778544937006
+ryzykować	hodować	1.114926470464092
+angażować	prosperować	0.7483806959325183
+powtarzać	rywalizować	1.0154014364289483
+kontrolować	sterować	0.5630834057733847
+rekrutować	wygrać	0.9986506207208173
+robić	kierować	0.9992118064916856
+rywalizować	prosperować	0.7049421532722592
+hodować	wykonać	0.9377756996229878
+powieść się	powtarzać	1.336303871310806
+przytłaczać	kosić	1.3597719828820936
+kapitulować	triumfować	1.0750057513367293
+wykonać	angażować	1.1576498554131556
+promować	wznieść się	0.9118409746201809
+próbować	rywalizować	0.991590292572562
+liczyć się	odważyć się	0.7721078829709226
+prowadzić	wykorzystać	1.1343023759516637
+znaczyć	stawiać czoła	0.8508462789899462
+wykonać	kooperować	1.3428734645437899
+ukończyć	kontrolować	1.2680606244589407
+ukończyć	prosperować	0.964115725879008
+wykorzystać	przytłaczać	0.8725298575865372
+wznieść się	organizować	0.9968056085178891
+rywalizować	sterować	0.9001222209489828
+liczyć się	angażować	0.8173913982879994
+pracować	zmierzyć się	0.8030605218166259
+dążyć	uczestniczyć	0.8793153610671995
+kierować	sterować	0.3996401817629467
+wznieść się	zmagać się	0.8470432663207157
+wznieść się	rywalizować	1.079423481588947
+spróbować	próbować	0.6921543730049641
+zawieść	powieść się	1.2248010000908625
+prosperować	powtarzać	1.0839373722908499
+rywalizować	tworzyć	1.0367388002823725
+stawiać czoła	pracować	0.5683171955175785
+wykorzystać	angażować	1.064177810883396
+harować	przewyższać	0.9558275436559813
+odważyć się	znaczyć	0.9752109953132685
+przewyższać	znaczyć	0.7607392275047982
+działać	pracować	0.5076149684627139
+triumfować	kontrolować	0.9617818963809095
+uczęszczać	pracować	0.9662219617028194
+kontrolować	zmierzyć się	0.9592826883242007
+uruchomić	pokonać	1.1334111285449333
+uruchomić	tworzyć	0.8772225670475374
+zdobyć	ryzykować	0.9699249976703909
+prosperować	poświęcać	0.9551322496799278
+rywalizować	hodować	1.2622115031934549
+kooperować	handlować	1.1982827165357
+zastosować	przezwyciężać	1.0165642432242414
+zawieść	próbować	1.0142414020469834
+kontrolować	starać się	0.8286624334449282
+poświęcać	zastosować	1.0903383342753974
+znaczyć	utrudniać	1.095638779122201
+orać	współpracować	1.3092689559564885
+robić	kończyć	1.0679116184447086
+powieść się	dominować	0.8034746352141712
+uczestniczyć	triumfować	0.9129678080950538
+handlować	zmagać się	1.2294045503491473
+uczestniczyć	zawieść	1.095168776772183
+wyróżniać się	wykorzystać	0.8957743973468932
+nagradzać	utrudniać	0.9423035600611086
+powieść się	prosperować	0.8203975407466058
+poświęcać	uczestniczyć	0.7931501076353533
+działać	zmagać się	0.7352350539885122
+dominować	działać	1.0722668408049392
+zastosować	sterować	1.3837820308878925
+kontrolować	zastosować	1.192413849944913
+wygrać	zmierzyć się	0.9424627478987871
+sterować	wznieść się	0.8993596431117192
+hodować	orać	0.6451243465178955
+dokonać	poświęcać	1.106159628391782
+produkować	promować	0.9699062898809255
+zmierzyć się	produkować	0.9931395761351058
+robić	handlować	1.0809315045801873
+spróbować	zastosować	1.0398468029650676
+angażować	uruchomić	0.9678139423069113
+kończyć	współpracować	1.2178196353619035
+kontrolować	uczęszczać	0.8477141479919938
+ćwiczyć	współpracować	0.9599673755933092
+zarządzać	przeznaczać	0.9152225622833284
+kierować	ryzykować	1.2342135684703102
+zastosować	znaczyć	1.0916392859957624
+uczestniczyć	wykonać	1.0759895070159358
+podbić	poświęcać	1.1535120986795329
+kierować	uczęszczać	0.8590690788865758
+zastosować	harować	0.9924387462747061
+wznieść się	pracować	0.9425195735784379
+wznieść się	prowadzić	0.8973764093451957
+zawieść	zdobyć	1.2362342284809897
+osiągnąć	odważyć się	0.7011918214788642
+triumfować	zmierzyć się	0.9600351541237407
+tworzyć	kosić	1.2025228162175263
+zmierzyć się	zawieść	1.0248990045911466
+zmierzyć się	przytłaczać	0.8903126535443787
+handlować	triumfować	1.1148870886314155
+orać	dominować	1.2389090052892744
+zmagać się	starać się	0.730267918191906
+kooperować	wznieść się	0.9114603914754215
+produkować	kontrolować	1.0699055653620848
+stawiać czoła	kooperować	0.8932912687479722
+robić	prosperować	0.9372144227585774
+podołać	nagradzać	0.8595447820290952
+kończyć	zmagać się	0.9711281966089612
+ćwiczyć	zmagać się	0.6889021474421915
+pokonać	zawieść	1.1054946515174544
+udaremnić	promować	1.099957716201505
+uczęszczać	robić	1.0030646756630428
+dążyć	uczęszczać	0.784168855553783
+uczestniczyć	odważyć się	0.8326785942989862
+spróbować	kierować	0.8843044703346193
+prowadzić	uczestniczyć	0.839269292666798
+powtarzać	poświęcać	1.2930920679626696
+znaczyć	robić	0.878332421641116
+zastosować	organizować	1.2361408964530407
+przezwyciężać	tworzyć	1.0147142457417484
+kierować	stawiać czoła	0.8378744265427174
+zastosować	ryzykować	0.8814062573986576
+promować	podbić	0.9785171433116001
+zmagać się	uczęszczać	1.144939413855411
+działać	starać się	0.9746705450487125
+harować	współpracować	1.0932486877344427
+udaremnić	zmierzyć się	1.0461159289136315
+dominować	uczęszczać	0.8114125812648502
+produkować	rywalizować	1.0760251786124053
+robić	orać	0.9068608076066446
+powtarzać	harować	0.9492591555528491
+promować	kapitulować	0.8010895239670416
+ćwiczyć	prowadzić	0.8943223389095821
+kierować	kapitulować	1.113056516411865
+tworzyć	udaremnić	1.0843933402426085
+podołać	wyróżniać się	0.8657335520114029
+uczęszczać	kapitulować	0.9035400774082556
+kosić	przewyższać	1.0922744926527783
+kontrolować	zmagać się	1.2224224350008939
+prosperować	promować	0.7826688886711115
+sterować	starać się	0.9166208757650866
+tworzyć	starać się	0.9754199724329351
+zastosować	kooperować	1.2173027956649376
+angażować	sterować	0.8757456419037773
+nagradzać	uaktualniać	0.999495939315584
+udaremnić	powtarzać	1.0283017735419724
+podbić	stawiać czoła	1.0269121333075377
+zawieść	zastosować	1.0225785618734369
+podołać	stawiać czoła	0.9936214214126244
+starać się	kosić	1.0964885219889031
+starać się	powieść się	0.7593114129882342
+poświęcać	ukończyć	0.9452453977294569
+kończyć	wyróżniać się	1.022914755439206
+ukończyć	uczęszczać	1.0408980498929983
+rywalizować	prowadzić	0.8573988464339133
+zarządzać	dominować	0.6390257678727463
+wykorzystać	triumfować	1.1362316360336528
+znaczyć	triumfować	0.8235722669004991
+harować	odważyć się	0.9179363327843413
+podbić	uruchomić	1.1636814369800477
+hodować	podołać	1.1056980675773298
+uczęszczać	wyróżniać się	0.8329769483973178
+stawiać czoła	orać	0.9614182783900295
+dążyć	udaremnić	1.1846325001064972
+osiągnąć	wygrać	0.38563167808027143
+pracować	hodować	1.1160460551181757
+pracować	wykorzystać	1.0607261620417774
+nagradzać	podbić	1.1514233497005082
+rywalizować	wykorzystać	0.9690128119356513
+powtarzać	przeznaczać	1.1305933777674206
+robić	zarządzać	1.2024010733439292
+zmierzyć się	uruchomić	1.214300451713187
+tworzyć	ryzykować	0.988136191236752
+ćwiczyć	dokonać	0.8959057455858574
+zawieść	kończyć	0.9327377803705268
+przeznaczać	dokonać	1.4202250702065256
+zmierzyć się	utrudniać	1.047148066336641
+uczestniczyć	wznieść się	0.8614351461256143
+zdobyć	tworzyć	1.1018433159613694
+współpracować	promować	1.109433772160189
+starać się	wyróżniać się	0.9042853657596048
+podbić	znaczyć	1.1243060399230749
+zarządzać	handlować	1.2456605676406471
+harować	spróbować	0.9337209744374596
+kosić	uczestniczyć	1.346337853605479
+podbić	powieść się	0.6415004022158667
+udaremnić	organizować	1.2185508209987144
+angażować	przezwyciężać	0.8005765100082127
+kierować	uaktualniać	1.227024612771266
+poświęcać	kapitulować	1.1352100115991337
+udaremnić	harować	1.0472286102709654
+kierować	starać się	0.850125836591749
+ryzykować	zawieść	1.1622517384872173
+uczestniczyć	kontrolować	0.8738469527337469
+rywalizować	ryzykować	0.8383331292106921
+handlować	sterować	1.2698569506991306
+współpracować	nagradzać	0.9910005153395233
+harować	zdobyć	1.0290463447684024
+prosperować	wykonać	0.9205521624828551
+zdobyć	powtarzać	1.2810989080813666
+utrudniać	zawieść	0.9864923903645576
+hodować	kończyć	1.0620475692317461
+kapitulować	zdobyć	1.2335737787510577
+udaremnić	robić	0.9375657630889025
+sterować	znaczyć	1.004896813521005
+powtarzać	zmierzyć się	0.9173686726076189
+pracować	liczyć się	0.8509367937477795
+kończyć	rekrutować	1.183888934431459
+poświęcać	sterować	1.1417489806986545
+dominować	prosperować	0.9595204698709573
+pracować	przytłaczać	1.0086470070837625
+przezwyciężać	prosperować	0.6851817674888979
+działać	wyróżniać się	0.9511993788322413
+organizować	zawieść	1.3317802398935392

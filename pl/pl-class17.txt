@@ -1,0 +1,742 @@
+Word1	Word2	Score
+kurczyć się	zburzyć	1.1149934221579778
+zepsuć	ugasić	1.2394699095871744
+zniszczyć	zginąć	1.1218385347193736
+rozbić	brukać	0.986815976972893
+rozlecieć się	niszczyć	0.8068668310648094
+zgładzić	utylizować	1.3221629174187537
+utylizować	ugasić	1.1643591207561417
+eksplodować	kurczyć się	1.1506503166474722
+utylizować	topić	0.9697701070606295
+rozbić	ugasić	1.115858550864834
+marnować	rozbić	1.2831640644137723
+zniszczyć	degradować	0.8409779769532475
+stopić	zaniedbać	1.0356964129097876
+unicestwić	utopić	1.0191458650968794
+utopić	ugasić	1.029587001901715
+brukać	stopić	1.1944394057209509
+rozbić	pogorszyć	0.8423895228022006
+spalić	stłuc	0.8747108045932162
+gnić	stłuc	1.0223639063685463
+poplamić	rozedrzeć	1.0237069703682928
+zniszczyć	roztrzaskać	0.6820886788701558
+gnić	zepsuć	0.9690713589552715
+niszczyć	gnić	1.092774756596647
+śmiecić	spalić	1.1012003109197288
+zginąć	zepsuć	1.1238055106846594
+pogorszyć	anulować	1.0480365631929351
+degradować	utopić	1.0118950491528453
+marnować	zginąć	1.3290894163161433
+utylizować	blaknąć	1.0512744569794683
+topić	blaknąć	1.0024496745473241
+utylizować	spalić	0.9599233883758036
+topić	zginąć	1.1962090365976943
+brukać	utylizować	1.0980641665085789
+implodować	niszczyć	1.1274962389965844
+rozkładać się	zepsuć	0.8649980994893643
+zepsuć	topić	1.0504660780790307
+pękać	gnić	0.9775607074514092
+anulować	zburzyć	1.1384577788325199
+stłuc	niszczyć	0.7831925798257483
+kurczyć się	utylizować	1.1341014436451273
+poplamić	utopić	0.8966749052341486
+utopić	pogarszać się	0.9422412392420851
+unicestwić	stłuc	0.8524454307685344
+roztrzaskać	rozkładać się	0.8329685384925013
+blaknąć	rozerwać	0.9074956584042496
+kurczyć się	zgładzić	0.9704551184976288
+gnić	blaknąć	0.8161081652159201
+topić	zniszczyć	1.0846255934020523
+stłuc	zaniedbać	1.1435757122837067
+pękać	unicestwić	1.1635398181558954
+eksplodować	spalić	0.8545828202764425
+roztrzaskać	niszczyć	0.6571030719780488
+spalić	kurczyć się	1.30196109652948
+brukać	zgładzić	1.146613479110065
+brukać	rozkładać się	0.8133856872033552
+rozerwać	spalić	0.9540188926310695
+eksplodować	usunąć	1.003583293125891
+anulować	rozedrzeć	1.0498303311027828
+zepsuć	usunąć	0.8754705349548407
+utopić	zburzyć	1.1408112425019683
+marnować	eksplodować	1.1578911250929058
+rozerwać	usunąć	1.063625224250944
+zginąć	rozkładać się	1.0495642493950312
+stopić	niszczyć	0.8614546333267895
+pogorszyć	topić	0.9711955629158371
+rozpadać się	zgładzić	1.0802621546297928
+zniszczyć	stopić	0.9576788365057257
+zginąć	ugasić	1.4864180598663612
+pogorszyć	unicestwić	0.8306338322920915
+gnić	rozkładać się	0.4192360322439507
+spalić	degradować	1.2606639451430866
+pogorszyć	ugasić	0.9360013897911108
+unicestwić	zepsuć	0.8312069075547928
+gnić	ugasić	1.0900722126099816
+zaniedbać	zginąć	1.3246746917557826
+marnować	topić	0.8836588308045608
+stopić	poplamić	0.8620454857201769
+śmiecić	utylizować	1.0423368220110065
+śmiecić	rozerwać	1.0444533109012935
+erodować	eksplodować	1.0801855619685443
+śmiecić	rozedrzeć	0.9310069477314981
+niszczyć	pogorszyć	0.8341726590760179
+zepsuć	zburzyć	0.5413543816868005
+kurczyć się	rozbić	1.3059801609478117
+zgładzić	rozkładać się	1.0777748156546965
+degradować	kurczyć się	0.9585252622633639
+zgładzić	marnować	0.9698446227946825
+zaniedbać	zburzyć	1.0383019912503675
+rozpadać się	anulować	1.2743754264013443
+brukać	stłuc	1.1518539300177115
+wybuchać	rozbić	0.8328066971165252
+zburzyć	blaknąć	0.9563525723055591
+rozbić	zburzyć	0.8410665943523254
+pękać	utylizować	0.9721032124276516
+ugasić	zniszczyć	1.36917500974808
+zniszczyć	anulować	1.031203418278173
+śmiecić	blaknąć	0.8936613948361131
+rozedrzeć	zepsuć	0.7847159713931599
+spalić	rozpadać się	1.0772441274954336
+erodować	śmiecić	0.9045881734403235
+utopić	zginąć	1.0475555905963576
+kurczyć się	zginąć	1.2143331672504396
+stłuc	pękać	0.6315503111472942
+brukać	spalić	1.426138220994067
+unicestwić	rozpadać się	1.1198611256708781
+ugasić	wybuchać	1.2283227498285203
+zaniedbać	zgładzić	1.099659726445404
+gnić	utylizować	1.166599756393318
+anulować	rozerwać	1.0437256487274589
+utopić	rozkładać się	0.8427638999838797
+rozbić	rozedrzeć	0.8133284477487706
+zginąć	spalić	1.065361009587377
+roztrzaskać	zgładzić	0.7658040855659471
+pogorszyć	utopić	0.8911474819033842
+marnować	pogarszać się	0.7947693564470816
+rozkładać się	rozedrzeć	0.7069899447375131
+niszczyć	degradować	0.9380928884781643
+rozkładać się	niszczyć	0.8817838310912146
+implodować	usunąć	1.2300699386876601
+pogarszać się	zburzyć	0.8431893329838558
+zburzyć	brukać	1.1524394217552065
+stłuc	zepsuć	0.5370723678865886
+ugasić	poplamić	1.2925817166357743
+anulować	pękać	1.222760117008092
+roztrzaskać	pogorszyć	0.8169097210829975
+rozlecieć się	stopić	0.9843679783704933
+unicestwić	rozedrzeć	1.116242774038871
+roztrzaskać	utopić	0.9739636602529141
+niszczyć	rozerwać	0.842694566215767
+rozpadać się	usunąć	1.2242676654136775
+roztrzaskać	utylizować	1.2518048401819932
+utylizować	zburzyć	1.2436651048526095
+implodować	pogarszać się	0.9301889962014964
+unicestwić	kurczyć się	1.0876275891931222
+pogorszyć	stopić	0.913874513787458
+pogorszyć	rozedrzeć	0.9004894159403563
+usunąć	pogarszać się	0.9916463072075686
+zginąć	utylizować	1.195455465668054
+anulować	spalić	1.0947222191031896
+pogorszyć	poplamić	0.929211598051588
+utylizować	utopić	1.1300761016905363
+pękać	ugasić	1.2755097104140682
+zepsuć	rozlecieć się	0.578396869464684
+stopić	kurczyć się	0.8434360824331186
+wybuchać	zniszczyć	0.8537203572575198
+topić	anulować	1.1405293221352635
+śmiecić	pękać	0.8762560010531606
+poplamić	zepsuć	1.1592352881040489
+erodować	niszczyć	0.9553118632847538
+zaniedbać	marnować	0.7649116917803384
+kurczyć się	utopić	0.8794535873257849
+pogarszać się	poplamić	0.9639936074699902
+roztrzaskać	wybuchać	0.8810249761100407
+rozlecieć się	anulować	1.204444030601086
+zepsuć	blaknąć	0.9864283591556819
+spalić	niszczyć	0.9958668697312687
+topić	brukać	0.9788674121005951
+rozerwać	gnić	0.8149338736569599
+wybuchać	pogorszyć	0.8884401050272297
+utopić	spalić	1.2642813599918619
+unicestwić	zniszczyć	0.6952608431731404
+rozerwać	zepsuć	0.8229314723403698
+zepsuć	implodować	1.1110659726075438
+zginąć	gnić	1.1452010110973025
+niszczyć	zepsuć	0.6252682018473661
+implodować	wybuchać	1.1286259159452976
+rozerwać	brukać	1.0965436778290876
+topić	rozpadać się	1.0386352384380328
+rozbić	erodować	1.0108195396135806
+implodować	rozerwać	1.1140112292344089
+zginąć	niszczyć	1.0291274755946729
+unicestwić	rozerwać	1.0115330590555303
+usunąć	zginąć	1.2048014558071176
+brukać	niszczyć	1.1539717865918262
+rozbić	zgładzić	0.807378601841488
+zniszczyć	utopić	1.1394826218084155
+spalić	wybuchać	0.8552964729653254
+stopić	blaknąć	1.0450757386796383
+usunąć	zburzyć	0.9216131427316683
+anulować	zepsuć	1.0096779946024095
+zgładzić	unicestwić	0.4758624980199806
+brukać	pękać	1.0521092769529066
+niszczyć	blaknąć	1.095722790711308
+zginąć	implodować	1.1272849725429475
+topić	kurczyć się	0.8978367576295305
+marnować	stłuc	1.1805060396613365
+marnować	anulować	0.9396640499636045
+rozkładać się	utylizować	0.9487954113394174
+gnić	implodować	0.9169288206592175
+poplamić	topić	0.8077823437422956
+pękać	rozkładać się	0.6738384000084638
+zburzyć	erodować	1.0243321256513018
+stłuc	rozpadać się	0.89278173358315
+rozlecieć się	kurczyć się	1.0281190776228262
+wybuchać	rozpadać się	0.8441246197129738
+implodować	rozedrzeć	1.031486421087162
+śmiecić	eksplodować	1.138940286905974
+rozlecieć się	usunąć	1.0510915474500155
+degradować	pogorszyć	0.7270943896866833
+erodować	rozkładać się	0.7915508288097037
+zniszczyć	rozerwać	0.980563611710179
+rozbić	blaknąć	1.0214948092807041
+zburzyć	rozkładać się	1.0690727617252798
+zniszczyć	rozedrzeć	0.997102304077521
+eksplodować	topić	1.069039576427983
+eksplodować	poplamić	1.2801294881768683
+pogorszyć	zgładzić	0.8842401190522454
+eksplodować	pękać	0.7325609930777953
+rozerwać	zaniedbać	1.0106057274496352
+rozerwać	marnować	1.0052700699877826
+zginąć	zgładzić	1.056465011702423
+rozkładać się	pogorszyć	0.8996820252754333
+eksplodować	anulować	1.2975195975513814
+poplamić	gnić	0.9928461686953294
+spalić	unicestwić	1.114820359713958
+zepsuć	wybuchać	0.9005632745163777
+kurczyć się	zepsuć	1.2170124393312458
+zginąć	poplamić	1.3281856927664426
+rozerwać	pogorszyć	0.893695394509176
+rozkładać się	śmiecić	0.9365033144293728
+marnować	brukać	0.8146768755177942
+pogorszyć	spalić	1.1816975401976
+roztrzaskać	rozbić	0.34199954140897726
+rozkładać się	zniszczyć	0.9742615311437247
+roztrzaskać	anulować	1.1964193077046035
+marnować	stopić	1.0223171432822238
+degradować	stłuc	0.935766943795426
+kurczyć się	zniszczyć	1.1323307041381945
+zgładzić	eksplodować	1.1208301121901725
+stłuc	rozlecieć się	0.5909401600288003
+spalić	topić	1.1183327377183805
+zaniedbać	degradować	0.7666663279548395
+rozbić	pękać	0.7256194031687163
+rozpadać się	brukać	1.0287276053137042
+rozedrzeć	utopić	0.948342411379339
+pękać	utopić	1.0010224909264631
+śmiecić	rozpadać się	1.0264726567912001
+zgładzić	śmiecić	1.0558200338791934
+eksplodować	rozkładać się	0.9513535421505699
+śmiecić	roztrzaskać	1.1349094531556276
+rozedrzeć	zburzyć	0.8189424765639035
+rozbić	pogarszać się	1.100756821838392
+implodować	spalić	1.367261015523588
+zaniedbać	unicestwić	1.0944937010847915
+eksplodować	implodować	1.1856029311315248
+poplamić	pękać	1.2260243508507678
+wybuchać	rozedrzeć	0.7408841996258841
+zginąć	degradować	1.2193344632664882
+usunąć	blaknąć	1.0953728726601681
+spalić	ugasić	1.3109053462079856
+usunąć	spalić	1.0079971199176052
+stopić	usunąć	0.9417955608893889
+wybuchać	niszczyć	0.7673140178983227
+gnić	degradować	0.6581795133440226
+niszczyć	rozbić	0.6669451449298519
+rozedrzeć	pogarszać się	1.0091844099587477
+rozbić	stłuc	0.5283758228620908
+pękać	pogarszać się	1.131570760586804
+utopić	stłuc	0.9940147179910054
+rozedrzeć	marnować	1.0703333603945955
+rozpadać się	erodować	0.8806378679939921
+rozkładać się	poplamić	0.9134264442497451
+śmiecić	zaniedbać	0.8310343449089465
+implodować	marnować	0.9285834370072062
+wybuchać	usunąć	0.9691358652385125
+marnować	kurczyć się	0.8806421571341263
+erodować	rozedrzeć	0.7968844493491813
+rozerwać	pogarszać się	1.022567258019876
+ugasić	usunąć	1.1281801805273506
+implodować	zgładzić	0.8372053541542606
+marnować	degradować	0.8384010142111802
+zepsuć	rozbić	0.7168280453245375
+anulować	wybuchać	1.1490195783741182
+stopić	wybuchać	0.9891596067566056
+eksplodować	pogarszać się	1.0209745440183529
+zniszczyć	zgładzić	0.7221986371401989
+usunąć	rozedrzeć	1.1863769227407137
+pogarszać się	pogorszyć	0.504015759346473
+blaknąć	roztrzaskać	0.9751596629804049
+rozpadać się	poplamić	1.0022692755421838
+roztrzaskać	spalić	1.1410576374614847
+roztrzaskać	marnować	1.148137675560879
+degradować	topić	1.0227596263416667
+rozpadać się	pękać	0.7860114358835968
+topić	rozerwać	0.9133899896964366
+gnić	zaniedbać	0.8767442120207178
+poplamić	anulować	1.179327540610076
+utopić	rozbić	1.0168482422437948
+pękać	implodować	1.016730327163573
+pękać	zginąć	1.0847995485908735
+pogorszyć	zburzyć	0.6632615301196361
+marnować	ugasić	0.9378150527359395
+utopić	brukać	1.013319468543369
+zburzyć	zgładzić	0.8526064932063125
+zepsuć	utylizować	1.1841113126949385
+usunąć	kurczyć się	1.2259168294635354
+stłuc	eksplodować	0.8913085519917661
+utopić	stopić	0.6859398699372847
+zniszczyć	zepsuć	0.505651571740383
+implodować	topić	0.9002402041191614
+stopić	pogarszać się	1.045124080034353
+blaknąć	zaniedbać	0.9710021957262522
+eksplodować	zaniedbać	1.1258718252612132
+erodować	gnić	0.7468756380765771
+usunąć	gnić	1.1717814236153092
+zgładzić	degradować	0.9579415497350195
+usunąć	utopić	1.175017796211518
+gnić	wybuchać	1.0171706297344263
+rozlecieć się	brukać	0.8777687165403173
+blaknąć	kurczyć się	0.7803818911601841
+wybuchać	erodować	0.9821439354176087
+zburzyć	topić	1.096515794804504
+zepsuć	eksplodować	0.9307303925389064
+rozbić	rozkładać się	0.803815720072032
+rozedrzeć	gnić	0.7780101033268758
+stopić	eksplodować	1.0597273122686708
+kurczyć się	gnić	1.0386025441029079
+unicestwić	niszczyć	0.553355299305116
+spalić	stopić	0.88339821619805
+pogorszyć	utylizować	1.1918815424346456
+rozkładać się	rozerwać	0.6800493862400692
+zaniedbać	rozedrzeć	0.9922768857756425
+poplamić	brukać	1.3104291600120235
+brukać	pogarszać się	0.9980181065351125
+topić	wybuchać	0.9519330764562861
+brukać	gnić	0.8747449574307802
+śmiecić	niszczyć	1.035066569344396
+poplamić	śmiecić	0.9756635359610356
+erodować	rozlecieć się	0.7958718656823327
+marnować	usunąć	1.127813871613178
+degradować	implodować	1.0160884629387175
+spalić	rozbić	1.1148551039075427
+utylizować	implodować	1.2622090587758916
+anulować	niszczyć	1.2112500588258006
+blaknąć	zgładzić	0.9838877790398087
+usunąć	śmiecić	1.0499554392837391
+pękać	topić	0.8693050311007139
+zniszczyć	poplamić	1.2280632156943792
+rozlecieć się	rozbić	0.6573654211353417
+śmiecić	ugasić	1.003973140819041
+spalić	zburzyć	1.1207159288230588
+kurczyć się	zaniedbać	0.9809646315990378
+degradować	zepsuć	0.697420403090455
+roztrzaskać	poplamić	1.227993941835121
+rozbić	rozpadać się	0.9038105947218051
+rozkładać się	rozlecieć się	0.6026070425992688
+zaniedbać	utopić	1.1365097342606008
+pogorszyć	pękać	0.9483661849728464
+poplamić	usunąć	1.2791466404415897
+brukać	implodować	1.2689890462113815
+poplamić	stłuc	1.131629142024195
+rozbić	utylizować	1.3100536976461394
+zburzyć	poplamić	1.1955956983152332
+implodować	poplamić	0.899999653794397
+pogarszać się	rozkładać się	0.9048228084653885
+śmiecić	unicestwić	1.1199403202756564
+wybuchać	marnować	1.0307523607359361
+brukać	śmiecić	0.9852626776452349
+zgładzić	wybuchać	1.0909450988071807
+implodować	pogorszyć	0.9835171798676274
+zaniedbać	roztrzaskać	1.164835685353385
+erodować	pogorszyć	0.9481562299815787
+utylizować	wybuchać	1.1879505147239748
+pogorszyć	zepsuć	0.8304693990934002
+zburzyć	rozpadać się	0.9857540888099521
+zburzyć	stłuc	0.8264982596607261
+rozbić	zaniedbać	1.233532789609861
+rozerwać	roztrzaskać	0.6707758151839506
+zgładzić	poplamić	1.1740022534172334
+eksplodować	wybuchać	0.24767896452713883
+eksplodować	zginąć	0.8241194965204613
+unicestwić	anulować	1.2236845755182524
+wybuchać	poplamić	1.2589466445035904
+ugasić	stłuc	1.2333561237258228
+marnować	rozkładać się	0.9166515649873802
+roztrzaskać	unicestwić	0.7504013795406842
+śmiecić	wybuchać	1.1751374538410035
+rozlecieć się	śmiecić	1.0554511885380509
+zaniedbać	rozkładać się	0.8649872783536825
+utylizować	stłuc	1.0563266422497626
+blaknąć	unicestwić	1.0244296879721317
+gnić	zburzyć	1.1318466567899634
+roztrzaskać	pękać	0.7352043033815546
+rozkładać się	unicestwić	0.9909593778842627
+rozlecieć się	topić	0.9601798777595434
+pogarszać się	degradować	0.7616068322978801
+eksplodować	zburzyć	0.796141216780966
+zniszczyć	pogorszyć	0.7188039929228114
+zginąć	stłuc	1.0154599005497706
+kurczyć się	pogarszać się	0.830410813263216
+gnić	rozbić	0.9542461104174388
+spalić	rozlecieć się	0.935436276448404
+usunąć	stłuc	0.8696934159132118
+stopić	erodować	1.0295727439924196
+rozkładać się	implodować	0.8844726362671902
+rozedrzeć	degradować	0.8849933256955749
+usunąć	rozkładać się	1.0191533913295934
+erodować	rozerwać	0.7494094059354419
+topić	usunąć	0.9584237715941654
+gnić	stopić	1.0018814386040302
+rozlecieć się	eksplodować	0.7705397620066691
+ugasić	erodować	0.8655787859682684
+brukać	unicestwić	1.119416397556892
+unicestwić	ugasić	1.1422576872128365
+zburzyć	degradować	0.8013313929179846
+zepsuć	brukać	0.9484318503196507
+pękać	blaknąć	1.017999703242138
+rozkładać się	ugasić	1.0798066865380962
+degradować	rozkładać się	0.6469554927828994
+zaniedbać	wybuchać	1.0475397488505465
+stłuc	zniszczyć	0.8063067834457386
+ugasić	implodować	1.1939677090944325
+rozkładać się	kurczyć się	0.9719677485041971
+blaknąć	utopić	1.048222482458161
+implodować	roztrzaskać	1.176948682454539
+niszczyć	kurczyć się	1.2030181145728913
+stłuc	erodować	0.8570237373131185
+zaniedbać	pogorszyć	0.8492157253674191
+topić	stłuc	1.0099271416814162
+rozpadać się	eksplodować	0.830794227159761
+erodować	roztrzaskać	0.9334329639247347
+stłuc	stopić	0.9884829311241017
+rozbić	eksplodować	0.9018660017353074
+brukać	blaknąć	0.8941414556560945
+roztrzaskać	rozpadać się	0.8728473932632436
+eksplodować	utopić	1.1697415336919332
+erodować	anulować	0.9287738173713928
+rozbić	degradować	0.9491160623619618
+spalić	blaknąć	1.2076692717858128
+zniszczyć	śmiecić	1.0472379190988814
+rozerwać	utopić	0.8795173641795517
+implodować	stłuc	1.11013547980073
+rozpadać się	rozlecieć się	0.3510802348558263
+anulować	gnić	1.1217187090981742
+pogorszyć	rozpadać się	0.8657774107508538
+pękać	rozlecieć się	0.7106172065393322
+usunąć	anulować	1.0152989587779748
+roztrzaskać	rozedrzeć	0.6767654198504541
+rozkładać się	anulować	1.0533822354686297
+anulować	zgładzić	1.3095891103357749
+wybuchać	pękać	0.8307604126320707
+ugasić	kurczyć się	1.1111354887499019
+śmiecić	utopić	0.9953925908635164
+unicestwić	utylizować	1.2619343771852938
+marnować	erodować	0.7640935313478365
+utopić	anulować	1.3270085622540988
+roztrzaskać	kurczyć się	1.2831962971414559
+ugasić	topić	0.904373632687353
+kurczyć się	pękać	1.0746155012245642
+ugasić	rozedrzeć	1.346291921732801
+degradować	ugasić	1.0516838290158
+rozpadać się	ugasić	1.3536560573186243
+pękać	zgładzić	1.0370072636847434
+roztrzaskać	gnić	1.0588242735596913
+blaknąć	degradować	0.870448740210444
+poplamić	erodować	1.0591130754709213
+marnować	śmiecić	0.9314678330229778
+kurczyć się	erodować	1.056685643087572
+ugasić	blaknąć	0.9823373744100384
+unicestwić	wybuchać	1.0616692703497004
+brukać	pogorszyć	1.038606226105983
+marnować	zniszczyć	1.0029499738879424
+zaniedbać	ugasić	0.9654906360683374
+blaknąć	marnować	0.8116429942687341
+unicestwić	topić	1.00428865444713
+eksplodować	gnić	1.1406904119258516
+zgładzić	stopić	0.9175532610264175
+rozerwać	utylizować	1.0438636251753546
+degradować	usunąć	1.0618136511209408
+utylizować	erodować	1.0319863586509408
+gnić	zniszczyć	1.2041557682340116
+degradować	utylizować	1.1431471194055127
+stopić	unicestwić	0.9895550903275966
+rozpadać się	zepsuć	0.8646058071728344
+rozkładać się	spalić	1.134198657166052
+utylizować	rozpadać się	1.0284328166004988
+kurczyć się	stłuc	1.2292762682214937
+pogorszyć	śmiecić	0.9781035378486852
+rozpadać się	utopić	1.1173757548842864
+poplamić	blaknąć	0.9145654569473975
+marnować	niszczyć	1.1052125175796526
+zniszczyć	rozpadać się	1.0390387968203698
+poplamić	niszczyć	1.2605451062575201
+zgładzić	niszczyć	0.5874759781916191
+poplamić	zaniedbać	1.045127523911106
+rozlecieć się	zniszczyć	0.9650998939508739
+wybuchać	rozerwać	0.6853621515681128
+implodować	unicestwić	1.0141212314851122
+utylizować	anulować	1.229928003235474
+stopić	degradować	1.0229841585210202
+pogarszać się	erodować	0.8486199102561178
+pękać	zburzyć	0.9136072963022488
+rozpadać się	blaknąć	1.0878340447971857
+zaniedbać	erodować	0.783165749289993
+unicestwić	pogarszać się	0.9910437596135605
+pękać	rozedrzeć	0.648891620731131
+utopić	rozlecieć się	0.9358526655610324
+zaniedbać	zepsuć	1.0002959305744923
+usunąć	pękać	1.2384393238561737
+degradować	rozerwać	0.9376781585452004
+niszczyć	topić	0.9760461476082727
+unicestwić	rozlecieć się	0.9598344584521384
+rozerwać	ugasić	1.2993440844588477
+brukać	usunąć	1.3175547206707734
+pękać	zepsuć	0.8308156318992922
+niszczyć	ugasić	1.2354469559809413
+eksplodować	rozedrzeć	0.7880090534369273
+erodować	degradować	0.7932658252445027
+unicestwić	erodować	0.9532739250386846
+rozedrzeć	rozpadać się	0.705640560718981
+eksplodować	pogorszyć	0.8403701752381465
+brukać	roztrzaskać	0.981095454686577
+zepsuć	marnować	1.038613299737997
+spalić	gnić	1.2483399922817142
+rozedrzeć	utylizować	1.1123777050942565
+śmiecić	gnić	0.9889361080561248
+rozerwać	kurczyć się	1.1575862409238322
+niszczyć	pękać	0.9801931277358438
+zginąć	roztrzaskać	1.1378388456950363
+zgładzić	ugasić	1.2357810713753876
+rozerwać	stopić	0.9385958322381707
+zaniedbać	implodować	1.0520834837489919
+spalić	erodować	1.1484628942535577
+rozpadać się	gnić	0.7701743071399848
+pękać	degradować	0.9411782069680167
+marnować	rozpadać się	0.9031355568012663
+rozbić	zniszczyć	0.8503250006583655
+zniszczyć	niszczyć	0.4199494119249961
+zgładzić	erodować	1.1141101031971283
+stopić	rozedrzeć	0.921704113796172
+rozkładać się	blaknąć	0.8945720889145045
+ugasić	anulować	1.0649968533499559
+eksplodować	utylizować	1.22525133584723
+rozedrzeć	spalić	0.8730908799357802
+rozedrzeć	blaknąć	0.8603323047624372
+śmiecić	anulować	1.2468490049369492
+zepsuć	śmiecić	1.0553137148431346
+spalić	marnować	1.2940765552130793
+rozerwać	zburzyć	0.9383976333686465
+implodować	zburzyć	1.063239076514136
+rozpadać się	implodować	0.914993502317751
+zginąć	blaknąć	1.2197217243281306
+zgładzić	zepsuć	0.9003584900996301
+utopić	gnić	0.8346792683765357
+stopić	implodować	0.9117012307446023
+stłuc	anulować	1.0988345985618713
+śmiecić	topić	0.891728231665389
+stopić	zginąć	1.2171464253269109
+eksplodować	blaknąć	1.179135711481472
+kurczyć się	poplamić	0.7709972711597196
+utopić	implodować	0.9342612336814092
+zginąć	rozerwać	0.8214561805738728
+spalić	zaniedbać	1.183104251261548
+śmiecić	pogarszać się	0.9271135439608812
+spalić	poplamić	1.156489324971371
+marnować	pogorszyć	0.7759421859605891
+rozedrzeć	rozerwać	0.2951959464100182
+marnować	poplamić	0.9801264563362301
+pękać	rozerwać	0.7192171972941931
+kurczyć się	wybuchać	1.1085750594277557
+zaniedbać	brukać	0.9873934302657774
+blaknąć	wybuchać	1.0992302071090652
+rozkładać się	stopić	0.9379842082508797
+zgładzić	gnić	1.0923409662773478
+brukać	ugasić	1.0495663742760437
+anulować	brukać	1.1925615511453727
+zniszczyć	erodować	0.8949552068492499
+rozbić	rozerwać	0.7373990372887353
+zgładzić	topić	0.9488167564156985
+pękać	zniszczyć	0.9459613147752345
+poplamić	unicestwić	1.2306783926477312
+pogorszyć	rozlecieć się	0.8578686800690458
+zgładzić	rozlecieć się	1.0725946448601094
+rozlecieć się	blaknąć	0.9790254860162216
+degradować	brukać	0.6481555786225572
+rozpadać się	niszczyć	0.9847021048141048
+blaknąć	pogorszyć	0.7771553102468672
+zburzyć	zniszczyć	0.5070277875983239
+spalić	pogarszać się	1.2606292512017994
+zaniedbać	pękać	1.0955626751955028
+rozpadać się	degradować	0.895874427529486
+pogarszać się	blaknąć	0.7019324020489934
+usunąć	erodować	1.0051612180892964
+utopić	zgładzić	1.1019700173440272
+śmiecić	stopić	0.8405061158071506
+zginąć	erodować	1.1251013570115582
+rozerwać	rozlecieć się	0.5073403230067016
+zburzyć	stopić	1.027105984745406
+marnować	gnić	0.725301817083018
+pogorszyć	kurczyć się	0.8297031444599783
+rozlecieć się	roztrzaskać	0.7027788909976803
+zginąć	unicestwić	1.0810422667481487
+gnić	unicestwić	1.1280345428845258
+gnić	topić	0.8717426192001931
+utylizować	zaniedbać	1.0435524002785515
+marnować	rozlecieć się	1.0191142008906207
+unicestwić	usunąć	0.47519880892864885
+degradować	poplamić	1.0547051140324084
+poplamić	rozerwać	1.045544527162923
+anulować	stopić	1.3224833972071608
+zaniedbać	rozlecieć się	0.8897150242118311
+stłuc	roztrzaskać	0.4495119044709203
+zburzyć	niszczyć	0.5849066994599077
+rozedrzeć	kurczyć się	1.0338385451094467
+zaniedbać	topić	0.9360389016052753
+brukać	wybuchać	1.203168519946949
+pogorszyć	usunąć	0.9437874587356508
+rozerwać	rozpadać się	0.650302505354755
+implodować	kurczyć się	0.614648477870775
+topić	utopić	0.41296206757156384
+zniszczyć	implodować	1.068044602196372
+usunąć	roztrzaskać	0.8220330421800143
+zaniedbać	pogarszać się	0.7308498310184804
+rozedrzeć	niszczyć	0.9643729682779363
+eksplodować	roztrzaskać	0.8551899668165758
+degradować	anulować	1.0701496769529897
+brukać	zginąć	1.3762720802787494
+usunąć	niszczyć	0.6336934845741794
+eksplodować	brukać	1.220104430085063
+topić	stopić	0.4830021900370363
+degradować	śmiecić	0.8225960265178999
+unicestwić	zburzyć	0.859024884039992
+utylizować	zniszczyć	1.2988906851772295
+rozbić	unicestwić	0.8006029973019219
+pogarszać się	rozlecieć się	0.9527095834197041
+wybuchać	rozkładać się	0.9881945428274556
+zgładzić	pogarszać się	0.9479846315379536
+rozedrzeć	zginąć	0.9975579418054101
+zginąć	zburzyć	1.046111521792985
+blaknąć	stłuc	0.8632240536784688
+blaknąć	anulować	1.0049371366296076
+rozlecieć się	wybuchać	0.8339715509539624
+utopić	erodować	0.796208658777114
+wybuchać	zginąć	0.7984003715386526
+roztrzaskać	zepsuć	0.5371258948160003
+rozedrzeć	rozlecieć się	0.5639997636710742
+zginąć	rozbić	1.1084039581991572
+brukać	rozedrzeć	1.1048632210006455
+pogarszać się	zginąć	1.1185387522830903
+stłuc	rozerwać	0.6441174946102581
+ugasić	stopić	1.0060782006505395
+zepsuć	erodować	0.9319980910194904
+anulować	zginąć	1.2858821800934317
+niszczyć	pogarszać się	1.0144803869124743
+rozbić	śmiecić	1.225447613873937
+zburzyć	rozlecieć się	0.817205010024581
+zaniedbać	rozpadać się	0.9566941348441048
+rozlecieć się	poplamić	0.9752911549189606
+usunąć	zgładzić	0.6378255277230187
+śmiecić	implodować	1.0180657043979378
+niszczyć	zaniedbać	1.0003963291897404
+pękać	erodować	0.9736847683175038
+pogarszać się	rozpadać się	0.9831654917407776
+kurczyć się	brukać	1.1834796182838756
+topić	pogarszać się	0.8650977345695057
+anulować	rozbić	1.2602829395607662
+usunąć	zaniedbać	0.9964763674051795
+śmiecić	stłuc	1.1467240256200235
+topić	rozedrzeć	0.9591608119390184
+zniszczyć	usunąć	0.6435314414530008
+zaniedbać	anulować	0.9221617362818771
+rozerwać	eksplodować	0.7217338947961119
+śmiecić	zginąć	1.335992352343745
+usunąć	utylizować	1.2296054269600918
+implodować	anulować	1.4590299180832167
+rozkładać się	stłuc	0.8434899285474399
+rozbić	topić	0.9838846828642375
+degradować	roztrzaskać	0.8280585184788783
+stopić	pękać	0.9581383757681138
+stopić	rozbić	1.042589922919845
+utopić	niszczyć	1.1274804697605818
+zburzyć	śmiecić	1.0476936303280697
+blaknąć	implodować	0.9341581951691904
+stłuc	pogarszać się	1.065784898888966
+wybuchać	pogarszać się	0.9359960877379184
+kurczyć się	anulować	1.3288413147516602
+marnować	utylizować	1.1001965894486414
+zgładzić	stłuc	0.8449149665549326
+erodować	blaknąć	0.6645369381647542
+utylizować	niszczyć	1.315013758745151
+usunąć	rozbić	0.8476768273677034
+zgładzić	rozedrzeć	1.160228098274703
+rozlecieć się	ugasić	1.1430079429312945
+zgładzić	rozerwać	1.0508694151761129
+zburzyć	wybuchać	0.7888577460568466
+zepsuć	pogarszać się	0.9123536358506563
+zepsuć	spalić	1.2627772295700717
+wybuchać	stłuc	0.8790483412564168
+zginąć	rozlecieć się	0.8903153674892936
+anulować	pogarszać się	1.006930804907751
+rozpadać się	stopić	1.011587223426941
+gnić	pogarszać się	0.889665911892761
+zniszczyć	pogarszać się	0.8700951252853515
+pogorszyć	gnić	0.9670541666644589
+utylizować	poplamić	0.8260013766857709
+erodować	topić	0.8480608410348096
+eksplodować	unicestwić	1.0587444344484984
+rozlecieć się	gnić	0.6994575333440671
+pogarszać się	ugasić	0.940386891007008
+roztrzaskać	topić	1.0146926850382234
+pogorszyć	zginąć	1.0948210967496248
+spalić	zgładzić	1.1838490908352663
+marnować	utopić	1.0469464697879243
+topić	rozkładać się	0.8327253904396194
+pękać	spalić	0.926972618137883
+wybuchać	utopić	1.0609841869373895
+rozedrzeć	stłuc	0.6307175019214343
+rozpadać się	kurczyć się	1.0864071737722518
+blaknąć	zniszczyć	0.9741210806209032
+brukać	zniszczyć	1.0666846047869467
+unicestwić	marnować	0.9673516759280405
+zaniedbać	zniszczyć	1.01011108088389
+utylizować	rozlecieć się	0.9419544240182511
+degradować	wybuchać	1.062765517809244
+roztrzaskać	stopić	1.086391641685115
+stłuc	pogorszyć	0.8395110299592946
+ugasić	roztrzaskać	1.2160303504178238
+rozbić	poplamić	1.4612856481661556
+zburzyć	marnować	1.0164532919298015
+rozkładać się	rozpadać się	0.4735062339464168
+pogarszać się	utylizować	1.1674399335881478
+eksplodować	niszczyć	0.809097045949956
+zburzyć	roztrzaskać	0.6896345983513088
+brukać	erodować	0.8095219076248908
+roztrzaskać	pogarszać się	1.0345610743739475
+rozpadać się	zginąć	0.9538081136092805
+zniszczyć	eksplodować	0.8948901225850067
+utopić	zepsuć	0.989785774127528
+implodować	erodować	1.1679171930352743
+implodować	rozbić	1.1799506332450491
+unicestwić	degradować	0.9604256768228289
+zniszczyć	spalić	1.0865660974513875
+zburzyć	ugasić	1.4092073674229546
+pękać	marnować	1.1069296900959604
+śmiecić	kurczyć się	0.835517576714937
+eksplodować	ugasić	1.3916656423690137
+rozlecieć się	implodować	1.0318437879645035
+stopić	utylizować	1.1423219680330106
+eksplodować	degradować	1.0535872945879372
+degradować	rozlecieć się	0.7592078702831556
+stopić	zepsuć	1.1001453977465898

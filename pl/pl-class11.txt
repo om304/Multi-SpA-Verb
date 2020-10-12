@@ -1,0 +1,4187 @@
+Word1	Word2	Score
+pochylać się	gonić	1.2271716542813662
+ewakuować się	wić się	0.9888013488854261
+gonić	nurkować	1.2557850352502558
+huśtać się	zatrzymywać się	1.1251425279703866
+nurkować	podnosić się	1.3044951902339115
+przyjść	pozostawać	0.7990339957729808
+gonić	obracać się	1.2253174812621972
+opuszczać	udawać się	1.1265601028451262
+postępować	włóczyć się	0.8900969060276491
+wić się	ruszać się	0.8458252677053779
+wiać	biegać	0.7752457687612297
+wić się	podnosić się	0.9814723279671612
+latać	czekać	0.9379504742114714
+stąpać	odbić się	1.0736008341516083
+latać	jechać	0.7386119486641799
+potknąć się	spadać	0.8423791742393162
+schodzić	dryfować	1.392442480175325
+przekraczać	rozsiadać się	1.3449690918673325
+odskoczyć	potknąć się	0.8831464219464011
+tańczyć	biegać	0.7067947299704238
+uchylać się	skakać	0.9418332322615397
+postępować	utykać	0.8965650989554719
+zanurzać się	spacerować	0.9206272893680154
+klęczeć	osiąść	0.7738778693167
+rzucać się	wić się	0.948593339401986
+powłóczyć nogami	stąpać	0.9857319448886279
+iść	sunąć	1.1225246316010293
+odbić się	spacerować	1.1260664118123407
+rozsiadać się	przyjść	0.9235174653644187
+jechać	śledzić	1.0161543381493134
+kłaniać się	opuszczać	1.2740322087636535
+schodzić	przechodzić	0.8172658752198334
+odejść	kłaniać się	1.334398358153153
+przybyć	przechodzić	0.9651033976308855
+odbić się	klęczeć	0.9641938417938394
+iść	pływać	1.3430296330146438
+przyjść	unosić się	0.9109954424581974
+szybować	powracać	0.8492144185333301
+opuszczać	wić się	1.179534327866831
+wić się	zostać	1.0156046562348282
+rozsiadać się	wyruszyć	1.0726236875361608
+dryfować	przesunąć się	0.9517772867290212
+drałować	postępować	1.0337608109584848
+pływać	czekać	1.1627634965845477
+przesunąć się	wyruszyć	1.0190669674807715
+tropić	zatrzymywać się	1.0697590381939361
+szybować	ruszać się	0.8421632425084782
+rozsiadać się	zostać	0.9432413871819225
+stać	huśtać się	1.1467336151297767
+podskakiwać	skręcać	0.9672402391454719
+wędrować	ewakuować się	1.1550351235525154
+skręcać	przechodzić	0.914534856564924
+osiąść	tańczyć	1.2518631121976203
+wznieść się	utykać	0.9419664556337677
+opuszczać	utykać	0.6201742547622552
+unosić się	chodzić	1.057892513050846
+tonąć	wiać	1.0977228692960395
+wchodzić	udawać się	0.7849790800096863
+stąpać	wspinać się	0.7960576857144526
+wędrować	tańczyć	1.0926489908771633
+huśtać się	szamotać się	0.6614503225197546
+umykać	błądzić	1.2839334423748
+przechodzić	uchylać się	1.0649884397880256
+postępować	latać	0.9440568798801342
+pływać	wdrapywać się	1.1353299181249974
+huśtać się	pływać	0.9236211719694843
+osiąść	skoczyć	0.9073883657323623
+wznieść się	chodzić	1.0467795580888861
+rozpraszać się	umykać	0.7498015808078221
+poślizgnąć się	zatrzymywać się	1.1935418758132954
+szamotać się	kołysać się	0.7596970144937529
+potknąć się	wspinać się	0.6987476799289376
+śpieszyć	zanurzać się	1.0609496765316295
+ruszać się	pędzić	0.8491378983048126
+pływać	unosić się	0.798385354646333
+zatrzymywać się	stąpać	0.8703263405434142
+tropić	wznieść się	1.0159520473541839
+odskoczyć	zatrzymywać się	0.8970233893559909
+podnosić się	spaść	0.9851517460807444
+opuszczać	iść	0.9030417330874851
+wznieść się	wędrować	1.1985994700105016
+gonić	wyruszyć	1.120122728560425
+spacerować	jeździć	1.164878065705842
+zanurzać się	błądzić	1.133567739308098
+spaść	wycofać się	0.9157078909747497
+odbić się	wdrapywać się	1.13436103341131
+jeździć	odbić się	1.1579209064533122
+rzucać się	szamotać się	0.7594693225582723
+huśtać się	wznieść się	0.901750621108286
+śledzić	spadać	0.7022452744704143
+wić się	wspinać się	0.8744362761741483
+szamotać się	szybować	0.9121967016777772
+wycofać się	płynąć	1.44393062060809
+rzucać się	osiąść	1.0990659032231143
+ruszać się	zatrzymywać się	0.7913509870178074
+huśtać się	ślizgać się	0.6830828628648613
+osiąść	tropić	0.9918662336816132
+śpieszyć się	gonić	0.4760093552860818
+wycofać się	wędrować	1.2882911734438223
+szybować	rzucać się	0.7200413230037089
+postępować	powracać	0.8806227523193062
+odskoczyć	płynąć	0.9330365041149719
+udawać się	nurkować	1.3855716722123557
+postępować	skoczyć	1.0458211151845056
+huśtać się	wiać	1.0728460348956095
+potknąć się	przekraczać	0.685475417560455
+utykać	chodzić	1.0249331185973118
+pływać	umykać	1.228763524216152
+przechodzić	odbić się	1.2641369005793393
+wędrować	włóczyć się	0.6541556328984814
+biegać	jeździć	0.7196797731108951
+siedzieć	tonąć	1.4059552740517474
+opuszczać	śpieszyć	0.8417948963318012
+schodzić	czołgać się	1.0327797461190324
+opuszczać	zatrzymywać się	0.866929232929483
+drałować	ślizgać się	0.816798786892103
+latać	potknąć się	0.9014303082575402
+udawać się	wspinać się	0.6838825810548558
+spadać	czołgać się	0.8436621127695514
+czekać	przeskoczyć	0.9665768204172461
+przesunąć	pędzić	1.1997839819754128
+chodzić	uchylać się	1.302634578317826
+jeździć	huśtać się	0.7665324540065893
+sunąć	przybyć	1.0349839933012173
+opuszczać	nurkować	1.3887852378289025
+odejść	rzucać się	0.9256074639739166
+przesunąć	jechać	1.0457152717232783
+poślizgnąć się	zostać	1.1531077204458144
+śpieszyć	obracać się	1.1155319606765173
+zostać	odejść	1.0573983293817775
+skręcać	jeździć	0.8579121927557529
+rozsiadać się	wiać	1.0940865348524909
+sunąć	przyjść	1.042542963681634
+wyruszyć	włóczyć się	1.0726798342525614
+potknąć się	krążyć	1.206489217585073
+biec	dryfować	1.1622212629065958
+odejść	odskoczyć	0.9120949131882045
+ruszać się	krążyć	0.7826135855755108
+tropić	nurkować	1.158866379062876
+wiać	iść	1.020882513310849
+podchodzić	umykać	0.8390342777414156
+wyjechać	przeskoczyć	1.1183787858900873
+czołgać się	przekraczać	1.1230155452961192
+skoczyć	nurkować	1.0533344864588352
+pływać	przyjść	1.2067312263186172
+przyjść	dryfować	1.1759109245107187
+odbić się	wyjechać	1.2097071100539398
+stąpać	poślizgnąć się	0.9075732234322701
+poślizgnąć się	skoczyć	0.9935113345411577
+tropić	przesunąć	1.0442443489013074
+przesunąć	przybyć	0.8983562001090261
+szybować	podnosić się	0.8863346289060832
+obracać się	pochylać się	0.9765299789147213
+czekać	rozpraszać się	1.1193262816034795
+drałować	śpieszyć	0.8006674197666352
+umykać	poślizgnąć się	0.8351072243549744
+klęczeć	przesunąć	1.13045319933798
+podróżować	podskakiwać	0.86147083908933
+czołgać się	rozpraszać się	1.1480238612415508
+stać	wyruszyć	0.7527642400902786
+spadać	zostać	1.0564204759321973
+stać	pływać	1.1807894987198
+przeskoczyć	odejść	1.0291419332538008
+ewakuować się	tańczyć	0.9396237187147495
+odskoczyć	zostać	0.9517316377426546
+wyruszyć	skradać się	1.082516140231835
+schodzić	zostać	0.9113496996708073
+siedzieć	unosić się	0.912767317855826
+rzucać się	przybyć	0.9120029825744069
+śpieszyć	rzucać się	0.8434452818623532
+wyjechać	pozostawać	1.0901700362198108
+jeździć	zostać	1.1392092524164745
+ruszać się	wycofać się	0.8133801369458604
+czołgać się	pędzić	1.055786919343888
+spaść	kłaniać się	1.1524038517669901
+unosić się	spadać	0.7837866285598312
+śledzić	przybyć	1.3887330993163411
+udawać się	spacerować	1.0000644521015427
+śpieszyć się	rzucać się	0.7924448402711984
+uciekać	rzucać się	0.8650518708068914
+pochylać się	stać	1.0983256415216378
+jeździć	ewakuować się	1.0246443677637727
+przesunąć	ruszać się	0.7352892037606659
+szybować	przesunąć	1.0019122273645942
+błądzić	wchodzić	1.1194982175919417
+śpieszyć się	jechać	1.033346597092018
+pędzić	wchodzić	1.1971653276832688
+wyruszyć	wchodzić	0.6946924079151976
+uchylać się	postępować	0.9719863046951961
+biegać	osiąść	1.065026551882714
+rozsiadać się	wdrapywać się	1.1850321661595384
+pochylać się	siedzieć	1.1284753139006443
+tonąć	odbić się	1.0085290185648657
+wspinać się	podróżować	0.8310808355159769
+chodzić	szamotać się	0.7818502755641542
+przybyć	skręcać	0.8946028480917789
+latać	nurkować	1.2457136594810312
+rozpraszać się	tonąć	1.387375334813572
+spacerować	przekraczać	0.9836791178015871
+poślizgnąć się	skakać	0.9752862609449144
+gonić	przeskoczyć	1.1159601371290324
+gonić	klęczeć	1.1706198259090048
+skakać	przesunąć	0.9114334707683298
+śpieszyć	przekraczać	0.8367630822151912
+postępować	pozostawać	0.8661693232350319
+podnosić się	wdrapywać się	0.7670158605874255
+włóczyć się	gonić	1.0429051965510288
+przesunąć	czekać	1.288701108850138
+śledzić	chodzić	0.8840531148768669
+unosić się	opuszczać	1.0518885328652117
+chodzić	skradać się	0.8816116302041186
+krążyć	pływać	1.1585607880319235
+błądzić	siedzieć	1.0305511145418542
+odbić się	przeskoczyć	0.5160956196679337
+potknąć się	podskakiwać	0.9225223446842657
+płynąć	ślizgać się	0.9425880055218613
+powłóczyć nogami	pochylać się	1.1631989152164932
+siedzieć	przesunąć	1.052165424098517
+tonąć	umykać	1.1623697477675665
+rozsiadać się	śpieszyć się	1.1484074508532522
+stąpać	włóczyć się	1.0375620360106765
+podskakiwać	stąpać	0.9357625464984172
+zostać	pływać	1.3035408993058837
+uchylać się	wędrować	1.4060499535590345
+zatrzymywać się	schodzić	0.9216023770374996
+śledzić	utykać	0.8234931617705319
+stać	siedzieć	0.6405544536911147
+kołysać się	drałować	0.819455484363754
+uchylać się	powłóczyć nogami	1.2832606330368548
+biegać	przekraczać	0.6714376509092901
+rozpraszać się	przesunąć	0.9659386640130263
+umykać	szamotać się	0.791578558827964
+wspinać się	schodzić	1.0077102277946302
+skakać	obracać się	0.7401114190168884
+umykać	potknąć się	0.6636048820447544
+tańczyć	błądzić	0.908197435019519
+odbić się	zatrzymywać się	0.9762241312886063
+jechać	drałować	0.7664556578784713
+udawać się	odbić się	1.2180547525764327
+ewakuować się	odskoczyć	0.7979184342643303
+przeskoczyć	ewakuować się	1.0321207430549106
+rozsiadać się	klęczeć	0.6232269043293056
+tańczyć	kłaniać się	0.7452937807403386
+pędzić	umykać	0.7718941645966523
+tańczyć	krążyć	1.2026466167536018
+nurkować	wędrować	1.0532603170997892
+odejść	przekraczać	1.0943144739382487
+siedzieć	odskoczyć	0.8106103601869555
+drałować	wyruszyć	1.2361400583427196
+biegać	przeskoczyć	0.9274504746559927
+gonić	pędzić	0.5766974812268465
+wycofać się	huśtać się	1.1081101294591924
+ewakuować się	potknąć się	0.746889753046731
+iść	rozsiadać się	0.9671183939229757
+pochylać się	krążyć	1.1926059273830072
+kołysać się	iść	1.0836097751704994
+sunąć	nurkować	1.0767178281598135
+skradać się	kołysać się	1.125413160990144
+kłaniać się	spadać	1.018234271095075
+tonąć	śledzić	1.306563557516212
+iść	dryfować	1.294212400495718
+szamotać się	ruszać się	0.6338351971800926
+skoczyć	pływać	0.9753438388584053
+huśtać się	przechodzić	0.785334197036232
+skręcać	spacerować	1.0228528524928928
+postępować	kołysać się	0.8848409381575845
+spacerować	śledzić	0.8256849897740492
+udawać się	dryfować	1.1714685381702996
+powłóczyć nogami	krążyć	0.9602771698619461
+umykać	kłaniać się	1.0892893431279673
+ślizgać się	włóczyć się	0.989699208928327
+śpieszyć	siedzieć	1.1104841732453306
+skręcać	wyruszyć	1.0604481615331653
+sunąć	wspinać się	0.7102454482532757
+przybyć	przekraczać	1.1985455622030254
+gonić	ruszać się	0.8612354504139674
+biegać	klęczeć	1.0549848761182363
+tonąć	wchodzić	1.4360050741800368
+obracać się	płynąć	0.8263044369136422
+skakać	drałować	0.8602349572770067
+ślizgać się	wchodzić	1.0025893507730903
+krążyć	biec	1.0992754978766595
+wić się	czołgać się	1.0059519732095994
+kłaniać się	wspinać się	0.8717821039194001
+odskoczyć	pochylać się	1.1580613789063943
+gonić	pływać	1.3763157864144224
+jechać	odejść	1.2422205905255588
+spaść	poślizgnąć się	0.7476098761478053
+kołysać się	biec	0.9289450803677192
+podnosić się	skradać się	1.181257329639268
+jechać	przybyć	1.303798693004485
+krążyć	uciekać	1.0827713705095385
+krążyć	spadać	0.950682639479869
+odskoczyć	przekraczać	1.2077799908111646
+kłaniać się	śledzić	1.2631473642414515
+podnosić się	podróżować	0.9182821641745799
+szamotać się	postępować	0.752621073546965
+sunąć	postępować	0.8157780087654323
+kołysać się	potknąć się	1.0207734927114285
+przyjść	powłóczyć nogami	1.167234378620653
+huśtać się	podróżować	0.9417434934856916
+ewakuować się	płynąć	1.1746783497920867
+rozsiadać się	uchylać się	0.9981757244023363
+postępować	biegać	0.8678815069002223
+dryfować	kłaniać się	0.8578476572934104
+krążyć	odejść	1.05775697711683
+ślizgać się	tropić	0.8758645901379388
+przesunąć	utykać	1.0229219695057803
+obracać się	czekać	1.2526099617150823
+wyjechać	latać	1.0874366363630998
+przesunąć się	odejść	0.675698138518196
+stąpać	szybować	0.8349600081714784
+przybyć	szamotać się	0.9349929873646105
+postępować	uciekać	0.8892848048554808
+drałować	obracać się	1.0197279064337725
+biegać	spadać	0.7841152104499614
+chodzić	powracać	1.1396342981115408
+odejść	huśtać się	1.0259321324477058
+osiąść	udawać się	1.3010495803686544
+dryfować	pochylać się	0.6804697983128167
+czekać	podróżować	1.0745594743174398
+śpieszyć się	przyjść	1.2030404996754915
+rozpraszać się	drałować	0.9516435830762191
+zostać	śpieszyć	1.1812648942603672
+przybyć	płynąć	1.229466758207734
+biegać	biec	0.47565477179834376
+błądzić	szybować	1.386722119368005
+potknąć się	przeskoczyć	0.7887176990229198
+przesunąć	iść	1.0712790808869013
+ślizgać się	wędrować	0.9824075278930267
+stąpać	czekać	0.8766549129541236
+nurkować	spadać	1.0551503105556246
+chodzić	tropić	0.8785190396909717
+biegać	odbić się	1.1345882027010534
+latać	pędzić	0.9414738024084571
+wyruszyć	jechać	1.2910590889093694
+uciekać	wić się	1.0958700523483347
+stąpać	uchylać się	0.9001023513930541
+śpieszyć	podnosić się	0.8042393648584638
+ślizgać się	rozsiadać się	0.9342096415653917
+krążyć	stąpać	1.0240879927729345
+wdrapywać się	uchylać się	0.820158449223006
+podnosić się	zatrzymywać się	0.9617117563839663
+kłaniać się	tropić	1.166976909689502
+wędrować	zatrzymywać się	0.9328276991115176
+jechać	pływać	0.912272500797851
+odbić się	spaść	0.8856483787579932
+potknąć się	wyjechać	1.0490466070921023
+przyjść	przesunąć	0.9147344143396131
+zostać	śledzić	1.2203694180943467
+tropić	śpieszyć	0.8353695264723332
+iść	tańczyć	1.0314246498165627
+spadać	przyjść	0.8960153229382921
+czekać	huśtać się	1.1722623054246795
+krążyć	zanurzać się	1.2725948695158504
+przeskoczyć	iść	1.213221298126303
+obracać się	przybyć	1.1083555520912083
+spaść	pozostawać	0.8393331962919686
+klęczeć	zatrzymywać się	0.7655954086664377
+odbić się	ewakuować się	0.9768874207125664
+rozpraszać się	osiąść	1.055226722980611
+odskoczyć	tańczyć	1.2736727349760033
+kołysać się	przeskoczyć	0.921031089217426
+udawać się	siedzieć	1.0594055937106133
+rozsiadać się	odbić się	0.9472213423538501
+włóczyć się	latać	1.1528207203359906
+biec	drałować	0.6882698585082689
+uchylać się	ruszać się	0.9576575345371856
+drałować	dryfować	0.9359471528915289
+skoczyć	wspinać się	1.0058248450602603
+tonąć	kłaniać się	1.1367093038016785
+przesunąć się	poślizgnąć się	0.7225433383558565
+pozostawać	wyruszyć	0.8785515587801117
+rozpraszać się	przybyć	0.9508824410999108
+huśtać się	rozsiadać się	1.1340319541076862
+szybować	jeździć	0.6374393003870316
+ewakuować się	skakać	0.8917825379320983
+przesunąć się	kłaniać się	1.0678567312451157
+odbić się	szamotać się	1.2868607868005992
+ewakuować się	przesunąć się	0.7568335959403818
+skradać się	rozsiadać się	0.908025322303999
+śpieszyć	szybować	0.9326658937120813
+pochylać się	wyjechać	1.0792988765534746
+odejść	postępować	0.8440746357342284
+wyjechać	skoczyć	1.0659438380022672
+ewakuować się	przyjść	0.9072033911857011
+pływać	latać	1.0188226152143003
+udawać się	błądzić	1.219075267801251
+biegać	drałować	0.6163517426823188
+postępować	skakać	0.9037170085323826
+śpieszyć się	unosić się	0.9559779940345368
+tonąć	przesunąć się	1.1472332995904335
+spacerować	schodzić	0.9709699770706098
+wyruszyć	huśtać się	0.9753136691541044
+nurkować	rzucać się	1.077665347357599
+skoczyć	umykać	0.9156961577430609
+sunąć	biec	0.7797442707716903
+skręcać	śpieszyć się	1.0611038626067975
+przybyć	uciekać	1.3511465738500283
+przyjść	włóczyć się	1.1094124425684528
+czekać	poślizgnąć się	1.1150412065444026
+utykać	rozsiadać się	0.9344011448700859
+rozpraszać się	rzucać się	0.9313903439235661
+uciekać	przesunąć się	0.8100045701362901
+iść	podchodzić	0.8971938795674443
+odbić się	śpieszyć	1.0912908199587676
+latać	wchodzić	0.9770616229303978
+tańczyć	odejść	1.2927589912053188
+pochylać się	tańczyć	1.0817384850777254
+wyruszyć	podnosić się	0.9412868422514162
+obracać się	tonąć	1.0536638666415086
+krążyć	zatrzymywać się	0.8986448895037197
+wdrapywać się	szamotać się	0.7270248502109982
+wiać	spadać	1.0133967752225725
+pływać	wić się	1.1700606280747508
+udawać się	iść	0.872939021956034
+nurkować	przybyć	1.3919393020012265
+latać	zanurzać się	1.203380608521345
+krążyć	nurkować	1.3735375835330466
+pochylać się	wznieść się	1.0501375621987628
+uchylać się	przesunąć	0.8162978452770088
+przyjść	zostać	0.9391069765825578
+skoczyć	siedzieć	0.9161570278328656
+śpieszyć	przesunąć się	0.8736291828286127
+poślizgnąć się	odskoczyć	0.8621995894783557
+odejść	jeździć	1.0101546473926133
+zanurzać się	płynąć	0.7968779990276851
+skradać się	dryfować	1.1921344751103642
+wić się	krążyć	1.16651746248894
+udawać się	kłaniać się	1.0844014617622004
+umykać	zostać	1.1263023321368768
+rozpraszać się	biegać	0.8359394641783937
+chodzić	przybyć	0.9689134711687919
+schodzić	rozsiadać się	1.0456251032942137
+włóczyć się	ruszać się	0.6366485987414348
+wyruszyć	poślizgnąć się	1.1099597243919248
+zostać	rzucać się	1.019922486043032
+drałować	odejść	1.009043421164277
+potknąć się	tropić	0.7804226488428742
+ślizgać się	skradać się	0.8522665314944479
+potknąć się	spaść	0.8750741080067482
+pozostawać	udawać się	1.094132334617695
+jeździć	iść	1.1244071327130534
+podróżować	ślizgać się	0.9985572651597224
+zatrzymywać się	wiać	1.0785380383477556
+przybyć	stąpać	1.1513570582768098
+wycofać się	szamotać się	1.033150996330562
+wycofać się	umykać	0.8590560533400939
+skoczyć	wchodzić	1.1046683968841173
+utykać	przyjść	1.3076048757567273
+unosić się	skakać	0.6862627342000795
+siedzieć	podchodzić	0.8823240321717327
+przybyć	podróżować	1.079227860599477
+tańczyć	podróżować	1.1067585703364762
+dryfować	wędrować	1.1299410466598834
+czekać	zanurzać się	1.1974869214022863
+dryfować	jeździć	1.1486926998882832
+powłóczyć nogami	ewakuować się	1.0237421976088648
+krążyć	szamotać się	0.9841892387056453
+skradać się	uchylać się	1.096578449272422
+drałować	ewakuować się	0.8270064051127883
+odbić się	uciekać	1.1997848711996637
+uchylać się	powracać	0.9282473652292689
+wyjechać	biec	0.8148257932761386
+podchodzić	wspinać się	0.6718612362609648
+skręcać	pływać	1.0730021221624098
+huśtać się	tonąć	0.9181904923901946
+wyruszyć	przyjść	0.765900895979637
+skoczyć	zatrzymywać się	1.0137919228238335
+krążyć	unosić się	1.038540540175852
+podnosić się	wchodzić	1.0335441530689395
+pędzić	wycofać się	0.9871417667018173
+tonąć	jechać	1.160406044386364
+osiąść	pozostawać	0.6981792543770537
+poślizgnąć się	sunąć	0.5785964057657442
+ślizgać się	przekraczać	0.7948817879440491
+latać	tańczyć	0.9171725684949248
+wyruszyć	przybyć	0.8977590941825413
+udawać się	tonąć	1.4122049845908375
+jeździć	schodzić	1.0763529160263345
+zanurzać się	przekraczać	1.0415798621251087
+błądzić	przesunąć się	1.0323127095444053
+skręcać	przyjść	0.8683284171307092
+opuszczać	biegać	0.8799576125624525
+obracać się	nurkować	0.9925294893795266
+postępować	klęczeć	1.2341397009393318
+kołysać się	wznieść się	0.9027580647856247
+śpieszyć się	kłaniać się	1.0731697624675747
+czołgać się	jechać	1.025718790560729
+szybować	huśtać się	0.9146139612410145
+postępować	iść	0.9729444920774419
+stać	spadać	0.7960928028712093
+rzucać się	utykać	0.7764298222184756
+zostać	osiąść	0.9206422759205859
+kołysać się	jeździć	1.0849459036744402
+spadać	uciekać	0.7201842057072909
+przekraczać	czekać	1.1076623615460188
+wiać	przekraczać	0.8190488426635251
+osiąść	przesunąć	1.0254390583561634
+utykać	wędrować	1.1917601011764538
+przybyć	pochylać się	1.2797174408520557
+schodzić	wycofać się	0.8241317675793812
+kołysać się	błądzić	0.8262443487567516
+odbić się	osiąść	0.9647018188197031
+gonić	rozpraszać się	0.7943357315732742
+ślizgać się	uchylać się	0.8466720739389995
+stąpać	rozsiadać się	0.9167184506195464
+czekać	odejść	0.992491089250135
+wdrapywać się	śledzić	0.9391505833969712
+klęczeć	wiać	1.0225316886745237
+odskoczyć	podchodzić	0.973172740842359
+jechać	stąpać	1.0818026695116085
+chodzić	dryfować	1.1833364249182423
+tonąć	opuszczać	1.479042216702955
+unosić się	włóczyć się	1.031745359326377
+szamotać się	rozpraszać się	0.8117836444248273
+ruszać się	kołysać się	0.7931650278372938
+udawać się	odskoczyć	0.9713638720176772
+błądzić	zatrzymywać się	0.7967386508677973
+szybować	tonąć	1.3701648454211344
+uciekać	przechodzić	0.7835471006103957
+czekać	wznieść się	0.8881426450390472
+wchodzić	stać	0.8052788980098294
+wiać	krążyć	1.2754771912978926
+śpieszyć	wycofać się	0.8048847360846405
+skradać się	unosić się	1.0115910843163827
+poślizgnąć się	uciekać	0.877389297883886
+iść	szamotać się	0.7822473189599064
+potknąć się	iść	0.9690630648289817
+pozostawać	czołgać się	0.8916579895254109
+wić się	osiąść	1.0881638294118006
+włóczyć się	skakać	1.2037871074973785
+powracać	sunąć	0.9078619127587064
+unosić się	powracać	0.9233672574816457
+podróżować	spacerować	1.188232257334337
+wchodzić	obracać się	1.1084890963656016
+chodzić	wędrować	0.9718670771370256
+sunąć	wyjechać	0.7931985716075307
+śpieszyć się	spadać	0.9824142988389937
+śpieszyć się	uciekać	0.874941703543841
+chodzić	potknąć się	1.0059750483019072
+schodzić	obracać się	1.1527924562753111
+tropić	przesunąć się	0.9400144385495336
+gonić	tropić	0.7438141145688689
+utykać	unosić się	0.8988539841211093
+spacerować	powracać	1.0420468404553207
+płynąć	wdrapywać się	1.0757857404315099
+unosić się	gonić	1.0274088737551408
+umykać	czołgać się	0.9419256787607838
+odskoczyć	śpieszyć	0.9083990860657382
+włóczyć się	utykać	1.1406242734162417
+drałować	szybować	0.9548731508651411
+utykać	wdrapywać się	0.9707601652843667
+jechać	potknąć się	1.0422435041946925
+podskakiwać	przesunąć się	0.9530077177740631
+wyjechać	pędzić	0.7090754717935246
+postępować	błądzić	0.9208929754378166
+rzucać się	wycofać się	0.8924849217660871
+przesunąć	biec	1.136367227364808
+wdrapywać się	wspinać się	0.25992787774742415
+postępować	przesunąć	0.7523327226528654
+wznieść się	przechodzić	1.100738306731327
+jeździć	czołgać się	1.1341120892291243
+podchodzić	huśtać się	0.9552937258217744
+spaść	jeździć	0.9181098718718859
+rozpraszać się	śpieszyć się	0.768854906722674
+ruszać się	rozpraszać się	0.6870328438364038
+podskakiwać	unosić się	0.9557647159973848
+stąpać	powracać	0.9322307368971319
+skradać się	pochylać się	0.9838057895695966
+wznieść się	przybyć	0.9909541412493685
+potknąć się	szamotać się	0.7876474496338074
+odskoczyć	przesunąć się	0.7775003212811284
+postępować	gonić	0.9634482013226933
+iść	uciekać	0.8560756370281429
+podnosić się	tonąć	1.3605155480652629
+śpieszyć się	osiąść	1.1818509992856714
+przesunąć się	skakać	0.8858435053741129
+spadać	szamotać się	0.8152432185431715
+nurkować	podchodzić	1.3314581962760377
+zanurzać się	przesunąć się	1.0144103306323682
+osiąść	odejść	1.1524689235846861
+klęczeć	skoczyć	0.8576058470048684
+śledzić	skakać	1.04444817617174
+wyruszyć	potknąć się	1.1648869177138477
+skoczyć	huśtać się	0.9739671074295005
+stać	postępować	0.8908970744044351
+uciekać	udawać się	1.047144017019236
+czołgać się	poślizgnąć się	1.1615724492417447
+czekać	spacerować	1.0249434690678723
+szybować	odbić się	0.931077153910931
+postępować	wiać	1.065746218696865
+przechodzić	opuszczać	0.8827017969330822
+śpieszyć	sunąć	0.48391234380736275
+przekraczać	latać	0.9458043597272001
+biegać	wić się	0.6976982594470327
+schodzić	nurkować	1.3450279489792614
+skradać się	odbić się	1.2225662517626001
+schodzić	udawać się	0.8867436010881092
+podchodzić	tonąć	1.3983082108817786
+chodzić	umykać	0.8538269349297515
+przybyć	rozsiadać się	1.022391085506218
+tonąć	tańczyć	0.8647417476240955
+unosić się	wić się	1.046325372274235
+siedzieć	tańczyć	1.2186160138385598
+zostać	śpieszyć się	1.0616099369872127
+rozpraszać się	unosić się	1.0597316976531554
+poślizgnąć się	pozostawać	1.1728479734757769
+rozsiadać się	powracać	1.0238747440928124
+potknąć się	stąpać	0.7696259740330016
+przeskoczyć	pędzić	1.085443116928113
+utykać	wiać	0.9946350108854359
+podróżować	śpieszyć się	1.1796918026136003
+postępować	stąpać	0.8239705744979244
+rzucać się	ruszać się	0.7542832259372865
+biec	śpieszyć się	0.6385203180752448
+pływać	uchylać się	1.2987179213790587
+utykać	podróżować	1.1763695500357592
+pozostawać	obracać się	0.9876862070225227
+podskakiwać	wędrować	1.121847873335409
+pędzić	płynąć	1.2578646802205486
+wchodzić	wspinać się	0.7819200466886607
+skręcać	wspinać się	0.6711668874392391
+siedzieć	płynąć	1.1864709273110154
+pozostawać	pływać	1.1589380967851184
+włóczyć się	klęczeć	0.921099290860662
+włóczyć się	powłóczyć nogami	0.3968033999981909
+ruszać się	dryfować	1.0310022977980977
+umykać	przeskoczyć	0.9480605882365537
+wznieść się	stać	0.9780386868130588
+udawać się	utykać	1.2239648184606045
+czołgać się	biegać	1.0465030451095128
+poślizgnąć się	przekraczać	0.8388750622227464
+przybyć	zostać	1.0011162919613772
+latać	huśtać się	0.7626610431453928
+poślizgnąć się	nurkować	0.8687822004629542
+tropić	czołgać się	0.6407491129827781
+ślizgać się	obracać się	0.9190291579434258
+ewakuować się	błądzić	1.0684161481960808
+zatrzymywać się	tańczyć	1.0154192190125113
+latać	błądzić	1.323123669311533
+spadać	pozostawać	0.949285422276097
+wycofać się	kołysać się	1.151203557679588
+śledzić	unosić się	1.1740826857825508
+zanurzać się	podchodzić	1.2449243959326832
+szamotać się	nurkować	1.049445339547861
+skradać się	zanurzać się	1.1907340169579022
+schodzić	pozostawać	1.1100537683600138
+włóczyć się	śpieszyć się	1.0265239685999132
+skakać	zanurzać się	1.0337068988538292
+wdrapywać się	siedzieć	1.1402107497487728
+przechodzić	przyjść	1.1867477305818124
+zanurzać się	ewakuować się	1.0895477014785284
+ruszać się	podnosić się	0.885545949104526
+tańczyć	przeskoczyć	1.0098434606833184
+udawać się	stąpać	1.0774543488439974
+przesunąć się	latać	0.8532346702487934
+dryfować	przesunąć	1.0208143279636008
+szybować	wycofać się	0.8886757008958305
+podchodzić	przybyć	0.5951881114948865
+odbić się	schodzić	1.0177178599915524
+ewakuować się	śpieszyć	0.6926281312314784
+śledzić	przesunąć się	1.0220416937104366
+wspinać się	spadać	0.89922387094483
+chodzić	pędzić	1.018041568580284
+potknąć się	uciekać	0.7421946884361187
+postępować	jeździć	1.010311613700873
+drałować	pędzić	0.6530309138155089
+udawać się	przesunąć się	1.0305964796818496
+przybyć	błądzić	1.1170404692463103
+stąpać	skoczyć	0.9952915458884853
+przeskoczyć	krążyć	1.2310376908523821
+skradać się	błądzić	1.1392926667844852
+wspinać się	przyjść	0.8147858215578936
+stąpać	chodzić	0.8297277227848431
+postępować	obracać się	0.922310768072482
+przyjść	obracać się	0.865160446376516
+przesunąć	podróżować	1.1439293763475107
+odejść	szamotać się	1.0136693560613266
+spaść	stać	0.7670399914016027
+powracać	przesunąć	0.8230152194082456
+pozostawać	krążyć	0.9869241584012056
+dryfować	rozpraszać się	1.2179501772087828
+skradać się	drałować	0.8259778571166706
+uchylać się	podchodzić	0.9595528191731252
+wycofać się	podróżować	1.2614594282084113
+pochylać się	spadać	1.0715410176065485
+śpieszyć	biegać	0.5856290388618828
+kłaniać się	klęczeć	1.006504104228328
+jeździć	wznieść się	0.7868171223244556
+śpieszyć się	obracać się	1.2066391258588536
+kołysać się	unosić się	0.9270846995525605
+zatrzymywać się	wić się	1.010579790986175
+uchylać się	jeździć	1.0632549344600266
+latać	iść	1.008893994188037
+skradać się	latać	1.0991748482080295
+klęczeć	unosić się	0.9638764423197366
+sunąć	huśtać się	0.7862290892850455
+śpieszyć się	podnosić się	1.0074154739036998
+tropić	skakać	0.9766343583556477
+utykać	wyruszyć	1.260590514183638
+odejść	przesunąć	0.9020587264480067
+uciekać	uchylać się	0.9798107259091124
+śpieszyć się	płynąć	1.214147705863273
+powracać	szamotać się	1.148215121581743
+zanurzać się	pływać	0.7611200174041027
+schodzić	biegać	0.9338346897966228
+utykać	kołysać się	1.0548055198719983
+szamotać się	kłaniać się	1.0095281823539806
+postępować	nurkować	1.203371190789634
+podnosić się	opuszczać	0.8912550351631574
+pędzić	opuszczać	0.8573401974283589
+pozostawać	skradać się	0.9204732633967735
+rozpraszać się	pędzić	0.9196114915919538
+stać	czekać	0.6510209449737211
+latać	pozostawać	1.1287184785993625
+odskoczyć	przesunąć	0.8454397342619638
+śledzić	siedzieć	1.0694762683539103
+powracać	podchodzić	0.9325698197513977
+umykać	wiać	0.6252825847968488
+przesunąć się	postępować	0.8397823941737442
+wchodzić	przeskoczyć	1.1163954416506707
+pochylać się	klęczeć	0.9717503897868189
+biegać	pozostawać	1.0103276536807433
+płynąć	udawać się	1.106111334438466
+podchodzić	tańczyć	1.2191549721306416
+śpieszyć się	podskakiwać	1.014141489687572
+gonić	udawać się	0.9630124918056209
+rozsiadać się	wyjechać	1.088279262197573
+uchylać się	płynąć	1.2389918994722702
+włóczyć się	wiać	1.2235471971683347
+pozostawać	drałować	1.065614347711836
+przyjść	odejść	1.0325312215367193
+postępować	śpieszyć	0.9212164055103322
+odbić się	iść	1.3090990903825261
+pływać	rozpraszać się	1.2601619022515103
+przyjść	przybyć	0.6323845922073642
+udawać się	podskakiwać	1.1891161838711493
+kołysać się	wspinać się	0.8926568388064394
+skakać	powłóczyć nogami	1.2249317256437566
+rzucać się	drałować	0.87189539810107
+odskoczyć	chodzić	1.2232903931559804
+ślizgać się	powracać	0.9208191909294655
+czołgać się	ewakuować się	0.9192881453896299
+biegać	skoczyć	0.8697159603529107
+biec	stać	1.0082024084200787
+przekraczać	śpieszyć się	0.7672329064596686
+obracać się	latać	0.7826627536825764
+błądzić	rozpraszać się	1.1176178839947348
+śledzić	wchodzić	1.1011822608213124
+poślizgnąć się	tropić	0.8975144188434616
+ślizgać się	śledzić	0.888050979532475
+ewakuować się	obracać się	0.9314326607979724
+odejść	ruszać się	0.7624796643645015
+skakać	wdrapywać się	0.9798655970152607
+opuszczać	biec	0.932398142282884
+gonić	potknąć się	0.690481739047194
+włóczyć się	odskoczyć	1.1728523499655712
+iść	rozpraszać się	0.8717954306976756
+skoczyć	podchodzić	1.0184790361018634
+obracać się	podnosić się	0.8335774908005484
+skakać	utykać	0.683890779900035
+tonąć	skakać	1.219537451251512
+obracać się	ruszać się	0.9629164471395099
+udawać się	podróżować	0.8575728073085482
+wić się	schodzić	1.2092134879095182
+kłaniać się	ewakuować się	0.8939056994526506
+skakać	siedzieć	0.937393593501086
+stać	przybyć	0.8415344615459175
+czołgać się	zanurzać się	1.0937456091323539
+wycofać się	wyruszyć	1.025627812488532
+przybyć	czołgać się	1.3811217338956416
+potknąć się	przechodzić	0.7683833337273464
+odbić się	włóczyć się	1.3574915030638237
+czołgać się	odskoczyć	1.120487505224148
+przyjść	skoczyć	1.0664451415412939
+skręcać	włóczyć się	0.8493179712165568
+chodzić	iść	0.3865361211579118
+chodzić	włóczyć się	0.6364187463507696
+pędzić	czekać	1.1468364950407486
+poślizgnąć się	wędrować	1.1604699439819703
+wdrapywać się	kłaniać się	1.0150037400599319
+podróżować	poślizgnąć się	1.0308934342049867
+sunąć	uciekać	0.8276765943325691
+wyjechać	spaść	0.9567920779986309
+ewakuować się	poślizgnąć się	0.672009861292068
+skakać	biegać	0.8857945233213166
+skakać	opuszczać	0.8381468240011584
+utykać	przekraczać	0.9472071148867368
+wyruszyć	biegać	1.0468501026784973
+unosić się	jechać	0.8238288310946045
+kłaniać się	zanurzać się	0.9956831185547375
+czołgać się	śpieszyć	1.0011517350260875
+rozsiadać się	wspinać się	1.1655067736736202
+zostać	szybować	1.1120892701731446
+przyjść	schodzić	1.0007348710938768
+wędrować	wdrapywać się	1.0722757294081813
+pochylać się	drałować	1.057080333876851
+stąpać	przyjść	1.2315167678155416
+skradać się	powłóczyć nogami	0.7372630293604467
+odejść	latać	0.8668277785949944
+klęczeć	wchodzić	1.16424297323096
+odbić się	powracać	0.7999693770911707
+przybyć	szybować	1.0327850221235566
+przyjść	pędzić	1.1997592992719817
+odskoczyć	schodzić	0.9898147042392833
+śpieszyć	odejść	0.8748941780252015
+powracać	błądzić	0.9953688702150328
+pochylać się	nurkować	0.8877339108941065
+dryfować	tropić	1.292063464459427
+wędrować	osiąść	1.090762168436799
+uciekać	rozpraszać się	0.8979484728956916
+przesunąć się	stąpać	0.763866802324053
+płynąć	stąpać	1.2441518792008952
+rozpraszać się	powłóczyć nogami	1.007275946777378
+rzucać się	schodzić	0.8315088486465534
+zatrzymywać się	kołysać się	1.0337686203025958
+poślizgnąć się	podchodzić	1.2099249497198687
+odejść	stać	0.9344966145522735
+spadać	włóczyć się	0.9096880765434385
+klęczeć	opuszczać	1.138971290503644
+tonąć	utykać	1.0867211134269021
+błądzić	drałować	1.2246063860990057
+biegać	iść	0.7882997069451465
+potknąć się	wchodzić	1.0363903623270223
+wyruszyć	podchodzić	0.6780420198882469
+kołysać się	poślizgnąć się	0.935384939373317
+latać	odbić się	0.7919245732972647
+spacerować	utykać	0.9741314588427301
+unosić się	przekraczać	1.0644777351897055
+skakać	latać	0.8365839548461492
+tańczyć	skoczyć	1.1133131716058209
+chodzić	postępować	0.8645226382267039
+osiąść	wiać	0.9844417520123643
+pędzić	przesunąć się	0.9455361987247128
+podróżować	zanurzać się	1.2251325061902296
+włóczyć się	spaść	0.8895227249998875
+wić się	błądzić	0.9503168877278038
+sunąć	ruszać się	0.9050676544966287
+stać	utykać	0.9043317446808095
+uciekać	biegać	0.8725938078575748
+skradać się	płynąć	1.2208528470111506
+skręcać	nurkować	1.1656606351645018
+ślizgać się	rozpraszać się	0.7684611326167473
+postępować	biec	1.0079856415470316
+tańczyć	rozpraszać się	0.9628405323668692
+spacerować	czołgać się	0.6201089017733739
+wspinać się	wiać	0.7700475233513456
+spacerować	iść	0.5003470403118965
+ślizgać się	skakać	0.8648863781055437
+przeskoczyć	zatrzymywać się	0.9097651472675631
+podnosić się	latać	0.8567854179502958
+klęczeć	przechodzić	1.0721067678813438
+szybować	skręcać	0.697019391932694
+postępować	osiąść	1.1060170740533277
+podróżować	drałować	1.0571784046843726
+obracać się	powracać	1.056987928066114
+podróżować	osiąść	1.0179054770107245
+kłaniać się	osiąść	1.1458128923719588
+schodzić	stać	1.0628555957114305
+przeskoczyć	huśtać się	0.9508985235285465
+spacerować	przesunąć się	0.9189699353606872
+gonić	płynąć	1.3016123141305627
+pływać	wyjechać	1.10559891407895
+wyruszyć	jeździć	1.033519569277331
+schodzić	przybyć	0.9304109462671053
+wyjechać	jechać	0.6093306651193218
+pozostawać	zostać	0.8453750338204374
+udawać się	biegać	0.8442431623242526
+wyjechać	iść	1.1576407667813184
+chodzić	powłóczyć nogami	0.6030816179408838
+drałować	wiać	0.8426829157412175
+postępować	pochylać się	0.9478933518365587
+pędzić	kołysać się	1.0794209072330494
+wyjechać	skradać się	1.129234518127114
+zostać	przekraczać	1.1548857097474683
+stąpać	pływać	1.2504169777623906
+wędrować	rzucać się	1.0084472764223766
+ewakuować się	uchylać się	0.7663961901315335
+jechać	spaść	0.83313024118242
+przesunąć	wiać	1.1504207090107947
+potknąć się	huśtać się	0.80053764607846
+wić się	przybyć	1.0311274254710583
+rozpraszać się	płynąć	1.2012665930734867
+wycofać się	śpieszyć się	0.8205421249477696
+płynąć	ruszać się	1.0881355438445113
+kołysać się	włóczyć się	1.0245663918339591
+przechodzić	wić się	0.858901838324125
+przekraczać	wyjechać	0.9582438206277657
+włóczyć się	drałować	0.9826755392640931
+siedzieć	pływać	1.1295534381396697
+tropić	jeździć	1.1179322725945593
+nurkować	przeskoczyć	1.197583543960963
+biegać	podchodzić	0.857806924439601
+pochylać się	kołysać się	0.816573929975215
+stąpać	dryfować	1.1835814216581866
+wyruszyć	ewakuować się	0.9213046753389695
+zostać	przeskoczyć	1.0871736836610464
+wdrapywać się	przechodzić	0.881779533478061
+latać	schodzić	0.8779289572031266
+unosić się	błądzić	1.1650287981520049
+zostać	krążyć	1.0948491093261588
+skakać	dryfować	0.9253261630452845
+jeździć	sunąć	0.6369057637795422
+skręcać	przesunąć się	0.6382527082031465
+odbić się	krążyć	1.262209816990032
+błądzić	odskoczyć	1.0119336355863686
+rozpraszać się	przekraczać	0.8512292278121274
+śledzić	uciekać	0.6178474044328031
+wić się	uchylać się	1.1947360427701992
+szamotać się	skradać się	1.053517370294126
+sunąć	skradać się	0.9598276013667869
+przechodzić	rozpraszać się	0.74381823802689
+wyjechać	opuszczać	0.9293400441398378
+przeskoczyć	jechać	0.8233784858408928
+unosić się	pochylać się	0.8503412397891542
+unosić się	wznieść się	0.5555545487712883
+powłóczyć nogami	skoczyć	1.2559674784815968
+spacerować	umykać	0.9110673623072885
+latać	ślizgać się	0.8640978995541471
+rozsiadać się	siedzieć	0.2959075937804175
+skradać się	przyjść	1.33284809258625
+odejść	wdrapywać się	0.8972952960112384
+zatrzymywać się	przechodzić	0.9834052285257994
+odejść	stąpać	0.6846363970802597
+włóczyć się	wyjechać	1.1819120173821123
+potknąć się	unosić się	0.8542770572486942
+siedzieć	zostać	0.9598267126278484
+nurkować	podskakiwać	1.1083716205887788
+wspinać się	tańczyć	0.9987865364887633
+zatrzymywać się	potknąć się	1.068913665749585
+uchylać się	wspinać się	0.7308501317412867
+siedzieć	schodzić	1.173517803743828
+klęczeć	czołgać się	0.7562591176489861
+klęczeć	szybować	1.2452376578549198
+spaść	osiąść	1.0144326850214445
+wycofać się	stać	1.1146467378193397
+powłóczyć nogami	pozostawać	0.8624821542173376
+umykać	drałować	0.8194485658069991
+wznieść się	ruszać się	0.9117153843132704
+zatrzymywać się	udawać się	0.9823473287044944
+kołysać się	płynąć	0.8323838348973572
+przekraczać	krążyć	1.211467550804423
+pochylać się	podskakiwać	1.0506111484026648
+pływać	skradać się	1.2095118049590248
+podnosić się	poślizgnąć się	0.786909586891765
+wić się	pędzić	0.8681662093438263
+pochylać się	skakać	1.1214922345281293
+szamotać się	przechodzić	0.7838037163816881
+sunąć	przechodzić	0.9208520071504643
+pływać	drałować	1.0034286250809055
+udawać się	wycofać się	1.1664412702079452
+biec	pozostawać	1.0655219649435002
+biegać	pędzić	0.5936246864886171
+dryfować	płynąć	0.28114197725817386
+wyjechać	wycofać się	1.2417181301113307
+opuszczać	przekraczać	0.8472874472932298
+śledzić	skoczyć	1.1987947255729123
+wędrować	wiać	1.3553827777653868
+skradać się	przechodzić	0.8092760570645194
+śpieszyć się	klęczeć	1.1491566498560737
+odskoczyć	uciekać	1.00265275746573
+powłóczyć nogami	dryfować	1.2075494091784897
+chodzić	jechać	1.2178687865006164
+skakać	potknąć się	0.8785220045496722
+wyruszyć	chodzić	0.9263434002189297
+podchodzić	śpieszyć się	1.0480596423539508
+przybyć	pędzić	1.2111884079896627
+wspinać się	podnosić się	0.6808487029985194
+spaść	wspinać się	0.9008965156969195
+wspinać się	ruszać się	0.7969930101187814
+odbić się	wznieść się	0.7510288184232273
+iść	spaść	0.7921927456686445
+rozpraszać się	wycofać się	0.6955915528001818
+odejść	śledzić	0.9456582020509121
+śpieszyć	wspinać się	0.8807118608987297
+schodzić	przesunąć	1.0475857504963855
+osiąść	spadać	1.0074421114089032
+tropić	huśtać się	1.0026544526546044
+tropić	jechać	1.0508785745088531
+czołgać się	nurkować	1.1575498541451974
+kłaniać się	powracać	1.1836545654234225
+wiać	opuszczać	0.9935191280893824
+ruszać się	tonąć	1.152965478839349
+płynąć	opuszczać	1.4670680968345224
+wędrować	skakać	1.3057432492089542
+biegać	siedzieć	0.9773569503105046
+śledzić	czołgać się	0.691992661368792
+jeździć	klęczeć	1.240068654799016
+czekać	śpieszyć się	1.0931903338395674
+zatrzymywać się	pędzić	1.1638951027721303
+zatrzymywać się	skręcać	0.9828249784452969
+przesunąć	poślizgnąć się	0.7827644666971142
+wchodzić	poślizgnąć się	1.2255009135579802
+powracać	wiać	1.0175966022691152
+siedzieć	szybować	1.2016982545551989
+obracać się	podskakiwać	0.7388352593437107
+gonić	przyjść	1.1470808677197113
+podskakiwać	pływać	0.9436732791161806
+chodzić	zatrzymywać się	0.7671910689374704
+zatrzymywać się	biec	0.9655585531648816
+wycofać się	poślizgnąć się	0.7938244834182301
+drałować	krążyć	1.2667756489566822
+skradać się	wdrapywać się	0.9384852508561714
+odejść	skradać się	0.9294319354468966
+udawać się	wyruszyć	0.551459393011733
+nurkować	śpieszyć	1.106351864380169
+wdrapywać się	rozpraszać się	0.8038022140008191
+czekać	chodzić	0.7164990480519862
+odejść	podróżować	1.1656457269056273
+rzucać się	przechodzić	0.9621549823702545
+biec	wyruszyć	1.0370740525523023
+jeździć	śpieszyć się	0.8448594352659483
+pozostawać	dryfować	1.0278838972821094
+podróżować	postępować	0.9827035708773146
+spaść	siedzieć	0.9237443738133532
+włóczyć się	tonąć	1.1255295488756396
+obracać się	udawać się	1.073699607879615
+wdrapywać się	spaść	0.7680490208620304
+tonąć	wdrapywać się	1.3531810453614896
+powłóczyć nogami	obracać się	1.1691597307942483
+śpieszyć	śledzić	0.8767026596720798
+przybyć	powłóczyć nogami	1.1158984645474366
+stać	odbić się	1.152638086612098
+ewakuować się	spacerować	0.8479313699329161
+umykać	jechać	0.9604698168580577
+iść	włóczyć się	0.5975495247211944
+sunąć	gonić	0.6260579596040704
+skradać się	czekać	1.0939450459259523
+umykać	przyjść	1.203313436002314
+uchylać się	przyjść	0.9220086995939039
+płynąć	jeździć	1.0908187865000285
+odejść	pozostawać	1.0549977479890462
+szamotać się	tonąć	1.1496893427256452
+skręcać	potknąć się	0.8360294491587205
+drałować	przekraczać	0.8626858387142716
+tonąć	śpieszyć się	1.109477107184934
+wyruszyć	ruszać się	0.9586965464899143
+podchodzić	wycofać się	0.8431571733920081
+chodzić	uciekać	0.809648248891938
+powłóczyć nogami	latać	1.1079063075072824
+tropić	uchylać się	1.0416341341789028
+zatrzymywać się	dryfować	0.9820900953768821
+unosić się	przeskoczyć	0.7027859710405719
+uciekać	gonić	0.6756553864604671
+spaść	wchodzić	0.8803326140773109
+przekraczać	spadać	0.7481928960516847
+wędrować	śpieszyć się	0.9591519000429354
+biec	szamotać się	0.7021644830332135
+szybować	uciekać	0.8423786247915481
+rzucać się	śledzić	1.03705689630747
+poślizgnąć się	opuszczać	0.8955431652863927
+płynąć	utykać	1.1640264293872529
+kłaniać się	schodzić	1.3495484149385828
+drałować	przeskoczyć	0.9524101792434467
+stąpać	śpieszyć się	0.9189241231413247
+ruszać się	biegać	0.7342978862246093
+rzucać się	powracać	1.08194507625473
+rozsiadać się	śledzić	1.0227218801359694
+przechodzić	podskakiwać	1.0320470772265655
+wędrować	przyjść	1.0797766551902794
+zanurzać się	zatrzymywać się	1.107628539905106
+chodzić	poślizgnąć się	1.1809953529057853
+wycofać się	odskoczyć	0.9069147058540616
+postępować	opuszczać	0.8231970179384323
+osiąść	poślizgnąć się	0.9348431012401104
+pędzić	śpieszyć się	0.5156204372607064
+odskoczyć	uchylać się	0.6855371986855521
+spacerować	tańczyć	0.8673507840337165
+poślizgnąć się	błądzić	1.1911714429177085
+wyjechać	kłaniać się	0.9662108426577333
+wspinać się	podskakiwać	1.0826983965412957
+siedzieć	wznieść się	1.1225746434656731
+odbić się	sunąć	0.9294936113348502
+płynąć	schodzić	1.4252488471915394
+osiąść	stać	0.650041720368346
+wchodzić	wędrować	0.9674458373109266
+szybować	wyjechać	1.1686452833735972
+uchylać się	włóczyć się	1.2370746757497018
+krążyć	płynąć	1.2112225507940033
+śpieszyć	klęczeć	1.1279288112344155
+przyjść	biec	0.9690238957409727
+powracać	biec	1.0283326356595146
+śledzić	odskoczyć	1.2472578490998436
+podnosić się	klęczeć	1.021899034887386
+skradać się	śledzić	0.3264015665473444
+uciekać	jeździć	1.0285434502563702
+unosić się	pędzić	0.9495729462892881
+klęczeć	pozostawać	0.9397839399413607
+błądzić	powłóczyć nogami	0.7578344558721795
+rozpraszać się	wchodzić	0.9912829118280639
+siedzieć	podnosić się	1.0035842622059732
+podróżować	umykać	1.1674981485015252
+tropić	wchodzić	1.1229800163295907
+powłóczyć nogami	podróżować	1.194798254986519
+śpieszyć się	umykać	0.7742421357475121
+czołgać się	wędrować	0.8406591253675444
+utykać	wycofać się	1.0652548711566658
+skręcać	drałować	1.041883202077304
+tropić	szamotać się	0.9010090333175491
+włóczyć się	zanurzać się	1.0205260655671835
+potknąć się	śledzić	0.827792915943298
+iść	wspinać się	1.0671394771244154
+tańczyć	klęczeć	1.1056106470925726
+podskakiwać	spadać	0.7034789053718891
+wspinać się	opuszczać	0.9168034421884459
+unosić się	biec	1.0340551133759521
+przesunąć się	utykać	0.7856745560909969
+przekraczać	odbić się	1.2260567489794745
+krążyć	latać	1.0211255438259565
+wyruszyć	iść	1.007753907271689
+odbić się	zostać	1.1423694685629449
+huśtać się	klęczeć	1.0908753444717205
+wznieść się	sunąć	0.7481044911740797
+jeździć	podróżować	0.8807915107694896
+gonić	spaść	0.8313639666997239
+odskoczyć	klęczeć	0.9619065476926689
+postępować	podskakiwać	0.9048336371204591
+ruszać się	wchodzić	0.7839884676293749
+skoczyć	ruszać się	0.9696933449519582
+powłóczyć nogami	huśtać się	1.0604367375192127
+rzucać się	spaść	0.7669952861656181
+podchodzić	rzucać się	0.7940097456145899
+kołysać się	tropić	1.0332604454483483
+ślizgać się	rzucać się	0.9175559435162983
+śledzić	wyruszyć	1.2965155410072207
+spaść	skradać się	0.8684124556996816
+pozostawać	ślizgać się	0.8935914682760252
+włóczyć się	podskakiwać	1.1936038281318355
+biec	schodzić	1.0438672936595919
+biec	uchylać się	1.0958974107711283
+spadać	przesunąć się	0.6836859595335917
+kołysać się	wiać	1.0387721429036165
+wyjechać	odskoczyć	0.9747196941221741
+iść	wić się	0.9611881964221165
+pędzić	powracać	0.9694904215417113
+wycofać się	krążyć	0.9438966923920191
+huśtać się	ruszać się	0.8854563800200489
+zatrzymywać się	przesunąć się	0.9903041276470772
+wiać	przechodzić	0.90904871012204
+stąpać	wznieść się	0.8854698604755705
+tańczyć	spadać	0.9068356435602846
+skakać	wznieść się	0.8360700932192404
+tonąć	drałować	1.1274092171603902
+skoczyć	podskakiwać	0.3899915629749143
+wić się	poślizgnąć się	1.0338511923871923
+rzucać się	tonąć	0.9225360899604371
+potknąć się	osiąść	1.138637050816827
+iść	utykać	0.9659643562452273
+skakać	huśtać się	1.1137521500116159
+stąpać	jeździć	1.069739894654962
+utykać	osiąść	1.086623688466179
+dryfować	wspinać się	0.9193558148238067
+rzucać się	obracać się	0.8184048024509274
+szamotać się	siedzieć	0.9967712189751656
+drałować	sunąć	0.7769196586878805
+błądzić	wznieść się	1.351535073444431
+skręcać	iść	0.9251148095590305
+zatrzymywać się	kłaniać się	1.0059884261898224
+jechać	ewakuować się	0.99506086640992
+ruszać się	przybyć	1.0742730045111952
+wchodzić	śpieszyć	1.257314551484006
+gonić	iść	0.9679768274156256
+śledzić	schodzić	0.8122081637354857
+chodzić	krążyć	1.1361921556714853
+wycofać się	przekraczać	0.8165028475112772
+podchodzić	podnosić się	0.957974245587287
+skradać się	osiąść	0.9345995258204588
+odskoczyć	nurkować	1.1047607226075502
+śpieszyć się	wić się	0.7655356514665629
+odbić się	śpieszyć się	1.040688884108081
+zatrzymywać się	utykać	0.9624299869764084
+dryfować	odejść	1.4245776782979882
+powracać	biegać	0.8307439472899096
+dryfować	tańczyć	0.9444512912730463
+pędzić	wdrapywać się	0.986203085906964
+podskakiwać	wyruszyć	1.3138477010621277
+błądzić	podnosić się	1.1469788847508713
+podchodzić	czekać	0.7092199130268436
+latać	ewakuować się	0.6902148596463923
+podskakiwać	przybyć	1.0427533067849135
+umykać	zanurzać się	1.0184612966544302
+jechać	odbić się	0.8636718459754715
+szamotać się	czekać	1.101622709209705
+śledzić	powracać	1.1052251907461161
+podskakiwać	tropić	1.0486233238136833
+odskoczyć	stać	1.0414893983956754
+szybować	uchylać się	0.8527598187683213
+zatrzymywać się	skradać się	0.868650512202338
+dryfować	osiąść	1.0941072678548915
+uchylać się	unosić się	0.8649402934048553
+ślizgać się	pędzić	0.770907332193715
+latać	wędrować	1.2316484834771322
+uciekać	opuszczać	0.765606333637792
+schodzić	podchodzić	0.9556104963748098
+czołgać się	podskakiwać	1.0562902625117359
+pędzić	odejść	0.959660170970653
+drałować	poślizgnąć się	0.7951074545139828
+siedzieć	wycofać się	1.2466230739414168
+jechać	śpieszyć	0.9067128485324674
+chodzić	rozpraszać się	0.9137026359469592
+unosić się	ślizgać się	0.8521090075478056
+drałować	udawać się	1.1522700103798846
+uchylać się	klęczeć	1.1793350819614177
+wić się	włóczyć się	0.9693564322173489
+unosić się	skręcać	0.7886531838872517
+przyjść	nurkować	1.4269523688823567
+obracać się	wyruszyć	1.234268509203093
+powracać	podnosić się	0.8106220357429484
+kłaniać się	jeździć	0.9711681869522423
+uciekać	skakać	0.9128388160544993
+włóczyć się	przekraczać	0.9701583810607312
+latać	dryfować	0.9765235081416339
+wycofać się	wiać	1.1272137442649344
+udawać się	kołysać się	0.9687349338804175
+gonić	ślizgać się	0.8322476339652933
+podnosić się	odskoczyć	0.9903425280845738
+sunąć	czołgać się	1.0922704519200022
+rozpraszać się	tropić	0.8601100148887517
+unosić się	płynąć	0.7520844316188863
+pędzić	rzucać się	0.8846989237989498
+płynąć	odbić się	0.9398431545191597
+wiać	schodzić	0.8799001148295017
+zanurzać się	wycofać się	1.2487853186595734
+przeskoczyć	wiać	0.8807584601816213
+wznieść się	spadać	0.8160975498113952
+powracać	potknąć się	0.9348235173083165
+przybyć	dryfować	1.2431776406455772
+ruszać się	biec	0.7100273995300717
+krążyć	huśtać się	1.1086747345875925
+stać	rzucać się	0.9222839837131911
+tropić	wiać	0.8450961446990363
+powracać	dryfować	1.297688581077471
+śledzić	pływać	1.4120504345474263
+powłóczyć nogami	pędzić	1.0201650423583557
+pływać	spacerować	1.061741047775265
+powłóczyć nogami	spadać	0.9089486356843836
+wycofać się	tonąć	1.376668146634537
+podróżować	płynąć	1.0507163641730692
+powłóczyć nogami	podchodzić	0.8604701145643713
+latać	wspinać się	0.6969620222411641
+utykać	biegać	0.8951912964672074
+pochylać się	szybować	1.1710964056953892
+tańczyć	tropić	0.9915871394798854
+wyjechać	tropić	0.9605738413555472
+podnosić się	ewakuować się	0.8472970754918261
+spaść	chodzić	0.8751429332327846
+odejść	skręcać	0.9224595085443514
+odbić się	wiać	1.037024334587276
+pozostawać	iść	0.8222682620068487
+rozsiadać się	spaść	0.8315999304655469
+pozostawać	rzucać się	1.0634661842247148
+chodzić	tańczyć	1.0050975272117961
+uchylać się	siedzieć	1.055940769431297
+pędzić	pływać	1.2963677186035985
+przechodzić	stać	0.9092642341306804
+podchodzić	opuszczać	0.8944198151114741
+powłóczyć nogami	szybować	1.1138414590662773
+wchodzić	huśtać się	1.0545203699038748
+rozsiadać się	odejść	1.0533614342719
+opuszczać	potknąć się	0.9618384193855283
+postępować	płynąć	1.1524683018406316
+włóczyć się	krążyć	0.9915906881333674
+utykać	śpieszyć się	0.8172584354467677
+skoczyć	czołgać się	1.0771547555219527
+gonić	podskakiwać	1.0689902649351812
+utykać	spaść	0.853286826114297
+odskoczyć	zanurzać się	1.0111741470819504
+wycofać się	uciekać	0.8892749209135058
+pływać	podróżować	1.036516793964338
+skakać	śpieszyć	0.9283684238099867
+pochylać się	ruszać się	1.0365572826824145
+ślizgać się	umykać	0.7110544792416814
+wędrować	skręcać	0.9877173206185129
+czekać	opuszczać	1.122775536528996
+rzucać się	uchylać się	1.0096150092166671
+czołgać się	opuszczać	0.9812567986396438
+obracać się	umykać	1.2213972427613946
+spaść	odejść	0.8938795486592522
+czołgać się	błądzić	0.8588661524108131
+kołysać się	ewakuować się	0.9296295794983669
+czekać	błądzić	1.4157403559317374
+siedzieć	obracać się	1.084225606222359
+przybyć	siedzieć	1.0307072693792654
+płynąć	sunąć	1.0685018288835728
+potknąć się	wycofać się	0.947006968162626
+wyruszyć	wyjechać	1.2985917290172808
+drałować	szamotać się	0.8253662958657176
+szybować	postępować	0.8591905309063963
+uciekać	obracać się	1.0977926379504201
+zostać	pędzić	1.1641236814468352
+stać	ślizgać się	0.9320426837608243
+wiać	wić się	0.9479634046473491
+iść	błądzić	0.8117284288344665
+wędrować	uciekać	1.3605075032759786
+zanurzać się	wznieść się	1.1707400303517905
+spacerować	wyruszyć	0.9339618230619141
+uciekać	przekraczać	0.8350342768855983
+umykać	ewakuować się	0.6447325191217229
+ślizgać się	klęczeć	0.932483612725603
+wznieść się	ewakuować się	0.7756075420028608
+uchylać się	dryfować	1.1634207661461498
+przybyć	latać	1.0185532943403857
+drałować	kłaniać się	0.9242898163591233
+tonąć	wspinać się	1.242126997754634
+jeździć	szamotać się	0.7968330487148816
+śledzić	sunąć	0.8933148057340586
+przeskoczyć	śpieszyć się	0.9418311654785188
+tonąć	skradać się	1.2748958448548702
+czołgać się	wdrapywać się	1.0514082729304715
+jeździć	pływać	1.1936942612551562
+stąpać	czołgać się	1.1329519833697625
+kołysać się	chodzić	1.0523295760683327
+pozostawać	ewakuować się	0.9782608583382015
+biec	błądzić	0.9597833329073756
+czekać	wyjechać	1.3656715815328861
+skręcać	odskoczyć	0.9947088847512926
+pochylać się	umykać	1.1528660674370623
+podróżować	jechać	0.8844680180577421
+powracać	wznieść się	0.8197552496559829
+przesunąć	skoczyć	0.8706361236745871
+powłóczyć nogami	odejść	1.0811478810395958
+wznieść się	skradać się	1.0337216814523449
+rozpraszać się	latać	0.8232891260090388
+chodzić	wyjechać	1.154074443002399
+zostać	płynąć	1.1725898036256286
+biegać	unosić się	0.9140709727842103
+przyjść	kołysać się	1.0009798461756492
+śledzić	drałować	0.8470212712877485
+odbić się	wyruszyć	1.2217675039346325
+klęczeć	obracać się	0.9878818111485034
+klęczeć	rozpraszać się	1.222220719255865
+rozpraszać się	powracać	0.8283587722390104
+przesunąć się	podnosić się	0.9081887752594865
+stać	iść	0.7547326987416206
+spadać	przesunąć	0.7923020691390202
+zostać	tonąć	1.403663781514875
+schodzić	tańczyć	1.3616517342096477
+przechodzić	włóczyć się	0.7614122860810737
+osiąść	uciekać	0.9386563150784811
+spaść	zostać	1.1052303515732007
+odbić się	tropić	1.23379689739934
+ruszać się	śpieszyć się	0.9805558691385051
+ruszać się	tropić	0.8001865003331764
+wchodzić	gonić	1.171512001837483
+skręcać	gonić	0.954219194324828
+pływać	nurkować	0.87116488016544
+rozsiadać się	spacerować	0.831455966499664
+sunąć	odejść	0.6645976963212152
+spaść	opuszczać	0.9397655625091668
+drałować	uchylać się	1.089013251352194
+wdrapywać się	błądzić	1.2216434690495426
+podróżować	pochylać się	1.3762519488817362
+przechodzić	czołgać się	0.7652973886413499
+spaść	ślizgać się	0.5593065071382468
+szamotać się	podnosić się	1.0175778256495205
+opuszczać	uchylać się	0.958156999215812
+szybować	poślizgnąć się	0.9072660201338096
+podróżować	chodzić	1.1570167373242344
+wić się	kołysać się	0.7485351662444114
+czołgać się	rozsiadać się	0.9263255887217188
+szybować	nurkować	1.3176089523143417
+szybować	udawać się	0.7984170422574989
+nurkować	śpieszyć się	1.0384730418056958
+wznieść się	obracać się	0.8542343365546439
+przesunąć	skręcać	0.7896880785798145
+wspinać się	przechodzić	0.9528153069265194
+wędrować	szamotać się	0.9240924240660434
+schodzić	skoczyć	1.0306458836644787
+rozsiadać się	biegać	0.899609971905291
+pochylać się	wchodzić	1.2556975577950258
+przesunąć się	przeskoczyć	0.8861891249237378
+siedzieć	pozostawać	0.6421580260600784
+powłóczyć nogami	wiać	1.1994600094548515
+odejść	chodzić	1.0156770428999011
+pędzić	stać	1.1770616725582308
+wdrapywać się	pochylać się	1.1313199639724232
+przesunąć	chodzić	1.1197331258948688
+szamotać się	skoczyć	1.1324760708771742
+powracać	przeskoczyć	0.8110368474147744
+klęczeć	nurkować	1.058379737675771
+jechać	pochylać się	1.0574939916727177
+poślizgnąć się	płynąć	0.8487946477269571
+dryfować	potknąć się	1.0446496096701474
+płynąć	kłaniać się	0.9094180731115283
+stać	śpieszyć się	0.9974787868744186
+uchylać się	tańczyć	1.1886594091715903
+uciekać	podskakiwać	1.0029483859102437
+wić się	siedzieć	1.1592312954442656
+śpieszyć się	wspinać się	0.747283960761722
+pozostawać	chodzić	0.8997134108600643
+dryfować	zostać	1.3652879371371953
+utykać	pozostawać	0.9697797415853545
+pędzić	huśtać się	0.8299643400764849
+rzucać się	unosić się	0.6388456918226305
+iść	jechać	1.2023172360158367
+kłaniać się	gonić	1.098723478378931
+podskakiwać	wznieść się	1.031646849956901
+skoczyć	krążyć	1.1467465198999036
+wić się	śledzić	1.1177003105597985
+iść	skakać	1.1700040652980002
+biec	podchodzić	0.8569097404207703
+stać	skoczyć	1.0029835899230384
+tropić	postępować	0.862486845259299
+postępować	poślizgnąć się	0.9864160846493358
+osiąść	włóczyć się	0.9514782328726322
+biec	ewakuować się	0.7867765547291469
+przeskoczyć	postępować	1.0698791919351254
+zatrzymywać się	płynąć	0.9697899704371363
+skręcać	wdrapywać się	0.6858662431263728
+ewakuować się	iść	0.8528199697968356
+krążyć	spacerować	0.899743402541676
+śpieszyć	chodzić	1.031667166767582
+powracać	przesunąć się	0.7422853383524062
+wyruszyć	wiać	1.0501857785093716
+utykać	dryfować	1.0676805141180414
+błądzić	dryfować	1.1435824301315893
+wić się	wchodzić	1.1735683790367168
+wyjechać	śledzić	1.0376535543624448
+szybować	zatrzymywać się	1.0392855973149149
+tonąć	czołgać się	1.1900178533911336
+zatrzymywać się	pływać	0.9842450301298574
+pochylać się	rozsiadać się	1.1297108898914223
+podchodzić	przeskoczyć	1.0065545163315393
+ślizgać się	postępować	0.6451107547177535
+kołysać się	odskoczyć	0.9453515787259981
+drałować	przybyć	1.2994545590312836
+czołgać się	przeskoczyć	1.1028013281870388
+zanurzać się	postępować	1.171859207022583
+przekraczać	pędzić	0.8948982885886027
+powracać	pochylać się	1.3138786076659137
+jechać	schodzić	1.2098078149499474
+odejść	wycofać się	0.5776697128714436
+podskakiwać	ruszać się	0.9595836838552847
+wyruszyć	wdrapywać się	0.7998331261064371
+skręcać	wyjechać	1.1305126547467161
+wspinać się	drałować	0.8551773853743928
+biec	tańczyć	0.8478797243520719
+dryfować	pływać	0.19065834710007304
+sunąć	latać	0.7466198259699144
+wyjechać	krążyć	1.1604566676008012
+przesunąć	przekraczać	0.9681388244317412
+płynąć	przesunąć	1.1940370955772934
+stać	przesunąć	1.173082366124658
+przesunąć się	wiać	0.9414571903368958
+nurkować	spacerować	1.044069786777038
+płynąć	powracać	1.3826300789243504
+zanurzać się	tonąć	0.4697038713518868
+klęczeć	tropić	1.022451106362346
+spacerować	wdrapywać się	1.0121678238095337
+przybyć	wyjechać	1.1951189382788152
+wyjechać	postępować	0.9136890794687229
+przyjść	tańczyć	1.1055786825781269
+podchodzić	spadać	0.7695403690837762
+obracać się	uchylać się	0.7338544904843595
+przyjść	podchodzić	0.6408525272881673
+spadać	wdrapywać się	0.787130099490306
+przybyć	gonić	1.221576589977647
+dryfować	ślizgać się	0.8552278641458411
+dryfować	siedzieć	1.063896360336189
+gonić	śpieszyć	0.4234526342976193
+odbić się	czołgać się	1.231251292755069
+płynąć	wspinać się	0.9529543391468727
+iść	wdrapywać się	1.0763578394419662
+rozsiadać się	odskoczyć	0.7400833709401724
+podnosić się	jechać	0.9586996860027521
+kołysać się	dryfować	0.8246595268825391
+podskakiwać	rzucać się	0.8942689190265218
+pochylać się	wspinać się	0.9854407897495838
+rzucać się	ewakuować się	0.7926338672169122
+ślizgać się	błądzić	1.0937945144977212
+śledzić	obracać się	1.349819409403587
+poślizgnąć się	podskakiwać	0.8650048679532322
+latać	śledzić	1.1340430611787653
+tropić	schodzić	0.8497761172681358
+skakać	biec	1.1433623318321255
+utykać	drałować	0.9584393118743655
+podchodzić	śledzić	0.9635913745286248
+iść	poślizgnąć się	1.1547973242120637
+wiać	szybować	0.8640591005314623
+czołgać się	wchodzić	0.9338753612895415
+przyjść	ruszać się	0.8725156918569217
+dryfować	podchodzić	1.1381769582287207
+podróżować	iść	1.1289243934907613
+przybyć	spadać	0.9238352807005392
+pędzić	obracać się	1.2283265059349346
+biec	spaść	0.808055137453089
+rzucać się	zanurzać się	0.9028017435551728
+powracać	uciekać	0.9993900905664771
+uciekać	rozsiadać się	0.893064142190227
+pozostawać	odskoczyć	0.8466426796899639
+stać	rozpraszać się	1.0428639300771947
+zanurzać się	wspinać się	1.0215126256102423
+śpieszyć	pochylać się	1.2507889378077126
+rozsiadać się	wycofać się	1.1766540890979271
+udawać się	włóczyć się	1.148809464366558
+włóczyć się	rozsiadać się	1.123622370638388
+wycofać się	osiąść	1.180962083183619
+podskakiwać	szybować	0.9381494637105818
+przechodzić	siedzieć	1.032702379835506
+zanurzać się	przechodzić	0.9183942622728011
+śpieszyć	tańczyć	1.0237316122544782
+iść	odejść	0.8713670474472653
+przybyć	śpieszyć się	1.1504540943253176
+wyruszyć	wspinać się	0.8125303978686447
+szamotać się	powłóczyć nogami	0.895461331773861
+wchodzić	biegać	1.0481587641476888
+przechodzić	śledzić	0.6625284238090795
+kołysać się	podchodzić	1.0873891567929443
+spaść	przyjść	0.91344205605873
+utykać	wchodzić	1.0519110597769699
+biegać	włóczyć się	0.883962144688369
+włóczyć się	potknąć się	1.0427882848457752
+uciekać	spacerować	0.8135950679322635
+spadać	odskoczyć	0.796658132550613
+osiąść	przyjść	1.060379201348631
+wyjechać	przesunąć się	0.9784861663740387
+kołysać się	zostać	1.3275882049759147
+przybyć	pozostawać	0.8548291651897385
+nurkować	skakać	1.2245598833042803
+wyjechać	zatrzymywać się	1.060840611175784
+drałować	tańczyć	0.8498348299086457
+włóczyć się	zostać	1.1192632224830399
+czekać	wyruszyć	0.8938185414337586
+jeździć	unosić się	0.806157965746388
+kołysać się	wyjechać	0.8713491525331144
+opuszczać	ewakuować się	0.4553439976910567
+wić się	skakać	1.3241591548539215
+powłóczyć nogami	śledzić	0.9268637439630018
+latać	czołgać się	1.0130231251826047
+przechodzić	przeskoczyć	1.1849538417037786
+spacerować	kłaniać się	1.1253239015803476
+uciekać	włóczyć się	0.9647623678006827
+ewakuować się	sunąć	0.8079694299385103
+przesunąć	tańczyć	1.0312251395993237
+tonąć	krążyć	1.4822485624994413
+pędzić	jeździć	0.6137227829768843
+wycofać się	podnosić się	0.9876067111792795
+przybyć	huśtać się	1.0192216965615306
+pochylać się	śledzić	1.2860923841575103
+rzucać się	odbić się	0.8494476079546908
+spacerować	podskakiwać	0.9892799681211619
+schodzić	wchodzić	0.9260932395213874
+przesunąć	podnosić się	0.8259276119152374
+unosić się	śpieszyć	0.9468577160440412
+przybyć	włóczyć się	0.9926887296631354
+wznieść się	przesunąć się	0.9641068951832571
+kołysać się	śpieszyć	0.9780553941131264
+jeździć	chodzić	1.10057270806437
+kołysać się	tańczyć	0.5809572291538846
+pędzić	pozostawać	1.2552719728484774
+udawać się	zostać	0.9639934544000353
+pochylać się	udawać się	1.1142496365280263
+huśtać się	udawać się	0.8422095997965103
+spaść	przekraczać	0.8587805853770765
+spadać	iść	0.8006900351528299
+sunąć	błądzić	1.20152787298211
+ślizgać się	przybyć	1.062305340230019
+zostać	wznieść się	1.0858428631054367
+spadać	zatrzymywać się	0.8819946813027755
+stać	wić się	1.1555740811388757
+postępować	powłóczyć nogami	0.9787243986106666
+błądzić	tropić	1.0203117120778236
+poślizgnąć się	wznieść się	0.8415350755477534
+stać	wyjechać	1.201658117425814
+wchodzić	siedzieć	0.8480783031732769
+czekać	płynąć	1.066778937517837
+pędzić	skoczyć	1.0706570256009793
+iść	kłaniać się	1.3122854887960946
+biegać	podskakiwać	0.8412374133833855
+włóczyć się	przesunąć się	1.010052893766106
+szamotać się	wyruszyć	0.9993498301245027
+podnosić się	kołysać się	0.7802469108420026
+postępować	czekać	1.233641525489989
+biegać	poślizgnąć się	0.8270844357721068
+obracać się	włóczyć się	1.12720213203883
+pozostawać	podróżować	0.961009570858248
+uchylać się	potknąć się	0.893414711016239
+podróżować	biec	0.8260374967941162
+schodzić	pływać	1.4876306814740394
+podchodzić	podróżować	0.9996735358350908
+skoczyć	wdrapywać się	0.9924408877076255
+szybować	odskoczyć	0.884869344812966
+nurkować	odejść	1.3307013353787425
+wycofać się	biegać	0.8763151171380648
+skradać się	stać	0.7737590122469685
+ślizgać się	szybować	0.8676364965843766
+jeździć	przyjść	0.9793158892456801
+śpieszyć	krążyć	1.119636040601678
+powłóczyć nogami	ślizgać się	1.0936444532725604
+wznieść się	spaść	0.837404314360033
+latać	klęczeć	1.1852329025172714
+huśtać się	osiąść	1.146812724960834
+płynąć	przechodzić	1.1463442650277023
+odejść	poślizgnąć się	0.9388588038419866
+czołgać się	obracać się	1.1843520476209153
+ruszać się	podróżować	0.899680421366773
+szamotać się	przyjść	1.0196658967151109
+latać	zostać	1.0541356380119546
+rzucać się	przesunąć	0.9420203634465419
+uciekać	kołysać się	1.113942590765955
+przeskoczyć	przesunąć	1.009229419641944
+płynąć	spacerować	1.096005877028739
+zatrzymywać się	biegać	0.898814289326756
+wiać	wchodzić	1.1930617392193057
+podróżować	opuszczać	1.1299461374857962
+osiąść	wyjechać	1.1093904490774966
+jechać	rozsiadać się	1.1365811099688656
+spacerować	skakać	1.0198717878301695
+ślizgać się	czekać	1.0577666739829579
+wdrapywać się	klęczeć	1.2709148056042614
+krążyć	podróżować	0.9546197129881231
+unosić się	przechodzić	1.084472037857685
+powłóczyć nogami	schodzić	1.1439646007050206
+odejść	schodzić	0.8502873290421595
+kołysać się	spaść	0.8624845674522014
+jechać	przyjść	1.0851948600635017
+wycofać się	spacerować	1.110432948718146
+powłóczyć nogami	kołysać się	1.0864283962736578
+wyruszyć	uchylać się	1.003588571160898
+opuszczać	wdrapywać się	0.7509937017877192
+uciekać	przeskoczyć	1.0105205178550727
+zostać	wyjechać	1.3467423450084677
+wchodzić	zostać	0.8769029059413421
+pochylać się	spaść	1.1854160315876034
+zostać	czekać	0.43540442340084323
+rozpraszać się	krążyć	1.1074789624185992
+umykać	wdrapywać się	0.772207696494102
+latać	rozsiadać się	1.0214365030448487
+skradać się	szybować	1.063393591154613
+zatrzymywać się	spacerować	0.7549782091124456
+zanurzać się	odbić się	0.9060799653966337
+sunąć	włóczyć się	1.087850943142507
+tonąć	osiąść	1.2684705184985254
+śledzić	przeskoczyć	1.2303606357595884
+stąpać	klęczeć	1.0360719727291825
+osiąść	rozsiadać się	0.5589075716664574
+postępować	śledzić	0.9082669083423529
+stąpać	spacerować	0.8994050238540456
+sunąć	przesunąć	0.8869096918177538
+skręcać	spaść	0.6649129930751235
+podróżować	wdrapywać się	0.7988629291458881
+sunąć	utykać	0.9397250616397907
+utykać	szybować	0.9821354218921443
+unosić się	podnosić się	0.7789372497538045
+zostać	wdrapywać się	1.0326385608411282
+osiąść	przechodzić	0.9090885328081186
+osiąść	powracać	1.0704433177277761
+czekać	jechać	1.257274331143304
+wędrować	postępować	1.1537292641652797
+wędrować	schodzić	1.2250143319487683
+czekać	uchylać się	1.1523240035928801
+chodzić	odbić się	1.2769884840868346
+kłaniać się	stąpać	1.2113678855158505
+wyjechać	poślizgnąć się	0.7933755450789475
+powracać	drałować	1.0029182025952301
+podskakiwać	błądzić	1.053782672326245
+zanurzać się	tropić	1.1090685413624055
+wić się	gonić	0.8543308469761345
+pływać	śpieszyć	1.303596480686641
+włóczyć się	spacerować	0.6503289639871742
+ewakuować się	skręcać	0.85151968405021
+pozostawać	czekać	0.8102337309183754
+jeździć	skakać	1.1660904640200787
+wiać	chodzić	1.002060970848338
+czołgać się	wiać	1.102866579337902
+odskoczyć	skradać się	1.0908348063517272
+podnosić się	pozostawać	0.9879434505038824
+zatrzymywać się	śledzić	1.0362481506381436
+wznieść się	śledzić	1.095406810970872
+biegać	huśtać się	0.6957582052191263
+rozsiadać się	postępować	0.986733893264302
+gonić	zostać	1.063328451719779
+przesunąć się	pochylać się	1.197671237339527
+klęczeć	wycofać się	1.2577469947275326
+powłóczyć nogami	nurkować	1.2493739189712265
+spadać	skakać	0.6479437732816811
+wchodzić	wdrapywać się	0.7517451282081795
+schodzić	szybować	0.8321401061653714
+wyruszyć	powłóczyć nogami	0.9465408314673687
+utykać	uciekać	0.9620702656331859
+zatrzymywać się	siedzieć	0.6685591182280828
+wycofać się	zostać	1.1028558688824557
+zanurzać się	wędrować	1.048694531054377
+obracać się	skręcać	0.7536984037229706
+rozsiadać się	tropić	0.9414188342522593
+huśtać się	spadać	1.036320323319343
+kłaniać się	potknąć się	0.9242137597419062
+podnosić się	rozsiadać się	0.9837417215875937
+wyjechać	biegać	0.7287206043096833
+kołysać się	śledzić	1.1238457016362753
+rozsiadać się	dryfować	1.072909725912567
+podróżować	powracać	1.1214560028768692
+gonić	siedzieć	1.1662531445627287
+schodzić	zanurzać się	1.30339749675257
+jeździć	podchodzić	0.9373776480409801
+poślizgnąć się	ruszać się	0.9288571719303824
+chodzić	błądzić	0.9629794137089904
+pochylać się	przeskoczyć	1.0202886542613112
+wiać	unosić się	0.9759616811105122
+szamotać się	unosić się	0.9633424396722639
+biegać	podróżować	0.9022873368519848
+spadać	skoczyć	0.780416624899259
+śpieszyć	uchylać się	0.9088454445767972
+stać	opuszczać	0.9783607219918674
+rozsiadać się	przechodzić	1.0148631962389363
+zatrzymywać się	umykać	0.9152039114200563
+zatrzymywać się	wyruszyć	0.83314397962119
+tropić	opuszczać	0.8514727955713511
+gonić	czołgać się	1.1127683378320519
+śpieszyć	dryfować	1.158887190773258
+płynąć	podskakiwać	0.9506034482779241
+przybyć	spaść	0.9254550149608703
+podróżować	stać	0.9823131290870634
+ślizgać się	sunąć	0.5493896193957236
+dryfować	szamotać się	1.0143143064147337
+spaść	szybować	0.7723632175883901
+przesunąć	wędrować	1.2400403942532727
+tropić	pochylać się	1.1428282079373917
+krążyć	osiąść	0.8449711141788887
+jechać	kołysać się	0.7582448415500632
+poślizgnąć się	przybyć	1.1195233179847885
+podnosić się	skakać	0.9502966665676604
+pochylać się	podchodzić	1.2280493791661093
+spacerować	skradać się	0.7966560874225502
+przesunąć się	biec	0.9618405534135422
+zanurzać się	stać	1.1729932061648867
+przesunąć	rozsiadać się	1.0132806378279464
+pędzić	spaść	0.7930142249154859
+śledzić	umykać	0.8052020631548273
+przyjść	opuszczać	1.0345552019482864
+podchodzić	zatrzymywać się	0.7343624024819193
+sunąć	czekać	1.0316817622079617
+uciekać	śpieszyć	0.867970871823475
+spaść	zanurzać się	0.9516445890855243
+skoczyć	szybować	0.8740751918853669
+podróżować	czołgać się	1.081231166189371
+biegać	przechodzić	0.8073814445153967
+szybować	opuszczać	0.8859544018959954
+nurkować	kłaniać się	1.0246774951138988
+potknąć się	pływać	1.1397465308440198
+iść	śledzić	0.8912125554245067
+sunąć	pędzić	0.5171133964009542
+utykać	pływać	1.2150710137520593
+spacerować	szamotać się	0.9098271472747376
+wycofać się	pozostawać	1.1582746914194824
+przesunąć	śpieszyć się	1.167827436381314
+wznieść się	rozsiadać się	1.0599269464441836
+ślizgać się	pochylać się	0.9158019653946808
+powracać	udawać się	0.9017189216622877
+wiać	biec	0.8276329363289331
+pochylać się	pędzić	1.240149526476066
+pochylać się	rozpraszać się	1.0363203032284494
+spacerować	dryfować	1.0105064234856969
+wędrować	krążyć	1.1814165367721383
+wędrować	jechać	1.2742242908809973
+szamotać się	stać	0.9317326184408745
+tańczyć	stać	1.2964482530471972
+potknąć się	wznieść się	0.8178173576006099
+spaść	ewakuować się	0.8753683113221205
+postępować	pływać	1.1829283058510232
+pozostawać	przeskoczyć	1.0888722229760628
+potknąć się	ślizgać się	0.6232216041184386
+siedzieć	ślizgać się	0.9889746663247236
+spacerować	przechodzić	0.8048746257037723
+tonąć	potknąć się	1.0048785235945579
+wyruszyć	zanurzać się	1.2733023445432936
+ruszać się	odbić się	1.1679802514253452
+przesunąć	skradać się	1.161619859552915
+sunąć	podróżować	1.0214628605004512
+przekraczać	pozostawać	1.2157799906132287
+spaść	wić się	1.1702016403681295
+huśtać się	przekraczać	0.7253443064320942
+tonąć	przechodzić	1.078946934326053
+podnosić się	jeździć	0.9782592330994212
+wchodzić	jechać	1.280956339243433
+skręcać	jechać	1.009985587801923
+schodzić	podnosić się	0.9753803293617676
+podchodzić	wznieść się	0.8688208766006403
+umykać	odejść	0.7239166021446336
+powłóczyć nogami	wznieść się	1.115505240757891
+ewakuować się	stać	0.938757001691312
+wędrować	przekraczać	1.1801664350271024
+uchylać się	pędzić	1.0531689986894754
+śpieszyć	śpieszyć się	0.24171958736591964
+wycofać się	gonić	0.9470655172662794
+śpieszyć	spaść	0.7519679983567523
+opuszczać	stąpać	0.6479768335542516
+skręcać	szamotać się	0.7584483312381467
+odskoczyć	wędrować	1.153786789108451
+jechać	zostać	1.4082899078116666
+czołgać się	postępować	0.934928783213075
+przesunąć się	jechać	0.9068679161282274
+rozpraszać się	odbić się	1.2181412256791568
+tańczyć	utykać	1.1892668307997722
+wędrować	umykać	1.2364977906822932
+powracać	klęczeć	1.2328076095296154
+jechać	szybować	0.8443888455302223
+rzucać się	latać	0.7194835770007261
+skręcać	dryfować	0.9542193916363232
+pływać	wiać	1.1054004198703322
+przesunąć	zatrzymywać się	0.927505448707233
+udawać się	chodzić	0.9724311744391088
+zanurzać się	klęczeć	0.9734992696315996
+tropić	udawać się	1.2443592027176882
+unosić się	huśtać się	0.9199182321421054
+umykać	spadać	0.6317822289711762
+wędrować	spacerować	0.7739115877942282
+wycofać się	zatrzymywać się	0.9925685663213568
+powłóczyć nogami	biec	0.857889191969676
+stąpać	wycofać się	0.8424352942247958
+błądzić	wiać	1.3484475472471527
+krążyć	kłaniać się	1.2657404935035657
+śpieszyć	wdrapywać się	0.7744334650205609
+uchylać się	zatrzymywać się	1.0928356381321025
+szybować	dryfować	1.0875186105376367
+skręcać	czołgać się	0.9763882111633213
+stać	stąpać	0.8313616938221712
+przybyć	wchodzić	0.5782419720691817
+błądzić	wycofać się	1.1971775526238932
+płynąć	przekraczać	1.2442556599234518
+siedzieć	latać	1.1760343980210908
+przekraczać	kołysać się	0.9435864475328243
+schodzić	klęczeć	1.1346721131840203
+rozsiadać się	wić się	1.1162773329263915
+podchodzić	włóczyć się	0.9212292487030197
+klęczeć	przybyć	1.2189015304487678
+skradać się	potknąć się	0.7626447335763851
+rozsiadać się	rzucać się	1.1865345249299808
+skradać się	wędrować	1.0797165730027312
+krążyć	wspinać się	1.060406527691136
+przyjść	klęczeć	1.3053041065132165
+wiać	przybyć	1.2467173818178638
+wyjechać	wchodzić	1.2464328706572225
+poślizgnąć się	udawać się	1.09727129840154
+podskakiwać	biec	1.0590213303119693
+ruszać się	skakać	0.9201389277258127
+spaść	przesunąć	0.9104336416110667
+czołgać się	spaść	0.848519337007173
+poślizgnąć się	dryfować	0.8165889144296802
+huśtać się	przyjść	1.0173636031833755
+potknąć się	szybować	0.7896775105309596
+podchodzić	klęczeć	1.3660630744120446
+przeskoczyć	błądzić	1.244962090631603
+unosić się	przybyć	0.9166778922598086
+śledzić	przekraczać	0.8504792197733884
+tonąć	chodzić	1.1980422556086059
+skoczyć	wznieść się	0.9418984048185015
+włóczyć się	pędzić	1.1798570424790016
+czekać	wić się	1.199940813481923
+przesunąć	wdrapywać się	0.9882407740017893
+śpieszyć	jeździć	0.8289271867880789
+powłóczyć nogami	śpieszyć	1.0191979708658985
+wspinać się	czołgać się	1.0938997532110264
+śpieszyć	udawać się	0.9988224166247491
+uciekać	odejść	0.8124207056271945
+podnosić się	skręcać	0.9119224473736023
+odskoczyć	przeskoczyć	0.7020013985094384
+zanurzać się	uchylać się	1.2660796021739753
+zatrzymywać się	czołgać się	0.7394218017252813
+błądzić	opuszczać	1.056659366720447
+wchodzić	skradać się	1.082869785052795
+szybować	przesunąć się	0.8652727753369346
+przekraczać	skręcać	0.9716545473156254
+podchodzić	wyjechać	1.1529384597266394
+stąpać	rozpraszać się	0.8931570345265875
+śpieszyć	wiać	0.836758923472605
+skręcać	skakać	0.927788474443151
+spadać	spaść	0.11859572683368469
+rozpraszać się	schodzić	0.8024856622296089
+zostać	skoczyć	1.1016373834527977
+huśtać się	poślizgnąć się	0.7351392821191661
+podnosić się	ślizgać się	0.8422496752420684
+śpieszyć	wyjechać	0.8235412660993819
+uciekać	wiać	0.4533153455933743
+szybować	sunąć	0.7422290297008893
+jechać	zanurzać się	1.2025361605890572
+huśtać się	podskakiwać	0.984302297446016
+wdrapywać się	powracać	0.946069883182609
+czekać	rzucać się	1.0088357060635433
+kłaniać się	wyruszyć	1.247298561019018
+błądzić	gonić	1.1658697428857456
+skradać się	powracać	1.1254220727301485
+wyruszyć	unosić się	0.8864997052151814
+czołgać się	przesunąć się	1.0416339551475207
+skradać się	podchodzić	0.870852151710015
+schodzić	kołysać się	1.243739508254078
+wić się	jeździć	1.1018748413476793
+czekać	podnosić się	1.1443737292706826
+latać	jeździć	0.7656548159255226
+skoczyć	obracać się	0.8762787962629328
+błądzić	obracać się	0.9250025037654008
+podnosić się	drałować	0.9366554764841598
+podróżować	wyruszyć	0.8563706558330045
+skakać	wchodzić	1.0699538424449053
+przesunąć	udawać się	1.0428940156763158
+przybyć	tonąć	1.4222250625829038
+śpieszyć się	pochylać się	1.2419590735156656
+przechodzić	wyjechać	1.0079401856768047
+klęczeć	umykać	1.0133305606015717
+wyjechać	czołgać się	1.2811454879625792
+skoczyć	uchylać się	0.9979023561054629
+szamotać się	udawać się	0.9658343338932404
+wchodzić	kołysać się	1.2275504870089355
+skoczyć	jeździć	1.0497206006114699
+sunąć	siedzieć	1.213923150818865
+ślizgać się	wiać	0.8274661388102909
+stąpać	obracać się	1.1044229824434644
+przesunąć	spacerować	0.8099557636163185
+błądzić	jeździć	1.36820576891564
+biec	wycofać się	1.0235770071008619
+spadać	kołysać się	0.8337332254554212
+śledzić	tańczyć	1.2804332812732344
+śpieszyć się	skakać	1.0681458287580796
+nurkować	włóczyć się	1.120751854699775
+kołysać się	śpieszyć się	1.0788791490461123
+pochylać się	czekać	1.2567448450795176
+rozsiadać się	pozostawać	0.5861714208646237
+wić się	utykać	1.2564975157535185
+wiać	zostać	1.1253788886290557
+tańczyć	postępować	1.126359330339669
+spacerować	odskoczyć	1.0084356263082086
+czołgać się	utykać	1.1572810909998337
+krążyć	poślizgnąć się	0.9119263158191928
+zanurzać się	huśtać się	0.9066135053818692
+podchodzić	ewakuować się	0.7523254253050962
+iść	zostać	0.8189169066823526
+przechodzić	chodzić	0.8886085549385312
+śpieszyć się	sunąć	0.5986345232496663
+latać	kołysać się	0.8833999230974094
+uciekać	kłaniać się	1.0876415572650595
+skakać	czołgać się	1.038882646776762
+podchodzić	zostać	0.7482282519175213
+zostać	wędrować	0.9768465156630038
+krążyć	siedzieć	0.98925998954351
+odskoczyć	spaść	0.8313427029249846
+skoczyć	śpieszyć	0.9713918399667625
+gonić	skoczyć	1.1414509949260598
+skręcać	zanurzać się	1.03736550946618
+stąpać	wędrować	1.3455484155906199
+sunąć	przekraczać	0.7861877903322037
+postępować	odskoczyć	1.0041470298263024
+huśtać się	włóczyć się	1.0463430470760569
+skręcać	powracać	1.086962323761641
+wić się	podróżować	1.1942037584690823
+włóczyć się	odejść	1.0442551101776727
+nurkować	skradać się	1.186981711584624
+ewakuować się	wyjechać	0.9839914361370757
+postępować	przechodzić	0.5950193400895524
+spadać	siedzieć	0.8631619102206692
+nurkować	podróżować	1.2554987094266996
+podnosić się	zostać	1.0608177211897838
+spadać	skręcać	0.7096153706641948
+pędzić	spadać	0.8796394570574929
+iść	tonąć	1.2118180416156237
+śpieszyć	wyruszyć	1.2344884774992053
+wiać	jeździć	0.9759906608002654
+schodzić	śpieszyć	0.8099262610843881
+pozostawać	stać	0.5626326544852279
+wić się	odskoczyć	1.0727937108880194
+potknąć się	podróżować	1.198182662206663
+tropić	biec	0.9713156294573538
+jeździć	umykać	0.9642304432784624
+szybować	podróżować	0.9306934439555475
+ruszać się	wiać	0.9740102158013237
+dryfować	przeskoczyć	0.960130870384247
+obracać się	wyjechać	1.052638487334737
+śpieszyć się	potknąć się	0.7955894857470504
+zatrzymywać się	szamotać się	0.9486078166213622
+rozsiadać się	zanurzać się	1.218699970266286
+tonąć	odskoczyć	1.12849562596434
+tańczyć	pozostawać	1.226933597498386
+tropić	biegać	0.8893802430503507
+poślizgnąć się	unosić się	0.8082591366009396
+unosić się	odbić się	0.576150822817229
+stać	rozsiadać się	0.7028399972220568
+sunąć	klęczeć	1.0313229066376084
+huśtać się	jechać	1.0259467629915486
+drałować	czekać	1.089906076943852
+wiać	latać	0.7595720850727591
+spaść	udawać się	1.1041563615656518
+włóczyć się	ewakuować się	0.9792097966743927
+uciekać	schodzić	0.7596793099985468
+przekraczać	stać	1.1717267083293612
+tropić	spacerować	0.8318685136156087
+przyjść	przesunąć się	0.9718215184601812
+szamotać się	uchylać się	1.1349333833727435
+ewakuować się	unosić się	0.8648739963027109
+postępować	zatrzymywać się	0.8054964302447718
+przesunąć się	iść	0.941573556531725
+sunąć	stąpać	0.9138429095338982
+szybować	śledzić	1.0134204075815658
+wiać	podchodzić	0.960392110753923
+podchodzić	odejść	0.7320618998134777
+huśtać się	schodzić	1.0721173561612964
+rozpraszać się	kołysać się	0.8625516243012266
+jechać	powracać	1.1872558955383363
+unosić się	umykać	0.9488096648686853
+odejść	powracać	0.7449264211670436
+biec	jeździć	0.6238791902939907
+pływać	skakać	1.0156039353037007
+gonić	jechać	0.9466187724069213
+pływać	kłaniać się	0.9089837057313858
+drałować	przesunąć	1.09599380114681
+tańczyć	potknąć się	1.0569958343347108
+kłaniać się	podchodzić	1.3261767067117172
+uchylać się	udawać się	0.9920697256218896
+przesunąć	ślizgać się	0.7600579906840539
+śpieszyć się	wyjechać	0.949344668329798
+przechodzić	wchodzić	0.9565681905171971
+szamotać się	podróżować	0.8051863257772188
+postępować	kłaniać się	1.0136184969574789
+powłóczyć nogami	wycofać się	1.196819055540416
+spacerować	wspinać się	1.0339493924328012
+rozsiadać się	powłóczyć nogami	1.026278405989302
+nurkować	rozpraszać się	1.3082886778956317
+podnosić się	wyjechać	0.9315047951741041
+wycofać się	czekać	1.1507470360186849
+tropić	przechodzić	0.6971697392786366
+wyruszyć	wędrować	1.0564577665276034
+skręcać	udawać się	0.9894905544135797
+pędzić	ewakuować się	0.8112824164266738
+przeskoczyć	biec	1.1747736020295574
+skradać się	tańczyć	1.1833083410238963
+podskakiwać	podchodzić	0.970073718204916
+uciekać	pędzić	0.80020943836384
+podróżować	uchylać się	1.2265031107663718
+skręcać	odbić się	1.0903461481222056
+sunąć	unosić się	0.8074385586061454
+podskakiwać	utykać	0.7377999379701001
+biegać	skręcać	1.037691756117382
+przesunąć się	szamotać się	0.8653562740805387
+biec	wspinać się	0.8764218972691638
+odejść	zanurzać się	1.3286846152669265
+spaść	obracać się	0.9105624275484656
+spacerować	postępować	0.7605302362005136
+wyruszyć	schodzić	1.1149127766605953
+odejść	kołysać się	1.2070853238502415
+odbić się	potknąć się	0.8961010186094985
+przesunąć	podchodzić	0.866161525989524
+siedzieć	jeździć	1.2373411889069998
+wić się	przeskoczyć	1.1284395772529683
+pływać	podnosić się	1.1492208211514503
+rozpraszać się	podchodzić	0.8700625711240848
+przekraczać	schodzić	0.8630192844107929
+sunąć	spacerować	1.0515481826887503
+włóczyć się	zatrzymywać się	0.817401705299048
+huśtać się	postępować	0.8534191718871732
+utykać	pochylać się	1.1481698575526451
+pozostawać	wchodzić	0.8116734941140803
+rzucać się	podróżować	0.9157182841577218
+gonić	spacerować	1.0016380316519706
+przechodzić	utykać	0.8390416588421193
+wić się	rozpraszać się	0.9835254738250643
+drałować	siedzieć	1.0591739894746748
+poślizgnąć się	rozpraszać się	0.8250159752784728
+wędrować	podchodzić	1.0097307352350127
+przesunąć	szamotać się	1.0164756822079721
+podskakiwać	ślizgać się	0.8016534585597724
+podchodzić	wić się	1.0839782572419845
+wić się	skradać się	1.1028427250232389
+ruszać się	udawać się	0.8063768194412115
+huśtać się	siedzieć	1.1192939339601866
+przechodzić	kłaniać się	0.9748369657921543
+ruszać się	klęczeć	0.916831893027375
+czekać	powracać	1.053142771938147
+wiać	podnosić się	0.9909690666594859
+wycofać się	przesunąć	0.8250653683421438
+powłóczyć nogami	utykać	1.0413797221751762
+podchodzić	udawać się	0.6833225753322223
+przechodzić	iść	0.6638039933847556
+obracać się	zatrzymywać się	0.9724080131100602
+udawać się	biec	0.9219274399047023
+spacerować	rozpraszać się	0.8690986926838009
+kołysać się	rzucać się	0.8861147485752509
+odejść	spadać	0.8224154469237129
+śpieszyć	kłaniać się	1.0910644181585714
+tropić	skręcać	1.1135331923577518
+tropić	umykać	0.6972281178179025
+potknąć się	wić się	1.0028009615893254
+ruszać się	unosić się	0.95869289461498
+skręcać	pędzić	1.0447383848600957
+tańczyć	włóczyć się	1.006524201373765
+wspinać się	nurkować	1.0892533457262954
+odskoczyć	sunąć	0.7942502585243989
+stać	umykać	0.8408341360982978
+przesunąć się	powłóczyć nogami	1.0458052982159134
+spadać	rozpraszać się	0.9096635724350485
+biegać	potknąć się	0.8922926779283786
+błądzić	włóczyć się	0.6355117142122031
+podskakiwać	wycofać się	1.0142631693069453
+ewakuować się	spadać	0.8232742398998946
+przesunąć się	czekać	1.1139197897038793
+powłóczyć nogami	iść	0.5409754107070653
+śpieszyć	czekać	1.1952540466171395
+błądzić	skakać	1.0884936127555969
+sunąć	rozpraszać się	0.8863523996994396
+wznieść się	uciekać	0.9521350564995885
+wyruszyć	powracać	1.068797117064611
+wić się	skręcać	1.0991459480085892
+przybyć	jeździć	0.9724746417215582
+pędzić	biec	0.5184731975560738
+przesunąć	tonąć	1.1670198217157457
+tańczyć	sunąć	1.0519384419272124
+odskoczyć	przybyć	0.9715270563922128
+spacerować	biegać	0.8398008949022401
+osiąść	szybować	1.0951424309137041
+jeździć	utykać	1.0718914490204139
+błądzić	nurkować	1.2017593074261248
+biec	poślizgnąć się	0.9571371799354391
+udawać się	śpieszyć się	1.0857912877703109
+sunąć	stać	1.1204265819505534
+unosić się	latać	0.6344879471710994
+nurkować	odbić się	1.0258911024249815
+siedzieć	uciekać	0.9691821127050926
+błądzić	spadać	0.934030213047649
+osiąść	szamotać się	1.13951885942382
+wspinać się	odskoczyć	0.9802710074703279
+czołgać się	kłaniać się	1.2598651872625206
+umykać	osiąść	1.0084323443178576
+czołgać się	krążyć	1.0028421157354048
+huśtać się	skradać się	1.1592598017589808
+spaść	powracać	0.9327565524052207
+krążyć	pędzić	1.2634707977855988
+skoczyć	przekraczać	1.1584524934654017
+pochylać się	podnosić się	1.0624149586933722
+wiać	skoczyć	0.9022551095161356
+podnosić się	płynąć	1.0993722334068399
+wznieść się	gonić	0.9526755368825729
+odbić się	wycofać się	1.0395533780719746
+uchylać się	huśtać się	1.0027152027942838
+wiać	tańczyć	0.8209905478316217
+kłaniać się	wędrować	1.328812266972292
+czołgać się	pochylać się	1.0878667857746205
+wdrapywać się	kołysać się	0.9137794705266564
+jechać	pędzić	0.8619357754904974
+podróżować	obracać się	0.9194731136450981
+umykać	przesunąć się	0.893466076437774
+wznieść się	wycofać się	0.8166440442716362
+iść	obracać się	1.207260905320152
+nurkować	chodzić	1.145465376730092
+stąpać	podchodzić	0.8592773443484872
+klęczeć	przekraczać	1.354184757123376
+pędzić	iść	1.0277556860546904
+schodzić	poślizgnąć się	0.858707277053035
+iść	pochylać się	1.2558539963895876
+huśtać się	wspinać się	0.6489572428785154
+kłaniać się	pochylać się	0.663619615891544
+wznieść się	klęczeć	1.2102432805953995
+wdrapywać się	schodzić	0.934629625105009
+udawać się	rzucać się	0.9239703116033463
+gonić	chodzić	0.912473304797518
+unosić się	spaść	0.842464461065114
+obracać się	chodzić	1.2113027266744862
+pływać	obracać się	0.8925879898379318
+skręcać	uchylać się	0.9074302849034905
+umykać	pozostawać	0.9998230483452514
+zatrzymywać się	tonąć	1.1606514611707417
+podnosić się	tańczyć	0.9807557654970375
+obracać się	odejść	1.15588123996364
+wznieść się	pozostawać	1.0340831349920467
+drałować	gonić	0.6168866324996733
+powłóczyć nogami	unosić się	0.9685294049815015
+śledzić	płynąć	1.422686076344037
+dryfować	wyruszyć	1.208270440421543
+powłóczyć nogami	spaść	0.8950636301579185
+kołysać się	wyruszyć	1.1167201109476013
+iść	odskoczyć	1.137451725956102
+szamotać się	sunąć	0.9078197392061936
+podnosić się	iść	1.1174197591945152
+siedzieć	skradać się	0.9000437450112723
+rozpraszać się	udawać się	0.9864102225533268
+osiąść	uchylać się	0.993837096786027
+gonić	szybować	0.9858650097678141
+jeździć	przesunąć	1.262931165061445
+pozostawać	wić się	1.2317033896715133
+siedzieć	postępować	0.9661900556624924
+poślizgnąć się	tańczyć	1.0456218742907315
+skakać	pozostawać	0.9062618552494788
+ewakuować się	stąpać	0.5769528013910752
+biegać	stąpać	1.0393060233424092
+gonić	tonąć	1.3409747837880663
+rozsiadać się	poślizgnąć się	0.9513744465960446
+opuszczać	odejść	0.4082282960197078
+sunąć	przeskoczyć	0.8813354496510308
+skakać	podskakiwać	0.2051560150179489
+podnosić się	potknąć się	1.0792337869996917
+zostać	ślizgać się	1.1106144065296213
+uchylać się	przekraczać	1.1210456149821073
+postępować	jechać	1.0954701420589261
+umykać	dryfować	1.2274699949038164
+biec	rzucać się	0.7897732319338077
+przekraczać	podchodzić	1.0214633760270677
+umykać	huśtać się	1.0988028567477879
+ślizgać się	spadać	0.7042195773754394
+wycofać się	ewakuować się	0.42054431731487857
+kłaniać się	ślizgać się	0.9400736092263672
+przyjść	tonąć	1.4653995403473108
+zanurzać się	spadać	0.965281696363274
+stąpać	umykać	0.72931606904673
+udawać się	śledzić	1.2806894764793164
+wyruszyć	pływać	1.2617546133399011
+przesunąć	ewakuować się	0.8276029029594426
+pływać	spaść	1.126920113424706
+wchodzić	osiąść	0.9824583448305667
+wdrapywać się	przybyć	1.027493296169194
+skręcać	pozostawać	0.9301043795766549
+przeskoczyć	zanurzać się	0.981535097016259
+odejść	biec	1.0406469547317505
+skakać	podróżować	1.0297791352556165
+uchylać się	przesunąć się	0.8591524465779832
+ślizgać się	przechodzić	0.8009449587507828
+błądzić	pływać	1.2278253667214365
+stąpać	wchodzić	0.8021768316300986
+jeździć	udawać się	0.8286728445699756
+przybyć	podnosić się	0.958424972306209
+opuszczać	tańczyć	1.2618870697732032
+rozsiadać się	nurkować	1.2626535843356443
+utykać	przybyć	1.0391948174253165
+pędzić	nurkować	1.1430047631665812
+wędrować	biec	0.9833352913532889
+przechodzić	pędzić	0.9481946309355711
+nurkować	utykać	0.9650689999665745
+podnosić się	przechodzić	1.0791784466453893
+tropić	iść	0.7710179834019533
+wznieść się	podróżować	0.8874022037994702
+jechać	stać	1.1623506193415771
+przesunąć się	potknąć się	0.912790789937449
+skakać	krążyć	1.120155165416316
+potknąć się	płynąć	1.0058360354143139
+kołysać się	nurkować	0.964284488186015
+latać	osiąść	0.9412645314015794
+przyjść	czołgać się	1.0948360237878965
+stać	włóczyć się	0.8527636630594678
+biegać	latać	0.9401356803126946
+uciekać	pozostawać	1.061265354380408
+pochylać się	wić się	0.946468720342665
+szamotać się	pozostawać	0.9786784162230636
+pochylać się	wiać	1.0692863214477935
+zanurzać się	skoczyć	0.968865566271829
+wyruszyć	przeskoczyć	1.1803974485325408
+wić się	biec	0.7519209837865314
+nurkować	zanurzać się	0.4337598578188095
+ślizgać się	stąpać	0.8568850371621636
+skradać się	ewakuować się	0.8251129317758122
+wyjechać	jeździć	0.6911705168827208
+tonąć	postępować	1.3286442143922874
+drałować	zatrzymywać się	0.9114290798637069
+latać	stać	1.0047931751186652
+biegać	tonąć	1.073535355178938
+przekraczać	pływać	1.3263411229246993
+udawać się	przyjść	0.478767665281178
+wspinać się	gonić	0.8422772381647161
+odskoczyć	umykać	0.9651253708237107
+latać	tonąć	1.2740761207355444
+spacerować	latać	1.0469410192168302
+wdrapywać się	biegać	0.8377488677788473
+kłaniać się	odbić się	1.1604683520077523
+stać	klęczeć	0.7186627084298288
+utykać	ewakuować się	0.7300493885521295
+przeskoczyć	skoczyć	0.3321650022686246
+zostać	przesunąć	1.2415584830698887
+potknąć się	powłóczyć nogami	1.0938390258278996
+chodzić	wdrapywać się	0.9893584793469614
+spaść	szamotać się	0.7914343197790843
+przechodzić	udawać się	0.9843088526782308
+uchylać się	tonąć	1.445175336739269
+płynąć	biegać	1.0550413971991903
+utykać	zostać	1.2115692521618546
+wyruszyć	opuszczać	1.0676837323193955
+rozpraszać się	wspinać się	0.7631509390905137
+kołysać się	spacerować	0.809855958950433
+przesunąć się	wspinać się	0.7544774401987583
+chodzić	drałować	0.6730453703023102
+odejść	pływać	1.5401640559990668
+wędrować	przechodzić	0.9571737441608361
+kłaniać się	uchylać się	1.050998888306516
+siedzieć	śpieszyć się	1.218554637226317
+odejść	siedzieć	1.1789997907083236
+kłaniać się	obracać się	0.9005185674625061
+skręcać	czekać	1.057639398657873
+odejść	tropić	0.8294939454013819
+uchylać się	wznieść się	0.7399436464043002
+pozostawać	przechodzić	1.1311710956662453
+nurkować	wycofać się	1.303448881110356
+wspinać się	postępować	0.8440359351818139
+przyjść	zanurzać się	1.3677859242736723
+śledzić	biegać	0.8744945659327803
+wznieść się	spacerować	1.0807711181645965
+tropić	powłóczyć nogami	0.9362320752313448
+przeskoczyć	wędrować	1.3270167360069611
+iść	śpieszyć się	0.8840118842658494
+stać	poślizgnąć się	1.089926264053978
+tonąć	skręcać	1.2592801765575379
+siedzieć	skręcać	1.0810385861308145
+tropić	przeskoczyć	1.1303606512075337
+przeskoczyć	powłóczyć nogami	1.283688111700509
+rozpraszać się	zostać	1.0069197726308114
+zanurzać się	przesunąć	1.0511199112016967
+pływać	spadać	1.0873064302218194
+przyjść	wchodzić	0.6929664029659031
+podnosić się	wznieść się	0.6229481763136699
+stąpać	drałować	0.8378922788184536
+schodzić	postępować	0.8987502928156319
+powłóczyć nogami	sunąć	1.1924473882545297
+śledzić	pędzić	0.82108188079117
+jeździć	tańczyć	1.1935742745845708
+sunąć	opuszczać	0.857398028059029
+tańczyć	gonić	1.0324568415240098
+czołgać się	śpieszyć się	1.0020732169161692
+pływać	ruszać się	1.0971072535828972
+skręcać	poślizgnąć się	0.9551288296939495
+potknąć się	przyjść	1.261968273290609
+huśtać się	kłaniać się	0.7194763150271425
+obracać się	biegać	0.9596691126221318
+wspinać się	przekraczać	0.8323548410087078
+sunąć	tonąć	1.1410150568784998
+odskoczyć	czekać	0.9708418410558715
+iść	klęczeć	1.1039573035809132
+przeskoczyć	utykać	0.8325328511036397
+kłaniać się	przesunąć	1.1344510981817448
+śledzić	rozpraszać się	1.0277886795789686
+wznieść się	biegać	0.970593736161518
+wchodzić	podróżować	0.9408332886532956
+ewakuować się	tropić	0.8764238887752923
+schodzić	tonąć	1.4577871201679653
+uciekać	skoczyć	0.954049926502281
+jechać	odskoczyć	0.8940550971723575
+spadać	tonąć	1.115855770653804
+rozsiadać się	opuszczać	0.9314543712481553
+śpieszyć	tonąć	1.1922662197516858
+odejść	klęczeć	1.285110027435484
+drałować	spacerować	0.8225309793135434
+zanurzać się	chodzić	1.1492352488735205
+wiać	szamotać się	1.046541050721517
+szybować	unosić się	0.6205327976873347
+skoczyć	podnosić się	1.016142327168962
+wiać	nurkować	1.0550333781417165
+zostać	huśtać się	0.9863035011312643
+odbić się	przesunąć	1.0525295446049177
+przesunąć się	wchodzić	0.9385765660736682
+odbić się	gonić	1.2393337214921358
+podskakiwać	odejść	0.9897070420282733
+stąpać	spaść	0.9642014238217761
+uciekać	powłóczyć nogami	1.02679027395681
+przesunąć	czołgać się	1.0820614076965303
+dryfować	huśtać się	0.885710681162153
+wędrować	klęczeć	0.9696429632289445
+wycofać się	kłaniać się	1.12064372538271
+śledzić	skręcać	0.9809529397702211
+chodzić	zostać	0.8634056195127886
+krążyć	stać	1.0202856538042766
+wiać	ewakuować się	0.804731813019231
+przyjść	wznieść się	0.7470131112113898
+stać	przeskoczyć	1.117933245348641
+umykać	siedzieć	0.9993462958857697
+skakać	schodzić	0.9386911085249267
+jechać	obracać się	0.8159019856160717
+skoczyć	rozsiadać się	0.8220352289360926
+chodzić	schodzić	0.8974491275253308
+wyjechać	wdrapywać się	0.8969800729566378
+poślizgnąć się	tonąć	0.9679185101162988
+ewakuować się	przekraczać	0.8376900322659967
+unosić się	przesunąć się	1.142116745103454
+tropić	wędrować	1.1045719553619942
+gonić	rozsiadać się	0.9839278809949881
+przeskoczyć	spacerować	1.10464702835015
+przekraczać	pochylać się	1.2922712110255261
+podchodzić	pozostawać	0.7655680821462982
+tańczyć	huśtać się	0.7017804958528165
+pozostawać	uchylać się	1.069634366966371
+śpieszyć	latać	0.9027034922508795
+śledzić	odbić się	1.3312424235081033
+wdrapywać się	tańczyć	1.1328976730418434
+rzucać się	stąpać	0.9572342024978936
+przekraczać	stąpać	0.8606198085891599
+nurkować	iść	1.1897855569693283
+rozsiadać się	krążyć	0.9986679824202696
+stać	wspinać się	1.0016381988374696
+wspinać się	uciekać	0.8877185334820882
+wyjechać	ruszać się	1.0233607351886376
+wycofać się	sunąć	0.7480450287153332
+nurkować	ruszać się	1.0877935011505395
+wyjechać	wić się	1.0853725753499555
+wznieść się	skręcać	0.7688476028649412
+ślizgać się	wznieść się	0.8632080957224851
+podchodzić	rozsiadać się	1.0002067508213415
+zostać	spacerować	1.0882981671775216
+stać	kłaniać się	1.2767934675448211
+nurkować	dryfować	0.8598714374990938
+podróżować	klęczeć	1.130998588857318
+skradać się	wycofać się	1.0587622535039125
+biec	klęczeć	0.9934798864529419
+tańczyć	spaść	1.0385312258805337
+podskakiwać	wić się	1.153573184417921
+kołysać się	skręcać	0.9239765647772715
+przekraczać	szamotać się	0.7069837874240316
+kołysać się	uchylać się	0.928347359943012
+włóczyć się	skoczyć	1.226495176531343
+rzucać się	potknąć się	0.7867805982225355
+rozsiadać się	spadać	0.792696099601111
+podskakiwać	przesunąć	0.9007956553097454
+tropić	pędzić	0.8130925515169484
+latać	odskoczyć	0.7049882639610157
+pędzić	wędrować	1.123973035144501
+dryfować	przechodzić	1.0903663795429843
+śpieszyć	iść	0.891864826329859
+jechać	jeździć	0.6996349343281447
+chodzić	stać	0.8016559014721968
+uchylać się	iść	1.1488778863468934
+pływać	powłóczyć nogami	1.2109530939987099
+śpieszyć się	tropić	0.8569288209153789
+ślizgać się	odskoczyć	0.793004122500244
+wycofać się	tańczyć	1.1140278807933317
+huśtać się	podnosić się	0.8776061161786683
+śledzić	włóczyć się	0.9157689058159819
+spaść	drałować	0.7566759845741674
+wznieść się	schodzić	0.8363362186183648
+rozpraszać się	skakać	1.119764047859758
+odskoczyć	skoczyć	0.5939191544301932
+przeskoczyć	ruszać się	1.0520673490275099
+czekać	schodzić	0.8643540180427498
+płynąć	odejść	1.4772486568755
+ewakuować się	biegać	0.757751082485207
+wycofać się	tropić	0.9234951713676179
+wdrapywać się	przyjść	0.8160719173229575
+tropić	wić się	0.9828638795150596
+chodzić	osiąść	1.0516534698131033
+czekać	siedzieć	0.7285566672586103
+kłaniać się	błądzić	1.2403515904478073
+wycofać się	jechać	1.2082839485793027
+szybować	pozostawać	1.0677609097678193
+siedzieć	wspinać się	1.177223674649502
+spaść	skoczyć	0.8076476477767414
+zanurzać się	gonić	1.210338806674899
+zanurzać się	wchodzić	1.2868554125589147
+rzucać się	huśtać się	0.7240420935011496
+szybować	zanurzać się	1.2407946698754506
+opuszczać	skradać się	0.8666470276511096
+tańczyć	ślizgać się	1.0799786832430383
+jeździć	czekać	0.9793026483703685
+jechać	skoczyć	0.7131116614392482
+obracać się	szybować	0.8710245572754424
+ruszać się	odskoczyć	0.9891772196712674
+podchodzić	przechodzić	0.8409351126147212
+unosić się	podróżować	0.7728518512983826
+wić się	wyruszyć	1.1724843802974694
+przybyć	śpieszyć	1.1730075281662133
+ruszać się	jeździć	0.9470296390244607
+przybyć	kłaniać się	1.3282034816791795
+nurkować	spaść	1.044018469556619
+włóczyć się	pochylać się	1.144709725179945
+wdrapywać się	udawać się	0.6284920209532382
+przesunąć	pochylać się	1.2099150508060552
+wyruszyć	zostać	0.825825208491177
+uchylać się	stać	1.14980535612921
+czekać	szybować	0.9047886403380581
+rzucać się	krążyć	0.985514550845402
+stać	tropić	0.8640917388482867
+drałować	odskoczyć	0.9913327563088278
+drałować	wdrapywać się	0.7721333100511321
+zanurzać się	siedzieć	1.2934046044583152
+wiać	dryfować	1.1100686858872753
+skoczyć	skakać	0.29553049418124233
+podskakiwać	przeskoczyć	0.5241103507443521
+wspinać się	chodzić	0.9744415076821556
+podróżować	przyjść	0.9132045973046848
+drałować	potknąć się	0.8009037854718137
+schodzić	ślizgać się	0.7896260367204866
+rozsiadać się	płynąć	1.1499098413336084
+pędzić	rozsiadać się	1.0207736562979537
+przyjść	iść	0.8203409817602213
+rozsiadać się	podróżować	0.9045198462960179
+śledzić	błądzić	1.0992240646721736
+powłóczyć nogami	skręcać	0.869324016298704
+podchodzić	ruszać się	0.6661667696013528
+schodzić	opuszczać	0.7361220192648545
+siedzieć	wyruszyć	0.9411493799553805
+rzucać się	pływać	0.9221851843346497
+ślizgać się	wić się	1.124848975425727
+rozsiadać się	jeździć	1.201353046389395
+przesunąć	kołysać się	0.7279198390879762
+osiąść	skakać	0.9610453952931388
+krążyć	opuszczać	0.9110465505233768
+przeskoczyć	skręcać	1.0281805395280956
+poślizgnąć się	jechać	0.8070062681705736
+rozsiadać się	udawać się	1.1516243629053888
+zatrzymywać się	wspinać się	0.998372915407419
+nurkować	umykać	1.1035546231519988
+przybyć	skoczyć	1.1487222035897136
+odbić się	podróżować	1.106299119525339
+dryfować	wznieść się	0.9860948381677691
+przeskoczyć	wycofać się	1.1222168608775316
+przekraczać	osiąść	1.31850301546652
+podchodzić	osiąść	1.1091878519018428
+podchodzić	pędzić	1.0539393867275189
+kłaniać się	skręcać	1.1185626526398922
+jechać	przechodzić	0.9850710304418193
+unosić się	osiąść	0.8551300250314444
+odejść	skoczyć	1.038974234291728
+wędrować	siedzieć	0.9581766356324931
+wchodzić	śpieszyć się	1.3032336958338309
+dryfować	uciekać	1.2085685381888318
+opuszczać	obracać się	1.0489484454735711
+podskakiwać	wdrapywać się	0.936734086660822
+opuszczać	pozostawać	0.9746078157699177
+umykać	śpieszyć	0.7808302797127418
+czołgać się	ślizgać się	0.9675127356301031
+obracać się	przesunąć się	0.6927179674283543
+pływać	wspinać się	1.0231403002421153
+skradać się	schodzić	0.8136120492772368
+wchodzić	kłaniać się	1.3981096275703369
+wdrapywać się	włóczyć się	1.0814474441446562
+śpieszyć	wić się	0.8606046357804211
+kołysać się	obracać się	0.6090769309213188
+stać	podchodzić	0.6084724207177115
+tańczyć	przechodzić	0.8809086102410961
+płynąć	podchodzić	1.1627330563425506
+schodzić	wyjechać	1.18407138858805
+wić się	wdrapywać się	0.9860138951199993
+jeździć	rozpraszać się	0.8766473832852607
+pędzić	postępować	0.9900846482578136
+czołgać się	czekać	0.8921518766070574
+iść	czołgać się	0.6882003643247487
+uchylać się	przybyć	1.1852320506425646
+powracać	utykać	1.0524003118172636
+nurkować	wdrapywać się	1.2581507547414899
+czołgać się	drałować	0.9801338425207737
+utykać	schodzić	0.6810981880629122
+spaść	tonąć	1.098336455827403
+gonić	podróżować	1.131014703912446
+podchodzić	gonić	0.9934157885434315
+przesunąć się	gonić	0.9601756408645575
+unosić się	skoczyć	0.8557623479878735
+wić się	nurkować	0.89442436845268
+biec	kłaniać się	1.082633251290969
+zatrzymywać się	przyjść	0.8239784168393663
+odskoczyć	rzucać się	0.8373547027512911
+pływać	czołgać się	1.168535428294041
+spadać	jechać	0.7649854642819329
+chodzić	latać	1.013324408887161
+gonić	schodzić	0.8778530264781159
+czekać	gonić	1.1743093538471454
+skakać	odejść	0.9116327230475219
+latać	skręcać	0.7908808784114818
+poślizgnąć się	odbić się	0.7601309159970383
+wędrować	powłóczyć nogami	0.8632347702961081
+zanurzać się	zostać	1.3122830227702893
+pędzić	podnosić się	0.9172863768383216
+potknąć się	spacerować	0.9600973667809592
+zostać	zatrzymywać się	0.7963114630968812
+siedzieć	ewakuować się	0.9746391287445509
+latać	utykać	0.9788723016267423
+powłóczyć nogami	przechodzić	0.9033493125402224
+tonąć	wić się	1.044947773195491
+odbić się	spadać	0.8961503430450904
+wić się	tańczyć	0.5646693250000154
+unosić się	schodzić	1.0036684138816527
+czekać	zatrzymywać się	0.7860195799978528
+wdrapywać się	postępować	0.8934371878034538
+przeskoczyć	kłaniać się	0.9593871932092128
+rozpraszać się	odskoczyć	1.016686960417195
+opuszczać	przesunąć się	0.6705290055758871
+uchylać się	wyjechać	1.1530964592965647
+przeskoczyć	rozpraszać się	1.1884329326163916
+skoczyć	rozpraszać się	1.1904437965241368
+dryfować	odbić się	1.0081057029268274
+śpieszyć się	dryfować	1.1904494006623643
+podnosić się	udawać się	0.7926587688685213
+uchylać się	podnosić się	0.8454230524544792
+stać	błądzić	1.1514985406039204
+gonić	przekraczać	0.7574362869393328
+rozpraszać się	potknąć się	0.9553514637438989
+zostać	ruszać się	0.915666402735264
+rzucać się	siedzieć	1.1564389695117887
+chodzić	opuszczać	0.9882582263436168
+śpieszyć się	drałować	0.7770083502209575
+obracać się	potknąć się	1.0256518938470025
+uchylać się	poślizgnąć się	0.6849281698859954
+płynąć	klęczeć	0.9219955733996646
+szamotać się	wspinać się	0.8301113986178906
+wędrować	potknąć się	1.1228446145236846
+osiąść	ślizgać się	0.9398912406476599
+potknąć się	śpieszyć	0.785336671394535
+wchodzić	sunąć	1.0246350734173626
+siedzieć	kołysać się	1.0412316460213957
+utykać	jechać	1.025952290933259
+odskoczyć	powracać	0.790407464076574
+skakać	podchodzić	0.9887655115175924
+podróżować	odskoczyć	0.936183239270603
+podskakiwać	wchodzić	1.0585059465489395
+schodzić	sunąć	0.7535242343381712
+ruszać się	schodzić	0.865327658475306
+odejść	wędrować	1.276625352037865
+spadać	sunąć	0.5968784367421622
+przeskoczyć	obracać się	0.8641907203524306
+spadać	wyruszyć	1.1354233974632977
+wycofać się	uchylać się	0.6634889792178574
+skakać	zostać	1.2234944840505326
+utykać	skręcać	1.0783583161726598
+odejść	przechodzić	0.8911435704191334
+krążyć	śledzić	1.25670009944939
+podskakiwać	latać	0.8942190312447312
+umykać	gonić	0.7786503641130054
+przekraczać	dryfować	1.237742785211859
+podróżować	kłaniać się	1.078841701996942
+włóczyć się	siedzieć	1.0630269074626955
+czołgać się	włóczyć się	0.555892945033796
+schodzić	przesunąć się	0.8698590775572809
+skradać się	przybyć	1.1619278982143504
+podnosić się	przyjść	0.8347796552723886
+przesunąć się	sunąć	0.7082501971445402
+uchylać się	biegać	1.0111597266242818
+potknąć się	stać	0.9356017009713203
+rzucać się	jeździć	0.832330324526847
+stać	gonić	1.0473330465463344
+śledzić	gonić	0.8012609600952175
+pędzić	klęczeć	1.1492639622210856
+płynąć	drałować	1.0276559835327943
+przesunąć	uciekać	0.9279895807707104
+przyjść	latać	0.7901859495062893
+opuszczać	spadać	0.8390039160409501
+nurkować	osiąść	1.2522218626133539
+wyruszyć	odejść	0.9559345377166771
+pochylać się	pływać	0.7453708327615838
+szybować	tropić	1.0134197246608057
+rzucać się	skoczyć	0.7827047926273928
+wznieść się	śpieszyć	0.897510706819364
+stać	czołgać się	0.6654859911333203
+klęczeć	skakać	0.8971958313937809
+drałować	nurkować	1.058519554225218
+podróżować	stąpać	1.2264058895867338
+gonić	osiąść	1.1295504754109047
+latać	szamotać się	0.9598713386946396
+biec	pochylać się	1.2169482251508525
+pędzić	szybować	0.92953264218602
+sunąć	umykać	0.6689162947740147
+uciekać	podnosić się	1.1324084405353743
+uciekać	ruszać się	0.8728479386987525
+przyjść	poślizgnąć się	1.1285694038939522
+biegać	czekać	1.1220113800634068
+wiać	przyjść	1.0714865954408366
+zostać	sunąć	1.12217990797404
+tonąć	rozsiadać się	1.3337643750942367
+wędrować	drałować	1.0436963836158328
+śpieszyć się	wznieść się	0.9385410429359903
+nurkować	biec	1.185991029464337
+śpieszyć się	spacerować	1.0694410571859558
+stąpać	gonić	0.8873185501853492
+zanurzać się	podskakiwać	1.0457615903233106
+wdrapywać się	stąpać	0.7676823821637514
+uciekać	wyruszyć	1.1870716140599527
+skręcać	stąpać	0.9644422463760588
+wyjechać	stąpać	1.1056401136270206
+skradać się	zostać	1.2743599754118835
+spadać	przeskoczyć	0.8599766893903578
+ślizgać się	śpieszyć się	0.7620797523581336
+podnosić się	spadać	0.8784914913974337
+błądzić	uchylać się	1.2723741656253922
+wić się	szybować	1.114323288848183
+klęczeć	dryfować	0.8852022445558925
+pływać	odbić się	1.0963719377194803
+rozpraszać się	opuszczać	0.8516177633911427
+ewakuować się	osiąść	1.0096062999529285
+spadać	ruszać się	0.6410130878503423
+tropić	spadać	0.6931291663983976
+udawać się	pływać	1.2350626261342796
+biec	odskoczyć	1.0568545487010517
+rozsiadać się	czekać	0.7391883506228454
+wiać	poślizgnąć się	0.7502837746350624
+płynąć	skoczyć	0.8219406823306941
+podskakiwać	jeździć	1.0213166220596441
+śpieszyć się	biegać	0.6404307842080988
+zanurzać się	jeździć	1.2693737582588742
+potknąć się	zostać	1.2058668252160853
+udawać się	wędrować	1.1906567258171457
+ruszać się	czołgać się	0.7001807784888124
+wdrapywać się	przekraczać	0.7301838733630802
+rozsiadać się	przeskoczyć	0.890808930829923
+ewakuować się	przybyć	0.8591224038444608
+unosić się	spacerować	0.9906059271485215
+błądzić	przekraczać	1.3034556931145356
+rozpraszać się	przesunąć się	0.9400816020152837
+błądzić	huśtać się	0.9845185580448855
+przyjść	wić się	1.0166303319062173
+rozpraszać się	przyjść	0.9143094726623491
+odejść	przybyć	0.8118438116375465
+klęczeć	powłóczyć nogami	0.8131917362146821
+kołysać się	stać	1.3108838457096745
+podchodzić	pływać	1.245600335409556
+rozsiadać się	ruszać się	0.9760509726779388
+wycofać się	wdrapywać się	0.7684657182641745
+drałować	iść	0.9194274092130968
+poślizgnąć się	klęczeć	0.9676586533255467
+przeskoczyć	jeździć	1.082788901612003
+spacerować	siedzieć	0.9027155364410216
+umykać	wyruszyć	1.1423758567626023
+pozostawać	wdrapywać się	1.0498350592389776
+jechać	ślizgać się	0.7474835947191464
+włóczyć się	szybować	1.128759596819982
+ewakuować się	wspinać się	0.7891478744270046
+spacerować	wiać	1.025050090033291
+jechać	podchodzić	1.0990477551550504
+szamotać się	biegać	0.8442761285458015
+wyjechać	wiać	1.0253923014589408
+przyjść	odskoczyć	0.9699038454329234
+przeskoczyć	pływać	1.0446109639344998
+gonić	przesunąć	1.2159448488857807
+zatrzymywać się	uciekać	0.9492221151541809
+chodzić	klęczeć	1.093577342976446
+pochylać się	zatrzymywać się	0.837356372104067
+udawać się	ewakuować się	0.8935494802765925
+wchodzić	odbić się	1.1752332034848212
+podchodzić	postępować	0.7110589148257821
+obracać się	wspinać się	0.91041406877614
+gonić	skakać	1.1147677600314199
+wspinać się	biegać	0.8743267241251932
+rozsiadać się	umykać	0.9215498589859521
+nurkować	płynąć	0.9740552600568843
+podróżować	przechodzić	1.2763267623846632
+udawać się	pędzić	1.0004719635585124
+tańczyć	unosić się	1.009119961203952
+rozsiadać się	podskakiwać	0.8076880177484195
+huśtać się	skręcać	0.9420386389477263
+kłaniać się	skradać się	1.1085247468725292
+podskakiwać	uchylać się	0.9087211798738136
+skradać się	wspinać się	1.0361809542609197
+tonąć	powłóczyć nogami	1.2430361185905496
+nurkować	wyruszyć	1.354102040741416
+osiąść	śledzić	1.1063083586142861
+ewakuować się	huśtać się	0.9045614805584467
+biec	pływać	1.212189398071303
+powłóczyć nogami	rzucać się	1.0280200263334107
+przesunąć się	przybyć	0.8826774725630925
+skakać	płynąć	1.0155965974028254
+potknąć się	podchodzić	1.0052001472912206
+odskoczyć	pływać	0.9831825204778653
+unosić się	stąpać	0.9548412539183977
+powłóczyć nogami	powracać	1.2160015508322186
+iść	schodzić	0.9802680562383873
+rozsiadać się	skręcać	1.0167028524125883
+pochylać się	latać	1.0412792027090387
+pędzić	śpieszyć	0.5549875122246409
+skradać się	umykać	0.9202612127321194
+opuszczać	huśtać się	1.1908795501240632
+ruszać się	wdrapywać się	0.82340168891783
+wznieść się	włóczyć się	1.1544750482440869
+dryfować	wyjechać	1.0711264683455146
+wdrapywać się	poślizgnąć się	0.9934135405355975
+tropić	śledzić	0.28647211149759144
+tańczyć	szybować	1.0846053218728071
+podróżować	ewakuować się	1.0846423280199395
+dryfować	podnosić się	1.0808159654154292
+śpieszyć się	ewakuować się	0.6404774148110562
+ruszać się	siedzieć	0.8926414175314632
+tropić	pływać	1.336964062031791
+podchodzić	sunąć	0.8825889318710142
+przyjść	przeskoczyć	1.1150708469529074
+zatrzymywać się	wchodzić	0.7808423009103691
+podróżować	spaść	0.9720053742968083
+klęczeć	czekać	0.882242821244447
+wspinać się	zostać	1.0313691281963924
+wznieść się	biec	1.0857606286309818
+powracać	wić się	1.0514909156910168
+ślizgać się	udawać się	1.0118122061989778
+umykać	szybować	0.7891143918712812
+wyjechać	umykać	1.0141147876955265
+potknąć się	pochylać się	1.0242369871105237
+wędrować	obracać się	1.2607336852118163
+gonić	ewakuować się	0.8290564817441426
+spadać	stąpać	0.8826369874409454
+czekać	przyjść	0.9847018341623822
+skręcać	osiąść	1.0559616997247383
+pędzić	podróżować	0.8946279141469972
+ruszać się	przesunąć się	0.6838569234028556
+wyjechać	klęczeć	1.0773280775082332
+przesunąć	błądzić	0.8616762720735555
+szamotać się	ewakuować się	0.8641751858510949
+utykać	krążyć	1.07582614293079
+śledzić	zanurzać się	1.2313727435154629
+skoczyć	pozostawać	0.993539598427715
+odejść	pochylać się	1.4438627986497063
+powłóczyć nogami	śpieszyć się	1.0423831475096523
+odskoczyć	biegać	0.9763583874906322
+szybować	kłaniać się	0.9719290426267171
+podskakiwać	pędzić	0.9835582498111962
+szamotać się	śledzić	0.9272995971288802
+wspinać się	skakać	1.046854779243527
+rzucać się	pochylać się	0.9466202632707967
+rozpraszać się	postępować	0.823241682292391
+tańczyć	śpieszyć się	0.9817924168090961
+skradać się	przeskoczyć	1.0917167145720335
+czekać	potknąć się	0.9604587961367453
+skoczyć	odbić się	0.4481351781826474
+przybyć	czekać	1.0097697181154979
+drałować	wycofać się	1.0885277737731336
+pozostawać	włóczyć się	0.9090268968423877
+spacerować	klęczeć	0.9936580434458183
+wspinać się	wznieść się	0.6465988588428186
+biec	przekraczać	0.7932407588932315
+podnosić się	biec	0.98605732194756
+ruszać się	spaść	0.7242403882356556
+śpieszyć się	odejść	0.8174022761259288
+opuszczać	wycofać się	0.6593874220840646
+jechać	osiąść	1.1651391848381507
+pozostawać	płynąć	1.0815336150824026
+nurkować	uciekać	1.1511241010813993
+siedzieć	przesunąć się	1.0853336683336983
+szamotać się	śpieszyć	0.6835808925524849
+wznieść się	pływać	1.0592309396494457
+osiąść	wznieść się	0.9933612137852033
+pozostawać	wiać	1.2929417032885613
+wyjechać	drałować	0.8340225560684803
+udawać się	wiać	1.0119994002615194
+wdrapywać się	jeździć	0.6876736896921852
+pływać	wycofać się	1.447618889504855
+schodzić	szamotać się	0.9746254180237379
+skoczyć	biec	1.1437298790227994
+podróżować	śledzić	1.35684019436883
+utykać	pędzić	0.891432865333373
+nurkować	uchylać się	1.3143804424799164
+szamotać się	pływać	1.0822628498553872
+płynąć	wchodzić	1.1765991768784991
+płynąć	skręcać	1.0383581712124483
+spaść	schodzić	0.8003350147066793
+tonąć	dryfować	1.0151798774696679
+kołysać się	pływać	0.9007683392716934
+wchodzić	dryfować	1.1672651517667265
+spacerować	pochylać się	1.0285200782969082
+przechodzić	przesunąć się	0.799238516122741
+nurkować	tonąć	0.6589044527236662
+spadać	udawać się	1.019217547752217
+jechać	tańczyć	1.0547983554410696
+chodzić	ruszać się	0.4585346056990758
+jeździć	stać	1.0566213985131296
+szybować	przechodzić	1.0765472854949192
+potknąć się	udawać się	1.1600600452709773
+szamotać się	ślizgać się	0.9153579464560501
+siedzieć	chodzić	0.9121255856103456
+odbić się	kołysać się	1.0086837706347491
+spaść	krążyć	0.9460590366942778
+wchodzić	spadać	0.9317159891351676
+przekraczać	powłóczyć nogami	1.088538056973684
+rozpraszać się	siedzieć	1.162249653818261
+wyruszyć	odskoczyć	1.0455234791832686
+powracać	huśtać się	1.0354397799710549
+podróżować	zatrzymywać się	1.0600922150687815
+wić się	stąpać	1.2484224608324337
+postępować	spadać	0.7935020925279743
+krążyć	skradać się	1.1408618566305244
+pozostawać	odbić się	1.0929557291126542
+krążyć	skręcać	0.6554706947850877
+przesunąć się	nurkować	1.0929260695118121
+tropić	drałować	0.8179102480968762
+czołgać się	odejść	1.0059589848056123
+wdrapywać się	przeskoczyć	0.9825399168992309
+biegać	przyjść	0.9268239837202248
+udawać się	przekraczać	0.9615689353042454
+podnosić się	tropić	1.0898399897802087
+wyjechać	wędrować	1.0407988378692459
+wspinać się	szybować	0.7380417294195725
+pędzić	dryfować	1.2053466522737062
+szamotać się	podchodzić	1.014149239124537
+schodzić	włóczyć się	1.1249807151524405
+huśtać się	przesunąć	0.9299866420644839
+uciekać	wdrapywać się	0.7387031823951217
+uchylać się	śledzić	1.1799991344966887
+jeździć	poślizgnąć się	0.9662799755288242
+jechać	biec	0.8993385794816867
+uciekać	wyjechać	0.9840639366827948
+zanurzać się	rozpraszać się	1.25402700345082
+błądzić	płynąć	1.2872059022100595
+szamotać się	obracać się	1.1051567599431564
+opuszczać	jechać	0.9859315814739348
+wędrować	spadać	0.9070238805691114
+przybyć	kołysać się	1.1447721834709375
+rozpraszać się	śpieszyć	0.8684919184709056
+umykać	odbić się	1.1335077426252345
+stąpać	pozostawać	0.9190542843210298
+udawać się	przybyć	0.7350837993317623
+postępować	wycofać się	0.9645493524333751
+podchodzić	spaść	0.7766809402483228
+czekać	osiąść	0.8348347853249842
+wyjechać	utykać	1.0602355769184855
+podskakiwać	skradać się	1.0256855150393454
+czołgać się	wyruszyć	1.1695295059753121
+wyruszyć	skoczyć	1.2247196071347655
+podchodzić	latać	0.796091297740831
+gonić	odskoczyć	1.041771963203639
+skradać się	ruszać się	0.8939119851021984
+podskakiwać	zostać	1.1837734915866556
+przechodzić	biec	0.8756932313143687
+osiąść	zatrzymywać się	0.555949824752516
+włóczyć się	jeździć	1.2198070318665186
+podróżować	latać	0.9301954549440072
+skradać się	uciekać	0.9335968247380237
+kołysać się	umykać	1.048066731908006
+powłóczyć nogami	udawać się	1.0749373064155998
+ślizgać się	ruszać się	0.7939983944477222
+śpieszyć się	latać	0.8935222032052677
+krążyć	umykać	1.161554185951211
+wiać	stać	1.0401836394901012
+pozostawać	nurkować	1.2897178292147788
+jechać	wspinać się	0.9039512778860802
+podnosić się	sunąć	0.8398037384357846
+pozostawać	tonąć	1.3242232364185058
+skręcać	sunąć	0.84448500737347
+tropić	stąpać	0.8414091376904359
+nurkować	siedzieć	1.341210276049572
+klęczeć	śledzić	1.1414634277590023
+rzucać się	przyjść	0.8454216173533692
+rozpraszać się	ewakuować się	0.4410092281916443
+huśtać się	odbić się	1.03381233290764
+obracać się	zanurzać się	0.908086832836293
+czekać	skoczyć	0.9650284048042499
+wchodzić	unosić się	0.8284284638308302
+powracać	gonić	0.9884322259545487
+stać	drałować	0.9176369554446309
+drałować	wznieść się	0.8007946384610803
+zostać	przesunąć się	1.1787708516540136
+wiać	płynąć	1.1164517002926893
+wchodzić	skręcać	0.8713865553102534
+wspinać się	utykać	0.9362819398502801
+postępować	wyruszyć	0.9578638833594307
+wznieść się	kłaniać się	0.8306709893554377
+kłaniać się	przekraczać	1.055909853135839
+tonąć	podróżować	1.2670665409697348
+siedzieć	podróżować	0.9870204040963344
+przesunąć	pozostawać	1.0530728838698549
+śpieszyć	pozostawać	1.125332867748778
+pochylać się	zostać	1.3097164224678906
+pływać	ewakuować się	1.1652583846894646
+czekać	przechodzić	1.0675490215091579
+jechać	rozpraszać się	1.0716057442563771
+przyjść	śpieszyć	1.1416096839259446
+pozostawać	pochylać się	1.0694045856003784
+pochylać się	schodzić	1.3774678335613622
+umykać	skakać	0.7889826384939175
+zanurzać się	osiąść	1.1578929875872064
+ewakuować się	postępować	0.8607364322733704
+krążyć	wchodzić	0.8453672764212149
+postępować	skradać się	0.8711863725749083
+opuszczać	powracać	0.6611185471885109
+tonąć	biec	1.2241727369280502
+wchodzić	przesunąć	0.9958137017416298
+biegać	nurkować	0.9768298992320946
+ślizgać się	odbić się	0.8797230153242391
+przekraczać	wyruszyć	1.0047630347640357
+odejść	wić się	1.1315368111298307
+czołgać się	huśtać się	1.1876040712616927
+przesunąć	pływać	1.1150976303658306
+przechodzić	stąpać	0.8248565813569233
+udawać się	sunąć	0.9136976740044531
+kłaniać się	rozpraszać się	0.8226317962816766
+zostać	uciekać	1.1132183940688973
+przekraczać	ruszać się	0.6982880370929395
+ślizgać się	odejść	0.8355703263542765
+drałować	wchodzić	1.1980460931197752
+wędrować	sunąć	1.1136883695539894
+odskoczyć	wiać	0.9533408985766054
+uciekać	biec	0.894229773070399
+śpieszyć się	schodzić	0.8541556019034084
+pływać	przybyć	1.293891297231209
+ruszać się	latać	0.8555071224108319
+jechać	nurkować	1.1163357173940607
+powracać	siedzieć	1.1033008894674219
+obracać się	rozpraszać się	1.0809324705737826
+tropić	włóczyć się	0.8733841256238025
+wiać	wdrapywać się	0.8043689883631946
+rozsiadać się	przesunąć się	1.061458945157773
+uchylać się	pochylać się	1.1488338446812336
+śledzić	czekać	1.068328810889974
+powracać	stać	1.0065898743951929
+zanurzać się	tańczyć	0.7345388614401264
+czołgać się	powracać	1.1449152185101377
+kołysać się	rozsiadać się	1.1390010702271427
+dryfować	spadać	0.9766405744405694
+udawać się	przeskoczyć	1.12642109516236
+chodzić	pochylać się	1.1883801050090312
+potknąć się	odejść	0.8411126175799478
+potknąć się	sunąć	0.6707178886490153
+wić się	dryfować	1.0925875906875036
+wyruszyć	płynąć	1.1005965289658326
+klęczeć	rzucać się	1.0127122173508665
+skradać się	jeździć	1.0312533664681447
+zostać	podróżować	1.164297707765608
+uciekać	ewakuować się	0.6993101628655182
+skoczyć	tonąć	1.1149025635924248
+tropić	latać	1.0069762006715972
+wdrapywać się	wznieść się	0.7144623803525011
+śledzić	poślizgnąć się	1.0479694697344049
+przechodzić	umykać	0.8578356018776739
+skradać się	poślizgnąć się	0.9657342072624757
+ślizgać się	zanurzać się	0.9242775417313098
+rzucać się	spacerować	1.0354727123633274
+osiąść	pływać	1.1845275071924997
+jeździć	tonąć	1.3581400246372297
+jeździć	wspinać się	0.7134557098692969
+podskakiwać	dryfować	0.8254693253306594
+przybyć	przeskoczyć	1.1830497457740063
+umykać	iść	0.9175289837202435
+śpieszyć się	przechodzić	0.903903849553794
+stąpać	ruszać się	0.7240400792093269
+powłóczyć nogami	czekać	0.9818278401324422
+sunąć	wdrapywać się	0.7439158710952508
+podskakiwać	szamotać się	1.00904326169
+wyruszyć	spaść	1.174182562329692
+tonąć	ewakuować się	1.2165161418126855
+postępować	spaść	0.8753867609050863
+odejść	uchylać się	0.9709812579692833
+wspinać się	powracać	0.950431840216358
+rzucać się	błądzić	1.1830602034078168
+stąpać	nurkować	1.233831728230497
+zanurzać się	sunąć	0.9988124992446404
+udawać się	odejść	1.013400699635734
+gonić	uchylać się	0.9386699983701916
+nurkować	stać	1.3017807088942415
+błądzić	odbić się	1.322207386812783
+opuszczać	pochylać się	1.384605863183198
+umykać	przesunąć	1.0474782971669765
+spadać	wić się	1.0451304409738809
+umykać	utykać	0.7550601449090663
+pochylać się	biegać	0.979087553910121
+spacerować	jechać	0.9997669818165685
+skoczyć	przechodzić	1.1748906761275628
+wyjechać	szamotać się	0.8474233623350097
+przybyć	odbić się	1.1795572735953872
+powłóczyć nogami	poślizgnąć się	1.2410293540565318
+pochylać się	uciekać	1.1010928001646803
+stąpać	wiać	0.9287780115028239
+błądzić	biegać	0.938314425177828
+potknąć się	postępować	0.9726550574188962
+włóczyć się	przesunąć	1.0841832798971662
+podskakiwać	kłaniać się	0.9997424076224224
+podróżować	skręcać	0.9001117707052766
+szybować	przekraczać	0.9306199536172256
+skradać się	czołgać się	0.4882093633853306
+zanurzać się	drałować	1.0091719799161731
+przechodzić	śpieszyć	0.8126482938583643
+zanurzać się	pochylać się	0.9282983711296602
+szybować	wyruszyć	0.8410826777295828
+zatrzymywać się	spaść	0.8008645438427875
+podnosić się	stąpać	1.0425102806702766
+kołysać się	huśtać się	0.6173761041610972
+czołgać się	unosić się	1.0132040801000843
+przesunąć się	płynąć	1.1314008260308195
+sunąć	wyruszyć	1.0237839946049976
+płynąć	wić się	1.1287643865583632
+śpieszyć	ślizgać się	0.6579954025402015
+przechodzić	odskoczyć	1.1463648197231713
+odbić się	tańczyć	1.189343778282997
+obracać się	przekraczać	1.1796430896099448
+pędzić	odskoczyć	1.0036907940617625
+szybować	śpieszyć się	0.9263146794154166
+biegać	umykać	0.7578972029107304
+powłóczyć nogami	opuszczać	1.0471683994779923
+tańczyć	szamotać się	0.9577712291600587
+wyruszyć	rozpraszać się	0.8702517926225909
+pozostawać	błądzić	0.9256515580311953
+pochylać się	skręcać	1.1859847052628718
+tańczyć	wyruszyć	1.3154746018450652
+kłaniać się	wić się	0.9859823180288236
+zanurzać się	podnosić się	1.2488745014611884
+podchodzić	skręcać	0.6379451072472165
+wyjechać	tonąć	1.26386773958352
+gonić	szamotać się	0.9131129655562087
+skakać	powracać	0.7839419620244574
+jeździć	wycofać się	1.0492149749934319
+podnosić się	odejść	1.0042207303038422
+spacerować	powłóczyć nogami	0.6745918099241618
+tonąć	klęczeć	1.0651002131545473
+rzucać się	skręcać	0.813372168282534
+umykać	płynąć	1.1918893470654712
+postępować	skręcać	0.8831053220529015
+wycofać się	czołgać się	1.1373856827919357
+zostać	czołgać się	1.0668247585429538
+tańczyć	czekać	1.3315370964459887
+schodzić	stąpać	0.5485200688111901
+wyjechać	ślizgać się	0.7748758490991865
+ślizgać się	wdrapywać się	0.6226772957600525
+iść	skradać się	0.9041394387201337
+przesunąć	krążyć	0.7612729330553666
+powracać	wycofać się	0.5882234066324721
+śpieszyć się	śledzić	0.9104278530949608
+przesunąć	wyjechać	1.1008257658785008
+latać	opuszczać	0.8890219173177201
+siedzieć	osiąść	0.4855438399511082
+postępować	rzucać się	0.8863840264024179
+wdrapywać się	rzucać się	0.6898879807785329
+tropić	utykać	0.8586052725681664
+wić się	drałować	0.9977108978525615
+ruszać się	skręcać	0.8165369567786397
+postępować	wchodzić	0.7872485776230079
+schodzić	podskakiwać	0.9616186271489424
+czołgać się	siedzieć	0.8347770569246499
+umykać	czekać	0.8948807712875742
+rozsiadać się	tańczyć	1.2164294210015139
+podnosić się	podskakiwać	0.9787184944999886
+odbić się	siedzieć	1.0492041612052243
+biec	potknąć się	0.8943576701498053
+utykać	czekać	1.011267001214132
+uchylać się	wiać	0.8436621486572916
+jeździć	odskoczyć	0.9776597652660158
+biegać	pływać	1.0785296655480043
+szybować	skakać	0.8806809606049975
+podskakiwać	osiąść	1.0041411927635466
+podróżować	wyjechać	0.9012431687125434
+przesunąć	powłóczyć nogami	1.23638125045513
+kłaniać się	kołysać się	0.7277982338383487
+utykać	odbić się	0.8849604050126338
+tonąć	wyruszyć	1.4251415264386464
+kołysać się	przesunąć się	0.8032563537160935
+śpieszyć się	pozostawać	1.2431062593553386
+szybować	biec	0.9975867129140893
+skakać	wyruszyć	1.284907724343873
+wchodzić	szamotać się	0.9476667660231054
+postępować	zostać	1.3103339122232203
+ewakuować się	ruszać się	0.6589874232286965
+jeździć	śledzić	1.1358867904347911
+spacerować	szybować	1.0944857253154447
+wznieść się	czołgać się	1.103197633453439
+skakać	przeskoczyć	0.4208173893631877
+przechodzić	błądzić	0.831425054875642
+stać	ruszać się	0.8123079837602764
+kłaniać się	odskoczyć	1.1695096575939514
+skoczyć	skręcać	1.0078037241708433
+tonąć	wznieść się	1.2827712445507875
+rzucać się	przeskoczyć	0.784348782510747
+huśtać się	śpieszyć się	0.6958304462040809
+ślizgać się	spacerować	0.9953394420754723
+osiąść	wspinać się	1.0666705571505746
+wchodzić	podchodzić	0.5588835770982856
+jeździć	wędrować	1.1225271725004258
+stąpać	zanurzać się	1.1976887800414606
+kołysać się	skoczyć	0.8728290733506524
+szamotać się	odskoczyć	1.1057943827819554
+tańczyć	podskakiwać	1.112009157460614
+wiać	sunąć	0.8298692870115094
+czołgać się	dryfować	1.1509601781050933
+umykać	przybyć	1.1249049598378245
+spaść	huśtać się	1.052604973796897
+podchodzić	śpieszyć	0.9925709588694537
+wspinać się	pędzić	0.8706280759344681
+obracać się	spacerować	0.9855790343656418
+ślizgać się	przyjść	0.988857408865071
+stąpać	zostać	1.05312389826173
+wdrapywać się	ewakuować się	0.7394119817622482
+skoczyć	kłaniać się	1.0067722485494954
+wyjechać	odejść	1.1625342268453698
+skradać się	skakać	0.9849141264889971
+sunąć	spaść	0.5509909031707819
+kołysać się	gonić	1.1780663532364484
+skoczyć	ewakuować się	1.0228841574759626
+odskoczyć	huśtać się	0.8908874425904851
+ruszać się	jechać	0.921694731919203
+drałować	huśtać się	0.9692528497796619
+czekać	wędrować	0.9557507895914453
+latać	poślizgnąć się	0.7692267488723851
+ewakuować się	podskakiwać	0.900368530689773
+drałować	osiąść	1.0282821046641109
+umykać	rzucać się	0.8929511863490665
+wędrować	śpieszyć	0.9739969989364864
+błądzić	krążyć	0.9669106510636108
+przeskoczyć	płynąć	0.9538264253723066
+wyjechać	przyjść	1.1594958351113236
+zatrzymywać się	wznieść się	0.9346255564218656
+wiać	siedzieć	1.1524778353256622
+wyruszyć	śpieszyć się	1.3951325738234963
+podskakiwać	przekraczać	1.1105979722035175
+uchylać się	spadać	0.8942331535697045
+zanurzać się	wiać	0.9634179443228172
+opuszczać	wchodzić	0.972067080277591
+spaść	uciekać	0.7017229701570796
+powracać	przechodzić	0.8178354195228545
+nurkować	przekraczać	1.0670104494029198
+krążyć	schodzić	1.025787271379787
+odbić się	czekać	1.027973758347291
+odbić się	pędzić	1.1803587563682993
+drałować	unosić się	0.9279615100468798
+powracać	wędrować	1.1941778731841926
+potknąć się	zanurzać się	0.8004155446487494
+klęczeć	potknąć się	1.1541572812061174
+poślizgnąć się	ślizgać się	0.5515406307950306
+rozsiadać się	rozpraszać się	1.1114192696654472
+wspinać się	przeskoczyć	0.8859457614932819
+podskakiwać	krążyć	1.1116323389323985
+włóczyć się	śpieszyć	0.988003479671129
+dryfować	włóczyć się	1.2086744579679174
+ewakuować się	dryfować	1.0461398270135869
+opuszczać	siedzieć	1.0724070489863284
+skakać	przyjść	1.0504400209717975
+powłóczyć nogami	płynąć	1.162410911931952
+przybyć	tropić	1.3541854484140377
+kołysać się	opuszczać	1.1655369281370849
+odskoczyć	wchodzić	1.0715391913189725
+unosić się	kłaniać się	0.9154529110677421
+powracać	tropić	1.067209747854461
+opuszczać	dryfować	1.3165904846124266
+poślizgnąć się	pływać	0.9513366575600323
+gonić	biegać	0.6398098440987328
+wić się	przesunąć się	1.0630529791932626
+przeskoczyć	przekraczać	1.1829330475830282
+szamotać się	opuszczać	0.8267070165117826
+śpieszyć	stąpać	0.9387314437017615
+szamotać się	skakać	1.0951914663383824
+uciekać	jechać	0.9199906051861484
+chodzić	spacerować	0.4566380103922751
+wędrować	śledzić	1.1064821893481223
+wspinać się	czekać	0.9966600575705491
+huśtać się	wyjechać	0.881684063313813
+rzucać się	czołgać się	0.9379310674014046
+drałować	klęczeć	0.9585253488756297
+wspinać się	powłóczyć nogami	1.1139735777269248
+wspinać się	unosić się	0.760109362871083
+zatrzymywać się	powłóczyć nogami	0.7360475014156412
+szamotać się	utykać	0.883457410846409
+przybyć	powracać	0.8495971339383003
+krążyć	obracać się	0.6620208809456465
+poślizgnąć się	siedzieć	1.0559797114004073
+kłaniać się	chodzić	1.236452156331791
+skradać się	klęczeć	0.9081768437122004
+biec	osiąść	1.1221727913978805
+osiąść	powłóczyć nogami	0.8866505356855137
+wdrapywać się	śpieszyć się	0.7031259659067687
+chodzić	biegać	0.7769264907575244
+nurkować	potknąć się	0.8536641724368907
+przekraczać	umykać	0.8146232158962043
+podskakiwać	siedzieć	0.8977614236452895
+przekraczać	powracać	0.7462590928506516
+utykać	ruszać się	0.9415860435497828
+przechodzić	ruszać się	0.5737351650393215
+zanurzać się	śpieszyć się	0.996543719931281
+ślizgać się	podchodzić	0.8832373807664464
+udawać się	wznieść się	0.7649506347665366
+jechać	płynąć	0.9024141920831199
+potknąć się	rozsiadać się	1.0859853156265113
+ewakuować się	szybować	0.7331927230769499
+umykać	skręcać	1.0075932066720654
+wznieść się	wyruszyć	0.9204554202385504
+stąpać	kołysać się	1.148521573211036
+drałować	spadać	0.7992402053867376
+wić się	powłóczyć nogami	0.9571013236815908
+tańczyć	skręcać	1.085638924944404
+śledzić	podskakiwać	1.1089971871668287
+wędrować	pochylać się	1.1922545398449824
+krążyć	podnosić się	0.8571879081817697
+odskoczyć	krążyć	0.9941796529082
+ślizgać się	opuszczać	0.7742594661383171
+stać	obracać się	1.21986416333677
+przekraczać	przyjść	0.9387137751151192
+unosić się	tonąć	1.3717419201664818
+nurkować	czekać	1.2796614716654997
+uchylać się	sunąć	0.8762458910673716
+pozostawać	kołysać się	1.1967608784279822
+zostać	skręcać	1.0783003878893933
+utykać	podchodzić	1.020089719136155
+latać	powracać	0.8627423434607024
+szybować	chodzić	1.0195595883979203
+potknąć się	przesunąć	0.9911211694568385
+iść	ruszać się	0.46267809230426604
+pochylać się	huśtać się	0.7824412772809756
+zostać	tropić	1.1653779054969993
+obracać się	zostać	1.2438464200135637
+biec	gonić	0.6938270689783397
+płynąć	czołgać się	1.1716792787269448
+skakać	odbić się	0.6173509664003705
+osiąść	przesunąć się	1.0624619497629095
+skręcać	klęczeć	0.9851512545276311
+poślizgnąć się	szamotać się	0.9632709874465234
+jechać	wić się	1.2273402437793586
+spacerować	pędzić	0.9845043625121168
+tropić	krążyć	1.1433198763512
+krążyć	przybyć	1.2134728024084627
+stąpać	wyruszyć	1.1748042317640561
+klęczeć	krążyć	0.9470845466383182
+przybyć	osiąść	0.976897704233889
+gonić	latać	1.0130376072390062
+ruszać się	postępować	0.5592265438075822
+sunąć	dryfować	0.9917334121431609
+dryfować	unosić się	0.7053480599796004
+wyjechać	spacerować	0.9989682022918709
+przesunąć się	pływać	1.0753618729524377
+gonić	huśtać się	0.9106718992818622
+rzucać się	płynąć	0.7864301139504963
+przybyć	potknąć się	1.0784449324942864
+czekać	dryfować	1.2053775706520333
+biec	włóczyć się	1.025300991981178
+spacerować	podnosić się	1.1068126748240243
+pływać	klęczeć	0.9003448280203082
+wspinać się	włóczyć się	1.1159718494740138
+odskoczyć	tropić	1.0841766166223064
+skradać się	gonić	0.9320658898526225
+zatrzymywać się	przekraczać	1.114682138786539
+zanurzać się	powłóczyć nogami	1.0974015994639381
+wyruszyć	rzucać się	1.0454927313690885
+wić się	skoczyć	1.1382598592594886
+odskoczyć	osiąść	0.9372816209358439
+przesunąć się	wdrapywać się	0.8663543877659016
+wić się	wznieść się	1.0902746866816877
+skakać	wiać	1.0302963886153533
+kłaniać się	skakać	1.0812073083587908
+przechodzić	latać	1.0349655903767017
+ewakuować się	przechodzić	0.8322212645338295
+krążyć	powracać	1.0522766747850076
+śledzić	nurkować	1.2281191887753458
+skradać się	wiać	1.0957554540932755
+rozpraszać się	wędrować	1.1394533003474512
+śpieszyć się	skoczyć	0.9554696702471109
+krążyć	czekać	1.1454906884195437
+pędzić	tańczyć	1.0311619941725878
+postępować	odbić się	1.1674886696671902
+podchodzić	drałować	1.0864909977737613
+spadać	powracać	0.8189931260299131
+chodzić	skręcać	0.8887830726149352
+chodzić	ewakuować się	0.8641537991946763
+wchodzić	nurkować	1.3831038538475469
+szamotać się	wić się	0.8606066668713632
+unosić się	czekać	0.670279340353187
+czekać	włóczyć się	1.0781047535392132
+wiać	wznieść się	0.759193306786401
+biec	wdrapywać się	1.047997923648053
+skakać	stać	1.0295213963264904
+postępować	przekraczać	0.7867906743526647
+biec	utykać	1.010773732335137
+błądzić	jechać	1.3629728064268343
+skoczyć	udawać się	1.1713716405075858
+jechać	klęczeć	0.9671607591446619
+powracać	tańczyć	1.185064187375858
+latać	stąpać	0.8786295023048192
+zatrzymywać się	ślizgać się	0.870779710808844
+powłóczyć nogami	podskakiwać	1.2472954536700285
+śpieszyć się	błądzić	1.1963675999947927
+odbić się	odskoczyć	0.48766337393954806
+kołysać się	osiąść	1.086336378059819
+podnosić się	włóczyć się	1.2170283959108794
+drałować	powłóczyć nogami	0.9384107151653522
+szamotać się	rozsiadać się	1.1371051084695925
+skakać	pędzić	1.067494648576579
+szamotać się	stąpać	0.863345139908088
+klęczeć	utykać	1.0462363335700415
+włóczyć się	podróżować	1.2504952908449187
+skakać	przekraczać	1.1449526652236228
+ewakuować się	wchodzić	0.8935665731173671
+płynąć	śpieszyć	1.2833162182862283
+podnosić się	rozpraszać się	0.8622739128902792
+huśtać się	iść	0.9785000534680771
+kłaniać się	rozsiadać się	1.1437967054038543
+krążyć	przechodzić	0.8782083816720855
+jeździć	opuszczać	1.0585714937450468
+skręcać	wiać	0.9846243365111148
+przeskoczyć	szamotać się	1.1698524059101896
+przekraczać	iść	0.9422266189026239
+utykać	obracać się	0.9561043719351388
+jeździć	krążyć	1.1498538101052975
+wspinać się	śledzić	1.1131804611008058
+jeździć	przesunąć się	1.171418108833292
+wznieść się	opuszczać	0.9077305054136965
+gonić	poślizgnąć się	0.8242307178943069
+rozsiadać się	chodzić	0.9167699038848657
+postępować	wić się	0.9665216482522059
+błądzić	ruszać się	0.8438235416151959
+czekać	kołysać się	1.333319174042302
+skradać się	obracać się	1.2892286924785246
+unosić się	rozsiadać się	0.8142285006055442
+przechodzić	nurkować	0.9781594271210099
+osiąść	iść	1.0883968975862812
+pozostawać	kłaniać się	1.155135661055495
+podchodzić	spacerować	0.7850762781809602
+wiać	podskakiwać	1.0861646460781909
+spaść	tropić	0.7423058579329816
+iść	zatrzymywać się	0.6782695739462695
+kołysać się	podróżować	0.9539120506177827
+skakać	wyjechać	1.166126546523743
+poślizgnąć się	włóczyć się	1.2415103290100977
+uciekać	przyjść	1.104063555373271
+śpieszyć się	spaść	0.9346199419822935
+pochylać się	odbić się	1.0645466045906304
+wznieść się	rozpraszać się	0.8379705958951358
+siedzieć	jechać	1.2162066453534432
+wyjechać	siedzieć	1.1410522752486854
+wspinać się	tropić	1.0486830887094603
+dryfować	zanurzać się	0.752537511175875
+podnosić się	gonić	0.8805745829223736
+dryfować	odskoczyć	0.8656681475375507
+powłóczyć nogami	odbić się	1.3701354318763022
+udawać się	jechać	1.201830282388968
+czekać	ewakuować się	0.8589730411436032
+wchodzić	odejść	0.9811835210024129
+kołysać się	sunąć	0.9218109391565302
+przesunąć się	spaść	0.8055072414309568
+tańczyć	nurkować	0.8140865502224282
+jeździć	przekraczać	0.9487231092267971
+pozostawać	rozpraszać się	1.0921981553684699
+wycofać się	obracać się	1.0534565103738653
+rozsiadać się	sunąć	1.1632425708652947
+błądzić	skręcać	1.0621558026573092
+przybyć	spacerować	0.8798949562285334
+huśtać się	stąpać	1.0693945707985697
+uchylać się	jechać	1.0823067216658395
+spaść	klęczeć	1.0009260910996776
+szybować	biegać	0.980058970266426
+pędzić	wyruszyć	1.1028918242446464
+wdrapywać się	dryfować	1.025220402549374
+przesunąć się	przesunąć	0.4478709902230011
+biegać	zanurzać się	0.9743419941560647
+sunąć	osiąść	1.2240151155767138
+skradać się	śpieszyć	0.8660168593281536
+sunąć	chodzić	1.0120251175225539
+wyjechać	gonić	0.7529662383080814
+skakać	przechodzić	1.0115667735434164
+podchodzić	wdrapywać się	0.6625468655876575
+wchodzić	biec	0.9914104967039835
+tonąć	pochylać się	1.0019653814024965
+klęczeć	ewakuować się	0.9123607447867892
+wycofać się	latać	0.8304063471705901
+gonić	rzucać się	0.8979886682816518
+klęczeć	zostać	1.0086125586626347
+wyruszyć	przesunąć	1.2601786360795588
+drałować	opuszczać	0.9673192418479911
+wdrapywać się	osiąść	1.1933081919750457
+czekać	tropić	1.0495661932718456
+przesunąć	wspinać się	0.9959337579026464
+przybyć	opuszczać	0.8837548242469155
+wyjechać	tańczyć	0.979911665902994
+tropić	unosić się	1.0783168071947853
+wdrapywać się	zanurzać się	1.19182578056871
+spadać	gonić	0.7245163721193776
+wędrować	tonąć	1.3839679460554457
+latać	biec	1.0530910928522432
+wędrować	biegać	0.92501659063396
+nurkować	powracać	1.2678454698200252
+śpieszyć się	chodzić	1.0342548455621252
+poślizgnąć się	wspinać się	0.8336510655586957
+wycofać się	skakać	0.9297761481845704
+pływać	szybować	1.1862182684188471
+skakać	sunąć	0.8137583382733866
+podróżować	wędrować	0.8801114466567974
+biegać	krążyć	1.040960473633761
+szybować	płynąć	1.0825683843345
+wycofać się	pochylać się	1.2915628490266187
+biec	ślizgać się	0.9802091513629878
+potknąć się	wdrapywać się	0.8327092444887759
+błądzić	utykać	1.1258561535416458
+biec	chodzić	0.8050473389667042
+wdrapywać się	czekać	1.0461735793548392
+poślizgnąć się	zanurzać się	0.8995724978368544
+iść	szybować	0.9485124362536557
+stać	spacerować	0.7416276324513503
+unosić się	wędrować	0.8890398283694241
+potknąć się	siedzieć	1.1853514308843784
+obracać się	rozsiadać się	1.0340076886701366
+sunąć	pozostawać	1.0332937208052124
+obracać się	przechodzić	0.9686718984924705
+rzucać się	przesunąć się	0.820881623012483
+pozostawać	wędrować	0.9758830119114569
+udawać się	krążyć	1.047754641695874
+kołysać się	klęczeć	0.9636558028405242
+przechodzić	spadać	0.8471311614214445
+wdrapywać się	latać	0.7249411379183341
+biec	skręcać	1.0618258408753545
+przyjść	płynąć	1.144680151389591
+nurkować	przesunąć	1.0623206642048724
+skoczyć	tropić	1.086578305328383
+odbić się	drałować	1.0601752947187133
+pochylać się	poślizgnąć się	0.8491402626057658
+szybować	wdrapywać się	0.6251565519432506
+wznieść się	odejść	0.789429406652772
+wić się	przesunąć	1.062538289013586
+przeskoczyć	poślizgnąć się	0.8905655810559484
+jechać	skradać się	0.9657084742132512
+przeskoczyć	ślizgać się	0.9062657773076014
+biec	rozpraszać się	0.8439846201184938
+odbić się	opuszczać	1.1214681595482865
+chodzić	przesunąć się	1.1027081382605866
+zanurzać się	pędzić	1.1197814944749567
+włóczyć się	umykać	0.9976071760306365
+kłaniać się	czekać	1.273931186529796
+kołysać się	podskakiwać	0.8329825979386106
+zatrzymywać się	unosić się	0.7786758385151731
+pływać	tańczyć	1.0152085353101599
+gonić	wiać	0.7427258311885081
+utykać	zanurzać się	0.9617049436996636
+zostać	biec	1.0507522879121693
+iść	wycofać się	1.0314979786667604
+spaść	wiać	0.858249647459372
+odejść	szybować	0.826868117248689
+drałować	uciekać	0.7623184886500225
+skakać	przybyć	1.0512378613939415
+iść	ślizgać się	1.1185074821088443
+zatrzymywać się	pozostawać	0.37440345250974716
+tropić	wdrapywać się	0.9299576815413858
+odbić się	biec	1.2746703638974082
+drałować	ruszać się	0.8152928300377048
+spacerować	wić się	0.7195415399646113
+przekraczać	wchodzić	1.0548668905204857
+wiać	potknąć się	0.6742907927715256
+unosić się	zostać	0.8930719858329066
+wspinać się	pozostawać	1.272014672984932
+tropić	podchodzić	0.9880015783811767
+powłóczyć nogami	umykać	1.0066622569598649
+śpieszyć	powracać	0.9342530395071983
+czekać	spadać	0.9440838090494866
+stąpać	przeskoczyć	1.0101269888769104
+stąpać	śledzić	0.8159298199747232
+schodzić	podróżować	1.1529164544880999
+opuszczać	skoczyć	0.99166629229717
+błądzić	rozsiadać się	1.0249123357433176
+skręcać	stać	0.9996102729409968
+śledzić	ruszać się	0.7989953311724739
+czekać	biec	1.0008724038418384
+powracać	ewakuować się	0.7382342078134941
+iść	wznieść się	1.0029893784012602
+skoczyć	sunąć	0.8176508269276241
+wić się	odbić się	1.224649175782035
+umykać	spaść	0.609156769038
+przesunąć	wznieść się	0.9810472290397572
+siedzieć	przekraczać	1.4181792686142636
+pędzić	schodzić	0.9361232509380663
+włóczyć się	wchodzić	1.022889586649108
+przeskoczyć	podnosić się	1.0015015166397925
+szamotać się	jechać	0.8435283292100706
+biec	śledzić	1.0076701123560232
+stać	śpieszyć	1.0074117867596302
+przybyć	zanurzać się	1.292139097089533
+uciekać	stać	0.8434358017874934
+powłóczyć nogami	kłaniać się	1.2809398061723858
+śledzić	wycofać się	1.0350149409935538
+rzucać się	skakać	0.8352317753790803
+tropić	przekraczać	0.8245076627074367
+stać	zatrzymywać się	0.5535901487536699
+poślizgnąć się	spacerować	1.1342798538745598
+iść	siedzieć	0.8989534194481146
+rzucać się	skradać się	0.9820526125956852
+wspinać się	odejść	0.8717695199641174
+wchodzić	szybować	0.9920955216414068
+pływać	wchodzić	1.2558113469621441
+błądzić	wyjechać	1.129477708375657
+wspinać się	przybyć	0.9397154082335873
+pochylać się	jeździć	1.1865539783510495
+podnosić się	biegać	0.8733852906737339
+kłaniać się	wiać	0.86561808037958
+tonąć	stać	1.3400792081151618
+wycofać się	przyjść	0.9727510487917279
+szybować	wędrować	1.2286212301469674
+śpieszyć	rozsiadać się	0.9949019228668752
+sunąć	biegać	0.6323004652364381
+latać	płynąć	1.0334109163278957
+błądzić	pędzić	1.3173567808699786
+unosić się	nurkować	1.0580151999266638
+zatrzymywać się	rzucać się	1.020223154060799
+powłóczyć nogami	stać	0.6378125518840013
+skręcać	schodzić	0.9811115260190217
+zanurzać się	udawać się	1.286865510469171
+szybować	podchodzić	0.7290250831672791
+jechać	powłóczyć nogami	1.21240471280807
+umykać	opuszczać	0.5950901760046207
+śpieszyć się	krążyć	1.2892003402332108
+rozpraszać się	huśtać się	0.8272964653671837
+spadać	spacerować	0.8869202236791112
+podskakiwać	stać	1.1091709700366048
+biegać	stać	1.0276836920680104
+stać	zostać	0.6990585031640574
+płynąć	wyjechać	1.1935511241214916
+podróżować	dryfować	1.0222702122388307
+nurkować	zatrzymywać się	1.1446737918932695
+pływać	chodzić	1.2138150485984551
+skakać	stąpać	0.8724628019096972
+płynąć	osiąść	1.0596542977414898
+uciekać	tropić	0.6288043909070464
+jechać	wiać	0.9460133479472372
+stąpać	uciekać	0.8706817029081935
+przyjść	podskakiwać	0.9516486788399431
+przesunąć się	wędrować	1.183553890426146
+gonić	pozostawać	1.1998943619687639
+opuszczać	włóczyć się	0.9991973212399906
+wznieść się	przeskoczyć	0.7277726347171901
+udawać się	stać	0.9395151120889693
+unosić się	postępować	0.9488311918810437
+chodzić	huśtać się	1.068553523787387
+błądzić	przyjść	1.0967082707304496
+chodzić	przekraczać	0.9503798042700264
+płynąć	tonąć	0.9592148250711597
+chodzić	wić się	0.9762600076171133
+odskoczyć	opuszczać	0.871643191097978
+pływać	powracać	1.434037839939757
+iść	biec	0.7146293389911803
+płynąć	włóczyć się	1.2056824371376438
+śpieszyć się	uchylać się	0.9203360813247757
+odejść	wiać	0.9868927983931853
+powracać	zanurzać się	1.2386770463642833
+podskakiwać	drałować	0.8440907439590941
+rozsiadać się	pływać	1.09986812646371
+spadać	płynąć	1.0953360756566528
+uciekać	wchodzić	1.0452841685085612
+podnosić się	osiąść	1.057626210168181
+rzucać się	wyjechać	1.0794344746342854
+wchodzić	wznieść się	0.9241075683644456
+szybować	rozpraszać się	0.8670996363372998
+iść	rzucać się	0.9353285994773173
+kłaniać się	poślizgnąć się	0.8061898234541975
+przesunąć się	podchodzić	0.8747901785126508
+chodzić	przyjść	0.8972807831815383
+śpieszyć	skręcać	1.02283721810215
+unosić się	wycofać się	1.0660444705759409
+latać	uchylać się	0.7118062603136401
+obracać się	wiać	1.0118615454094826
+podskakiwać	sunąć	0.7646678899868072
+uciekać	skręcać	0.8961471226357821
+wędrować	huśtać się	1.0116290874666483
+tańczyć	udawać się	1.1742356571056431
+tonąć	pędzić	1.2144319504976882
+jechać	pozostawać	1.035337213165601
+spadać	szybować	0.7556087478696853
+wyruszyć	latać	0.8271372281377445
+osiąść	czołgać się	0.9660314018144466
+przesunąć	obracać się	0.7242440025568165
+jechać	kłaniać się	0.8342281543982959
+przyjść	odbić się	1.1932926428803257
+jeździć	spadać	0.9550740646471684
+zatrzymywać się	gonić	1.1053563362181829
+śpieszyć	podskakiwać	0.8906512435052143
+klęczeć	przesunąć się	1.0099463329467606
+ruszać się	spacerować	0.5401057822370746
+spaść	wędrować	0.9171631027789423
+szybować	krążyć	1.0750873397493383
+kołysać się	zanurzać się	0.8134444115234117
+dryfować	krążyć	1.03116911111996
+rzucać się	podnosić się	0.9001900948616588
+jechać	skakać	0.8441809762120486
+błądzić	wędrować	1.009470731426009
+opuszczać	ruszać się	0.8496533575118912
+obracać się	huśtać się	0.8723909099249297
+przesunąć	latać	0.9809425859528239
+wędrować	iść	0.7505507365125416
+jechać	biegać	0.7755479405831804
+tonąć	pływać	1.0009388873560954
+obracać się	biec	1.119049943670212
+zatrzymywać się	rozsiadać się	0.7359101146678334
+nurkować	wznieść się	1.244290851373135
+wić się	sunąć	0.9944895599256297
+wznieść się	odskoczyć	0.7752481186717556
+przechodzić	gonić	0.9283380495307952
+spaść	dryfować	1.016029547413014
+biegać	powłóczyć nogami	0.9269113206677407
+skradać się	podróżować	1.2659571579847266
+rzucać się	dryfować	0.773633511773636
+ruszać się	kłaniać się	0.9985359420091768
+wyjechać	wznieść się	1.1000863637748648
+schodzić	osiąść	1.1255539732141426
+siedzieć	kłaniać się	1.119366649092326
+chodzić	podskakiwać	1.1552121195808462
+śledzić	spaść	0.7511707231290918
+śpieszyć	ruszać się	0.8693548051727001
+obracać się	unosić się	0.8647474893674861
+ewakuować się	krążyć	0.8777688069002638
+wdrapywać się	stać	0.9998497394009085
+powłóczyć nogami	zostać	1.0607862414975666
+pędzić	poślizgnąć się	0.8045137409082643
+iść	zanurzać się	1.1248455359162157
+zanurzać się	wyjechać	1.1877972205474305
+uciekać	unosić się	0.9925342905790485
+klęczeć	wyruszyć	1.283530402813537
+utykać	odejść	0.9353555743337906
+powłóczyć nogami	wdrapywać się	1.0809282878622184
+wędrować	płynąć	1.1240482181567313
+umykać	uciekać	0.2680728112276353
+płynąć	spaść	1.1204979785415214
+huśtać się	biec	0.76703746272213
+przesunąć	śpieszyć	1.0101247983601684
+iść	stąpać	0.9163814902693136
+wchodzić	rozsiadać się	0.9579551600417832
+powłóczyć nogami	siedzieć	0.8747665854925034
+tonąć	odejść	1.44516318269951
+błądzić	pochylać się	1.1083204392065074
+szamotać się	wznieść się	0.952157403090548
+stąpać	osiąść	0.9337526795023846
+przybyć	zatrzymywać się	0.7962032263998619
+sunąć	krążyć	0.945071601694071
+śledzić	stać	0.8735981357612254
+tropić	przyjść	1.2927627294618345
+tańczyć	uciekać	1.0586872404130518
+rozpraszać się	skręcać	1.0365914439190935
+czekać	tonąć	1.313432129158509
+pozostawać	zanurzać się	1.3522804858729656
+wycofać się	wchodzić	0.997071552444306
+pochylać się	płynąć	0.7274617223165912
+latać	drałować	0.7790598539750881
+czołgać się	tańczyć	1.0448690597635841
+jechać	wdrapywać się	0.9188965436483225
+wić się	klęczeć	1.145442501433933
+ruszać się	powracać	0.9795014960266556
+śpieszyć	spacerować	1.0276709950031684
+czołgać się	udawać się	1.1564399078347496
+czekać	udawać się	1.0915242225176527
+ruszać się	czekać	0.8773943618318457
+spacerować	opuszczać	0.9891070198300322
+kołysać się	ślizgać się	0.9001801852782756
+skręcać	wycofać się	0.9234273993751685
+przyjść	postępować	0.9498658293032605
+jeździć	zatrzymywać się	1.0607519362002555
+tańczyć	skakać	1.1201982840827742
+spacerować	tonąć	1.0420932070101145
+klęczeć	uciekać	0.9627453693283853
+biec	skradać się	1.0675503284159076
+wdrapywać się	krążyć	0.9681596526140839
+rozpraszać się	włóczyć się	0.979828735409998
+wędrować	odbić się	1.324607808041084
+wchodzić	czekać	0.828276779357246
+pływać	ślizgać się	0.9669786226189131
+śledzić	opuszczać	0.851557030933345
+powracać	schodzić	0.6128808908947101
+drałować	jeździć	0.8445676654509543
+wchodzić	powracać	1.042870470121915
+podskakiwać	czekać	1.0802943175000348
+śledzić	podnosić się	1.276006639701139
+tonąć	powracać	1.364412325562505
+powracać	przyjść	0.8710423983134661
+osiąść	wyruszyć	1.1275379810642963
+rozpraszać się	zatrzymywać się	0.8704324331628173
+biec	zanurzać się	1.1101267561009325
+krążyć	iść	0.980885830976627
+płynąć	biec	1.1837643056471303
+skręcać	ślizgać się	0.8553161309130092
+zostać	drałować	1.2984213099639614
+powłóczyć nogami	wyjechać	1.2314719107055514
+podnosić się	kłaniać się	0.9023641689410133
+ślizgać się	wycofać się	0.8164237668220501
+szybować	czołgać się	0.9933748807373098
+przekraczać	przechodzić	0.8833640278765661
+uchylać się	umykać	1.1196199218651963
+skręcać	opuszczać	0.8882020129489271
+skoczyć	dryfować	0.8627797518811927
+przesunąć	przechodzić	0.7254295433848902
+ruszać się	potknąć się	0.867717312765426
+ruszać się	powłóczyć nogami	0.5859366064734985
+sunąć	zatrzymywać się	0.9834752000495072
+obracać się	sunąć	0.8961531933796517
+śpieszyć się	wiać	0.7465786988227396
+latać	umykać	0.8747288274095752
+wspinać się	wyjechać	0.9466148147996025
+przyjść	krążyć	0.9560419154281007
+iść	unosić się	1.0169258603174045
+wycofać się	włóczyć się	1.1519340444212283
+odejść	zatrzymywać się	0.9404997695343505
+huśtać się	pozostawać	1.2741716565749273
+ślizgać się	tonąć	1.055058558102565
+wznieść się	tańczyć	0.987215447446536
+wdrapywać się	zatrzymywać się	1.0302057332956862
+wędrować	stać	0.9976221695199308
+tropić	pozostawać	1.108233426643302
+powłóczyć nogami	czołgać się	0.6034233302043328
+wspinać się	rzucać się	0.6193414553980807
+spaść	rozpraszać się	1.011192449545146
+odejść	unosić się	0.99304929818451
+ślizgać się	skoczyć	0.8375738997570059
+utykać	uchylać się	0.8357428799161754
+kłaniać się	włóczyć się	1.2943362494165613
+wiać	śledzić	0.9327170147973064
+podskakiwać	umykać	0.9118287416221154
+skradać się	przekraczać	0.9224106480938679
+huśtać się	śledzić	1.1007711905209125
+wchodzić	rzucać się	0.8785039047563014
+wchodzić	iść	0.7465771543220073
+uciekać	ślizgać się	0.7756652655787789
+pędzić	potknąć się	0.7981866417805139
+klęczeć	szamotać się	0.9720215871500056
+podskakiwać	rozpraszać się	1.051295716149784
+pozostawać	unosić się	0.859066101440317
+szamotać się	płynąć	1.0757917961073948
+poślizgnąć się	spadać	0.653265933891783
+rzucać się	chodzić	0.9260019140310087
+czekać	wiać	0.9791539812903498
+uchylać się	wchodzić	1.2095764932951436
+zatrzymywać się	skakać	0.9259180135320155
+jeździć	wchodzić	0.944908829966614
+skoczyć	wędrować	1.1500706099566904
+tropić	płynąć	1.3487209508462108
+powracać	zatrzymywać się	0.799227116981764
+postępować	umykać	0.8556636743386622
+skradać się	włóczyć się	0.8158130963866381
+unosić się	wdrapywać się	0.8565759360097338
+umykać	wchodzić	1.0418971200824032
+stać	szybować	0.9434447717396874
+rzucać się	wznieść się	0.7158204375657089
+podnosić się	umykać	1.0881251508010779
+wędrować	ruszać się	0.9123960250014519
+skradać się	śpieszyć się	0.9210452320172802
+skradać się	utykać	0.9032202650279973
+wędrować	wić się	1.0130923480661738
+rzucać się	przekraczać	0.812500806167516
+uchylać się	krążyć	0.8652538212970327
+podróżować	uciekać	1.2780025904472185
+ślizgać się	jeździć	0.8222162428570337
+opuszczać	rzucać się	0.9665255525872939
+odskoczyć	śpieszyć się	0.9346704720206065
+jechać	zatrzymywać się	0.934657194843209
+spacerować	spaść	0.8598292444552698
+odskoczyć	obracać się	0.9427252631235629
+pochylać się	osiąść	1.0576817710761603
+przesunąć się	biegać	0.8822589010670433
+huśtać się	wdrapywać się	0.7000173653262266
+potknąć się	utykać	0.772927368771833
+podchodzić	unosić się	0.9161619264550455
+wspinać się	wędrować	1.0604406103448183
+wycofać się	wić się	1.2522946067281533
+osiąść	pędzić	1.2464318116982929
+tańczyć	umykać	1.0135304307610487
+przekraczać	tańczyć	0.9523336105814235
+chodzić	podnosić się	1.2610437993459038
+skradać się	przesunąć się	1.0662799494661772
+podskakiwać	powracać	0.7548350626689017
+siedzieć	tropić	0.997808148526171
+krążyć	postępować	0.821393313294578
+płynąć	wznieść się	0.9800029035565813
+wchodzić	tańczyć	1.3211996112887314
+podskakiwać	spaść	0.7220754602278189
+osiąść	jeździć	1.2359181859752333
+umykać	wznieść się	0.893370107282807
+poślizgnąć się	przechodzić	0.8542674772633294
+włóczyć się	pływać	1.2573118473156637
+podskakiwać	tonąć	1.1434343629201864
+przeskoczyć	siedzieć	0.9880729972091101
+wić się	obracać się	1.111963359380021
+szybować	latać	0.2719354466600141
+drałować	rozsiadać się	1.0523084462578889
+gonić	dryfować	1.2658882755425396
+pozostawać	podskakiwać	0.798170330491146
+huśtać się	nurkować	0.7682752150043467
+podróżować	śpieszyć	1.104442949924887
+wznieść się	przekraczać	0.8928193166924996
+wznieść się	jechać	0.8128693248257098
+latać	przeskoczyć	0.8583396950044028
+osiąść	obracać się	0.9197917830567148
+pozostawać	jeździć	1.193427273273168
+postępować	udawać się	0.8663238287035603
+powracać	zostać	1.0077219444001715
+chodzić	przeskoczyć	1.1896084842958412
+stać	płynąć	1.136757777352155
+pochylać się	ewakuować się	1.084368932705658
+tonąć	błądzić	1.2649790521470479
+skradać się	skoczyć	1.061298562770152
+śpieszyć się	zatrzymywać się	1.101239020712396
+odbić się	wspinać się	1.0110094020137206
+stąpać	skradać się	0.8283145840479786
+błądzić	schodzić	1.2235406700629463
+nurkować	ślizgać się	0.9334585941812058
+skoczyć	wycofać się	1.137789418283345
+przybyć	wycofać się	0.9600506200330373
+rzucać się	spadać	0.7654008936047335
+skoczyć	podróżować	0.9723621348829175
+poślizgnąć się	śpieszyć się	0.7797254755834955
+czołgać się	potknąć się	0.9957003985673112
+błądzić	zostać	1.2615559857034648
+odejść	rozpraszać się	0.8609442241462393
+spacerować	biec	0.8374294855802664
+rozpraszać się	skradać się	1.0226430338367272
+wznieść się	krążyć	1.0845572622761246
+spacerować	przyjść	0.9416653691411593
+gonić	wędrować	1.1070479893698768
+osiąść	przeskoczyć	0.9248442797742713
+uciekać	błądzić	1.2145793484795198
+umykać	schodzić	0.7354805191564512
+wędrować	rozsiadać się	0.9801172026202751
+wić się	zanurzać się	0.8236942376963331
+pływać	śpieszyć się	1.3173861744261963
+uciekać	huśtać się	1.1920509914164334
+dryfować	jechać	0.7648356435974019
+pozostawać	spacerować	0.8639382644187744
+przeskoczyć	opuszczać	1.03519178374421
+przybyć	biegać	0.9732028268074958
+powracać	iść	1.0239323088351027
+błądzić	szamotać się	0.9800293932338224
+stać	przesunąć się	1.1281891642279365
+nurkować	ewakuować się	1.1534315768049366
+sunąć	pływać	1.1099835074522304
+podnosić się	przekraczać	0.9637829121939282
+wycofać się	przesunąć się	0.7019012444076251
+chodzić	wchodzić	0.6873826428877414
+nurkować	zostać	1.394589986755493
+przesunąć się	ślizgać się	0.7140016225564064
+podnosić się	stać	1.262834543135159
+przeskoczyć	szybować	0.8666143567359406
+wyjechać	unosić się	1.07673700770363
+umykać	wić się	1.0574153546440574
+rozpraszać się	wyjechać	0.9713851667328561
+czołgać się	kołysać się	1.1280933394233854
+skakać	rozsiadać się	0.8436044460589033
+sunąć	pochylać się	1.1480777942896891
+śpieszyć	spadać	0.8071098575770395
+biegać	dryfować	1.0007274391147758
+poślizgnąć się	utykać	0.703056749121336
+błądzić	spaść	0.9687639598240804
+pływać	uciekać	1.198399332808087
+odejść	błądzić	1.1905815586120159
+skoczyć	utykać	0.7675752733016606
+wić się	huśtać się	0.6010256213758578
+jeździć	potknąć się	0.8776604885256786
+schodzić	uchylać się	1.007956449972252
+zostać	tańczyć	1.319153658745625
+latać	wznieść się	0.3678756207983633
+skoczyć	drałować	0.8882438318257653
+podchodzić	uciekać	0.8054654668548543
+biec	umykać	0.912610483851328
+rzucać się	tropić	0.9954403531486415
+stąpać	pochylać się	1.1766017147396548
+opuszczać	śpieszyć się	0.9854552790429546
+skoczyć	iść	1.187106481182539
+spacerować	skoczyć	1.122688724127017
+tonąć	kołysać się	0.949011055972285
+spadać	utykać	0.7603688831684647
+kołysać się	krążyć	0.9750454612078243
+biegać	kołysać się	0.8234264890169279
+siedzieć	klęczeć	0.5352597934413084
+szamotać się	czołgać się	1.1087729153008137
+udawać się	klęczeć	1.4057463367323288
+ślizgać się	chodzić	1.0380692047440065
+udawać się	skradać się	1.2404177726984564
+czołgać się	uciekać	0.9353007864276305
+potknąć się	skoczyć	0.8442266630985482
+przeskoczyć	tonąć	1.1286750794799063
+utykać	śpieszyć	0.8225908420555814
+skakać	czekać	1.0550773842881818
+podskakiwać	jechać	0.7421418174953217
+iść	czekać	0.803344931317876
+śledzić	przyjść	1.273424109871063
+biec	siedzieć	0.972420185988709
+wznieść się	postępować	0.9987414064152561
+uciekać	zanurzać się	1.0782695263352273
+poślizgnąć się	śpieszyć	0.717521843327859
+iść	przybyć	1.178413797554218
+powracać	jeździć	1.059557889164463
+skradać się	spadać	0.8096465018969955
+stąpać	tonąć	1.3371976103212213
+kłaniać się	zostać	1.309967312954284
+pływać	wędrować	1.169656701737235
+podróżować	przekraczać	1.206946639176687
+śpieszyć się	powracać	0.9076298874321455
+zanurzać się	szamotać się	0.9786530014065006
+spaść	biegać	0.7855346692333289
+podnosić się	powłóczyć nogami	1.2617928234293618
+klęczeć	spadać	0.9156494487581985
+nurkować	wyjechać	1.189901025648128
+stać	przyjść	0.9930098281255186
+spadać	latać	0.7770965623673713
+szybować	rozsiadać się	1.11046656385136
+kołysać się	szybować	0.9727141458201796
+zatrzymywać się	latać	0.9507531667430185
+podróżować	błądzić	1.1867142701315831
+osiąść	błądzić	0.9840869386571168
+wyruszyć	przechodzić	1.0961054257780303
+uciekać	szamotać się	1.0199226285218437
+gonić	utykać	0.8167728983729018
+siedzieć	przyjść	0.9419763347805727
+wznieść się	pędzić	0.9311051392678389
+zostać	biegać	1.0591890995269717
+biegać	kłaniać się	0.9330420380516562
+śpieszyć	przeskoczyć	0.9748486268236422
+odbić się	podchodzić	1.1361048542871164
+wyjechać	udawać się	1.1293299044519145
+skakać	udawać się	1.2045939127794925
+przechodzić	pływać	1.1705633496353178
+zanurzać się	ruszać się	0.9899685217418893
+podnosić się	postępować	0.9981745839003169
+przechodzić	zostać	1.1382619282417046
+wchodzić	powłóczyć nogami	1.0221837603919794
+postępować	przybyć	0.8712459988371384
+biegać	ślizgać się	0.7334604289642581
+unosić się	stać	0.8770121769745142
+obracać się	spadać	0.8292727351591539
+pochylać się	przyjść	1.210889334672122
+szamotać się	włóczyć się	0.8738380910391591
+czołgać się	biec	0.9642741661144127
+obracać się	podchodzić	0.978052237422891
+ewakuować się	ślizgać się	0.6809137301726196
+ślizgać się	krążyć	0.9060603661434936
+schodzić	spadać	0.770003934875455
+gonić	jeździć	0.7199126381634905
+wiać	rzucać się	0.7582801352054295
+utykać	siedzieć	1.0472822500402414
+szamotać się	pędzić	0.6897255558586177
+śpieszyć się	szamotać się	0.7748457424291577
+wspinać się	wycofać się	0.8354863982971178
+schodzić	ewakuować się	0.7090497546326716
+biec	rozsiadać się	0.9267535317948816
+zostać	szamotać się	1.1272986529652658
+chodzić	skakać	1.1224441786754973
+przesunąć się	odbić się	0.9588194971809236
+podskakiwać	klęczeć	0.8729853038219035
+czołgać się	uchylać się	1.2627875698123496
+ślizgać się	wyruszyć	1.0673454874431754
+uchylać się	spacerować	1.0416852915949317
+wycofać się	chodzić	1.1968498244350123
+wędrować	podnosić się	1.2084519735381205
+tańczyć	przesunąć się	0.9943978141206065
+podchodzić	krążyć	0.7646807886759395
+latać	kłaniać się	0.8383451896200181
+wyjechać	powracać	1.105593077905203
+przyjść	drałować	1.1798874053621424
+gonić	powłóczyć nogami	1.0491883188252484
+przechodzić	kołysać się	0.8017170230463834
+ruszać się	osiąść	0.9665998930957966
+kłaniać się	utykać	1.1565735489976983
+spaść	czekać	0.9236672334468374
+odejść	spacerować	0.9638528873219883
+śpieszyć	huśtać się	0.7844311591039955
+spaść	uchylać się	1.0200468639601405
+przesunąć	śledzić	1.1617354922275394
+błądzić	śpieszyć	1.0432904702209815
+gonić	odejść	0.9442191934327026
+śledzić	dryfować	1.3743485542174776
+jeździć	obracać się	1.1516626424286724
+utykać	ślizgać się	0.9042293836475773
+pozostawać	potknąć się	1.3221911116212985
+opuszczać	gonić	0.8547817225064881
+podróżować	przesunąć się	0.9924274826786958
+dryfować	obracać się	0.7801923522570386
+szybować	przyjść	0.7919162408572271
+chodzić	skoczyć	1.1543073993899613
+obracać się	poślizgnąć się	0.7706831792054168
+płynąć	chodzić	1.1737572749907268
+tańczyć	rzucać się	0.9544371495948644
+opuszczać	pływać	1.4089473418589855
+pozostawać	śledzić	1.1420598876405117
+chodzić	spadać	0.856550807941034
+utykać	podnosić się	1.053974336427859
+wić się	udawać się	0.9107333091081593
+rozpraszać się	podróżować	1.0301220148878927
+powłóczyć nogami	jeździć	1.1544836799938216
+szamotać się	pochylać się	1.1226389723278145
+podróżować	wiać	1.2124188352878944
+stąpać	odskoczyć	0.998075988448673
+odejść	biegać	0.8839152203236595
+powracać	kołysać się	1.1564013145708218
+podchodzić	błądzić	0.9924951614508445
+pływać	płynąć	0.2572912794635516
+pędzić	kłaniać się	1.0881629531849093
+wędrować	przybyć	0.9687672980610248
+sunąć	kłaniać się	1.0018721601185807
+błądzić	stąpać	1.1189853597425248
+umykać	wspinać się	0.8824881059531565
+wdrapywać się	gonić	0.8009467974982706
+umykać	powracać	0.971264831305279
+jechać	krążyć	1.1798560275254375
+wycofać się	przechodzić	0.8960842893307271
+obracać się	tropić	1.211154907455548
+wić się	przekraczać	0.8851877609940888
+tańczyć	powłóczyć nogami	1.0680994911051238
+czekać	uciekać	0.904869492558145
+osiąść	opuszczać	1.0656388063781754
+stać	dryfować	1.146824506184463
+jechać	sunąć	0.6758219842254403
+udawać się	umykać	1.1416464010571261
+pozostawać	ruszać się	0.8727264614730929
+spacerować	huśtać się	0.9236243736739608
+rozpraszać się	uchylać się	0.8290681591756675
+spacerować	wchodzić	0.7514616706156712
+spacerować	błądzić	0.6296251181173389
+klęczeć	błądzić	0.9227810407647549
+zostać	opuszczać	1.1701665877290803
+poślizgnąć się	potknąć się	0.5565417524109094
+skręcać	skradać się	1.1332041588129789
+pozostawać	powracać	0.8653833788072898
+latać	wić się	1.0912474229129
+wędrować	kołysać się	1.1480336407358642
+osiąść	spacerować	0.8289529983911974
+spaść	przeskoczyć	0.8696911807300023
+tropić	podróżować	1.2867974469823389
+udawać się	latać	0.7804818740256693
+śpieszyć	osiąść	1.1683992644642702
+podskakiwać	odskoczyć	0.394573492834438
+kołysać się	skakać	0.8437989410919563
+przeskoczyć	włóczyć się	1.2696192567547266
+skoczyć	błądzić	1.1628549453997683
+rzucać się	włóczyć się	1.0440824208039905
+przechodzić	drałować	0.9872992067836204
+gonić	krążyć	1.2079088597085854
+przyjść	kłaniać się	1.0912855209982588
+biegać	rzucać się	0.7736155297082263
+błądzić	wyruszyć	1.1398770215755074
+siedzieć	pędzić	1.1179931280179185
+biec	spadać	0.7460347934882962
+uciekać	płynąć	1.1935601088296621
+schodzić	potknąć się	0.6401838433501259
+podskakiwać	zatrzymywać się	0.8629137099335834
+spadać	wycofać się	0.8644223285779403
+biec	stąpać	1.059269205254963
+wyjechać	spadać	0.8654882952342217
+odbić się	odejść	1.07600912944941
+biegać	skradać się	1.0835517476500198
+stąpać	siedzieć	1.0091132424252662
+podchodzić	chodzić	0.7885759293132327
+sunąć	tropić	0.8456590161016683
+skoczyć	latać	0.8913942088735427
+podchodzić	czołgać się	0.8692146749143844
+odbić się	obracać się	0.9814471894979601
+opuszczać	zanurzać się	1.2681106220282645
+przesunąć się	skoczyć	0.8672193140724224
+przesunąć się	krążyć	0.7661659466758486
+latać	spaść	0.828121384226127
+spadać	podróżować	0.9468851903300614
+unosić się	udawać się	0.8704995268357635
+czołgać się	chodzić	0.775453887434434
+przeskoczyć	podróżować	1.0459286397540135
+pozostawać	przesunąć się	0.95303279818819
+skakać	odskoczyć	0.4708156747261138
+pędzić	skradać się	0.9974730603687254
+ewakuować się	zatrzymywać się	0.8375387353465779
+pędzić	stąpać	0.9738125413820553
+tańczyć	płynąć	1.0297513208951838
+utykać	rozpraszać się	0.9958954425841464
+wyruszyć	krążyć	1.1638954337551557
+rzucać się	jechać	0.9138597914140183
+poślizgnąć się	powracać	0.92767352938889
+opuszczać	podskakiwać	0.8607565193749117
+ślizgać się	wspinać się	0.6860278165015606
+rzucać się	poślizgnąć się	0.810128020813806
+spaść	skakać	0.6600687335133928
+przesunąć się	przekraczać	0.8731859972394039
+płynąć	iść	1.3036058688123446
+tropić	skradać się	0.36122236864059887
+przybyć	tańczyć	1.2778893922944148
+jeździć	przechodzić	1.1658105581764262
+powracać	włóczyć się	1.0997584632518793
+wyruszyć	pochylać się	1.0520024113592499
+przekraczać	tonąć	1.188795419505684
+przekraczać	jechać	1.160469504289568
+czołgać się	podnosić się	1.2710611855452112
+schodzić	drałować	0.9988017633110002
+błądzić	wspinać się	1.2538922142960855
+szybować	wznieść się	0.3922869845421246
+biegać	przesunąć	0.9275051601178586
+nurkować	jeździć	1.297305901649609
+opuszczać	przesunąć	0.8665002714896236
+przesunąć	unosić się	1.056399874381088
+przesunąć się	drałować	0.8945143152604939
+ewakuować się	zostać	0.9196847861539437
+huśtać się	utykać	0.9422433327940809
+ruszać się	tańczyć	0.9097765716680288
+utykać	stąpać	0.4933020630334787
+pochylać się	przechodzić	0.9134114287364928
+wycofać się	dryfować	1.3221592622743124
+unosić się	odskoczyć	0.5607626226063297
+wspinać się	klęczeć	1.1615736599517779
+odskoczyć	wdrapywać się	0.9588630820438631
+przeskoczyć	schodzić	0.9395926563716942
+pochylać się	skoczyć	1.0207213954697916
+ruszać się	umykać	0.8768834693189198
+jechać	włóczyć się	1.2831197868283604
+śledzić	ewakuować się	0.9633501905931235
+dryfować	postępować	1.062260378229778
+obracać się	tańczyć	0.8737435559978172
+przeskoczyć	klęczeć	1.0183175112866334
+odskoczyć	powłóczyć nogami	1.210001742223597
+przybyć	biec	1.0453666795188135
+przeskoczyć	uchylać się	0.9672419695679978
+stąpać	przesunąć	0.9703611876022603
+ewakuować się	rozsiadać się	0.9449137558171112
+biec	śpieszyć	0.7185286636069439
+huśtać się	przesunąć się	1.013521314056526
+przechodzić	spaść	0.7484608558760792
+zatrzymywać się	śpieszyć	1.0340571096162936
+powracać	skoczyć	0.8782502398433769
+wyruszyć	tropić	1.237165132377302
+śpieszyć się	przesunąć się	1.1470130298107688
+uciekać	tonąć	1.2144441084859998
+zanurzać się	unosić się	0.9359936207780079
+wędrować	opuszczać	1.2239324820908093
+odbić się	uchylać się	1.0230511373983402
+płynąć	huśtać się	0.8372841111736031
+utykać	odskoczyć	0.8084525057180175
+podskakiwać	wyjechać	1.0080178848560941
+wiać	rozpraszać się	1.0406012677361316
+tańczyć	stąpać	1.3023461027167533
+podskakiwać	odbić się	0.5261761564776655
+postępować	śpieszyć się	1.139568007268202
+podskakiwać	iść	1.1781797010998916
+uciekać	latać	0.8998307021087775
+uchylać się	zostać	1.133287349315877
+podnosić się	odbić się	0.8886961483701585
+ewakuować się	odejść	0.5558153279021713
+błądzić	potknąć się	1.2633325768654726
+wiać	pędzić	0.841051836269517
+wdrapywać się	obracać się	0.896816683890891
+rzucać się	sunąć	0.8041459945969546
+tropić	tonąć	1.2654707723372856
+rzucać się	kłaniać się	0.910703035516553

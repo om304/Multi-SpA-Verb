@@ -1,0 +1,1036 @@
+Word1	Word2	Score
+dostarczać	zatrzymać	1.079078060546083
+ubezpieczyć	stracić	0.8810323960052251
+gromadzić	dodać	0.8585925315585373
+rozdawać	potrzebować	1.129480964847838
+płacić	zatrzymać	1.042082228052121
+otrzymać	kupować	0.8383940835506919
+pożyczać	targować się	1.0181986190742254
+zapewnić	zbierać	0.939105872113484
+zaopatrywać	dać	0.7890117063899692
+płacić	stracić	1.2058360743727292
+sprzedać	udzielać	0.9423478169756484
+potrzebować	dać	1.2855644998518605
+dać	handlować	0.9538322767093081
+pozbyć się	przyjąć	1.3637962325931479
+stracić	zbierać	1.2599546171847344
+stracić	gromadzić	1.2290397965082733
+potrzebować	użyczyć	0.94807017539632
+pobierać	sprzedać	1.0035930102656978
+zamieniać się	zapewnić	0.9079626645606245
+rezerwować	dać	1.1338065758115266
+płacić	dostarczać	0.7433479855613295
+zaopatrywać	zachować	0.7904763058950192
+dostać	dać	1.3168732846396953
+płacić	zachować	1.023863718148654
+posiąść	udzielać	1.1956029012024725
+zaoszczędzić	zarabiać	0.6863748380780595
+kolekcjonować	udzielać	0.8988324186094916
+stracić	przehandlować	0.8410481030869662
+dodać	otrzymać	0.7426889583138379
+handlować	nabyć	1.1645225684085816
+rezerwować	spekulować	1.1288250234780708
+udzielać	trwonić	0.7608548031108988
+zaoszczędzić	ryzykować	1.144713677290385
+potrzebować	nabyć	0.9626209454208741
+pobierać	udzielać	1.1923695247082753
+dostarczać	rezerwować	0.9866021024214745
+nabyć	targować się	1.0899880456919404
+akumulować	należeć	1.0775370915170581
+ryzykować	otrzymać	1.1566860911294095
+posiąść	stracić	1.2255856066681468
+pozbyć się	płacić	1.1158505381225259
+trwonić	kolekcjonować	0.9508148244491599
+zakładać się	kupować	1.1042206938746346
+zaopatrywać	dodać	0.7818865665426907
+pożyczać	posiadać	1.2163727281488068
+akumulować	dodać	0.8901181811158863
+dostać	akumulować	0.7110465161910983
+potrzebować	sprzedać	1.1759652824834614
+zakupić	dodać	0.6885940356901942
+otrzymać	uzyskać	0.49216674081382394
+handlować	spekulować	0.9979313144358987
+zarabiać	przyjąć	1.0495415899805816
+rozdawać	przehandlować	0.7484670093413547
+należeć	przyjąć	0.9929959078294311
+ubezpieczyć	zaoszczędzić	0.8864864453612125
+kupować	gromadzić	0.6254833059075307
+kolekcjonować	sprzedać	0.9873274899791079
+gromadzić	dostarczać	1.069281367303237
+wydawać	przyjąć	1.2715651055588773
+zamieniać się	uzyskać	1.0146643061339036
+zapewnić	wymieniać się	0.8919361738564537
+zakładać się	otrzymać	1.2211070058448117
+handlować	ubezpieczyć	1.0726599259468113
+zatrzymać	stracić	1.1735386956770952
+gromadzić	zamieniać się	0.842384288355295
+uzyskać	przyjąć	0.5457891346627403
+płacić	pożyczać	0.9874308902072984
+nabyć	kupować	0.6620802066076773
+sprzedać	posiadać	1.274060295553601
+ryzykować	zaopatrywać	1.1270793340651293
+zarabiać	zakupić	0.8569914218309709
+kupować	rozdawać	1.0818439587452198
+zaopatrywać	rezerwować	1.0915802788938316
+należeć	przehandlować	1.1185645628065466
+uzyskać	targować się	1.16706249061238
+zakładać się	rozdawać	0.9705132551680378
+posiadać	potrzebować	1.1687904522853927
+posiąść	kupować	0.6852819597513944
+posiadać	dać	1.3429980083329436
+kolekcjonować	kupować	0.6199301679003466
+gromadzić	trwonić	1.016542065705029
+uzyskać	przehandlować	0.988814830346529
+posiadać	zachować	0.7407719505250936
+przyjąć	udzielać	1.215797714030421
+przehandlować	zachować	1.0003118501286767
+zaoszczędzić	gromadzić	0.7833332688214881
+przyjąć	akumulować	0.8355302801900167
+nabyć	dodać	0.7798702239941369
+użyczyć	pożyczać	0.447194752954175
+pobierać	ubezpieczyć	1.0506987862855557
+zaoszczędzić	spekulować	0.8466543762212544
+płacić	zamieniać się	0.8471314271431678
+ryzykować	posiadać	1.3711950073031882
+zbierać	wydawać	0.8597187838018154
+sprzedać	dostarczać	0.8353360206304664
+zakładać się	pożyczać	0.7564984164569412
+zamieniać się	pobierać	1.1261404709158502
+kupować	przyjąć	0.8522144973973452
+rezerwować	zamieniać się	1.0246346631857863
+spekulować	dać	0.9802330865010833
+zapewnić	zaoszczędzić	1.116075826744144
+dodać	płacić	1.1106291511484563
+zakupić	rozdawać	0.9491105349699991
+wymieniać się	spekulować	0.8872124358092558
+posiadać	zarabiać	0.9749204977028239
+przehandlować	dodać	0.6957053721453405
+zarabiać	dostać	0.8569115896142686
+należeć	zakładać się	1.2542909148593024
+ryzykować	przyjąć	1.1876784030097394
+posiadać	wymieniać się	1.0864736453573445
+płacić	zbierać	1.0286903380099208
+akumulować	dostarczać	1.1287330290083664
+wymieniać się	udzielać	0.9750985263051737
+ryzykować	dać	0.9531562120747225
+sprzedać	zakładać się	0.9465931121738241
+rozdawać	kolekcjonować	0.9087492921315228
+zaopatrywać	dostać	0.7937055210644586
+zarabiać	otrzymać	1.1753108181275331
+targować się	rezerwować	1.23643755154565
+dać	należeć	1.178912585807178
+posiadać	użyczyć	1.1626619960190092
+ubezpieczyć	udzielać	1.1250889282753633
+wymieniać się	przyjąć	0.9646026208748161
+wymieniać się	zakładać się	1.0994616530698278
+dostać	zakupić	0.8171346113836054
+pożyczać	zamieniać się	1.070956131997418
+zatrzymać	spekulować	0.738845644011224
+handlować	sprzedać	0.6880094940499751
+przehandlować	kupować	0.8546474384188646
+kupować	mieć	0.82668089882666
+mieć	dodać	0.8507058970836191
+zakupić	gromadzić	0.6973824543165599
+mieć	użyczyć	1.1237031694077768
+zamieniać się	użyczyć	0.8032049337634222
+gromadzić	użyczyć	1.0097238743993073
+zamieniać się	targować się	0.8669484384278141
+zbierać	przehandlować	0.8694157674499946
+ryzykować	zakładać się	0.5226351484143451
+handlować	udzielać	0.9838639655303214
+pobierać	gromadzić	0.8085720046327662
+dostarczać	ryzykować	1.0578294091055545
+mieć	zbierać	0.8212213335088484
+targować się	wydawać	0.7058885043058529
+spekulować	uzyskać	1.10148319408262
+gromadzić	spekulować	0.9939529893860157
+trwonić	otrzymać	1.4080056599336805
+zachować	nabyć	0.8197244284984032
+mieć	zatrzymać	0.7350558839309188
+pozbyć się	posiąść	1.1937847362463854
+rozdawać	zatrzymać	1.155572386975593
+wymieniać się	rezerwować	1.084684214540705
+dostarczać	zakładać się	0.9825369306998912
+pożyczać	zarabiać	1.1438492955420765
+zachować	wydawać	0.9481848067000291
+dodać	wymieniać się	0.8941313407680891
+posiąść	targować się	0.9559480452575047
+zarabiać	ubezpieczyć	1.219590531950154
+posiąść	przehandlować	0.9039694015251974
+ryzykować	wydawać	0.9873927774441295
+trwonić	dostarczać	0.6497551299226746
+ryzykować	pobierać	1.2836928731083845
+dostać	przehandlować	0.9582243310797913
+sprzedać	rozdawać	0.795492222437455
+zaoszczędzić	kolekcjonować	0.8122546917186466
+należeć	kupować	0.9909516936915105
+posiąść	zaoszczędzić	0.8509835143970478
+nabyć	dać	1.2145977519735789
+mieć	stracić	1.2747336173045747
+trwonić	zamieniać się	0.8424738545857493
+dać	akumulować	1.0656249359714562
+zaoszczędzić	dodać	1.0000384038811778
+dać	udzielać	0.6559852362812834
+kupować	sprzedać	1.1504644896708343
+posiadać	mieć	0.21294546623393626
+uzyskać	dostać	0.37901036526089343
+gromadzić	targować się	0.9854782930982176
+akumulować	rozdawać	1.0249341984153966
+otrzymać	płacić	1.4120163505655543
+akumulować	płacić	0.9969020050111265
+rezerwować	udzielać	1.137992738680815
+dostarczać	posiąść	1.0628304350517188
+zarabiać	udzielać	1.0317223170459637
+posiąść	płacić	1.2806943590971969
+posiąść	dodać	0.7574457949562701
+otrzymać	należeć	1.1088770629065576
+kolekcjonować	handlować	0.8033759468893428
+rezerwować	płacić	1.0140250471896386
+mieć	potrzebować	0.9198763791041992
+uzyskać	dostarczać	1.2217020778810925
+użyczyć	rozdawać	0.6763328498702375
+zarabiać	rezerwować	1.261320728221482
+zatrzymać	pożyczać	1.094623554526394
+rezerwować	gromadzić	1.2086965809022
+dodać	zatrzymać	0.953317855322219
+pobierać	dodać	0.9170034820929033
+pobierać	zatrzymać	0.7921712330712389
+należeć	posiąść	1.1654689221450276
+trwonić	zarabiać	1.2173011096290682
+zakupić	kolekcjonować	0.7223626391371254
+pobierać	przyjąć	0.893509254779222
+wydawać	uzyskać	1.198875819190522
+zapewnić	akumulować	0.8439376832729172
+dostać	handlować	1.1232549056220906
+posiadać	stracić	1.310731994853562
+posiadać	dostarczać	1.1729171831610319
+dodać	zachować	0.9933348620529406
+zapewnić	rezerwować	0.958160306329936
+kolekcjonować	przyjąć	0.9436414238653735
+zakupić	udzielać	1.091452838462452
+zamieniać się	dostać	1.028813463293901
+stracić	kupować	1.0561057904897748
+przehandlować	posiadać	0.9517333814630403
+przyjąć	zapewnić	1.1364625208587469
+zbierać	potrzebować	1.1797858882129797
+zakładać się	zakupić	1.06796296755061
+spekulować	wydawać	0.8996143435249188
+udzielać	użyczyć	0.4261362927996757
+mieć	posiąść	0.7732773210965894
+wymieniać się	pożyczać	1.1498365530831571
+potrzebować	wymieniać się	1.0143910868358283
+zbierać	wymieniać się	0.7913297683794178
+rozdawać	posiąść	1.3590697474289823
+użyczyć	ubezpieczyć	1.0987776020939466
+zbierać	zamieniać się	0.9426990158772891
+handlować	zarabiać	1.0448085551414525
+pobierać	nabyć	1.086893789010134
+pozbyć się	mieć	1.2885416428902028
+akumulować	wydawać	0.900738447096349
+rezerwować	potrzebować	1.256631916998175
+potrzebować	dostać	0.9520919586120807
+przehandlować	rezerwować	0.9813747703021649
+zaoszczędzić	dostać	0.8355953287746629
+pożyczać	dać	0.7922829467337611
+zaoszczędzić	pożyczać	1.0728989538919638
+otrzymać	potrzebować	0.8943292499374023
+zachować	sprzedać	0.9932966485831801
+pożyczać	uzyskać	1.086330653615466
+trwonić	dać	0.6033824214767393
+akumulować	handlować	0.86676036841286
+mieć	należeć	0.8282883323796113
+zakupić	handlować	0.8679929054120016
+otrzymać	posiadać	0.8455841705606753
+dostać	nabyć	0.8080623159471326
+gromadzić	należeć	0.8481298303084903
+rozdawać	dostarczać	0.5768316551689923
+zatrzymać	trwonić	1.0458872008582119
+dostać	zakładać się	1.2793521459208674
+spekulować	ryzykować	0.7827937808110127
+akumulować	posiadać	0.6525894377858873
+zachować	gromadzić	0.49338381505649614
+trwonić	rezerwować	1.0991756838814557
+użyczyć	zatrzymać	0.8982433533667966
+akumulować	ryzykować	1.2445520486242505
+pożyczać	akumulować	1.0786346608651691
+zamieniać się	dać	0.8805179123592417
+należeć	targować się	1.1785948782409572
+zakupić	płacić	1.025547932470071
+gromadzić	zarabiać	0.815404377672907
+dostarczać	spekulować	1.165947972293576
+stracić	trwonić	0.47197414111474334
+sprzedać	targować się	0.7488178082748089
+kupować	użyczyć	1.006765425744871
+płacić	spekulować	1.0840312493115951
+zaoszczędzić	otrzymać	0.935630345308394
+przehandlować	nabyć	1.033034940330623
+targować się	udzielać	0.8476539116355596
+należeć	zapewnić	1.0392385133018875
+pobierać	zapewnić	0.9226225656166956
+zachować	zakupić	0.8086921768812146
+pożyczać	trwonić	0.8579536457731061
+płacić	uzyskać	1.2199192286427805
+mieć	płacić	1.3160704403874655
+pozbyć się	zachować	1.0625663418464426
+kolekcjonować	dostarczać	1.0134369268578916
+zamieniać się	otrzymać	1.01311100048511
+zachować	dać	1.0895864361313636
+trwonić	posiadać	1.3134671431044367
+użyczyć	zakładać się	0.7491329898326805
+ubezpieczyć	zakupić	1.076930486675675
+ubezpieczyć	zapewnić	1.2686918721558
+kolekcjonować	otrzymać	0.9671505655203139
+zachować	przyjąć	0.7148623735256692
+kolekcjonować	wymieniać się	0.859498700655855
+posiadać	ubezpieczyć	1.1676594146831094
+otrzymać	rozdawać	1.1818922045707754
+zbierać	ryzykować	1.2450569230943562
+rezerwować	zatrzymać	1.1448557735562563
+pozbyć się	dodać	1.0974128293825172
+posiadać	pobierać	0.7529647670503575
+dostać	posiąść	0.6275434334034364
+gromadzić	dać	1.039251545779477
+zatrzymać	wymieniać się	0.7961002552623979
+zaoszczędzić	należeć	1.0133923807665626
+otrzymać	użyczyć	1.081613496196325
+mieć	zakupić	0.7523456640367293
+zapewnić	stracić	1.2283187026097968
+stracić	użyczyć	0.639967472595093
+zaoszczędzić	zamieniać się	0.9549901933447179
+posiadać	udzielać	1.2733780308720934
+akumulować	zachować	0.3339269024156153
+dostać	udzielać	1.1919068086373816
+spekulować	targować się	0.7981059107310995
+zarabiać	pobierać	0.7427404557148768
+handlować	zatrzymać	0.9700480285323287
+wymieniać się	nabyć	0.9836731353844296
+stracić	nabyć	1.2341950073693162
+zakupić	wymieniać się	0.8405797145825217
+zamieniać się	akumulować	1.0088476513523306
+zatrzymać	otrzymać	0.7452458655705783
+posiąść	wymieniać się	0.9286086985244835
+zatrzymać	zakupić	0.7463911970062448
+przehandlować	udzielać	0.7600378772875115
+mieć	otrzymać	0.6897675435158084
+zamieniać się	przehandlować	0.7202397571514202
+kupować	akumulować	0.6315957823509125
+zakupić	nabyć	0.4207694630975553
+wymieniać się	trwonić	0.9647828794734316
+dostać	mieć	0.5838997293208584
+płacić	trwonić	1.0271794715532512
+dodać	zbierać	0.7905566431126921
+zakładać się	zaopatrywać	1.124635187707595
+kolekcjonować	posiąść	0.9104110588048389
+wydawać	trwonić	0.32513902256604427
+użyczyć	dodać	0.9582366403701572
+ryzykować	stracić	0.6682048650176888
+ryzykować	przehandlować	0.8461612876328997
+dać	ubezpieczyć	1.1707431959536965
+dostarczać	pobierać	1.2277490096051376
+gromadzić	zapewnić	0.8964817044832245
+posiadać	posiąść	0.7225900164731089
+zachować	zbierać	0.46392663040423415
+płacić	potrzebować	1.2737331083453995
+dostarczać	pożyczać	0.868365211652463
+przehandlować	zatrzymać	1.0497455997702794
+rozdawać	stracić	0.5721230631127457
+zaopatrywać	zaoszczędzić	1.0564558925220189
+rezerwować	rozdawać	1.0050509853078742
+płacić	wymieniać się	1.0009698428310219
+płacić	zaoszczędzić	1.2429783822594374
+pozbyć się	gromadzić	0.9797366999274947
+potrzebować	należeć	1.1004293930057176
+dostać	ryzykować	1.2880603901380738
+potrzebować	wydawać	1.0746202966437328
+wydawać	zaoszczędzić	1.2748226285706565
+akumulować	zatrzymać	0.3424161848490706
+zbierać	rozdawać	0.941227133537539
+nabyć	otrzymać	0.7314276032089532
+przyjąć	gromadzić	0.9699075077115907
+zakupić	zaopatrywać	0.927808688386986
+posiąść	zbierać	0.8135244482078102
+ryzykować	targować się	1.1455504103779284
+zakupić	zbierać	0.6452328114440914
+udzielać	gromadzić	0.9142425856488922
+przehandlować	kolekcjonować	0.820918736664318
+gromadzić	dostać	0.9158893213358695
+przyjąć	zatrzymać	0.7486351169678319
+kolekcjonować	zaopatrywać	0.7690486184001107
+zarabiać	dostarczać	0.913673662675224
+zaopatrywać	trwonić	0.8605075310406031
+ubezpieczyć	dostarczać	1.3227582653303698
+nabyć	kolekcjonować	0.9367620813986836
+zbierać	posiadać	0.7711004183718269
+ryzykować	udzielać	0.7950816034447138
+uzyskać	pozbyć się	1.2915231851669922
+udzielać	zachować	1.113393560078892
+stracić	wydawać	0.6700205746884533
+płacić	zapewnić	1.0858357590417564
+sprzedać	rezerwować	1.1690226473819196
+trwonić	spekulować	0.885481906711227
+przehandlować	potrzebować	1.121015725462389
+targować się	kolekcjonować	0.9012771438641721
+mieć	zaoszczędzić	0.8735592363518638
+posiąść	zakładać się	1.2817224795986655
+pobierać	wydawać	1.1385370683755724
+uzyskać	mieć	0.6232310980737582
+posiąść	handlować	1.0329383434047925
+zaopatrywać	wymieniać się	0.8473020428279016
+uzyskać	kupować	1.0059957393153383
+dostarczać	zbierać	1.008748817993812
+targować się	potrzebować	1.2282802317858015
+handlować	otrzymać	1.1595485364631701
+ubezpieczyć	pożyczać	1.0833861437264916
+zatrzymać	posiąść	0.6137718914738909
+stracić	zachować	1.3078775966659875
+pozbyć się	dostarczać	0.8728015367274412
+kolekcjonować	stracić	1.1363234992317266
+targować się	dostarczać	0.9856003662297758
+pozbyć się	ubezpieczyć	1.0298837132991796
+zamieniać się	zachować	0.9721791678761728
+dostać	dodać	0.7462568592754292
+sprzedać	dodać	0.9893002287259789
+zakupić	akumulować	0.6886379334954299
+dostać	użyczyć	1.088070107303255
+akumulować	pozbyć się	1.0618790101306237
+przyjąć	dostarczać	1.2578130341491718
+zamieniać się	wymieniać się	0.4071236323092307
+pobierać	zachować	0.7258106404657083
+potrzebować	zakładać się	1.23128382137036
+gromadzić	wydawać	0.8815641274958546
+należeć	dostać	1.0923460430573513
+zakupić	pożyczać	0.898156379176056
+uzyskać	posiąść	0.5636246421275631
+posiadać	zapewnić	1.0311807393390575
+handlować	gromadzić	0.9359278481018554
+pożyczać	handlować	1.0969850482140162
+otrzymać	dać	1.2273141103530676
+przehandlować	zaopatrywać	1.0285968654382287
+potrzebować	pobierać	0.9597077572089842
+dostać	dostarczać	1.287613683914752
+nabyć	pozbyć się	1.3041552089705355
+ubezpieczyć	przyjąć	1.3115279282298669
+przyjąć	rozdawać	1.2275908659931591
+ryzykować	należeć	1.2593631975117394
+zarabiać	dać	1.2269859180598113
+zachować	zarabiać	0.724289011135858
+dać	zakupić	1.0822599187578898
+sprzedać	posiąść	1.2009612754286418
+pożyczać	wydawać	0.8687209963782443
+zapewnić	pożyczać	0.9685771425622904
+potrzebować	spekulować	1.377420513616826
+dać	kolekcjonować	1.033404489211366
+rozdawać	należeć	1.128048236582921
+zakładać się	pozbyć się	0.9443725140198229
+spekulować	ubezpieczyć	1.0433878182818477
+ryzykować	zachować	1.1331053405643527
+stracić	pożyczać	0.8161470400390801
+zbierać	dać	1.0509877733987143
+stracić	potrzebować	1.1215100746849846
+spekulować	należeć	1.3137288312331699
+zaoszczędzić	uzyskać	0.8723522287532687
+targować się	zatrzymać	0.9138951091100603
+wydawać	posiąść	1.1456082285784064
+dać	zakładać się	1.0162860742247672
+handlować	rozdawać	0.8842160892213047
+otrzymać	ubezpieczyć	1.2444117497304497
+gromadzić	rozdawać	0.9058474213521425
+nabyć	mieć	0.7174848371564192
+stracić	otrzymać	1.2189713013797927
+ryzykować	ubezpieczyć	1.010518784814907
+pożyczać	dodać	0.8182707184194078
+handlować	pozbyć się	0.9794439507840691
+akumulować	kolekcjonować	0.44016659419497656
+należeć	rezerwować	1.133745078257157
+potrzebować	zaoszczędzić	1.1440458566941694
+pobierać	spekulować	1.033330052886112
+ubezpieczyć	zaopatrywać	1.1583085741819998
+wydawać	należeć	1.2117560550566957
+dostarczać	zakupić	1.0698190952874018
+rozdawać	targować się	0.7060918525910114
+dać	zatrzymać	1.0781614387423055
+zakupić	użyczyć	0.8798287086031078
+zarabiać	płacić	1.320886281674774
+płacić	należeć	1.3355269992713
+należeć	sprzedać	1.1680769366714145
+udzielać	mieć	1.2434211307169265
+zaoszczędzić	nabyć	0.8330658593329685
+zbierać	zarabiać	1.0012435580202221
+użyczyć	posiąść	1.0160671153574172
+pozbyć się	sprzedać	0.5655170655972154
+akumulować	przehandlować	0.9659803673298201
+przyjąć	handlować	1.2917465338073777
+otrzymać	pozbyć się	1.3610302568602333
+wymieniać się	uzyskać	0.9262813059905721
+zapewnić	kupować	0.9464470271993047
+zakładać się	przyjąć	1.1519794645877965
+kupować	handlować	0.8259957352118462
+sprzedać	spekulować	0.8281300363807103
+ubezpieczyć	wydawać	1.0225260782948375
+uzyskać	zaopatrywać	0.8874384271645908
+płacić	przyjąć	1.367339613905136
+wymieniać się	zachować	0.7631460890984499
+zbierać	zatrzymać	0.5044201742593107
+sprzedać	gromadzić	1.031368639759619
+pozbyć się	zatrzymać	1.0397521481920524
+zakładać się	wydawać	1.0365769517719081
+pozbyć się	spekulować	0.8438696215665296
+kupować	wydawać	0.8316717914124304
+kolekcjonować	dostać	0.874514643985134
+wymieniać się	gromadzić	0.7906826767108888
+zaoszczędzić	trwonić	1.127959243535436
+przyjąć	zaopatrywać	0.9218236247610677
+dodać	dać	0.7983229442168884
+zachować	targować się	0.9425631508716767
+zamieniać się	udzielać	0.9420943007517455
+uzyskać	ryzykować	1.2487044885720708
+użyczyć	zaopatrywać	0.773078370894098
+pożyczać	ryzykować	0.8301044910226087
+użyczyć	zbierać	0.9931146120811658
+użyczyć	spekulować	0.869410286347807
+zamieniać się	kolekcjonować	0.8078364874849722
+zamieniać się	zakładać się	1.0331431011776686
+trwonić	rozdawać	0.35977878752724163
+nabyć	zapewnić	1.054806728755898
+kolekcjonować	zbierać	0.45710913629705824
+posiąść	przyjąć	0.6519343719176559
+zaoszczędzić	wymieniać się	0.9902079941407124
+wydawać	zakupić	1.0278727960368716
+zaopatrywać	otrzymać	0.9637862023838688
+dostać	stracić	1.3341383639048254
+użyczyć	pobierać	1.1109509469953829
+posiadać	dodać	0.9590981771348792
+użyczyć	sprzedać	0.9319875153539043
+pobierać	trwonić	1.253007846840293
+nabyć	zatrzymać	0.8213641921303645
+wymieniać się	targować się	0.8013640049748842
+sprzedać	wymieniać się	1.0104926378024421
+zakupić	zamieniać się	0.8621680319775277
+dać	użyczyć	0.5876200894934083
+spekulować	zapewnić	1.158451694797074
+akumulować	zarabiać	0.700058517132714
+pozbyć się	pożyczać	0.980030687966232
+ryzykować	handlować	1.2428535190726915
+dostarczać	udzielać	0.6582911014114191
+stracić	zakupić	1.0082924063471794
+dostarczać	otrzymać	1.2582239065323235
+zachować	użyczyć	0.9331991660618683
+pobierać	należeć	1.0065112210644707
+pożyczać	przyjąć	1.087031506938957
+sprzedać	trwonić	0.8682075560743348
+posiąść	rezerwować	1.4016676679125526
+rezerwować	wydawać	0.9001645996065708
+kupować	wymieniać się	0.79307159228962
+kolekcjonować	ubezpieczyć	0.7805231039164607
+rozdawać	ubezpieczyć	1.0307092107670282
+ryzykować	potrzebować	1.3119419558268526
+handlować	zaopatrywać	1.062360077694968
+użyczyć	targować się	0.8070638641689305
+stracić	uzyskać	1.2208160213973858
+rezerwować	pobierać	1.2964943777081426
+zarabiać	stracić	1.3049767070225142
+akumulować	trwonić	1.0301497819928096
+kolekcjonować	pozbyć się	0.9675744787208649
+pożyczać	przehandlować	0.8255485061437732
+wydawać	otrzymać	1.2791919789068966
+rezerwować	zakładać się	1.1650218474679965
+rozdawać	zaoszczędzić	1.1301987571019638
+handlować	posiadać	1.1245568880550665
+udzielać	należeć	1.1876066943838444
+otrzymać	zapewnić	1.0894858442489146
+sprzedać	nabyć	1.277604595427206
+płacić	dostać	1.1865373701234678
+uzyskać	akumulować	0.8181490972091485
+wydawać	dostać	1.0818771156949787
+dodać	udzielać	0.7484898315431227
+stracić	rezerwować	1.1546608561716645
+pożyczać	kupować	0.9074266613576099
+wymieniać się	stracić	0.9945080575303465
+płacić	kupować	0.8699355499900315
+wydawać	wymieniać się	0.9107545190977756
+udzielać	zbierać	0.9881156800157699
+ubezpieczyć	dostać	1.2305122458655149
+trwonić	przyjąć	1.2987103065881374
+ryzykować	zakupić	1.029290241796692
+spekulować	stracić	0.9755580191833647
+należeć	wymieniać się	1.0228383593278365
+zapewnić	handlować	1.0858758759026022
+zakładać się	udzielać	0.7654595591342043
+trwonić	nabyć	1.3598841946300955
+zarabiać	kolekcjonować	0.802943242550525
+gromadzić	zbierać	0.4715292091305136
+targować się	zapewnić	1.07306980657147
+potrzebować	zachować	1.089525664924931
+kolekcjonować	gromadzić	0.2040468102729711
+potrzebować	uzyskać	0.7873934178771311
+sprzedać	uzyskać	1.2571318389862993
+pobierać	targować się	1.071114360562965
+użyczyć	pozbyć się	0.7904501173789626
+ubezpieczyć	trwonić	1.0139292492447232
+gromadzić	mieć	0.8795275590819963
+należeć	trwonić	1.3888308115102295
+mieć	zapewnić	0.9923849604574616
+rezerwować	handlować	1.3060133342927538
+kupować	pozbyć się	0.9984600563012066
+pozbyć się	pobierać	1.0745437265725761
+stracić	zaoszczędzić	1.1577273267315207
+dodać	potrzebować	1.0034508403787659
+akumulować	udzielać	1.129114477754318
+posiadać	przyjąć	0.5780139069200882
+ryzykować	rezerwować	1.1427215190347502
+zatrzymać	dostać	0.6500435595560033
+zaopatrywać	sprzedać	1.1643670212585533
+kolekcjonować	płacić	0.971181721818448
+nabyć	dostarczać	1.2735409638731257
+posiadać	zatrzymać	0.7872595065076773
+gromadzić	zatrzymać	0.5321705275687107
+zakładać się	płacić	1.197437526760744
+spekulować	posiąść	1.101170343046518
+mieć	kolekcjonować	0.8713214503654761
+udzielać	pożyczać	0.5318902735280983
+zaopatrywać	zbierać	0.717599129765877
+pozbyć się	udzielać	0.8888503757266563
+pożyczać	nabyć	1.1849659973232183
+zapewnić	trwonić	0.9589454334626081
+gromadzić	akumulować	0.39314718875989135
+zaoszczędzić	użyczyć	1.009241599765835
+posiąść	zamieniać się	1.182241397343245
+gromadzić	pożyczać	0.9514604180338293
+posiadać	gromadzić	0.8705003066586273
+uzyskać	udzielać	1.1128261596764126
+zachować	zaoszczędzić	0.6384712070669215
+zbierać	ubezpieczyć	0.978515180549709
+trwonić	dodać	1.0662624609938882
+rozdawać	posiadać	1.254473705099239
+trwonić	zakupić	1.1267858172930154
+posiąść	ryzykować	1.3045322191114785
+dodać	zapewnić	0.8384698260900232
+kupować	dostarczać	1.0442198980248218
+uzyskać	należeć	1.059035393729243
+udzielać	spekulować	1.1057066493288195
+użyczyć	kolekcjonować	0.8499939191220596
+kolekcjonować	dodać	0.8609625341483691
+zapewnić	pozbyć się	1.038967145234263
+mieć	zakładać się	1.2758452614449065
+zamieniać się	dodać	0.8780557055844973
+zamieniać się	zatrzymać	1.0004020113920187
+zatrzymać	sprzedać	0.8780809082044106
+posiąść	nabyć	0.6400526946295462
+udzielać	otrzymać	1.1887353148082747
+zaopatrywać	posiąść	0.8527421782016498
+kupować	dodać	0.8626102328785262
+zakładać się	zbierać	1.320784500340432
+dostarczać	zaoszczędzić	1.106037950803089
+przehandlować	pozbyć się	0.9309620555423955
+potrzebować	zatrzymać	1.1311766856971384
+uzyskać	handlować	1.239543895354507
+dodać	wydawać	0.9833782499930749
+zaopatrywać	zatrzymać	0.8171147680099552
+płacić	posiadać	1.2815986704806717
+nabyć	ubezpieczyć	1.3041713236924877
+kupować	zakupić	0.38958726928975407
+spekulować	zachować	0.7811245002823407
+zakupić	potrzebować	0.9958491360649643
+wydawać	kolekcjonować	0.8342610700077313
+dać	zaoszczędzić	1.0755954765819278
+dostarczać	dać	0.7743060534907461
+zamieniać się	nabyć	1.2526332457146834
+posiadać	zaopatrywać	1.0793685550836793
+kupować	zachować	0.668414462591493
+zaoszczędzić	przehandlować	0.8737909612865606
+potrzebować	kolekcjonować	1.2913923264664997
+targować się	ubezpieczyć	0.8950252618305407
+spekulować	dodać	1.2593400811495516
+rezerwować	zaoszczędzić	1.1621916499438567
+przehandlować	dać	0.8095519733566519
+zarabiać	wymieniać się	1.0520328722075334
+zakładać się	nabyć	1.3440167331964221
+pozbyć się	zaopatrywać	0.9635724023854468
+przehandlować	targować się	0.6107581140646425
+dać	rozdawać	0.5364919257433725
+wymieniać się	przehandlować	0.7516584205121501
+zarabiać	targować się	1.1546239768333528
+rozdawać	uzyskać	1.091098455140655
+mieć	rezerwować	1.1728826216775678
+przyjąć	przehandlować	1.0292562911023544
+akumulować	ubezpieczyć	1.054497917178623
+rozdawać	udzielać	0.6999026574922829
+zatrzymać	zapewnić	0.8532388209793264
+zachować	kolekcjonować	0.561161950169731
+dostać	otrzymać	0.35307534484156056
+zaoszczędzić	przyjąć	0.8843717626657598
+akumulować	sprzedać	0.9942704007507503
+zatrzymać	kupować	0.6163122483767826
+mieć	pobierać	0.7674997246150839
+zaopatrywać	pobierać	0.8542291915161442
+pobierać	dać	1.0690014329724424
+zatrzymać	ubezpieczyć	1.0316817229977482
+dostać	trwonić	1.3514891671948326
+rozdawać	pobierać	1.178943939123792
+mieć	zamieniać się	1.0823153879954428
+udzielać	stracić	0.7636923659718384
+kolekcjonować	zapewnić	0.8636177910235523
+pobierać	zaoszczędzić	0.926085858519542
+posiąść	zapewnić	0.9562858213596926
+zachować	uzyskać	0.8076665669476916
+zarabiać	rozdawać	1.137806156171432
+należeć	dostarczać	1.1706572903682078
+spekulować	kupować	0.8924367709871482
+sprzedać	zaoszczędzić	1.0460472129860574
+sprzedać	stracić	0.8190177853690981
+handlować	wydawać	0.8508914927486039
+targować się	akumulować	0.9743598046856837
+wydawać	posiadać	1.309225807707823
+rezerwować	kupować	0.903384771258722
+pobierać	otrzymać	0.7778562321574432
+mieć	ubezpieczyć	1.1698507504788211
+ubezpieczyć	zamieniać się	0.9643750667036575
+dostać	wymieniać się	0.8378988526495322
+sprzedać	zamieniać się	1.029279995784275
+zbierać	spekulować	1.0424270492713867
+wymieniać się	handlować	0.6420445577958268
+dać	kupować	1.0079444905435597
+ryzykować	rozdawać	0.906803205085588
+rezerwować	nabyć	1.5458847270663612
+przyjąć	zamieniać się	1.0556245150650725
+zarabiać	zaopatrywać	0.8617690078838611
+sprzedać	dostać	1.1435833281255188
+płacić	nabyć	1.2807945038321933
+ubezpieczyć	dodać	1.0176061143041184
+pożyczać	posiąść	1.0593082272561194
+należeć	zaopatrywać	1.0378915904089878
+targować się	trwonić	0.9590036783740649
+zakładać się	dodać	1.2292689794883076
+trwonić	mieć	1.2815019384539097
+dostać	pożyczać	1.1007504968495483
+wydawać	sprzedać	0.7915885701171781
+zbierać	przyjąć	0.8292593576636089
+ubezpieczyć	zakładać się	0.9553247844973726
+spekulować	rozdawać	0.9936407848218549
+zapewnić	zachować	0.8807798632626628
+akumulować	zaoszczędzić	0.66078497050939
+zapewnić	uzyskać	1.0379749406430265
+stracić	targować się	1.0442203002616814
+zakładać się	posiadać	1.335231265437263
+posiąść	akumulować	0.8084244849781023
+należeć	zakupić	1.1459994955440735
+mieć	dać	1.2754096843785312
+płacić	ubezpieczyć	1.1957745062161778
+zarabiać	wydawać	1.334213097319928
+mieć	wydawać	1.197415067568957
+akumulować	zbierać	0.267320410326705
+potrzebować	przyjąć	0.8337582148152107
+udzielać	zaopatrywać	0.7695576537684005
+rezerwować	uzyskać	1.3323320157798142
+pobierać	posiąść	0.8212940496243303
+zarabiać	uzyskać	0.8679670792991256
+handlować	zakładać się	1.1680869151038074
+użyczyć	nabyć	1.2595424018366819
+otrzymać	przyjąć	0.38192391100128315
+zapewnić	użyczyć	1.0092163840829338
+spekulować	mieć	0.9580878117962258
+dać	płacić	1.074505027403464
+otrzymać	wymieniać się	0.9476730784308016
+targować się	zbierać	1.0010053761265032
+zakładać się	akumulować	1.3988599784150573
+pozbyć się	dostać	1.2214434068427675
+pozbyć się	rozdawać	0.4187405144300925
+otrzymać	zakupić	0.7077522846173886
+pożyczać	mieć	1.1479399952645235
+zakupić	pobierać	0.8904795785984443
+ryzykować	zatrzymać	1.135558386966123
+zakupić	uzyskać	0.7602986806632367
+zbierać	trwonić	1.107959980149214
+zaopatrywać	kupować	0.9030498517312914
+dostać	zbierać	0.7466420229655479
+targować się	przyjąć	1.2392823363349021
+handlować	przehandlować	0.7619524588979185
+akumulować	nabyć	0.8064246256984237
+zachować	rezerwować	1.1710828736887662
+kupować	targować się	0.9406079434055336
+zachować	otrzymać	0.7528090758005159
+spekulować	posiadać	1.15075533293357
+ubezpieczyć	gromadzić	0.7861118199637508
+przehandlować	wydawać	0.7438653844722838
+zarabiać	sprzedać	1.17933597954784
+handlować	zbierać	0.9079572304203803
+wydawać	płacić	1.1387450803132073
+pozbyć się	wymieniać się	0.9118351979187842
+zaopatrywać	zapewnić	0.5975023997527219
+zamieniać się	kupować	0.8505821735565005
+potrzebować	pozbyć się	1.215063104096493
+pożyczać	rozdawać	0.9310120974972459
+targować się	zakładać się	1.1047975118713886
+kupować	zarabiać	0.7684565068009622
+handlować	zaoszczędzić	1.009291751198615
+zaopatrywać	targować się	0.9424360243122147
+potrzebować	dostarczać	1.1537350714627268
+rezerwować	pozbyć się	1.1278548608811436
+kupować	ryzykować	1.1287167576464017
+spekulować	dostać	1.0092621868597322
+targować się	dać	0.9081784685151251
+gromadzić	ryzykować	1.183484833739317
+stracić	pobierać	1.2422297145463774
+kupować	posiadać	0.9355039888573626
+mieć	przyjąć	0.5862267558098265
+posiąść	ubezpieczyć	1.2630394913769816
+zachować	trwonić	1.0915466589828369
+akumulować	rezerwować	1.3419896656104704
+zamieniać się	stracić	0.8762260036019301
+stracić	dostarczać	0.7709699751796493
+dostać	rozdawać	1.2703565997677817
+zakupić	posiadać	0.7189275237245155
+dostarczać	przehandlować	0.8799317838433912
+płacić	udzielać	1.0026258358687485
+spekulować	zakładać się	1.0335309711507774
+potrzebować	pożyczać	1.1428155002636917
+spekulować	kolekcjonować	0.9875573076411513
+płacić	przehandlować	0.9891928570888248
+trwonić	zakładać się	0.9410300031841635
+akumulować	zaopatrywać	0.7562641001282366
+pobierać	wymieniać się	0.850540950677596
+dodać	uzyskać	0.6600802083408445
+mieć	handlować	1.0189569609077853
+targować się	pozbyć się	0.848479933850338
+zbierać	nabyć	0.8687805043135822
+zaopatrywać	stracić	1.1373432030003965
+zachować	dostać	0.6082094207742484
+targować się	otrzymać	1.081149484832585
+ryzykować	kolekcjonować	1.1270684128867912
+zakupić	spekulować	0.9388864957824541
+wymieniać się	rozdawać	0.855735965549845
+dostarczać	dodać	1.0492481982749597
+spekulować	pożyczać	1.1015856033504725
+potrzebować	ubezpieczyć	1.181521107961782
+akumulować	otrzymać	0.850743226587365
+pozbyć się	zamieniać się	0.9164049844873615
+mieć	zaopatrywać	0.9126130506435004
+płacić	rozdawać	1.1351181226416909
+użyczyć	uzyskać	1.1167470031909
+kupować	trwonić	0.9511438663715681
+zatrzymać	zarabiać	0.7043164093158726
+przyjąć	użyczyć	1.1818809037741198
+zachować	handlować	1.0917298793110974
+zapewnić	zarabiać	0.8466032324062716
+zaoszczędzić	zakupić	0.759197763555212
+trwonić	uzyskać	1.3048833005584362
+dostarczać	zachować	1.1069215105165975
+zarabiać	przehandlować	1.046400377758798
+zbierać	rezerwować	1.3442327426038314
+gromadzić	płacić	0.9541708814211171
+użyczyć	akumulować	0.8946098684548417
+udzielać	zatrzymać	1.2023699240682397
+wydawać	zamieniać się	0.9032936512395161
+otrzymać	sprzedać	1.2654357414366002
+zarabiać	zamieniać się	0.9740744935546488
+zapewnić	ryzykować	1.2448489354923542
+należeć	zamieniać się	0.9245367892778261
+zamieniać się	spekulować	0.9698108051976189
+zaoszczędzić	zakładać się	1.1168645272046103
+kupować	potrzebować	1.10382174301053
+zakupić	pozbyć się	1.0981114737426632
+rezerwować	dostać	1.2227351066174283
+otrzymać	rezerwować	1.3965931501857625
+uzyskać	ubezpieczyć	1.2718971584918353
+potrzebować	zaopatrywać	0.9498188366719937
+targować się	dodać	0.9421701337228982
+należeć	dodać	1.133096144105266
+handlować	targować się	0.7789446674090751
+pobierać	handlować	1.0554617108003452
+mieć	akumulować	0.6189968063932956
+przehandlować	spekulować	0.7474717450825152
+kolekcjonować	uzyskać	0.8798207856959418
+targować się	zakupić	0.8924944632095715
+sprzedać	mieć	1.2382185058725494
+zakładać się	uzyskać	1.2126902717858636
+płacić	pobierać	1.1556840859505173
+gromadzić	potrzebować	1.2523570068462637
+dodać	rezerwować	1.2820823200521188
+nabyć	wydawać	1.200105508619001
+zatrzymać	zachować	0.2161320944989237
+pobierać	uzyskać	0.8816272677458749
+zarabiać	pozbyć się	1.16416365356053
+użyczyć	płacić	1.0304852278328025
+pobierać	dostać	0.7407148785970417
+stracić	akumulować	1.269983709831775
+należeć	zachować	1.1611992188562454
+ubezpieczyć	wymieniać się	1.0881141412988007
+ubezpieczyć	zachować	1.0069275956621906
+uzyskać	dać	1.2072714518071181
+handlować	stracić	1.152438893412294
+ryzykować	wymieniać się	1.1754243455098106
+zakładać się	zachować	1.202179001933393
+otrzymać	posiąść	0.5881914415810721
+posiadać	zaoszczędzić	0.8739323905187635
+należeć	stracić	1.2853638499274478
+potrzebować	udzielać	1.1207791144323362
+dodać	przyjąć	0.8526489816534808
+rozdawać	nabyć	1.2099897812297493
+potrzebować	akumulować	1.2086698733280863
+posiadać	targować się	1.1141223283809436
+pobierać	kolekcjonować	0.7487737103333881
+pobierać	zakładać się	1.2322908714127254
+dostać	kupować	0.8616004361580798
+zakładać się	stracić	0.7179343375066198
+uzyskać	posiadać	0.7159556026554894
+nabyć	gromadzić	0.9324675676724319
+gromadzić	zaopatrywać	0.7546499191500917
+rezerwować	pożyczać	1.0810912616222152
+kupować	zbierać	0.6239956690338706
+zatrzymać	uzyskać	0.8158718918828235
+potrzebować	zapewnić	1.2070340575003333
+spekulować	otrzymać	1.2483660575452684
+przehandlować	trwonić	0.8006252630984951
+posiąść	trwonić	1.2414916372260019
+otrzymać	pożyczać	1.0743588304516007
+zakładać się	zapewnić	1.234212916954588
+ryzykować	mieć	1.2987545581627988
+dodać	rozdawać	0.9266059888882079
+handlować	dodać	1.029411128577394
+zaopatrywać	dostarczać	0.6610168590783044
+rozdawać	zamieniać się	0.837159018545574
+przyjąć	dostać	0.3763956348864013
+trwonić	ryzykować	0.978633037139019
+nabyć	spekulować	1.1216331650572668
+dostać	targować się	1.0246289434007614
+zaopatrywać	zamieniać się	0.841574655292766
+nabyć	uzyskać	0.8322715593673008
+posiadać	nabyć	0.7124194096973884
+kolekcjonować	rezerwować	1.2678420586167591
+płacić	handlować	0.9558859429076167
+zapewnić	rozdawać	1.0224332928936606
+przyjąć	stracić	1.161080387873686
+zakupić	zapewnić	1.015364402457801
+udzielać	wydawać	0.8077033213412843
+dać	wydawać	0.674780003052362
+zakładać się	zarabiać	1.3435050506058708
+użyczyć	trwonić	0.7085990477391181
+wydawać	zapewnić	0.8787742488734915
+zakupić	rezerwować	1.1834971808668253
+zaoszczędzić	udzielać	1.0393016552289502
+zbierać	pozbyć się	1.0274861900970016
+posiąść	zarabiać	0.9758487355854859
+stracić	pozbyć się	0.5260463532357887
+przehandlować	ubezpieczyć	0.8609699296490119
+posiąść	gromadzić	0.8440073242488302
+dostarczać	użyczyć	0.6737125349632616
+posiadać	zamieniać się	1.1463610126715422
+ubezpieczyć	kupować	0.9322149106670871
+otrzymać	gromadzić	0.9775065300636413
+zaoszczędzić	zatrzymać	0.7040858318742054
+zarabiać	użyczyć	1.1827035872287432
+gromadzić	uzyskać	0.8783585885602051
+zarabiać	dodać	0.9749741054669604
+kolekcjonować	należeć	0.8431819698829637
+trwonić	handlować	1.096442637956786
+wymieniać się	mieć	1.0297472053540369
+zbierać	uzyskać	0.7933440934178576
+pobierać	akumulować	0.5359442967045721
+pożyczać	zaopatrywać	0.9021390990605892
+zapewnić	dać	0.8856525508945243
+ryzykować	użyczyć	0.8091940895557231
+pożyczać	zbierać	1.0502666804410326
+gromadzić	zakładać się	1.2329390779787137
+handlować	potrzebować	1.2442424374270675
+użyczyć	rezerwować	1.0234399055245245
+pobierać	przehandlować	1.0388987214530754
+posiąść	potrzebować	0.9528778409438776
+spekulować	akumulować	1.0124899235940092
+przyjąć	zakupić	0.7225775086856436
+sprzedać	przyjąć	1.312078844958871
+zachować	mieć	0.719742076385083
+potrzebować	zarabiać	1.0614023929448322
+wymieniać się	użyczyć	0.9209972636663806
+przehandlować	zakupić	0.8445217864104398
+użyczyć	handlować	0.9141892107214193
+zatrzymać	zakładać się	1.1675132449270103
+wymieniać się	dać	0.909932499929904
+ryzykować	pozbyć się	0.8696966221107699
+dostarczać	handlować	1.111614843554498
+dać	posiąść	1.2318900239937582
+pozbyć się	należeć	1.2353126598157864
+rozdawać	zachować	1.0590545753463951
+dostarczać	mieć	1.2222570067948575
+użyczyć	wydawać	0.7975673415829532
+wydawać	zaopatrywać	0.7854709939397617
+rozdawać	mieć	1.3427827119410523
+ryzykować	płacić	1.10947827572178
+należeć	użyczyć	1.029049280305237
+rezerwować	posiadać	1.3167355464766872
+zapewnić	sprzedać	1.1499894022432944
+przehandlować	mieć	0.9988981559662734
+targować się	zaoszczędzić	1.1306745056933878
+przehandlować	gromadzić	0.8519236579506879
+potrzebować	zamieniać się	1.1480947536743848
+sprzedać	zakupić	1.1700597476177348
+ryzykować	sprzedać	0.9121757994845731
+zakładać się	przehandlować	0.8226886918568102
+przyjąć	spekulować	1.1468001867853408
+przehandlować	sprzedać	0.8406473369772121
+ubezpieczyć	rezerwować	1.255926391583403
+kupować	pobierać	0.7600260494756323
+należeć	zarabiać	1.075677756537151
+zarabiać	mieć	1.020574259716633
+ubezpieczyć	sprzedać	0.9347571542500981
+zbierać	sprzedać	1.0033400237459198
+zbierać	pobierać	0.5679445070584094
+należeć	pożyczać	1.0533379169298491
+zachować	pożyczać	1.0730381793615091
+zamieniać się	ryzykować	1.0798724000120337
+kupować	udzielać	1.097451827947397
+wymieniać się	akumulować	0.8438584326774816
+nabyć	udzielać	1.2476086684004344
+przehandlować	zapewnić	0.9099205109946952
+zarabiać	nabyć	0.8911915894529925
+zapewnić	udzielać	1.0062155172486105
+trwonić	potrzebować	1.2770682875778043
+targować się	płacić	0.7342464318628416
+zakładać się	kolekcjonować	1.1805443422106543
+otrzymać	przehandlować	0.8611210089683022
+przyjąć	rezerwować	1.3236022328917059
+wymieniać się	dostarczać	0.9506088509884982
+dostarczać	zapewnić	0.7015313602172012
+otrzymać	zbierać	0.8258862217567249
+kupować	zaoszczędzić	0.88767548131
+nabyć	należeć	1.2107308230213443
+pozbyć się	zaoszczędzić	1.1748255099410883
+zatrzymać	kolekcjonować	0.5125980939801227
+zbierać	zaoszczędzić	0.8897257159628591
+posiąść	zakupić	0.5630217269080162
+spekulować	zarabiać	1.1968832258646294
+należeć	zatrzymać	1.057386771557886
+przehandlować	użyczyć	0.684177699561288
+pozbyć się	dać	0.706940441970106
+dodać	stracić	1.1368214376794936
+wydawać	rozdawać	0.3198868613698735
+zatrzymać	wydawać	0.9534762923073998
+posiąść	zachować	0.6384104361344823
+nabyć	ryzykować	1.3456332628701042
+dać	sprzedać	0.7198594082147568
+zaopatrywać	spekulować	1.1342181627022268
+posiadać	kolekcjonować	0.8596927274900896
+płacić	sprzedać	0.7899337719698304
+rozdawać	zaopatrywać	0.7404954575441567
+zamieniać się	handlować	0.611600827301676
+ryzykować	zarabiać	1.3054598015860153
+dostarczać	zamieniać się	1.0385118301794227
+wydawać	dostarczać	0.6774117854975894
+handlować	należeć	1.1566497260083453
+pożyczać	pobierać	1.1432273472828087
+zaopatrywać	nabyć	0.9772006867874529
+pożyczać	sprzedać	0.9698423591659163
+przyjąć	nabyć	0.8363620650592457
+dostać	zapewnić	1.0171157444013883
+kolekcjonować	pożyczać	0.9558394746091423
+wydawać	pozbyć się	0.5149087095769258
+pozbyć się	posiadać	1.3910968169683648
+zbierać	należeć	1.0465161682364066
+zaopatrywać	płacić	0.8116457371901319
+posiadać	dostać	0.726001199240453
+dać	stracić	0.756132709012622
+ubezpieczyć	należeć	1.0629514923290344
+należeć	posiadać	0.8387710956618658
+trwonić	pozbyć się	0.5182964537183007
+dać	przyjąć	1.2260245014897255
+dodać	ryzykować	1.2231668953769597
+mieć	targować się	1.026697452693831

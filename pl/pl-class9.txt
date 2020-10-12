@@ -1,0 +1,211 @@
+Word1	Word2	Score
+bawić	pożądać	0.8999728086316202
+podziwiać	pożądać	0.7043934370007844
+podobać się	pragnąć	0.7960221414345198
+rozbawić	szanować	1.1675623863446356
+świętować	pożądać	1.1362116538395775
+szanować	radować się	1.1002908696653582
+rozbawić	mieć nadzieję	1.0393342656808837
+troszczyć się	cieszyć się	0.8762152494098916
+błogosławić	rozbawić	1.1511062605056126
+pociągać	akceptować	0.9415453497823647
+podobać się	podziwiać	0.6826562889570469
+podziwiać	woleć	0.9649876166219391
+błogosławić	świętować	1.1762927355159123
+cieszyć się	rozbawić	0.4315473236902529
+akceptować	woleć	1.02201030735244
+uwielbiać	śmiać się	1.263492120604231
+podziwiać	uwielbiać	0.6285656606606808
+uwielbiać	pociągać	0.933114255110746
+troszczyć się	radować się	0.886667450008463
+rozbawić	uwielbiać	1.25112940127202
+aprobować	bawić	0.9730884799538644
+aprobować	podobać się	0.9807630298396989
+podziwiać	świętować	1.1180728617839717
+błogosławić	bawić	1.070801448883411
+cieszyć się	śmiać się	0.27863918169021024
+chcieć	błogosławić	1.1656326505236165
+aprobować	rozbawić	1.0292330424585652
+podobać się	śmiać się	1.0780001772324148
+pociągać	chcieć	1.0615521116698572
+szanować	podziwiać	0.5988083485963124
+śmiać się	błogosławić	1.218172193901544
+lubić	śmiać się	1.3012429644795296
+szanować	pożądać	0.8779403551075151
+chcieć	aprobować	0.857390539646736
+pragnąć	podziwiać	0.7038350728024539
+śmiać się	woleć	1.1759014729899995
+uwielbiać	mieć nadzieję	1.349806463601602
+pożądać	błogosławić	1.2519742765457444
+mieć nadzieję	świętować	1.158473936312848
+uwielbiać	woleć	0.9501347942311177
+szanować	błogosławić	1.092161141916714
+błogosławić	podobać się	1.341468653469222
+cieszyć się	podziwiać	1.1056363649572867
+troszczyć się	akceptować	1.0372706732118688
+chcieć	mieć nadzieję	0.8731225435999193
+świętować	śmiać się	0.5513448887351108
+radować się	pociągać	1.002412987023731
+pociągać	lubić	1.0126716587266127
+cieszyć się	podobać się	1.0700003277083079
+woleć	pociągać	1.0730352185118985
+uwielbiać	akceptować	0.7786219647049344
+śmiać się	pociągać	1.1031926575920998
+pragnąć	akceptować	0.9060505456059275
+podobać się	rozbawić	1.0814067747671583
+pożądać	rozbawić	1.0254287356816636
+akceptować	pożądać	0.9431038618029892
+radować się	bawić	0.47480984907162094
+radować się	podobać się	1.0490907045020248
+lubić	podziwiać	0.669584859499416
+aprobować	śmiać się	1.0489094400519792
+świętować	podobać się	1.2391338519234163
+akceptować	podobać się	0.9670841056913496
+lubić	pożądać	0.946046207168917
+aprobować	błogosławić	0.9698215225614779
+podobać się	bawić	0.967314070008714
+chcieć	podobać się	1.033813052921821
+świętować	lubić	1.3120848795036866
+woleć	radować się	1.1842720679748855
+bawić	chcieć	0.8489110461888308
+troszczyć się	śmiać się	0.8177595257312297
+podobać się	pożądać	0.6891055752928704
+lubić	woleć	0.7883996238744253
+chcieć	pożądać	1.0443543593104336
+podziwiać	akceptować	0.6896740198875313
+lubić	uwielbiać	0.3182679166573244
+pragnąć	chcieć	0.997482555637986
+pragnąć	lubić	0.9755977984767512
+aprobować	pociągać	1.0643568836995232
+rozbawić	woleć	1.097010208283343
+troszczyć się	świętować	1.0390221120513097
+uwielbiać	pragnąć	0.9501331878200993
+uwielbiać	podobać się	0.9685294889847215
+radować się	mieć nadzieję	1.0129545066015164
+aprobować	pożądać	1.0765233437575847
+cieszyć się	błogosławić	1.087448124893849
+szanować	lubić	0.7088244964841318
+aprobować	świętować	1.011787982752997
+akceptować	radować się	1.1511806588244464
+pragnąć	rozbawić	1.0910867644952973
+cieszyć się	woleć	1.1118241902118053
+radować się	śmiać się	0.2610291638457443
+lubić	cieszyć się	1.200105821994816
+rozbawić	bawić	0.21092196605804253
+radować się	błogosławić	1.178624452428689
+mieć nadzieję	bawić	0.9762460826277679
+pociągać	cieszyć się	1.1042527054521314
+aprobować	uwielbiać	0.7360621712301167
+rozbawić	chcieć	0.908859628962086
+troszczyć się	pociągać	1.1645869482181643
+rozbawić	lubić	1.2775862314130109
+mieć nadzieję	szanować	1.1951867486123857
+mieć nadzieję	aprobować	1.1821256633418977
+świętować	rozbawić	0.5128117977513148
+bawić	woleć	0.9551388890834613
+troszczyć się	podziwiać	1.0364995112975155
+rozbawić	troszczyć się	0.9189415040385176
+szanować	podobać się	0.9883199183011953
+błogosławić	mieć nadzieję	0.9664136371209066
+śmiać się	pożądać	1.04855155177618
+szanować	chcieć	0.9306570771421102
+aprobować	cieszyć się	0.9914474717136375
+cieszyć się	świętować	0.5400701074479609
+cieszyć się	uwielbiać	1.2269710603359296
+aprobować	woleć	0.8366213676599092
+świętować	chcieć	1.1112916014495444
+szanować	świętować	1.1209417466982765
+szanować	troszczyć się	1.133043938316572
+podziwiać	bawić	1.044598282621504
+cieszyć się	radować się	0.17481470870268795
+woleć	troszczyć się	1.1699141738938466
+śmiać się	chcieć	1.0056089118807023
+pragnąć	śmiać się	1.1838170857032424
+podziwiać	rozbawić	1.115688949421143
+pociągać	szanować	0.8975349339030225
+podziwiać	radować się	1.240418134381816
+chcieć	akceptować	0.9792447676096943
+chcieć	lubić	0.9426763576767255
+uwielbiać	pożądać	0.9164907095659897
+śmiać się	mieć nadzieję	1.032265128000468
+szanować	śmiać się	1.0728782075869108
+świętować	akceptować	1.036935979123505
+woleć	pragnąć	1.102464274820202
+świętować	uwielbiać	1.2676830919289623
+pragnąć	mieć nadzieję	1.250269411457686
+pociągać	podobać się	0.6617688504258001
+pragnąć	aprobować	1.073549113406462
+rozbawić	pociągać	1.0591637007428458
+podziwiać	pociągać	0.6378787016127283
+podziwiać	aprobować	0.6972690998100929
+podziwiać	śmiać się	1.1336646411475708
+troszczyć się	uwielbiać	1.1728633794386532
+troszczyć się	mieć nadzieję	0.9254271466911642
+akceptować	lubić	0.764718990698494
+mieć nadzieję	woleć	1.1958786118064881
+podziwiać	błogosławić	1.167303119517007
+radować się	chcieć	0.9621640318671295
+akceptować	bawić	0.9935784807056457
+akceptować	cieszyć się	1.1340504478422608
+rozbawić	radować się	0.41299214314512606
+troszczyć się	bawić	0.8035388615414433
+aprobować	lubić	0.7377114990354847
+bawić	pragnąć	0.9838860098857204
+aprobować	akceptować	0.46051313586825066
+aprobować	radować się	1.0199570513976128
+radować się	uwielbiać	1.301745195627548
+rozbawić	akceptować	1.076533354537881
+szanować	uwielbiać	0.8151447104136121
+mieć nadzieję	pociągać	1.2039964592581298
+mieć nadzieję	cieszyć się	1.031059810106365
+pociągać	bawić	0.9647430701901758
+uwielbiać	chcieć	1.0281391131178348
+uwielbiać	błogosławić	1.1016408659639325
+bawić	śmiać się	0.4344093441397781
+podziwiać	mieć nadzieję	1.0424950545826699
+woleć	pożądać	1.1203289753821253
+woleć	szanować	0.8615882210382603
+pożądać	radować się	0.9721508120561696
+aprobować	szanować	0.6364845907517291
+troszczyć się	błogosławić	0.8115678025272709
+pociągać	świętować	1.1781062371920472
+szanować	akceptować	0.5597578448450007
+szanować	cieszyć się	1.0445949423466843
+mieć nadzieję	pożądać	1.2507452015967395
+świętować	radować się	0.528267967007347
+troszczyć się	aprobować	0.9830953930904104
+pociągać	pożądać	0.3160363968990533
+woleć	błogosławić	1.2017677074614925
+podziwiać	chcieć	0.8113188057621351
+lubić	błogosławić	1.0693682323385052
+pożądać	pragnąć	0.388436983503717
+szanować	pragnąć	0.9098279870909566
+pociągać	błogosławić	1.2978190079954746
+akceptować	śmiać się	1.1123374700406643
+cieszyć się	chcieć	0.9833453724230994
+bawić	lubić	1.1777854977969993
+troszczyć się	pragnąć	1.176197648320071
+troszczyć się	podobać się	1.0210705650773475
+mieć nadzieję	lubić	1.3119213755743881
+troszczyć się	chcieć	1.2310568503383146
+pożądać	cieszyć się	1.1342986604833427
+błogosławić	pragnąć	1.2745266306771843
+troszczyć się	pożądać	1.2278964755457986
+lubić	radować się	1.283071106339474
+świętować	woleć	1.1491224460428708
+bawić	cieszyć się	0.4928159475979263
+bawić	szanować	1.0918909289707437
+woleć	podobać się	1.0276544855329823
+podobać się	mieć nadzieję	1.1390235014185108
+chcieć	woleć	0.8121376126610387
+pociągać	pragnąć	0.547593740318694
+mieć nadzieję	akceptować	1.1689424511020374
+pragnąć	świętować	1.204722861308245
+świętować	bawić	0.5560264031283751
+rozbawić	śmiać się	0.3840207586278849
+radować się	pragnąć	1.074493022370816
+akceptować	błogosławić	0.9619860514466378
+cieszyć się	pragnąć	1.1068254358894276
+uwielbiać	bawić	1.190170224160821
+lubić	troszczyć się	1.1144097633370902
+lubić	podobać się	1.051850157204214

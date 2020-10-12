@@ -1,0 +1,3082 @@
+Word1	Word2	Score
+podejrzewać	udowodnić	1.0898833056904147
+usprawiedliwiać	odejmować	1.1701024913118148
+wybierać	udowodnić	0.8755569851837469
+czekać	kojarzyć	1.0426708684417259
+rozważać	przychylać się	1.171999285039934
+myśleć	zgadnąć	0.93756359968539
+mieć nadzieję	wątpić	0.8403897710156377
+obalać	zaskoczyć	1.2043756250413418
+zaskoczyć	dopuszczać	1.3003956584132268
+strzec się	dopuszczać	1.1276165546178865
+odejmować	wynikać	1.0644488682777584
+baczyć	mieć nadzieję	0.8996712443718134
+obalać	liczyć	1.2454383475180317
+pojmować	wymyślić	0.7650626972549588
+wahać się	wynikać	0.9790543502657434
+zgadnąć	liczyć się	1.0819651042140004
+udowodnić	rozumieć	0.7244778931990149
+odejmować	definiować	0.8259360109137533
+wahać się	uczyć się	0.8948359267422866
+uczyć	domniemywać	0.8838594485152592
+formułować	dowiadywać się	0.7451905536307732
+wydawać się	liczyć się	1.065121266233112
+wyjaśniać	uświadomić sobie	1.0205322144272997
+uwierzyć	wytłumaczyć	1.1609384507463347
+wynikać	czekać	0.8535162333784756
+wydawać się	nie dowierzać	0.9064618947990492
+analizować	wiedzieć	0.6104993238416189
+dotyczyć	znaczyć	0.9778768474794488
+znaczyć	liczyć	0.7660141661276736
+liczyć	potwierdzać	1.0885203329254898
+liczyć	przypominać	1.0498058002316402
+liczyć	literować	0.742174369199177
+uświadomić sobie	przypominać	0.9244130741628351
+baczyć	uczyć	1.1207326790213632
+pojmować	liczyć się	0.998893199135719
+definiować	zakładać	0.9552518818894578
+decydować	strzec się	1.0052769933061376
+korygować	wyłaniać	0.9787451403560694
+wspominać	wynikać	0.9148055373158113
+zakładać	przychylać się	1.0615652019145358
+wytłumaczyć	liczyć	0.8478197261810122
+oceniać	uzasadniać	0.9260010828439973
+mieć coś przeciw	kalkulować	1.2027047847648504
+ustalać	wymyślić	0.8115637205372945
+domniemywać	dowiadywać się	1.0076347693971628
+obalać	zastanawiać się	1.0712662380235751
+definiować	wspominać	1.241579769365978
+domniemywać	podejrzewać	0.7020850381670591
+kalkulować	podejrzewać	1.10482386054419
+uczyć	selekcjonować	0.7815444866660649
+wydawać się	rozwiązać	0.9952719982527191
+udowodnić	koncentrować się	0.7027047325445157
+liczyć	rozważać	1.0114611727317315
+przewidzieć	ignorować	1.0468840154152985
+wahać się	literować	1.0536704817631157
+ustalać	dezorientować	1.1614469078696792
+przypuszczać	udowodnić	0.956717064987813
+wątpić	dopuszczać	1.1654532770785058
+powtarzać	literować	1.1002659054756938
+zapomnieć	zamierzać	0.9372307706094646
+obalać	decydować	0.802859548485414
+zapomnieć	wyjaśniać	1.1535421452493955
+powtarzać	zdumiewać	1.0663773300497128
+poświadczać	uwierzyć	1.07695842038119
+koncentrować się	kojarzyć	0.8200613416740948
+sprawdzać	powtarzać	1.0015659922089564
+udowodnić	liczyć się	1.0846925652713346
+koncentrować się	mieć coś przeciw	0.9526859726007008
+decydować	rozumieć	0.7182112508236688
+zakładać	mieć coś przeciw	0.9919810936058321
+obalać	badać	0.9632019645004638
+kalkulować	uczyć się	0.766931061186449
+formułować	ignorować	1.0609549717301536
+uwierzyć	pamiętać	1.0175261864638732
+obalać	uczyć się	1.1019054356148188
+domniemywać	uczyć się	0.9451064834157649
+wymyślić	przypuszczać	0.9498230430648937
+liczyć się	czekać	1.2055683528615344
+rozwiązać	baczyć	1.188698186854825
+dezorientować	strzec się	0.8786936400032913
+potwierdzać	kształcić	1.0123321057598573
+spekulować	uświadomić sobie	1.1855294039669317
+pojmować	strzec się	1.0035857851109964
+badać	wyłaniać	0.9597038800596742
+wątpić	zgadnąć	1.1023874600199957
+rozważać	zaskoczyć	1.2550181666172155
+liczyć	dotyczyć	1.0315911686829478
+czekać	formułować	0.8910142024503402
+spekulować	sprawdzać	0.7018010664590879
+mieć coś przeciw	studiować	0.956270956214455
+wiedzieć	liczyć	0.9457290684327787
+uwierzyć	wyjaśniać	1.2074726117946963
+literować	zaskoczyć	1.1165060517098506
+potwierdzać	decydować	1.1096962715466334
+przypuszczać	zaskoczyć	1.292017346368535
+obliczać	definiować	0.8764598174730507
+zamierzać	zaskoczyć	0.8945511614974422
+mieć nadzieję	pamiętać	0.9419810940076278
+zapomnieć	wybierać	1.0828295163486648
+wątpić	sprawdzać	0.9123671408284013
+wiedzieć	poświadczać	1.140851235054483
+liczyć się	rozumieć	1.0041482620715267
+definiować	hipnotyzować	1.056955370691378
+dopuszczać	wybierać	0.9961444552042961
+racjonalizować	kojarzyć	0.8512500346728474
+usprawiedliwiać	obliczać	1.194978503515718
+zdumiewać	kalkulować	1.020670472001937
+myśleć	kalkulować	0.746974144355952
+kształcić	kalkulować	0.7988199803217771
+racjonalizować	zapomnieć	0.9744783235435682
+czekać	dezorientować	1.2689903439879495
+wytłumaczyć	wynikać	1.0056130184530219
+selekcjonować	ustalać	1.0076186997913184
+ustalać	studiować	0.8780133062657498
+przychylać się	dowiadywać się	1.245143618459251
+ustalać	czekać	1.1810613875934624
+oceniać	literować	0.9216754378196858
+podejrzewać	dotyczyć	1.095160350932646
+uwierzyć	uświadomić sobie	1.2472851904804083
+zaskoczyć	decydować	0.9745387060495875
+dowiadywać się	decydować	0.9299170146656478
+odejmować	baczyć	1.1263749250068735
+potwierdzać	wyjaśniać	0.8353997184833429
+wiedzieć	zamierzać	1.1052769629184258
+racjonalizować	liczyć	0.8471994632307119
+zaskoczyć	wątpić	1.0518712468217468
+oceniać	wydawać się	1.0632261860560024
+myśleć	dopuszczać	0.9264668162798879
+pojmować	zamierzać	1.0888986776874838
+liczyć	formułować	0.742008289828949
+obliczać	liczyć	0.3459820927740435
+racjonalizować	zastanawiać się	0.77878433278072
+oceniać	dowiadywać się	1.1274422959350607
+dowiadywać się	analizować	0.8090095994997303
+odejmować	uczyć	0.8016009637423939
+uzasadniać	badać	0.7112364514333109
+uwierzyć	mieć nadzieję	0.7115480313171768
+nie dowierzać	dotyczyć	1.1577821825989059
+czytać	wahać się	0.8480303736087562
+potwierdzać	wymyślić	1.118557379554878
+zakładać	wynikać	1.2033949447345997
+wybierać	zarejestrować	1.1515669592590798
+poświadczać	przypominać	1.0501721584493784
+studiować	racjonalizować	0.7468950152997198
+strzec się	mieć coś przeciw	0.5036189814215352
+czytać	usprawiedliwiać	0.7993309942415432
+odejmować	wątpić	1.1286866433056149
+poświadczać	koncentrować się	0.9287742332578353
+zastanawiać się	kalkulować	0.8514945164036656
+selekcjonować	spekulować	0.7228456947785801
+rozważać	nie dowierzać	1.131335673139229
+mieć nadzieję	wynikać	0.9851871601677078
+odejmować	zaskoczyć	1.0724250673065256
+zaskoczyć	ignorować	1.098378774952337
+uczyć się	mieć nadzieję	0.9265622033987336
+wybierać	formułować	1.0207520249659676
+uczyć się	ignorować	0.9270800617086988
+badać	usprawiedliwiać	0.7803992083521405
+sprawdzać	odejmować	0.9283090023885311
+wynikać	baczyć	1.2293264566538813
+obliczać	decydować	0.9837198316307841
+uzasadniać	uwierzyć	0.885856783492852
+decydować	wynikać	0.9083894774668302
+racjonalizować	nie dowierzać	1.226637854831701
+studiować	dopuszczać	0.9683709687917472
+kojarzyć	nie dowierzać	0.9859277242254468
+obliczać	wątpić	1.1402682590892022
+zarejestrować	dotyczyć	1.35821882871039
+kształcić	powtarzać	0.9139617108939768
+rozwiązać	potwierdzać	0.9773390311886904
+przypuszczać	czekać	1.1310864096604367
+uczyć się	podejrzewać	0.9282246736498584
+dotyczyć	wydawać się	1.043182663609879
+podejrzewać	spekulować	0.9123496580893462
+udowodnić	formułować	0.7694563596410086
+wyłaniać	dopuszczać	1.2819076652437067
+korygować	wynikać	1.0091437682791378
+wątpić	zdumiewać	1.1697780018395345
+decydować	zamierzać	0.9470232016779911
+poświadczać	wspominać	0.9982598478414874
+znaczyć	baczyć	1.1979649363161178
+uzasadniać	ignorować	1.2151229339984813
+wynikać	rozwiązać	0.8244014593514577
+przewidzieć	znaczyć	1.264610007683815
+ignorować	mieć nadzieję	0.9621117412113973
+liczyć się	usprawiedliwiać	1.3160244850793585
+wytłumaczyć	nie dowierzać	1.2561933492585777
+odejmować	dopuszczać	1.007713583959546
+przewidzieć	uświadomić sobie	1.032641039679111
+wydawać się	kształcić	0.9074378314332869
+literować	wyłaniać	0.954965053016914
+baczyć	powtarzać	1.071739435291027
+obliczać	udowodnić	1.0004378544178418
+wybierać	wymyślić	0.7932584262526005
+korygować	przypuszczać	1.2440966565422784
+odejmować	dowiadywać się	0.8575257118396646
+powtarzać	zarejestrować	1.0275470026434712
+rozumieć	potwierdzać	1.006079435598752
+rozwiązać	mieć coś przeciw	1.21735952364247
+rozwiązać	zaskoczyć	0.9786704027998347
+baczyć	uczyć się	1.005768799385702
+mieć coś przeciw	domniemywać	0.8654320643712203
+wymyślić	oceniać	1.0225593512473694
+korygować	obalać	0.8571027721857015
+poświadczać	racjonalizować	1.053013472847118
+rozważać	koncentrować się	0.7550972240679397
+czytać	wiedzieć	0.6317175336784419
+potwierdzać	dezorientować	1.3857100875166852
+liczyć	spekulować	1.1583101653942427
+formułować	dopuszczać	1.17910271291306
+literować	domniemywać	1.0397575236159498
+udowodnić	analizować	0.8121826879779227
+baczyć	poświadczać	1.2311278291797945
+rozumieć	spekulować	1.0991209729196172
+badać	korygować	0.9144866381668866
+ustalać	rozumieć	0.8360430223710271
+dopuszczać	wspominać	1.1020407155675285
+wytłumaczyć	myśleć	0.8010394246308422
+strzec się	pamiętać	0.978933480734057
+znaczyć	uświadomić sobie	1.0934906793092036
+uświadomić sobie	zastanawiać się	0.8345422560764558
+przypominać	powtarzać	1.0073376612588196
+domniemywać	wyobrażać sobie	0.6142142188981219
+wybierać	koncentrować się	0.8997739806382584
+wyobrażać sobie	wynikać	1.1345439678690339
+podejrzewać	wydawać się	0.5335881719620166
+zastanawiać się	rozwiązać	0.8932228660214667
+nie dowierzać	zaskoczyć	0.7909998685378311
+zapomnieć	analizować	1.0073381192005653
+zaskoczyć	kalkulować	1.0844418861169658
+wyjaśniać	formułować	1.1179643887923352
+wspominać	pamiętać	0.8012536698831467
+wyobrażać sobie	ignorować	1.050229994154864
+strzec się	usprawiedliwiać	0.9967362284416853
+wymyślić	wspominać	1.1508180676056852
+wynikać	badać	0.9426405766323654
+obalać	wiedzieć	0.9443283784744281
+dezorientować	odejmować	1.0281713769224614
+zamierzać	uczyć się	0.9387785745488774
+przewidzieć	czytać	0.8426313269059392
+znaczyć	kalkulować	0.7355150810853625
+udowodnić	selekcjonować	0.8746871452464136
+badać	wiedzieć	0.7339431573263541
+wymyślić	odejmować	0.8610784263490866
+wątpić	koncentrować się	1.0271145728841853
+literować	baczyć	1.1941738665744754
+formułować	zapomnieć	1.005553583373791
+przypominać	sprawdzać	1.2599612147589143
+zarejestrować	sprawdzać	1.0324456476806643
+zdumiewać	oceniać	1.0691588939137606
+mieć coś przeciw	poświadczać	1.2055367485599897
+udowodnić	baczyć	1.167143463919621
+wiedzieć	uświadomić sobie	0.8300981074779593
+powtarzać	obliczać	0.9390239096478475
+uczyć	podejrzewać	0.9941082975170105
+wymyślić	studiować	0.7158659506009013
+pojmować	uświadomić sobie	0.9360793690916046
+ustalać	zastanawiać się	0.830736646921418
+zapomnieć	udowodnić	1.2202248166179235
+wytłumaczyć	uczyć się	0.788186189340216
+wyłaniać	usprawiedliwiać	1.2893108868306338
+pojmować	powtarzać	0.9599674532771695
+rozumieć	dowiadywać się	0.7009445091085982
+uwierzyć	wspominać	1.1282045129422986
+liczyć się	wahać się	1.1020028149744772
+wątpić	zastanawiać się	1.039429104873814
+ignorować	hipnotyzować	1.1334306699026713
+wydawać się	uczyć	0.845679712385543
+usprawiedliwiać	analizować	0.7809499597949926
+zaskoczyć	wybierać	1.1981443565800558
+podejrzewać	wybierać	1.14177500123993
+rozwiązać	wybierać	1.0031568517596716
+uświadomić sobie	dotyczyć	1.0340109916666163
+sprawdzać	strzec się	1.0053679425586142
+wymyślić	zgadnąć	1.0803627594864798
+przypominać	obliczać	1.0436645251917833
+analizować	badać	0.46181815253851327
+wydawać się	badać	0.8967402657818836
+pojmować	literować	1.005357788959685
+przychylać się	koncentrować się	1.0049426130159271
+zaskoczyć	sprawdzać	1.1614038363270205
+wiedzieć	literować	1.0406035765599595
+powtarzać	oceniać	1.0666096597277204
+liczyć	selekcjonować	0.8815615955726163
+wspominać	badać	0.9557020832669371
+domniemywać	uwierzyć	0.8700559172538435
+pamiętać	formułować	1.0502948620544204
+wspominać	sprawdzać	1.0102612484902325
+pojmować	myśleć	0.7742945537141236
+zapomnieć	pojmować	0.8533531947051491
+pojmować	badać	0.7027183431095696
+zamierzać	dowiadywać się	0.9095887780481718
+uzasadniać	mieć coś przeciw	1.1229818180754223
+koncentrować się	selekcjonować	0.7292465266769409
+wspominać	myśleć	1.0509307112854258
+ustalać	czytać	0.8759475677333224
+racjonalizować	ustalać	0.8246992489812242
+mieć nadzieję	badać	1.08095693904886
+uczyć	obliczać	0.7208686961668729
+wątpić	nie dowierzać	0.725893675564634
+zaskoczyć	zgadnąć	1.1173624816015217
+hipnotyzować	pamiętać	1.168898174935817
+zarejestrować	kalkulować	0.8726170926877789
+decydować	zapomnieć	1.0976727154918282
+korygować	racjonalizować	0.9676099335921889
+mieć coś przeciw	zarejestrować	1.1877640198329034
+potwierdzać	przypominać	1.0977611764868136
+przypuszczać	uwierzyć	1.055586177514207
+przypominać	nie dowierzać	1.0957636080091713
+znaczyć	zakładać	1.0008706294608243
+przychylać się	baczyć	0.9135510902509762
+podejrzewać	zakładać	0.9054729305621946
+obliczać	przypuszczać	1.158703011361155
+sprawdzać	uczyć	0.7036610677602028
+analizować	uświadomić sobie	0.8456576828345685
+wydawać się	kalkulować	1.0144788918096561
+czytać	zaskoczyć	1.02501204394891
+zdumiewać	korygować	1.0747586362280124
+zdumiewać	znaczyć	0.9103238891061466
+czytać	formułować	0.75853176525766
+wydawać się	czytać	0.7659971066428909
+zaskoczyć	przychylać się	1.1946513353451664
+kształcić	zaskoczyć	1.0396547033923014
+kształcić	uczyć	0.39518902721921967
+obliczać	zarejestrować	0.882854163896146
+zapomnieć	domniemywać	1.0447345964192098
+zastanawiać się	analizować	0.5822481025897142
+znaczyć	myśleć	0.8219883578705451
+potwierdzać	obliczać	1.092518810706362
+korygować	hipnotyzować	1.0650500622889547
+przewidzieć	usprawiedliwiać	0.9781982475258807
+liczyć	przypuszczać	1.1345824525639678
+powtarzać	selekcjonować	1.1029405110586221
+liczyć się	korygować	1.0717282145003029
+mieć coś przeciw	wahać się	0.66495891491394
+kalkulować	wytłumaczyć	0.8273091251876769
+studiować	wynikać	0.8801324413424677
+wiedzieć	przychylać się	0.9109740638005924
+wynikać	ignorować	1.0813387186556442
+dowiadywać się	poświadczać	1.0823780168533659
+zapomnieć	kojarzyć	1.0215404592616928
+znaczyć	zamierzać	0.9979955098704576
+wspominać	zakładać	1.1023515212190445
+wybierać	decydować	0.917659679341364
+znaczyć	ustalać	1.0265682987703793
+wynikać	ustalać	1.0691158159193543
+wynikać	myśleć	0.7116455212341006
+kojarzyć	przypominać	0.736403312420581
+definiować	liczyć się	1.093425172275669
+zdumiewać	obalać	1.1714816314691612
+wymyślić	ignorować	0.8905009181134615
+analizować	przychylać się	0.8754927766310144
+czytać	pojmować	0.8260093866759463
+liczyć	nie dowierzać	1.1000702920845213
+zdumiewać	przewidzieć	1.0922063674192983
+wątpić	strzec się	0.8043347650638172
+myśleć	zaskoczyć	0.9215725972639713
+hipnotyzować	rozwiązać	0.9567623584908781
+nie dowierzać	decydować	1.220958967162716
+zakładać	wiedzieć	0.900407354865892
+wytłumaczyć	sprawdzać	0.9012773008637123
+hipnotyzować	zarejestrować	1.2942343954858082
+uwierzyć	hipnotyzować	1.2540673147398562
+przychylać się	znaczyć	1.2024379035822643
+odejmować	wyobrażać sobie	1.1414293217803757
+kształcić	zarejestrować	0.9864016361427725
+literować	podejrzewać	1.0978108967474611
+przypuszczać	zdumiewać	1.1299617562846345
+ustalać	literować	0.870260167517773
+potwierdzać	powtarzać	1.099016331948064
+wyjaśniać	selekcjonować	0.9205194432285496
+zgadnąć	sprawdzać	1.1269059829163126
+baczyć	dowiadywać się	1.1210345542738291
+znaczyć	udowodnić	1.1085101699778566
+poświadczać	zdumiewać	1.2726441593322453
+wahać się	wytłumaczyć	1.1594672358912326
+wątpić	wspominać	1.072424177513561
+odejmować	powtarzać	0.9492776666217084
+decydować	odejmować	0.9972818949553721
+dezorientować	uczyć	1.0025370919401377
+wydawać się	formułować	0.9674780575934449
+sprawdzać	usprawiedliwiać	0.9536230099454582
+wyłaniać	dowiadywać się	1.0292241411368113
+zakładać	sprawdzać	0.7911372010290076
+zamierzać	uczyć	0.993997487412533
+zapomnieć	oceniać	1.1861444532478866
+powtarzać	hipnotyzować	1.0182977419681845
+dezorientować	wiedzieć	1.0740391998527443
+dopuszczać	badać	0.9523611857122554
+kalkulować	obliczać	0.43446269878703
+wynikać	przychylać się	1.1555965699993862
+zdumiewać	domniemywać	1.1096883502264139
+mieć nadzieję	sprawdzać	1.101681780901108
+zamierzać	rozważać	1.0514972151899367
+korygować	odejmować	0.8857416860125088
+liczyć	zamierzać	0.8279590337280732
+uczyć się	wynikać	0.8809916925560827
+wspominać	rozważać	1.189044736874784
+badać	baczyć	0.9637005991776793
+zapomnieć	odejmować	0.9760405923096253
+wiedzieć	baczyć	0.9134499549367675
+liczyć	dopuszczać	1.0413186290317153
+literować	potwierdzać	1.0867614635854315
+wybierać	wynikać	1.1151193610417987
+sprawdzać	baczyć	1.0386167221393752
+uwierzyć	literować	1.123363207593916
+ustalać	baczyć	1.2595640873096567
+zapomnieć	rozumieć	0.8253881012639456
+oceniać	zastanawiać się	0.9430072876535514
+poświadczać	decydować	1.0068493046099287
+zgadnąć	rozwiązać	1.1974534351153785
+domniemywać	kalkulować	1.2360712168735717
+literować	nie dowierzać	1.302185709294003
+zaskoczyć	wyjaśniać	1.2979463307284187
+zastanawiać się	czekać	0.8174751421475192
+kalkulować	oceniać	0.8916413683805821
+dopuszczać	wiedzieć	0.9654933335902931
+czytać	koncentrować się	0.7915775338306673
+dotyczyć	udowodnić	0.8310623742476114
+mieć nadzieję	przychylać się	0.9479890559959481
+powtarzać	wybierać	0.9780028152293258
+strzec się	wspominać	1.148582283426531
+decydować	wymyślić	0.9745587988209236
+wynikać	zgadnąć	1.1880038776695425
+przypuszczać	zastanawiać się	0.8846465771096924
+dezorientować	analizować	1.0961363716681303
+hipnotyzować	wynikać	1.1638953539441979
+korygować	zarejestrować	0.9568755317221036
+wytłumaczyć	dotyczyć	1.172852451087355
+wyłaniać	liczyć	0.9218933306211682
+przychylać się	poświadczać	1.1350012388841038
+oceniać	potwierdzać	1.0203832978944671
+literować	zdumiewać	1.0499248493893742
+nie dowierzać	wyjaśniać	1.2399167506225375
+wybierać	wytłumaczyć	0.8783212332350656
+powtarzać	mieć coś przeciw	0.8488669106624227
+obalać	rozwiązać	1.1310881418671839
+zarejestrować	zastanawiać się	1.0046076110783624
+baczyć	racjonalizować	1.0871415065098404
+koncentrować się	zapomnieć	0.7817171007816988
+zamierzać	wyobrażać sobie	0.9532527086620929
+wynikać	przypuszczać	1.1053224437726372
+formułować	zgadnąć	1.0692203960856494
+sprawdzać	wyłaniać	0.8939058252082693
+korygować	studiować	0.9241639870506219
+domniemywać	przychylać się	1.1740990944736858
+kształcić	rozważać	0.7618597530298105
+przypuszczać	uczyć się	0.9394874464134078
+przewidzieć	baczyć	0.9653414204540249
+przypuszczać	zgadnąć	0.9836394580610214
+obalać	rozumieć	1.002358536337251
+ignorować	obliczać	1.0833529136938589
+kojarzyć	liczyć	0.9379581286577506
+sprawdzać	literować	0.9959014611028238
+wydawać się	dezorientować	0.9237624539734822
+definiować	wyłaniać	0.9083575324758184
+pamiętać	przychylać się	0.9752098936435064
+odejmować	zastanawiać się	0.7699085806043895
+powtarzać	uświadomić sobie	1.0938974088353046
+potwierdzać	uzasadniać	0.9451588154111171
+wytłumaczyć	rozważać	0.9521372356085195
+zarejestrować	zamierzać	1.285808280070811
+wahać się	uświadomić sobie	0.8726135469708551
+koncentrować się	zakładać	0.9086979761476714
+liczyć	wybierać	1.0928611758857598
+badać	powtarzać	1.0197539138548113
+liczyć się	wspominać	1.271969574829293
+kształcić	ignorować	1.0067215955276587
+udowodnić	hipnotyzować	1.1773395501201525
+strzec się	ustalać	1.194609180502263
+selekcjonować	uzasadniać	0.9010910532662502
+formułować	przypuszczać	0.9263532520584843
+uczyć się	zaskoczyć	0.9163935393832201
+dotyczyć	przewidzieć	0.889390643057504
+pojmować	rozumieć	0.6646541694046028
+wydawać się	przewidzieć	0.7236255985039621
+zgadnąć	uczyć się	1.0809616119406338
+zarejestrować	przychylać się	0.8439278111109874
+liczyć się	zakładać	1.3111228709841058
+usprawiedliwiać	zamierzać	1.206812419126233
+usprawiedliwiać	liczyć	1.1999925144351415
+pamiętać	przypuszczać	1.058862798395455
+dopuszczać	oceniać	1.2256081595335637
+mieć coś przeciw	wybierać	0.8514000287934993
+znaczyć	zarejestrować	1.1624382796306656
+czytać	mieć coś przeciw	0.8109189787215237
+potwierdzać	wytłumaczyć	0.9555490514815566
+powtarzać	formułować	1.054507013303461
+spekulować	baczyć	1.1933459040564223
+zamierzać	definiować	1.0929162636363203
+studiować	badać	0.48682058394869937
+racjonalizować	uzasadniać	0.7379666905256266
+przypuszczać	przypominać	1.029759403624067
+literować	wybierać	0.8590211320468157
+wyobrażać sobie	pamiętać	1.063532162534042
+wymyślić	literować	0.8408860299412134
+powtarzać	korygować	1.0339231171704106
+kalkulować	formułować	0.83350615598377
+wyobrażać sobie	oceniać	1.3080226392091556
+wyjaśniać	myśleć	0.8434328169410334
+wytłumaczyć	uczyć	0.8665705570578384
+dowiadywać się	wspominać	1.1465131777785034
+czekać	decydować	1.0504351197987052
+czekać	koncentrować się	0.8088941708906887
+ustalać	pojmować	1.0234995028212228
+decydować	rozważać	0.9512469114131488
+znaczyć	usprawiedliwiać	1.2163778830902696
+dotyczyć	definiować	0.8038905798502541
+przypuszczać	hipnotyzować	1.1661774201290422
+wyjaśniać	analizować	0.6165264828105197
+decydować	przypuszczać	0.829061899986988
+wątpić	mieć coś przeciw	0.6079282517929374
+potwierdzać	uczyć	1.0956306563449658
+mieć coś przeciw	mieć nadzieję	0.9534014173365599
+czytać	korygować	1.0145900099808474
+analizować	powtarzać	0.9441147311660122
+wymyślić	mieć coś przeciw	0.8983284682536207
+wyjaśniać	dezorientować	1.313976090951164
+obalać	dezorientować	1.1610046048226672
+uwierzyć	zdumiewać	1.089680523779438
+zdumiewać	wymyślić	1.0478227771008128
+potwierdzać	wątpić	1.2361496981348108
+studiować	wiedzieć	0.6881846716348157
+przypuszczać	dezorientować	0.9554862325205463
+uzasadniać	zamierzać	1.0069245922773407
+wymyślić	baczyć	1.0976920566173698
+korygować	udowodnić	1.2602896522270142
+udowodnić	usprawiedliwiać	1.1712496412226483
+poświadczać	dezorientować	1.1810430566942318
+wątpić	literować	1.1427034332601624
+zakładać	zastanawiać się	1.00602173580548
+hipnotyzować	uczyć się	1.0886164953314452
+obliczać	wspominać	0.9959961404295176
+baczyć	przypominać	1.0295827879872228
+formułować	ustalać	0.8400470382128218
+obalać	przychylać się	1.127288245781111
+nie dowierzać	czekać	1.1422235339665086
+nie dowierzać	myśleć	1.0021868920897135
+spekulować	wyłaniać	1.1611878473470465
+literować	poświadczać	0.9047916672175061
+obalać	selekcjonować	0.9495168124565996
+wybierać	pojmować	1.0516541024063388
+uwierzyć	przypominać	1.0190556370081092
+zamierzać	studiować	0.9357245578910772
+zdumiewać	wytłumaczyć	1.1750194507335296
+rozumieć	zgadnąć	1.1226001752563932
+dotyczyć	usprawiedliwiać	1.1584972040984105
+przewidzieć	wyobrażać sobie	0.883566549723445
+potwierdzać	dowiadywać się	1.14234034201411
+wyobrażać sobie	przypuszczać	0.8463287936027685
+nie dowierzać	uzasadniać	1.041252409550119
+ustalać	zamierzać	1.0193181095289594
+mieć coś przeciw	zaskoczyć	0.8465514874534225
+mieć coś przeciw	wiedzieć	1.0970121964751276
+czekać	znaczyć	1.1168096627089756
+dotyczyć	wybierać	1.0164400082118006
+zakładać	czekać	1.229342144151954
+przychylać się	wyjaśniać	1.2416794020163553
+liczyć	rozwiązać	0.6800967231548737
+mieć nadzieję	strzec się	0.9107089806478683
+ignorować	mieć coś przeciw	0.5852708263191782
+oceniać	sprawdzać	0.8915845377549046
+uczyć się	studiować	0.2605494604273094
+uwierzyć	badać	0.933011891825646
+przypominać	rozumieć	0.8789662744536343
+kojarzyć	obalać	1.0283603875351333
+dopuszczać	dezorientować	1.2376153837008421
+dowiadywać się	wybierać	0.8958434812154576
+rozważać	obalać	1.088572679140498
+mieć coś przeciw	obalać	0.7875538466606219
+dezorientować	zapomnieć	0.8350661383918226
+potwierdzać	kojarzyć	0.7584790288525931
+zakładać	usprawiedliwiać	1.0651011303849958
+wahać się	definiować	0.996887177478766
+ignorować	poświadczać	1.2498153587115266
+obalać	kalkulować	1.222793166271934
+hipnotyzować	przypominać	1.1679731176669024
+baczyć	uwierzyć	1.1717872853746159
+wyobrażać sobie	racjonalizować	1.1954702061636755
+rozważać	wyłaniać	1.0029327989307015
+wytłumaczyć	dowiadywać się	0.8989185534759063
+dezorientować	pamiętać	1.19198346131342
+literować	studiować	0.8437534408297687
+uwierzyć	strzec się	0.9232133881618535
+mieć coś przeciw	uwierzyć	0.9540456334411245
+liczyć	wydawać się	1.027905919299661
+potwierdzać	domniemywać	1.138340000693804
+rozważać	dezorientować	1.1937385388625095
+racjonalizować	uwierzyć	1.1701056560631182
+liczyć	myśleć	0.6971054998519743
+liczyć się	potwierdzać	1.2650202454900104
+przewidzieć	mieć coś przeciw	0.8461701509430124
+kształcić	uświadomić sobie	0.7931969269971463
+wspominać	wytłumaczyć	1.2502669682298337
+dezorientować	liczyć	1.1000049761299053
+strzec się	wyłaniać	1.2023168766877113
+rozważać	kojarzyć	0.9232307652922584
+koncentrować się	kształcić	0.5224286233492497
+zgadnąć	definiować	1.099386424848124
+uczyć	uwierzyć	0.7868851319524172
+domniemywać	przewidzieć	0.9255300146066165
+uczyć	zapomnieć	0.8640768433134441
+sprawdzać	dowiadywać się	0.8253254066737892
+kalkulować	hipnotyzować	1.2212783931076583
+uwierzyć	dezorientować	1.0499084639268936
+hipnotyzować	wydawać się	1.0444502352773972
+dezorientować	powtarzać	1.241478965599095
+czytać	wyłaniać	1.0154247195243562
+formułować	decydować	0.7611777730218571
+spekulować	definiować	1.1771799111894778
+wynikać	liczyć	0.919408370068036
+wątpić	uzasadniać	1.1498528494671632
+ustalać	korygować	1.1822270155660473
+dotyczyć	uczyć	0.8891086168462448
+definiować	usprawiedliwiać	0.910132956905228
+oceniać	studiować	0.8874901434740523
+wybierać	przewidzieć	0.7874161289977122
+poświadczać	obalać	1.1479346594972202
+wyłaniać	wybierać	1.0826410959195458
+przewidzieć	badać	0.9277943596136773
+przewidzieć	obliczać	1.090981591726714
+selekcjonować	sprawdzać	0.5654200513624074
+dowiadywać się	zdumiewać	0.8363732993081792
+wątpić	wydawać się	0.7714684460647769
+definiować	zapomnieć	1.1489863709872623
+rozumieć	zdumiewać	1.0782873735151606
+oceniać	zakładać	1.0851719868272762
+zakładać	dezorientować	1.0477863148106819
+analizować	przypuszczać	1.092876804616787
+analizować	rozwiązać	0.6898340346523603
+dezorientować	sprawdzać	1.0789524547297855
+uświadomić sobie	koncentrować się	0.8006095065023405
+nie dowierzać	dowiadywać się	1.044167745346709
+spekulować	wiedzieć	1.0131761053595891
+dowiadywać się	obalać	1.123613525234756
+rozwiązać	uczyć się	0.7586106394390335
+uzasadniać	strzec się	1.0729874421271464
+przypominać	mieć coś przeciw	1.0330713064086525
+korygować	wspominać	1.0984365876838103
+kształcić	pojmować	0.6945439834358754
+wytłumaczyć	studiować	0.8630481303285498
+selekcjonować	odejmować	0.7476990519599284
+zarejestrować	ignorować	1.1054172388905965
+spekulować	studiować	0.9379248611450213
+badać	mieć coś przeciw	0.9160693130486809
+racjonalizować	zdumiewać	1.0825706991154107
+rozważać	przewidzieć	0.8543533449968459
+racjonalizować	mieć nadzieję	1.154320044537926
+zarejestrować	racjonalizować	1.0972544574368557
+dowiadywać się	wyjaśniać	0.9447339346553287
+zakładać	badać	1.058144473879278
+wahać się	udowodnić	1.1934644513875654
+wytłumaczyć	wiedzieć	0.8934145350523529
+rozwiązać	koncentrować się	0.8300900859068637
+przypuszczać	poświadczać	1.1354135045839244
+uczyć	oceniać	1.0740908491356858
+obliczać	badać	0.9321700053602968
+hipnotyzować	formułować	1.1120293383321669
+strzec się	kojarzyć	0.9328351388767352
+zarejestrować	rozumieć	1.0304578825198099
+wymyślić	uczyć	0.6991302185866277
+dowiadywać się	wymyślić	0.7016017109488452
+liczyć	wahać się	0.9079400373534992
+kalkulować	przypuszczać	1.191106549976253
+analizować	czytać	0.6638651673155926
+zakładać	uzasadniać	1.0523354954275264
+wątpić	wybierać	0.8540818415165456
+uczyć się	decydować	0.9493341700674713
+wytłumaczyć	kojarzyć	0.9336179732057746
+domniemywać	usprawiedliwiać	0.9137223238369282
+zarejestrować	decydować	1.1789019495953428
+zakładać	zapomnieć	1.0480278043533127
+wspominać	kojarzyć	0.9790849553056907
+kojarzyć	analizować	0.8397604677173129
+zakładać	uwierzyć	1.0816173306784487
+myśleć	studiować	0.45491735901371577
+usprawiedliwiać	dopuszczać	1.2341731769142386
+zakładać	zarejestrować	1.0622127294243155
+myśleć	zdumiewać	0.8565960704846741
+wyobrażać sobie	wymyślić	0.9619468232941657
+uczyć	wybierać	0.8654944057271198
+korygować	selekcjonować	0.7451543766653321
+wyjaśniać	rozumieć	0.8425013322488939
+racjonalizować	decydować	0.9670040150756535
+obliczać	selekcjonować	0.8549744791979594
+spekulować	racjonalizować	1.1021518686865779
+zastanawiać się	podejrzewać	1.007903965222254
+oceniać	myśleć	0.9127962757236407
+selekcjonować	hipnotyzować	1.2056996237301552
+analizować	zdumiewać	1.2259191451700606
+literować	korygować	0.9348544433318601
+zarejestrować	wymyślić	1.1905735605689065
+zgadnąć	przychylać się	1.1367525661219031
+analizować	formułować	0.8377784538479732
+potwierdzać	hipnotyzować	1.2629846826625337
+liczyć	uczyć	0.8115232032577945
+rozważać	racjonalizować	0.790298749426614
+studiować	mieć nadzieję	0.9613601649531267
+zaskoczyć	dowiadywać się	1.0561680131998332
+sprawdzać	wydawać się	0.8810807213827742
+przychylać się	liczyć się	1.0696195646430458
+wydawać się	uzasadniać	1.1050852530614763
+udowodnić	obalać	1.0833396317257726
+rozumieć	rozwiązać	0.904391100076897
+wyobrażać sobie	dotyczyć	1.054391315588346
+udowodnić	zakładać	1.1390012652279873
+wybierać	dezorientować	1.0505958747855313
+wyobrażać sobie	dezorientować	1.01998582520704
+przewidzieć	rozwiązać	1.2212852330990547
+liczyć się	hipnotyzować	1.1438399795713214
+koncentrować się	formułować	0.6775042729916536
+przewidzieć	oceniać	1.1293638058590758
+baczyć	wytłumaczyć	1.3901223198378603
+literować	dotyczyć	0.9801240845732021
+wybierać	analizować	0.7127733878063183
+przypominać	studiować	0.9030906562377573
+czytać	oceniać	1.0132560081436794
+czytać	studiować	0.561791210064021
+wyjaśniać	zdumiewać	1.1264811372258363
+wytłumaczyć	zamierzać	1.1110020778835976
+wspominać	oceniać	1.1319241102583464
+ignorować	podejrzewać	0.7762277426756046
+pamiętać	zastanawiać się	0.8467120599493931
+pojmować	wiedzieć	0.621674457465963
+uczyć się	analizować	0.6451084770057766
+mieć nadzieję	nie dowierzać	0.8574331526320643
+rozumieć	usprawiedliwiać	0.9734425019242886
+wydawać się	dopuszczać	0.9261956782328147
+pojmować	nie dowierzać	1.0088755456735172
+mieć nadzieję	kształcić	1.1423931020527394
+myśleć	mieć nadzieję	1.0728924822159993
+kalkulować	powtarzać	0.9844152912690911
+przychylać się	kalkulować	0.98852159632679
+znaczyć	zapomnieć	1.2236908303658416
+myśleć	wybierać	0.7152132965044833
+powtarzać	uczyć	0.8313666774743762
+uczyć się	potwierdzać	0.9797838100970663
+rozwiązać	ignorować	1.1748363693760993
+zakładać	pojmować	1.0977134193327174
+wynikać	uzasadniać	0.8659879602812569
+baczyć	wyłaniać	1.2102046047640065
+pamiętać	kształcić	0.8799788709737898
+nie dowierzać	dopuszczać	1.2217135659680411
+podejrzewać	strzec się	1.006174880039527
+wyobrażać sobie	czytać	0.8631025931937568
+uczyć się	udowodnić	0.7011862575861574
+zapomnieć	powtarzać	1.1256886996871454
+ustalać	analizować	0.9239295953279819
+uzasadniać	czekać	1.1509585887998008
+czytać	odejmować	0.8322495514024886
+czekać	przypominać	0.9932114287651492
+obalać	podejrzewać	1.0590073266228233
+liczyć się	odejmować	0.5362559158829517
+ignorować	przychylać się	1.022541173757579
+ignorować	selekcjonować	0.920245141545997
+pamiętać	przewidzieć	1.0116481378641087
+domniemywać	studiować	0.997235189537845
+przychylać się	ustalać	1.3803208662682775
+zapomnieć	wyobrażać sobie	1.0619184797869132
+obliczać	czekać	1.1609687625321483
+badać	zgadnąć	1.1618989435298637
+selekcjonować	pamiętać	0.8766171156312073
+definiować	zdumiewać	1.0976745537132502
+dotyczyć	czytać	0.7715430014527727
+liczyć się	studiować	0.8843398634466715
+liczyć	rozumieć	1.019665486842251
+uczyć	wyłaniać	1.0595583357436016
+poświadczać	wyłaniać	1.0035454350251394
+przypuszczać	uzasadniać	1.0904221293617653
+wytłumaczyć	literować	0.8894849899602707
+formułować	przychylać się	1.0816912943419597
+korygować	wahać się	1.2023569987515945
+kształcić	domniemywać	1.0312044347058358
+mieć nadzieję	kojarzyć	0.8201549724355546
+przypuszczać	racjonalizować	0.9743231128758318
+czytać	sprawdzać	0.6735466582103826
+wyobrażać sobie	wahać się	0.8927599307725004
+pojmować	dowiadywać się	0.7839222266799962
+sprawdzać	wymyślić	0.7529587281446527
+badać	pamiętać	0.8880004551633134
+zdumiewać	zaskoczyć	0.7672948986550134
+dopuszczać	zapomnieć	1.2017382222414954
+dezorientować	dowiadywać się	1.060651434262885
+wyjaśniać	przypuszczać	1.1024588083696143
+wyłaniać	zgadnąć	1.1068146633752705
+rozważać	przypominać	0.9809747921776119
+wyjaśniać	dopuszczać	1.1853930500466832
+selekcjonować	uczyć się	0.7314369615437052
+strzec się	przypominać	1.0116843920495884
+wydawać się	dowiadywać się	1.0056667783210116
+udowodnić	mieć coś przeciw	1.2359885805066755
+obliczać	wynikać	0.793376423639469
+wyłaniać	selekcjonować	0.9705957941615259
+nie dowierzać	wynikać	0.9680699505855651
+wspominać	zgadnąć	1.0209218593357638
+mieć nadzieję	zakładać	1.15295204603318
+czytać	podejrzewać	1.018760239633312
+dowiadywać się	dopuszczać	1.1629995226689738
+wydawać się	selekcjonować	0.9060096037916104
+obliczać	mieć coś przeciw	1.1961131087818289
+poświadczać	dopuszczać	1.0822711215565655
+spekulować	zgadnąć	1.1937723055137006
+decydować	dezorientować	1.1940563620216957
+wątpić	decydować	1.177213001732192
+czytać	rozumieć	0.9217403440732069
+uzasadniać	definiować	0.5704206698785235
+uświadomić sobie	przychylać się	0.926313309823177
+selekcjonować	podejrzewać	0.9694772294926124
+obalać	przewidzieć	1.1697570410004372
+zdumiewać	zakładać	1.1830055756386053
+koncentrować się	pamiętać	0.7529855562447115
+kalkulować	przewidzieć	1.071862892502298
+uczyć	analizować	0.5530158324716082
+selekcjonować	zastanawiać się	0.8545845698097833
+studiować	strzec się	1.0098740825010526
+pojmować	domniemywać	1.0840383154720994
+racjonalizować	powtarzać	1.0853221291696378
+zdumiewać	pojmować	1.1972595236020778
+zdumiewać	mieć nadzieję	1.0124142265709646
+liczyć	pamiętać	1.0172546327770136
+mieć coś przeciw	uczyć	1.0765147463193656
+zdumiewać	wspominać	1.1600184078643552
+decydować	udowodnić	0.9115067239615889
+przypuszczać	definiować	1.0086488512278848
+znaczyć	koncentrować się	0.8478724010657747
+myśleć	spekulować	1.0557048199176027
+uwierzyć	zapomnieć	1.1573272465930498
+wydawać się	domniemywać	0.45462464110295053
+definiować	uświadomić sobie	0.8861448879740659
+liczyć	zaskoczyć	1.0387828981969303
+usprawiedliwiać	zgadnąć	1.538302707777099
+analizować	oceniać	0.9945608024921566
+wynikać	dowiadywać się	0.8301267781698765
+obliczać	wytłumaczyć	0.8764438105131739
+dowiadywać się	kalkulować	0.8825651041364342
+zarejestrować	dopuszczać	1.260433054254967
+czekać	definiować	0.9030702233063097
+literować	przypominać	1.093306525631205
+powtarzać	pamiętać	0.9892849553717473
+ignorować	studiować	0.9512533439388096
+zapomnieć	literować	1.0714510306620555
+udowodnić	sprawdzać	0.687223275114794
+wyobrażać sobie	korygować	1.3498209495451636
+wyobrażać sobie	wybierać	0.844682915873247
+uczyć	hipnotyzować	1.0126669044039547
+przypominać	selekcjonować	1.1086288806013354
+oceniać	odejmować	1.0282469806362888
+koncentrować się	przewidzieć	0.854287612780084
+zarejestrować	spekulować	0.9627709470674074
+kształcić	literować	0.9572895519390094
+rozważać	wyjaśniać	0.8926429069321139
+obliczać	strzec się	1.0958027336228968
+przewidzieć	zgadnąć	1.0951956139945809
+myśleć	przychylać się	1.0724440607092982
+przychylać się	kształcić	0.9671251339003019
+korygować	wytłumaczyć	0.9665769956073785
+strzec się	wybierać	0.9092189515020248
+koncentrować się	nie dowierzać	0.8653485837140175
+analizować	wahać się	0.9765768494079897
+dopuszczać	liczyć się	1.1436796125263373
+wymyślić	czytać	0.7295945167007162
+wyłaniać	hipnotyzować	1.2463783817297407
+zakładać	rozwiązać	1.0955050076640906
+strzec się	racjonalizować	1.0868958395634842
+ustalać	rozważać	0.6931474616930975
+zaskoczyć	wytłumaczyć	1.3703971371153274
+rozwiązać	dopuszczać	1.0391477547799726
+hipnotyzować	obliczać	1.0873691697944796
+wynikać	zaskoczyć	1.024762044354266
+uwierzyć	formułować	0.9766846503445467
+podejrzewać	baczyć	0.8282670092414148
+badać	rozważać	0.7905741801897544
+selekcjonować	myśleć	0.7548063683028986
+uwierzyć	dopuszczać	0.9527221596798974
+oceniać	przychylać się	1.093937238551597
+definiować	kalkulować	1.000190117849233
+pojmować	wydawać się	1.0273853909049762
+zaskoczyć	selekcjonować	1.1303926114209921
+kształcić	kojarzyć	0.6645332889949674
+koncentrować się	definiować	0.8072064022886718
+dowiadywać się	powtarzać	1.0200287392796943
+zgadnąć	przypominać	1.155844238619041
+strzec się	baczyć	0.7255780179723066
+wyjaśniać	decydować	1.071056096140074
+uzasadniać	korygować	1.0467410837485185
+zakładać	wydawać się	0.8276983235102984
+wybierać	obalać	0.9790896934700187
+rozwiązać	uzasadniać	0.7025900455617853
+udowodnić	wydawać się	0.8700887178181964
+wydawać się	decydować	0.9846254943893765
+hipnotyzować	przewidzieć	0.9924086254132753
+kojarzyć	podejrzewać	0.9591620017039459
+liczyć	mieć nadzieję	0.9644958526386146
+zgadnąć	wyobrażać sobie	1.105880684381243
+rozwiązać	zapomnieć	0.9250901995997224
+racjonalizować	odejmować	0.8069443822159854
+wydawać się	wahać się	0.659693079127342
+odejmować	mieć coś przeciw	1.1642869125951631
+wątpić	wytłumaczyć	1.2109879149322353
+decydować	definiować	1.0827963062532417
+uświadomić sobie	ustalać	1.0231983389017898
+wyjaśniać	znaczyć	1.1699543375018386
+zaskoczyć	pamiętać	0.9472292935963481
+podejrzewać	rozumieć	0.9002993597873271
+kojarzyć	oceniać	0.9328228014474991
+podejrzewać	pojmować	1.0751188806689924
+wybierać	studiować	0.8120101227219814
+analizować	wyłaniać	0.9968899579628059
+uczyć się	odejmować	0.7103148232211359
+uwierzyć	wątpić	0.9618578473374926
+wytłumaczyć	zgadnąć	1.2377382392226415
+nie dowierzać	zgadnąć	1.3436083851291019
+dopuszczać	uczyć się	1.0168735284734127
+zakładać	strzec się	1.0461265410281357
+zgadnąć	liczyć	0.9706549355476977
+odejmować	poświadczać	1.1559391987391394
+wytłumaczyć	kształcić	0.8436219392222816
+literować	decydować	0.8716075905470159
+liczyć się	mieć nadzieję	0.9208978810030011
+udowodnić	pamiętać	0.9427376079232982
+mieć coś przeciw	definiować	1.0247379777341379
+spekulować	strzec się	0.8523195759452484
+baczyć	dotyczyć	1.1376954852013104
+udowodnić	przypominać	1.0794770520048902
+definiować	sprawdzać	0.7255312137723097
+czytać	zastanawiać się	0.8095251546904219
+uświadomić sobie	oceniać	1.0674297127740604
+koncentrować się	wyobrażać sobie	0.8299445082070185
+wybierać	uwierzyć	0.905791975558959
+znaczyć	zaskoczyć	1.201848568386284
+czytać	wytłumaczyć	0.8688382304371097
+znaczyć	kształcić	0.9932337293446903
+wspominać	liczyć	0.9707981271775259
+analizować	znaczyć	0.8964680403079982
+korygować	formułować	1.0854942012749664
+wydawać się	koncentrować się	0.7276651059965544
+wiedzieć	uczyć się	0.612845121425482
+kojarzyć	ignorować	0.8807257700231436
+udowodnić	czekać	1.0644112881304748
+decydować	usprawiedliwiać	1.128303061731709
+podejrzewać	zaskoczyć	1.2246506570683124
+pojmować	uczyć się	0.7364303255277075
+myśleć	zamierzać	0.8171111308579501
+usprawiedliwiać	dezorientować	1.271279051935677
+wiedzieć	powtarzać	1.1142494497360946
+wybierać	obliczać	1.050172971104478
+wspominać	nie dowierzać	1.0581350556666227
+kształcić	obliczać	0.7093924466479921
+wytłumaczyć	przychylać się	1.086771802143771
+zdumiewać	wydawać się	0.9651763521687517
+potwierdzać	sprawdzać	0.9428879989060085
+uczyć	koncentrować się	0.4942306114390369
+zapomnieć	korygować	1.0441487207874622
+hipnotyzować	zapomnieć	0.9904411055242595
+zapomnieć	zarejestrować	1.1257545822617565
+przewidzieć	nie dowierzać	1.1209845825314333
+wiedzieć	podejrzewać	0.9406973492315495
+strzec się	uczyć się	0.9992831558082411
+mieć coś przeciw	literować	1.0044907305244037
+przypuszczać	kojarzyć	0.8643972744468233
+usprawiedliwiać	studiować	0.7864792093038785
+baczyć	formułować	1.1570683772940333
+myśleć	poświadczać	0.9529828751715862
+hipnotyzować	usprawiedliwiać	1.110295051735679
+myśleć	racjonalizować	0.6431176761138198
+przychylać się	czytać	1.0505706966948511
+uświadomić sobie	decydować	0.9232293122498693
+formułować	odejmować	0.7453342206996855
+racjonalizować	znaczyć	1.0455981172322677
+ignorować	wyjaśniać	1.1689472308077653
+wynikać	koncentrować się	0.7402528552421018
+powtarzać	wątpić	0.846748098835825
+strzec się	zarejestrować	1.084166676910735
+mieć coś przeciw	korygować	1.3213523366664253
+usprawiedliwiać	przypominać	1.235645945898982
+uwierzyć	udowodnić	1.0458594476890735
+wyjaśniać	podejrzewać	1.149573214835378
+wydawać się	myśleć	0.8106095460131909
+baczyć	dezorientować	1.0779020510116142
+wymyślić	zakładać	0.8049723396847259
+liczyć się	wiedzieć	1.0681363505696102
+wahać się	wspominać	1.0861274932301836
+czytać	zgadnąć	0.9605572122113932
+rozważać	korygować	1.1327340219136106
+sprawdzać	domniemywać	0.7967367074742324
+wyjaśniać	ustalać	0.9441683370596258
+rozważać	znaczyć	0.9307845086840782
+dopuszczać	mieć coś przeciw	1.044398629663224
+czytać	kształcić	0.6653280486299765
+zamierzać	badać	1.0639002528359824
+badać	czytać	0.6030922356799056
+mieć nadzieję	przypuszczać	0.9112310551152698
+rozważać	zarejestrować	1.2128579077626296
+odejmować	znaczyć	0.8168118783153897
+ignorować	wybierać	0.8602459506736297
+kalkulować	wątpić	1.2367880320871247
+dotyczyć	koncentrować się	0.9057503581975197
+myśleć	uczyć się	0.44365651979012105
+koncentrować się	wyłaniać	0.8888832472757062
+ignorować	liczyć się	1.1458344230807105
+koncentrować się	wspominać	0.9616861610395371
+liczyć się	pamiętać	1.1826236501462661
+kalkulować	poświadczać	1.0166442587049034
+rozumieć	uświadomić sobie	0.6810524342579284
+ustalać	obliczać	1.0693624233106171
+uczyć się	zakładać	0.9889075268348276
+uwierzyć	selekcjonować	1.1245959526065505
+definiować	przypominać	1.00927795444549
+obliczać	korygować	0.9215536149133982
+zgadnąć	podejrzewać	0.8753811687119963
+koncentrować się	przypominać	0.8492227835613445
+wspominać	uczyć się	0.9479190076362635
+analizować	mieć coś przeciw	0.9931889743716654
+spekulować	pojmować	0.8702898018549606
+uczyć się	przypominać	0.82969274632633
+liczyć	wątpić	1.1434553511593673
+liczyć	dowiadywać się	0.8820290212142831
+selekcjonować	racjonalizować	0.7773749848816199
+myśleć	podejrzewać	0.9788770245099333
+wyłaniać	przypominać	0.9023783958146867
+znaczyć	potwierdzać	1.168160882637157
+powtarzać	wyłaniać	1.2286967099487243
+rozwiązać	usprawiedliwiać	1.0890282294166964
+literować	kojarzyć	0.8183862571824891
+przewidzieć	zakładać	1.0987442245109906
+uzasadniać	podejrzewać	1.1665017384474439
+formułować	przypominać	1.0462165658323743
+spekulować	uczyć się	0.9612651301864438
+zaskoczyć	wyobrażać sobie	1.163488015789644
+uwierzyć	wahać się	0.7185496462947849
+uczyć się	dotyczyć	0.7485443054726912
+przewidzieć	pojmować	1.13895337752872
+decydować	dopuszczać	1.0509558922968725
+decydować	zdumiewać	1.1847010973479055
+dezorientować	zastanawiać się	1.025187489924909
+literować	dezorientować	0.9995226036076997
+obliczać	zamierzać	0.8262230255194519
+racjonalizować	uczyć	0.7359325651656526
+wytłumaczyć	badać	0.8664872558716715
+powtarzać	wspominać	1.119663430660725
+hipnotyzować	kojarzyć	1.0433890583060372
+zarejestrować	dezorientować	1.216517533848453
+wyobrażać sobie	uwierzyć	0.7349899741690274
+wyobrażać sobie	liczyć się	1.1135678290870588
+zapomnieć	usprawiedliwiać	1.0223089176275655
+selekcjonować	formułować	0.8395277084448922
+definiować	uczyć się	0.7416451806883884
+zapomnieć	studiować	0.8691041623784178
+pamiętać	rozumieć	0.8047526223365018
+badać	kształcić	0.5577192288112613
+obalać	wyłaniać	1.1490886213169431
+nie dowierzać	ustalać	1.279095611268839
+wahać się	pojmować	0.9645728390047841
+myśleć	uświadomić sobie	0.7146968625699369
+uwierzyć	wynikać	1.1616487954646557
+przypominać	wyjaśniać	1.1881542633493924
+zapomnieć	pamiętać	1.0141002206961394
+czekać	dowiadywać się	0.9480519194826446
+usprawiedliwiać	racjonalizować	0.9311207640564578
+selekcjonować	przewidzieć	1.030889436289812
+pamiętać	uzasadniać	0.9388828417686057
+uwierzyć	definiować	0.8775639897231703
+udowodnić	wynikać	1.0100587901641922
+wątpić	uczyć się	1.0382460510345035
+dowiadywać się	czytać	0.768490648633835
+mieć coś przeciw	wyłaniać	1.2560911807347388
+pojmować	formułować	1.0345877673160635
+uwierzyć	zamierzać	0.8506838896550363
+ignorować	domniemywać	0.8555957210441557
+przewidzieć	wiedzieć	0.9906771131997187
+nie dowierzać	uwierzyć	1.003114424097254
+mieć coś przeciw	selekcjonować	1.1125453091642323
+analizować	dotyczyć	0.8684982885727038
+wyłaniać	kalkulować	0.8046789479901304
+uświadomić sobie	zaskoczyć	1.1002460533951994
+zastanawiać się	usprawiedliwiać	0.8921719457579094
+rozumieć	wyobrażać sobie	1.0333513910188752
+wydawać się	poświadczać	0.9449782096157832
+odejmować	myśleć	0.676336710049099
+formułować	zdumiewać	1.0668480327431098
+obalać	baczyć	1.0672012569527527
+zdumiewać	liczyć się	1.1269124394892371
+przypuszczać	powtarzać	1.2583182119780278
+przypuszczać	studiować	0.8602121156677759
+nie dowierzać	formułować	1.2440345237697394
+dotyczyć	liczyć się	1.1697241964085305
+wspominać	przypominać	0.8040345778329946
+wyobrażać sobie	potwierdzać	1.1030160351348626
+zarejestrować	czytać	0.8647208235370825
+strzec się	udowodnić	1.1195034533655275
+badać	wymyślić	0.693447781620556
+obalać	studiować	0.9581359670056946
+mieć nadzieję	czekać	1.1265106932009679
+spekulować	literować	1.132298766290686
+zastanawiać się	udowodnić	0.9167684034791033
+dotyczyć	wątpić	1.2125382672289795
+strzec się	czekać	1.0595752744516105
+hipnotyzować	koncentrować się	0.9090846597512836
+kojarzyć	mieć coś przeciw	1.0837601135898036
+uwierzyć	korygować	1.1773651513609358
+ignorować	ustalać	1.205785634905318
+korygować	rozwiązać	0.8367168744034168
+wątpić	udowodnić	1.2801499402103345
+uzasadniać	usprawiedliwiać	0.8545326475634055
+kalkulować	dezorientować	1.125928982369003
+korygować	domniemywać	1.2920046819708944
+przypuszczać	wyłaniać	0.9981963599658786
+liczyć się	racjonalizować	0.942450111526076
+strzec się	kształcić	1.0665873132203942
+uczyć	wiedzieć	0.5940978813226994
+wyjaśniać	wahać się	1.2087032390217487
+obliczać	rozważać	1.0374781243136189
+formułować	spekulować	1.2147354915063058
+rozwiązać	obliczać	0.7275638122738467
+badać	dotyczyć	0.942617929344294
+domniemywać	wspominać	1.2097523113506445
+wytłumaczyć	pamiętać	1.038625737476307
+domniemywać	mieć nadzieję	1.0163680997275533
+uświadomić sobie	zgadnąć	1.055134244400751
+domniemywać	kojarzyć	0.9422450898315319
+liczyć się	wątpić	1.1771700193763126
+hipnotyzować	wiedzieć	1.2240370515262995
+uwierzyć	wiedzieć	1.0047350525981178
+wyjaśniać	kalkulować	1.1137475730397342
+rozwiązać	dezorientować	0.946125943739815
+myśleć	wyobrażać sobie	0.8826858583261281
+dotyczyć	strzec się	1.1697114252277
+potwierdzać	czytać	0.8826132144813396
+pamiętać	studiować	0.7957007151641975
+zaskoczyć	wydawać się	1.05315510712649
+ignorować	rozważać	1.236063990381654
+potwierdzać	wahać się	1.2207411824350298
+usprawiedliwiać	uczyć	0.7786535226476211
+uzasadniać	zgadnąć	1.2387668845311877
+wymyślić	spekulować	0.761914682725068
+sprawdzać	kształcić	0.7662777385118412
+rozważać	wymyślić	0.8424839352096699
+badać	kojarzyć	0.817328429944782
+kształcić	formułować	0.6924598080687848
+domniemywać	zakładać	0.9797080504773324
+myśleć	kształcić	0.5433667091408202
+wyłaniać	myśleć	0.8588148037216898
+przypominać	domniemywać	1.2303216736458844
+pamiętać	wyłaniać	0.9790188114111342
+powtarzać	wytłumaczyć	1.0012738462749828
+kojarzyć	zamierzać	0.9481237794989069
+przypuszczać	wątpić	1.0320703974649212
+studiować	wyobrażać sobie	0.9890656258683453
+wytłumaczyć	wyjaśniać	0.9319980615719393
+przychylać się	odejmować	0.9290917785466266
+przewidzieć	przypuszczać	0.9001680427587995
+wynikać	wyłaniać	0.7182779687400952
+potwierdzać	ustalać	1.2417698000968562
+uczyć się	uświadomić sobie	0.689734378616812
+uczyć się	liczyć się	0.9463034339229991
+potwierdzać	definiować	0.9869350397891942
+myśleć	udowodnić	0.6263336882282807
+zamierzać	koncentrować się	0.8410384480776024
+oceniać	selekcjonować	0.8373957592389684
+badać	selekcjonować	0.6130908690228227
+zgadnąć	rozważać	1.2906111627903971
+dezorientować	zgadnąć	1.136008185969303
+zdumiewać	studiować	0.9982761922752598
+obliczać	dowiadywać się	0.9178727980346257
+przychylać się	korygować	1.0528642173211231
+studiować	uświadomić sobie	0.7655685197080548
+znaczyć	uwierzyć	0.7524234531041646
+sprawdzać	czekać	1.2590606172200043
+przewidzieć	udowodnić	0.9206433944104029
+literować	znaczyć	0.8914758899712166
+usprawiedliwiać	zarejestrować	1.315988374378145
+wynikać	zdumiewać	1.122984024146467
+udowodnić	oceniać	1.1063276204795307
+wyłaniać	kojarzyć	1.0342426490215908
+zarejestrować	wiedzieć	0.8950361956635492
+zaskoczyć	definiować	1.181458872285608
+zdumiewać	wiedzieć	1.1540453027471032
+wątpić	formułować	1.199972281128987
+oceniać	domniemywać	1.2088542244292466
+mieć nadzieję	wyjaśniać	1.342476615939799
+zamierzać	przypuszczać	0.843462886965226
+kształcić	wspominać	0.9071816711902841
+podejrzewać	rozważać	1.2624356510531562
+rozważać	mieć nadzieję	1.196564285581866
+dezorientować	przypominać	1.3079320003045187
+racjonalizować	zamierzać	1.0775056295321686
+spekulować	ignorować	1.0657351655639575
+kalkulować	zapomnieć	0.9794248445503312
+definiować	strzec się	1.0974181965971228
+ignorować	obalać	0.9299849316725703
+uczyć się	przychylać się	0.8633464859748753
+mieć nadzieję	dezorientować	0.8169548343035713
+mieć nadzieję	wymyślić	0.9615975078209436
+hipnotyzować	dopuszczać	1.2664161865764059
+racjonalizować	hipnotyzować	0.9980643611363491
+zaskoczyć	powtarzać	1.1107410270026972
+mieć coś przeciw	formułować	1.1258289422324714
+wybierać	przychylać się	0.9909115408205541
+wybierać	zdumiewać	1.0500885837487026
+zapomnieć	liczyć	0.9786966084703367
+wyobrażać sobie	hipnotyzować	1.0517128396599917
+literować	obliczać	0.8862319343648657
+spekulować	uwierzyć	1.082003315200663
+uczyć	liczyć się	0.8686036326247552
+czekać	dopuszczać	1.245210075714921
+pamiętać	dotyczyć	1.061115135395686
+udowodnić	odejmować	1.018963390914249
+kojarzyć	udowodnić	0.8196789648292293
+wyobrażać sobie	obliczać	1.107649512477298
+zastanawiać się	wyjaśniać	0.8705209515676022
+wiedzieć	czekać	1.0650526581067035
+udowodnić	ignorować	1.1435162798299472
+uzasadniać	wybierać	0.973355996184791
+strzec się	zaskoczyć	0.9985545204992964
+analizować	odejmować	0.7878530500446298
+ignorować	definiować	1.0719398997109961
+mieć nadzieję	koncentrować się	0.9027442087561641
+pojmować	wspominać	0.9214270783955578
+uczyć się	powtarzać	0.9145963688815747
+wybierać	odejmować	1.103369425798385
+przypuszczać	rozważać	1.1640667021022693
+literować	uczyć się	0.834032165366784
+odejmować	zarejestrować	0.894531607190184
+udowodnić	uzasadniać	0.811734690288428
+mieć nadzieję	wydawać się	0.9372330247131287
+podejrzewać	wymyślić	0.9073698715880201
+decydować	hipnotyzować	1.1591110884912454
+wydawać się	obalać	1.0970055710272328
+wydawać się	usprawiedliwiać	0.931431714259195
+uczyć	przewidzieć	0.9531702205329928
+wiedzieć	kojarzyć	0.9317260758547424
+dotyczyć	racjonalizować	0.7646271223072998
+przypuszczać	znaczyć	1.21201413601326
+wydawać się	wyłaniać	1.1626034660674054
+oceniać	zgadnąć	1.1712082371153936
+przypominać	wyobrażać sobie	1.1009839656762301
+wyłaniać	wyjaśniać	1.1098690069160821
+pojmować	zastanawiać się	0.7491723759989024
+wątpić	spekulować	1.05176732850187
+liczyć się	czytać	0.9731494057411844
+kalkulować	korygować	0.8927019195644673
+kojarzyć	wahać się	0.8080843066487546
+kształcić	decydować	0.9539921508634626
+zamierzać	zdumiewać	0.7993697247653815
+pojmować	racjonalizować	0.8090840105890816
+definiować	wymyślić	0.819324079274429
+dopuszczać	pojmować	1.0693759566053647
+racjonalizować	podejrzewać	0.9160404217951829
+wydawać się	zastanawiać się	0.9378416312785705
+ustalać	spekulować	1.2313955488075534
+selekcjonować	dezorientować	1.1099187655609537
+zgadnąć	zastanawiać się	1.2976966655036053
+przewidzieć	definiować	0.9823432702449707
+udowodnić	badać	0.8472466366193484
+usprawiedliwiać	rozważać	0.8472722661702787
+oceniać	przypuszczać	1.1907878426587408
+wymyślić	wyjaśniać	0.891241294183673
+zastanawiać się	zapomnieć	0.976271712333047
+potwierdzać	poświadczać	0.708468618785766
+zastanawiać się	wyłaniać	0.7545473521871547
+znaczyć	korygować	0.9254211262314121
+ustalać	odejmować	1.0428486051969195
+zaskoczyć	udowodnić	1.3067523867708586
+wspominać	mieć nadzieję	1.1351196919355313
+zamierzać	podejrzewać	0.9057184174812163
+uwierzyć	sprawdzać	1.0118282077076566
+racjonalizować	uczyć się	0.7747803870288984
+myśleć	wątpić	1.0210267117069223
+racjonalizować	zgadnąć	1.0842317421507413
+analizować	czekać	1.1429345672642335
+nie dowierzać	zamierzać	0.9858322506203305
+rozwiązać	ustalać	1.0582114452223297
+usprawiedliwiać	mieć coś przeciw	0.8886737203689616
+mieć coś przeciw	wyjaśniać	1.1301682882992632
+przypominać	obalać	1.0619837493226412
+decydować	ignorować	0.9271839355403462
+czekać	hipnotyzować	1.2541668110112572
+mieć coś przeciw	wytłumaczyć	1.2599555666619988
+dowiadywać się	strzec się	0.9603309384562045
+decydować	zastanawiać się	1.0036574596645798
+rozwiązać	literować	0.9049047830100726
+kształcić	liczyć	0.7822765705649591
+wyłaniać	rozwiązać	0.9317266615522765
+wahać się	strzec się	0.730113832533586
+domniemywać	obliczać	1.110011740990778
+dopuszczać	przypominać	1.2579154497031193
+wątpić	ustalać	1.3104539509443656
+literować	dopuszczać	1.0920715565368455
+literować	rozważać	0.9084110115699403
+potwierdzać	dopuszczać	1.1993343469205473
+zastanawiać się	wytłumaczyć	0.7742432091617655
+uświadomić sobie	usprawiedliwiać	0.9401644354859953
+baczyć	korygować	1.170380121886886
+poświadczać	uczyć	1.1617783411601204
+dowiadywać się	uzasadniać	0.9698313616567583
+wybierać	znaczyć	0.9467372072576252
+wynikać	podejrzewać	1.1037853935279118
+dezorientować	myśleć	1.004387034357398
+nie dowierzać	strzec się	0.872398373710612
+wydawać się	wybierać	0.8830638090765436
+myśleć	zastanawiać się	0.7473287522187205
+racjonalizować	uświadomić sobie	0.9582141352690848
+wyobrażać sobie	wspominać	1.2737071291044344
+zapomnieć	spekulować	0.9791313093607311
+rozwiązać	powtarzać	0.8889010862834043
+przychylać się	zamierzać	1.159590500105387
+wyjaśniać	przewidzieć	1.0974792512656162
+formułować	obliczać	0.7761916244459357
+myśleć	wymyślić	0.6711219946084754
+liczyć	uświadomić sobie	0.8441169799333912
+wyobrażać sobie	zakładać	1.2653956891708824
+zgadnąć	ignorować	0.9326604565638039
+uświadomić sobie	kojarzyć	0.8475785752317614
+selekcjonować	czekać	1.0670371522510558
+zastanawiać się	znaczyć	1.0120878250045575
+znaczyć	uczyć się	0.9334048408201374
+studiować	uwierzyć	0.8899961250226531
+nie dowierzać	obliczać	1.1545823497762358
+dezorientować	wątpić	0.8666946414671679
+obalać	domniemywać	1.142216605834841
+domniemywać	zarejestrować	1.328497362735093
+rozwiązać	definiować	0.8276448486937412
+wynikać	znaczyć	1.065539696693174
+pamiętać	usprawiedliwiać	1.22475661290132
+ignorować	znaczyć	1.0722147984074202
+czytać	ignorować	0.8484937085915261
+koncentrować się	dezorientować	0.802144539696994
+pojmować	analizować	0.6745987712609982
+selekcjonować	znaczyć	0.8846447372626862
+obalać	przypuszczać	1.0627093105467165
+kształcić	nie dowierzać	1.0180401711768265
+wytłumaczyć	udowodnić	1.0545425310639092
+czekać	ignorować	1.2186598011873204
+zapomnieć	uzasadniać	0.9882492764762636
+poświadczać	uzasadniać	1.039948808212397
+dezorientować	uczyć się	1.0372381233925094
+analizować	myśleć	0.7394047001742555
+wspominać	hipnotyzować	1.3007411765060337
+sprawdzać	zapomnieć	0.95742490626978
+kalkulować	selekcjonować	0.9002512996053543
+czekać	poświadczać	1.180710671003311
+oceniać	rozważać	1.0206855119745095
+hipnotyzować	nie dowierzać	1.1220327696903325
+mieć nadzieję	zarejestrować	0.9790627192715521
+rozważać	powtarzać	0.9934410905306634
+rozważać	odejmować	0.9748778486034683
+myśleć	pamiętać	0.7578366133633492
+zarejestrować	ustalać	1.398628642130251
+przychylać się	nie dowierzać	0.9999038446259919
+koncentrować się	przypuszczać	0.8127494594992861
+przypominać	zamierzać	0.9313073544715157
+odejmować	rozwiązać	0.7638701695123739
+nie dowierzać	uświadomić sobie	1.0580988711538475
+pojmować	mieć coś przeciw	0.9811376845091087
+przewidzieć	dezorientować	1.0254248802309431
+dotyczyć	zapomnieć	1.2137620112226681
+strzec się	koncentrować się	0.8383034570686447
+zamierzać	zastanawiać się	1.0390728845757116
+uczyć	przypominać	0.8326899641396162
+liczyć się	przewidzieć	1.2625074037273103
+przewidzieć	rozumieć	0.6864052966450445
+analizować	potwierdzać	1.0249888284745783
+wspominać	usprawiedliwiać	1.4270253563938582
+znaczyć	domniemywać	0.9406835385051108
+rozważać	uzasadniać	0.8570127759046391
+przypuszczać	usprawiedliwiać	1.1144036341905847
+rozumieć	oceniać	0.9837849225220748
+wytłumaczyć	rozwiązać	0.817635527762263
+przewidzieć	kojarzyć	0.9217705774123091
+znaczyć	hipnotyzować	0.9676490201385843
+uwierzyć	rozważać	1.0209756732327298
+dopuszczać	zgadnąć	0.9859364382459391
+dowiadywać się	dotyczyć	0.8254386962704671
+strzec się	oceniać	1.0797035111893303
+czekać	wyobrażać sobie	1.147499901357073
+poświadczać	dotyczyć	1.0393860425969148
+spekulować	przypuszczać	1.0560782471992192
+kalkulować	koncentrować się	0.7795685379174057
+uczyć	wyobrażać sobie	0.8531488968554143
+wyjaśniać	usprawiedliwiać	0.7966750515401576
+uczyć	kojarzyć	0.6914620306658184
+mieć nadzieję	wiedzieć	0.9981542613340474
+strzec się	liczyć się	1.1875665772856792
+zaskoczyć	zarejestrować	1.1107589115375882
+zdumiewać	liczyć	0.9946254496344389
+poświadczać	strzec się	1.099470498704269
+korygować	koncentrować się	0.931011984928144
+liczyć	przychylać się	0.8925438456115783
+badać	zdumiewać	1.1694598964230045
+wynikać	wątpić	1.1353292440779166
+znaczyć	dezorientować	1.1658803532684177
+wyobrażać sobie	literować	1.1651859892600038
+sprawdzać	decydować	0.8734814180170608
+wyjaśniać	pamiętać	0.9567385598378757
+zamierzać	korygować	0.9244301010973254
+zapomnieć	wymyślić	0.8969507616904255
+formułować	zaskoczyć	1.0862982399571794
+wydawać się	ustalać	1.0409057777417323
+wydawać się	wiedzieć	0.9977411686365953
+odejmować	przewidzieć	1.1994340130264118
+decydować	mieć coś przeciw	1.0768489450383256
+zdumiewać	nie dowierzać	0.9445602365770294
+racjonalizować	formułować	0.8666413655795371
+wymyślić	kształcić	0.6969382124260752
+myśleć	przypuszczać	0.8696090968287908
+mieć coś przeciw	sprawdzać	1.0208747468476358
+kalkulować	wymyślić	0.8779967764185657
+rozumieć	odejmować	1.028203718543623
+czekać	usprawiedliwiać	0.9735270710597668
+strzec się	przewidzieć	0.8421097103109536
+dopuszczać	dotyczyć	0.726213636467322
+mieć coś przeciw	ustalać	1.19853142714279
+przypominać	znaczyć	1.22361483144518
+poświadczać	studiować	1.0816854786424337
+uczyć	uzasadniać	0.885333671528744
+zaskoczyć	pojmować	1.1221326781655003
+obalać	ustalać	1.1457027899172096
+koncentrować się	domniemywać	0.852778753229039
+wyobrażać sobie	spekulować	1.1860819330687815
+domniemywać	zaskoczyć	1.1694538503497336
+myśleć	domniemywać	0.9048761411916699
+usprawiedliwiać	nie dowierzać	0.902015955115875
+wątpić	znaczyć	1.101510663100614
+decydować	podejrzewać	0.8876838445483614
+wyobrażać sobie	baczyć	0.9164401560789961
+wynikać	selekcjonować	0.8917481559320608
+sprawdzać	racjonalizować	0.7948006026624951
+zarejestrować	pamiętać	0.7835768065727283
+decydować	ustalać	0.7624950368503817
+decydować	badać	1.0460917867815305
+zapomnieć	badać	0.8739123639020935
+dowiadywać się	zarejestrować	1.246161378466226
+pojmować	kojarzyć	0.6651694801160756
+pojmować	wątpić	0.8909932486913368
+ignorować	zamierzać	1.0000848730663658
+wynikać	zamierzać	1.0925342713426294
+oceniać	znaczyć	0.8877062514997369
+oceniać	definiować	0.9413005326586682
+przypuszczać	pojmować	1.1562663251473289
+rozumieć	formułować	0.9187992832507779
+spekulować	mieć coś przeciw	1.093611912750565
+udowodnić	rozwiązać	1.1902929954930148
+zapomnieć	poświadczać	1.0695111217820414
+wyjaśniać	rozwiązać	1.0171670134858377
+domniemywać	racjonalizować	0.8855090408986929
+studiować	zgadnąć	1.0769183129776243
+poświadczać	badać	1.098866520499046
+racjonalizować	zakładać	0.9731930574543696
+wymyślić	korygować	0.9303479611525065
+dezorientować	kształcić	0.9652283882507754
+obalać	literować	1.2159764306498146
+uczyć się	czekać	0.9709989879401296
+wątpić	przewidzieć	0.9842144709602575
+koncentrować się	liczyć	0.713542145007768
+wytłumaczyć	oceniać	0.8779897866735891
+kojarzyć	dowiadywać się	0.7697507511029119
+pojmować	baczyć	1.0795710665868088
+koncentrować się	usprawiedliwiać	0.8966468114549593
+koncentrować się	wiedzieć	0.9248630257434485
+literować	dowiadywać się	0.8135357847737555
+mieć nadzieję	uświadomić sobie	1.1144240772849228
+uzasadniać	spekulować	0.9051042544542282
+korygować	zastanawiać się	0.9212202396977952
+powtarzać	przewidzieć	1.2636884172172305
+liczyć	czekać	1.0077269148102475
+dezorientować	domniemywać	0.8901534555661125
+zaskoczyć	zakładać	1.2376010760723233
+zarejestrować	podejrzewać	1.133657505093398
+wiedzieć	przypuszczać	0.8459951853749881
+strzec się	wymyślić	0.9042391992563078
+czytać	racjonalizować	0.6909219027059101
+wątpić	wyłaniać	1.3490039631607111
+potwierdzać	usprawiedliwiać	1.1189497153076178
+zarejestrować	udowodnić	1.3299435212040416
+racjonalizować	oceniać	1.0574929692286092
+wymyślić	wiedzieć	0.7376424873932882
+decydować	znaczyć	0.9729722689030142
+wyobrażać sobie	wiedzieć	0.9898126309566637
+sprawdzać	rozwiązać	0.8051084339554386
+wyłaniać	uwierzyć	1.318846175627732
+przypominać	rozwiązać	0.9875412574934844
+koncentrować się	zarejestrować	0.9399375100719082
+zastanawiać się	koncentrować się	0.7558034723799061
+usprawiedliwiać	wytłumaczyć	1.051126770266765
+uzasadniać	pojmować	0.7863635016391517
+czekać	przychylać się	1.2244662937166686
+dowiadywać się	wahać się	0.9855904093378772
+dezorientować	przychylać się	1.0895261904685143
+wyłaniać	ignorować	1.1208878703750318
+potwierdzać	obalać	1.0974019714383765
+rozważać	uczyć	0.7644200772768223
+pamiętać	pojmować	0.8285296931278016
+zastanawiać się	spekulować	0.8836885215357936
+zamierzać	selekcjonować	0.9128513930394443
+czekać	baczyć	1.2608372550501317
+wiedzieć	strzec się	1.0366887224460979
+wyjaśniać	domniemywać	1.0080150927115152
+uczyć	dowiadywać się	0.6470286497938054
+wahać się	usprawiedliwiać	0.9576409604068098
+wątpić	racjonalizować	0.9729666210075294
+formułować	myśleć	0.5843554890122199
+liczyć się	oceniać	1.180266275837643
+wyobrażać sobie	kształcić	0.9779511726232197
+pamiętać	uczyć się	0.7374365592653159
+obliczać	uzasadniać	0.7699459960699658
+sprawdzać	analizować	0.5482630650193512
+sprawdzać	przychylać się	0.9399450692429336
+uwierzyć	kształcić	0.9164690489924459
+pamiętać	wynikać	0.7584884828199866
+zdumiewać	selekcjonować	1.2702582573261123
+strzec się	ignorować	0.6285213072049592
+ustalać	pamiętać	1.135205631761793
+zarejestrować	nie dowierzać	1.1179639849252703
+uświadomić sobie	dowiadywać się	0.8845521428680658
+definiować	wątpić	1.1399627856685188
+korygować	dotyczyć	1.1818474443251599
+uwierzyć	potwierdzać	1.1803211789646262
+racjonalizować	kształcić	0.8303549244537154
+kalkulować	czekać	1.0558093662477652
+mieć nadzieję	przewidzieć	1.0575689433465973
+spekulować	powtarzać	1.1073376849703225
+rozwiązać	wymyślić	0.8936878617450991
+spekulować	kojarzyć	1.0013914278726674
+decydować	domniemywać	1.040075817074785
+selekcjonować	wytłumaczyć	0.9970004726936927
+udowodnić	literować	0.8971140691554544
+wspominać	przypuszczać	1.1675377572081822
+zapomnieć	czytać	1.0272987297399305
+zakładać	powtarzać	0.8879257363506932
+dowiadywać się	koncentrować się	0.606531432343997
+znaczyć	czytać	0.9808233330657362
+wyłaniać	wyobrażać sobie	1.3024487811554186
+obalać	zakładać	1.0341498822868138
+kalkulować	zakładać	1.1419551623056572
+wyłaniać	udowodnić	0.9740711208318971
+wątpić	kojarzyć	0.956006267758698
+przychylać się	wahać się	0.9422111128297039
+wytłumaczyć	czekać	1.1043152458926062
+zakładać	potwierdzać	1.344928412786077
+wybierać	nie dowierzać	0.9913860378372495
+zakładać	wyjaśniać	1.1361386321072895
+rozumieć	zamierzać	0.7258890967142683
+wyjaśniać	hipnotyzować	1.0477119428945914
+dotyczyć	selekcjonować	1.016423639724744
+baczyć	potwierdzać	1.2999740059828404
+zastanawiać się	formułować	0.7612723554639945
+strzec się	wyobrażać sobie	0.9662304024885162
+zapomnieć	obliczać	0.9932325004466508
+mieć nadzieję	definiować	1.0830405667266496
+studiować	przychylać się	0.924121181532053
+poświadczać	wątpić	1.2684833048929935
+pamiętać	korygować	1.0040081520721686
+wyobrażać sobie	uczyć się	0.9405822791526242
+wynikać	formułować	1.057189788837799
+zgadnąć	pamiętać	1.081988717106162
+racjonalizować	kalkulować	0.9150344259318858
+mieć nadzieję	decydować	1.0125789129410279
+koncentrować się	podejrzewać	0.7532464627777906
+zakładać	baczyć	1.0472438982862526
+wytłumaczyć	analizować	0.8136180681694302
+pojmować	decydować	1.0899268942370381
+liczyć	badać	0.9346268228932686
+wahać się	rozwiązać	1.1158291516612182
+dezorientować	zaskoczyć	0.8512788925044935
+definiować	powtarzać	1.0276338145897068
+badać	czekać	1.0613215848714805
+przewidzieć	zapomnieć	0.8497287867369768
+racjonalizować	wymyślić	0.8413331916237385
+selekcjonować	zarejestrować	0.955900319611117
+dopuszczać	koncentrować się	0.9813220483022437
+hipnotyzować	literować	1.1734738616841005
+przewidzieć	zaskoczyć	1.159853185022658
+dopuszczać	przychylać się	1.1045843459813942
+udowodnić	powtarzać	1.2471108440046874
+myśleć	hipnotyzować	1.0175900184620432
+mieć nadzieję	usprawiedliwiać	1.2680477086315654
+czekać	wspominać	1.2060554871648528
+strzec się	hipnotyzować	1.1262752970833128
+uwierzyć	ignorować	1.1752118614971794
+nie dowierzać	wahać się	0.8152923494542375
+pamiętać	spekulować	0.9782553050675805
+czytać	zakładać	0.8486364849681826
+dopuszczać	rozumieć	1.249280469241764
+obliczać	wydawać się	1.0036081637673713
+hipnotyzować	analizować	1.0264401945782766
+wydawać się	wynikać	1.3088415972459508
+badać	koncentrować się	0.5857250099028136
+zamierzać	mieć coś przeciw	0.9735078297306725
+spekulować	wytłumaczyć	1.043202320038432
+badać	przypominać	1.026477191402089
+poświadczać	zarejestrować	1.0533630938683016
+ignorować	pojmować	1.052687503417726
+wiedzieć	rozwiązać	0.9566544793589761
+odejmować	spekulować	1.1096719878139185
+studiować	uczyć	0.3217502449152588
+selekcjonować	uświadomić sobie	1.001351020726482
+uświadomić sobie	wydawać się	1.0348925787588599
+przypominać	wymyślić	1.0533880442288852
+wyłaniać	wiedzieć	0.9486164494000769
+studiować	hipnotyzować	1.1100969521646007
+badać	wyobrażać sobie	0.9258129782286028
+korygować	zaskoczyć	1.269131089883361
+rozumieć	myśleć	0.681751719090928
+strzec się	rozwiązać	1.0557727607535594
+wyjaśniać	uczyć się	0.7507689928114623
+podejrzewać	uświadomić sobie	0.9756924816261512
+dopuszczać	przypuszczać	1.0314760795798235
+udowodnić	nie dowierzać	1.3536267011010485
+zgadnąć	znaczyć	1.0808442749469007
+domniemywać	powtarzać	1.0066271012664185
+obalać	strzec się	0.8780441579959223
+zamierzać	formułować	0.9300234372559952
+uczyć	wyjaśniać	0.8631850956093879
+wyłaniać	kształcić	0.8117603770279306
+literować	formułować	0.7058517673976864
+wiedzieć	myśleć	0.6941806788428383
+koncentrować się	myśleć	0.6491248109122874
+uświadomić sobie	obliczać	0.889997143210936
+mieć coś przeciw	znaczyć	1.2238430665752258
+wyłaniać	zapomnieć	1.1468569598238878
+obalać	spekulować	0.9525894303183771
+przypominać	wydawać się	1.0467681789356413
+uwierzyć	zaskoczyć	1.1845206898391498
+zaskoczyć	potwierdzać	1.4261071187234635
+ignorować	wiedzieć	1.0492535876540214
+dowiadywać się	myśleć	0.530602497518906
+obliczać	zakładać	1.1798323504576658
+czekać	wahać się	1.020830145412373
+powtarzać	liczyć się	1.0539844442914157
+znaczyć	wytłumaczyć	0.9828948032335157
+strzec się	literować	1.073531513854803
+baczyć	wyjaśniać	1.2489243027614718
+uzasadniać	dopuszczać	0.9538691978707875
+mieć nadzieję	uczyć	0.9757051393623618
+studiować	dotyczyć	0.8746810988696284
+czytać	wątpić	0.8675256373171816
+uświadomić sobie	sprawdzać	1.0083172865238261
+literować	pamiętać	0.8843954734830475
+selekcjonować	wymyślić	0.7364281785836598
+kojarzyć	decydować	0.9733474639283844
+dowiadywać się	definiować	0.658790133253872
+zamierzać	pamiętać	0.9608990684956953
+przypuszczać	badać	0.88846632812552
+mieć nadzieję	zaskoczyć	1.119379086381805
+uczyć się	mieć coś przeciw	1.000947349615774
+przewidzieć	wyłaniać	1.0493964541299183
+baczyć	hipnotyzować	1.2088595534185733
+poświadczać	wynikać	1.060831819621162
+liczyć się	przypuszczać	1.233075729637681
+analizować	przypominać	1.137456693350978
+usprawiedliwiać	kształcić	0.8189472050439492
+wymyślić	hipnotyzować	0.770455834298008
+ustalać	uczyć	0.8844425034204232
+zaskoczyć	racjonalizować	0.9730431933168545
+pojmować	przychylać się	1.0665215836900288
+wahać się	ignorować	0.903159720199635
+zastanawiać się	uczyć się	0.5741447372821192
+zastanawiać się	mieć coś przeciw	0.9656148340953669
+kalkulować	zgadnąć	1.0827709935715717
+uwierzyć	dowiadywać się	0.9489186707345916
+studiować	przewidzieć	0.9170718375619297
+obalać	wynikać	1.0262817815420588
+ignorować	korygować	1.191800499009178
+mieć nadzieję	wyłaniać	1.1242927643782783
+wymyślić	rozumieć	0.6738661878025634
+studiować	powtarzać	0.9039034386525773
+uczyć	zarejestrować	1.0266705060452082
+wydawać się	przychylać się	0.9672822758598995
+formułować	poświadczać	0.9837654890396694
+wyjaśniać	czekać	0.9446920246567635
+zgadnąć	zdumiewać	1.1077417145896828
+uzasadniać	literować	0.9263310935281704
+udowodnić	przychylać się	1.2569535153819766
+dezorientować	rozumieć	1.1145369027471372
+rozważać	dopuszczać	1.0449254528354472
+przewidzieć	czekać	0.9597130634748646
+uzasadniać	mieć nadzieję	1.2172621062696194
+mieć nadzieję	zapomnieć	1.123960818785637
+wyjaśniać	literować	1.142765479661251
+zgadnąć	wahać się	1.042749747067797
+przypominać	decydować	1.1349721122061616
+powtarzać	liczyć	0.8989927056410137
+potwierdzać	selekcjonować	0.8555462285685208
+liczyć się	zastanawiać się	0.9349187748501795
+studiować	liczyć	0.786207576230546
+czytać	uczyć się	0.5825553527667175
+myśleć	sprawdzać	0.7230481407933024
+pamiętać	oceniać	1.0027556677975011
+przewidzieć	uczyć się	0.9001442527419079
+badać	zaskoczyć	1.0431044936970557
+domniemywać	poświadczać	1.0900732253593064
+spekulować	wahać się	1.0332260955325026
+definiować	uczyć	0.7432655811834881
+powtarzać	poświadczać	1.1661245267703093
+analizować	zarejestrować	1.0495943786452
+liczyć się	obalać	1.395332225074244
+obliczać	zdumiewać	1.026781557578814
+uświadomić sobie	czytać	0.9270499759779255
+literować	przypuszczać	1.0338839703008254
+usprawiedliwiać	baczyć	0.9697208937853605
+pamiętać	wymyślić	1.0381867653692125
+koncentrować się	ignorować	0.846624904067139
+domniemywać	dotyczyć	1.0916745766761786
+baczyć	wybierać	0.987155956275117
+dezorientować	oceniać	1.2541215525287281
+uświadomić sobie	zapomnieć	0.7707276621236909
+udowodnić	kształcić	0.6952742153949316
+czytać	zdumiewać	1.088606193692438
+wytłumaczyć	domniemywać	1.2265884487213061
+przewidzieć	zastanawiać się	0.8418776847158503
+kojarzyć	zgadnąć	0.8967963146065775
+wytłumaczyć	racjonalizować	0.8882165370312516
+wybierać	poświadczać	0.9540358321110398
+rozważać	wątpić	1.1711017372816834
+literować	zgadnąć	1.000091149626583
+zdumiewać	przypominać	0.9781572255050981
+powtarzać	wydawać się	0.920771530105883
+kształcić	zapomnieć	0.9418716092709891
+uzasadniać	wyjaśniać	0.8367354150460125
+wątpić	pamiętać	1.038429797327845
+decydować	czytać	0.9952106571576191
+spekulować	uczyć	0.9886888135392862
+liczyć się	baczyć	1.275468374644867
+analizować	spekulować	0.8458080634725222
+podejrzewać	definiować	1.150633513443882
+literować	czekać	1.020256314809637
+liczyć się	analizować	1.0303225285166395
+wyjaśniać	sprawdzać	0.6531746183918736
+wybierać	definiować	0.8676724393924983
+znaczyć	wahać się	1.0439994904296634
+baczyć	zgadnąć	1.1431603266272607
+uzasadniać	wymyślić	0.6428367533723024
+czytać	dopuszczać	1.115096050991905
+wytłumaczyć	wydawać się	1.169399935852542
+usprawiedliwiać	obalać	0.806400378367021
+oceniać	usprawiedliwiać	1.155506044820677
+obalać	wyobrażać sobie	1.1075446977902856
+poświadczać	wymyślić	1.0392197867059592
+oceniać	liczyć	0.8961823547142311
+mieć nadzieję	dowiadywać się	1.1203637763769327
+formułować	uzasadniać	0.873811012889989
+wiedzieć	zaskoczyć	1.1222643410313349
+potwierdzać	odejmować	1.242519514916629
+zarejestrować	oceniać	1.0559012998145116
+dotyczyć	wyjaśniać	0.9791371245013378
+mieć nadzieję	pojmować	1.0541643581992284
+uzasadniać	zdumiewać	1.0212260195354932
+korygować	uczyć	1.0034549547311113
+poświadczać	wyjaśniać	1.0781458753073874
+domniemywać	formułować	0.9466556397974212
+zgadnąć	kształcić	0.9999791047488501
+przypominać	korygować	1.1441702351641976
+wątpić	czekać	1.0734148004149155
+wynikać	przewidzieć	1.1086933561425847
+przewidzieć	wahać się	1.0218720309185538
+wybierać	zastanawiać się	0.822383394683297
+uczyć się	zapomnieć	0.8354670835930734
+sprawdzać	dopuszczać	0.8260112318956837
+wiedzieć	formułować	0.924687105785872
+spekulować	przypominać	1.2748008601338767
+kojarzyć	wyobrażać sobie	0.8431529885391349
+wydawać się	definiować	0.9425978378774957
+sprawdzać	formułować	0.7258857813932492
+literować	czytać	0.8333319195662717
+wątpić	zapomnieć	0.9117116215525863
+dopuszczać	analizować	1.0259750192404402
+potwierdzać	wydawać się	1.1386005335262772
+rozumieć	przychylać się	1.0277146711470604
+rozważać	hipnotyzować	1.0118277288012674
+rozwiązać	decydować	1.1166493907667256
+zakładać	kojarzyć	1.056847187669679
+wynikać	czytać	1.1007606885812156
+uczyć	rozwiązać	0.7891199938541115
+poświadczać	rozwiązać	1.1084886576493431
+czekać	rozwiązać	1.078502718355749
+usprawiedliwiać	formułować	1.0646277505906454
+myśleć	baczyć	1.0542603956296952
+rozważać	zakładać	0.8158392329799372
+nie dowierzać	zakładać	1.2968255308337664
+koncentrować się	obliczać	0.803786558577716
+nie dowierzać	potwierdzać	1.2296153039455082
+wspominać	racjonalizować	1.2281713743202733
+przypuszczać	ignorować	0.9322190588833947
+wynikać	kształcić	0.8415241724834291
+liczyć się	wyjaśniać	1.3643669424320728
+uczyć	udowodnić	0.7785849854767717
+wahać się	zapomnieć	0.8767777567810621
+kalkulować	liczyć się	0.6214489166359374
+poświadczać	mieć nadzieję	1.098324208692104
+zastanawiać się	wspominać	0.9315459788902534
+zapomnieć	wiedzieć	0.905669476011981
+ustalać	powtarzać	1.1734812927409157
+poświadczać	liczyć	1.1004163313361854
+zdumiewać	dezorientować	1.0750441589615347
+nie dowierzać	dezorientować	0.8778855481711632
+spekulować	wynikać	1.0244894414491141
+zakładać	dotyczyć	1.007887846050386
+rozumieć	powtarzać	1.1070697843307968
+korygować	kojarzyć	1.02990898791094
+ustalać	oceniać	1.0754044565671048
+studiować	analizować	0.6054238953173773
+zastanawiać się	uczyć	0.6359713447851197
+potwierdzać	zastanawiać się	0.9739987800416574
+spekulować	dotyczyć	1.0678491904865317
+uwierzyć	myśleć	0.9989230074598692
+kalkulować	liczyć	0.34234669066104306
+dezorientować	spekulować	1.1183482051269504
+zastanawiać się	strzec się	1.0386454018615143
+uzasadniać	domniemywać	1.0550477491855126
+uświadomić sobie	wyobrażać sobie	1.2189437009409945
+rozwiązać	pamiętać	0.8501888417959356
+uzasadniać	uświadomić sobie	0.9916917532346463
+pamiętać	wiedzieć	0.8262892919470028
+liczyć	wyjaśniać	1.1193391918400195
+dopuszczać	mieć nadzieję	1.0136692237602178
+hipnotyzować	wątpić	1.036687903517427
+liczyć się	znaczyć	0.7872405043518556
+wynikać	strzec się	1.22013589922584
+czytać	liczyć	0.8723237376801337
+wspominać	przewidzieć	1.2167434706054008
+dezorientować	formułować	1.1284838865867826
+znaczyć	podejrzewać	1.1497891733822905
+hipnotyzować	zaskoczyć	1.160473972709868
+zastanawiać się	uzasadniać	0.8458314298784583
+poświadczać	zakładać	1.1775518702797116
+baczyć	rozważać	1.1452944851885807
+rozwiązać	wspominać	0.9690511374529841
+liczyć	wymyślić	0.8491487551952506
+obliczać	studiować	0.7872209783011587
+uczyć	uczyć się	0.3159834219399111
+kształcić	czekać	0.996761325160964
+wahać się	koncentrować się	0.8316293642039377
+wytłumaczyć	wyłaniać	0.8500517281594624
+liczyć	baczyć	1.178686691836275
+oceniać	obalać	1.2094227421413877
+podejrzewać	wspominać	1.0768763000269883
+wyłaniać	zaskoczyć	1.219418373415335
+wyobrażać sobie	ustalać	1.109962091992514
+obalać	zapomnieć	0.9578483570338172
+pojmować	przypominać	0.9545866159028326
+dopuszczać	zdumiewać	1.2041943657446639
+zarejestrować	formułować	1.3021812225475051
+oceniać	pojmować	1.066500783996545
+rozważać	analizować	0.6050072002588662
+selekcjonować	nie dowierzać	1.0692970097750276
+mieć nadzieję	korygować	1.2315444868111696
+przewidzieć	analizować	1.0461882061121979
+ignorować	uczyć	0.9947252068104917
+wybierać	mieć nadzieję	1.1387432558916877
+uświadomić sobie	ignorować	0.9295628729645036
+mieć nadzieję	powtarzać	1.084823551553452
+uwierzyć	koncentrować się	0.8973349705363853
+wydawać się	strzec się	0.844961112067276
+dopuszczać	kształcić	1.0576900904459645
+mieć coś przeciw	dowiadywać się	1.063888851562947
+zastanawiać się	nie dowierzać	1.0508313708113073
+literować	wydawać się	0.9418123176674896
+oceniać	nie dowierzać	1.3806614694618335
+poświadczać	sprawdzać	1.1030808786796558
+domniemywać	selekcjonować	1.0262348352031403
+spekulować	koncentrować się	0.8736129179135018
+selekcjonować	poświadczać	0.9410647822580367
+pojmować	studiować	0.6795196570624571
+zakładać	korygować	1.0877551139853137
+przypominać	mieć nadzieję	0.9729916385971388
+kształcić	przewidzieć	0.9714467856274
+nie dowierzać	studiować	0.8888946913641009
+przychylać się	hipnotyzować	1.2074905295450933
+wymyślić	formułować	0.8784782959790889
+wydawać się	wspominać	1.1950896476429635
+rozważać	spekulować	1.0757101246635845
+odejmować	uzasadniać	0.8894529486853238
+racjonalizować	mieć coś przeciw	0.9780267449692095
+uzasadniać	kalkulować	0.8670174677892021
+obliczać	zgadnąć	1.0354760862875587
+udowodnić	poświadczać	0.8282280577516005
+wiedzieć	selekcjonować	0.7845507482875043
+usprawiedliwiać	wymyślić	0.8391124218545333
+wiedzieć	racjonalizować	0.7752494886924082
+definiować	przychylać się	1.0586333473866836
+wytłumaczyć	wyobrażać sobie	1.2112482692450737
+odejmować	mieć nadzieję	1.0471892710243949
+mieć coś przeciw	zapomnieć	0.782970308800048
+analizować	koncentrować się	0.6782171581714612
+rozwiązać	kojarzyć	0.8399295918194688
+dotyczyć	rozważać	0.8987434356468953
+wydawać się	rozważać	0.9351574533768502
+racjonalizować	wyłaniać	0.9789954273024375
+badać	znaczyć	1.1222415718721137
+badać	definiować	0.7187811629391876
+czytać	wyjaśniać	0.7660250594354671
+literować	analizować	0.9994332649627928
+zdumiewać	strzec się	0.8739042176159019
+uwierzyć	podejrzewać	1.0121033600490679
+mieć nadzieję	obliczać	0.939944973628485
+udowodnić	ustalać	0.7012868178162787
+zamierzać	obalać	1.07042216521106
+wyłaniać	studiować	0.8922346702119563
+udowodnić	zamierzać	0.8258607310595486
+myśleć	przewidzieć	0.7888654215700197
+literować	myśleć	0.5929153663656164
+powtarzać	dotyczyć	1.1642388057384268
+oceniać	wątpić	1.122763485210909
+potwierdzać	mieć coś przeciw	1.2570536044460359
+czekać	czytać	1.1536611981299905
+selekcjonować	zakładać	1.023280441596924
+udowodnić	wspominać	1.2399526476785203
+myśleć	potwierdzać	0.9298933827526575
+dotyczyć	oceniać	1.1821290819112167
+sprawdzać	przewidzieć	0.8064190999309203
+uzasadniać	przypominać	1.1542442630521956
+decydować	przewidzieć	0.87744566612155
+rozumieć	wahać się	1.0101037826674162
+nie dowierzać	rozwiązać	1.0616442374918569
+nie dowierzać	spekulować	1.1885460942206112
+baczyć	pamiętać	1.031440659248583
+myśleć	liczyć się	0.9122145385580046
+wybierać	sprawdzać	0.6383654850457526
+uczyć	zakładać	1.0310385328250664
+sprawdzać	zastanawiać się	0.7786561345120083
+rozumieć	rozważać	0.8263580076727289
+domniemywać	dopuszczać	0.8133406748667
+myśleć	ustalać	0.7832180934014239
+znaczyć	rozumieć	1.0802443520098617
+zapomnieć	wynikać	0.9576730335811037
+znaczyć	wyłaniać	1.2959261498120174
+selekcjonować	liczyć się	0.9879249401666444
+podejrzewać	dezorientować	0.8944229135819349
+wyobrażać sobie	powtarzać	1.1013879768607073
+dopuszczać	udowodnić	1.1523804055710327
+mieć coś przeciw	oceniać	1.1622521413752191
+przychylać się	spekulować	0.9230402441194754
+baczyć	wspominać	1.1839481650851267
+przychylać się	wyłaniać	0.8744126378625767
+wyobrażać sobie	rozważać	1.0908290807074792
+wspominać	dotyczyć	1.210954394789328
+udowodnić	wiedzieć	0.9071760622261138
+uczyć się	rozumieć	0.6496864067081678
+przypominać	ignorować	0.958701191445929
+myśleć	uczyć	0.5806368690710638
+analizować	zgadnąć	1.1509359319759367
+ignorować	zdumiewać	0.9027242421891007
+rozwiązać	pojmować	0.7028342259006157
+kształcić	uzasadniać	0.8460295464370783
+dotyczyć	przychylać się	1.2218357939973767
+uzasadniać	myśleć	0.7473716240864657
+powtarzać	uwierzyć	0.851028022080285
+liczyć się	zaskoczyć	1.3582214337558447
+zakładać	studiować	0.9375187882886004
+zarejestrować	uczyć się	0.8965086509902062
+zastanawiać się	zdumiewać	1.0501062028392063
+dowiadywać się	ustalać	0.7382335728165719
+zastanawiać się	studiować	0.6474281603586164
+odejmować	studiować	0.764997401057894
+zaskoczyć	wahać się	0.9370720126887935
+myśleć	usprawiedliwiać	0.8492031735361292
+czekać	domniemywać	1.1790835799081822
+ignorować	nie dowierzać	0.829754918425536
+uświadomić sobie	rozważać	0.9490569739861525
+czekać	wybierać	1.0372355373547184
+strzec się	czytać	0.8989274944976254
+przewidzieć	uwierzyć	1.115952320886743
+wynikać	literować	0.9426381371185509
+nie dowierzać	uczyć się	0.931459768862395
+poświadczać	zamierzać	0.8761588056001101
+zarejestrować	zgadnąć	1.0319941973885796
+ustalać	kojarzyć	0.9987459221663888
+decydować	uczyć	1.0788380438795824
+dezorientować	obliczać	1.038216441121015
+ignorować	badać	0.9748795382840136
+pojmować	definiować	0.7921134373930714
+myśleć	czekać	0.8362647458501764
+zamierzać	odejmować	0.8839752525119947
+spekulować	wspominać	1.0974243460617605
+zarejestrować	wspominać	1.0256474381092868
+spekulować	mieć nadzieję	1.2372472267176269
+wspominać	wyjaśniać	1.2017018766919851
+strzec się	rozumieć	0.969019281154939
+wydawać się	mieć coś przeciw	0.6914003762292761
+wydawać się	uczyć się	0.8580431328572453
+zgadnąć	obalać	1.1797813863194182
+dopuszczać	ignorować	1.0521866262437913
+strzec się	powtarzać	0.9311911129654499
+zarejestrować	przypuszczać	1.1832946963753597
+zakładać	wątpić	0.8895316657913688
+rozwiązać	kształcić	0.9204830891871725
+zapomnieć	zaskoczyć	0.7327694253583302
+odejmować	obliczać	0.33141114672376837
+rozważać	poświadczać	1.0760315937389622
+rozumieć	ignorować	0.9879059312460634
+uczyć się	rozważać	0.8166500241824487
+obliczać	zastanawiać się	0.770481414900238
+uwierzyć	decydować	1.263319250973419
+podejrzewać	korygować	1.2291390096488637
+hipnotyzować	podejrzewać	1.0957725243630194
+wyjaśniać	korygować	1.163814663995449
+wybierać	rozważać	0.8194993380738598
+kształcić	dotyczyć	0.9205472323507132
+liczyć	uczyć się	0.7404512068753064
+wahać się	domniemywać	0.7877264251443648
+przychylać się	wątpić	0.925136296155583
+kształcić	dowiadywać się	0.654860970241266
+mieć nadzieję	selekcjonować	0.9980910466262043
+obalać	wymyślić	0.9009722120470064
+wiedzieć	korygować	0.9019977883126057
+zakładać	rozumieć	1.1287905672455112
+ignorować	zakładać	0.9847000939680735
+obliczać	wyjaśniać	1.1333565184501673
+wyobrażać sobie	sprawdzać	0.9968137421988588
+wahać się	kształcić	0.8271786672108007
+sprawdzać	nie dowierzać	1.1288073776386183
+zakładać	spekulować	0.9037938760260699
+usprawiedliwiać	zaskoczyć	1.119668582453067
+myśleć	mieć coś przeciw	1.0482116256188632
+kształcić	mieć coś przeciw	1.0039275311630607
+badać	odejmować	0.8699388914742537
+obalać	wyjaśniać	0.9689047791775901
+koncentrować się	uczyć się	0.5401758203815111
+usprawiedliwiać	wątpić	0.9084620376698234
+zaskoczyć	zastanawiać się	1.0212722619403254
+korygować	poświadczać	1.0902426523523523
+ignorować	powtarzać	1.0165668904565273
+wątpić	analizować	1.0396928593008907
+formułować	mieć nadzieję	1.1116519856493159
+oceniać	wyłaniać	0.9334882867677678
+zastanawiać się	dopuszczać	0.9392561800999953
+badać	rozumieć	0.6917385404118861
+rozwiązać	racjonalizować	0.8201346922518844
+zarejestrować	zdumiewać	1.2349598784970615
+czekać	uświadomić sobie	0.9133704322606865
+obliczać	dotyczyć	0.9153563826113112
+potwierdzać	studiować	1.0237021138915234
+wyłaniać	potwierdzać	1.0189270209804804
+wyłaniać	zakładać	1.2133197507867224
+zgadnąć	uwierzyć	1.223688479289509
+uwierzyć	wydawać się	0.9342596852783298
+strzec się	kalkulować	1.1844902989674873
+wyjaśniać	badać	0.6950547717041113
+zgadnąć	zapomnieć	1.3003895667444436
+obalać	uświadomić sobie	1.1963497408628625
+uwierzyć	obalać	1.1325303517653513
+potwierdzać	strzec się	1.1291988339797956
+obliczać	myśleć	0.7044055709065568
+wyjaśniać	kojarzyć	0.9950548750765354
+ignorować	sprawdzać	1.0128540069858634
+odejmować	hipnotyzować	1.232795696447847
+przypuszczać	uświadomić sobie	1.0182036994598405
+dopuszczać	obliczać	0.9548538504566846
+potwierdzać	pamiętać	0.8060516006381165
+poświadczać	uświadomić sobie	1.2788343235796
+wyjaśniać	kształcić	0.8914860540223172
+przypuszczać	rozwiązać	1.2062307987423218
+rozumieć	uzasadniać	0.8864968176960316
+czekać	zgadnąć	1.134762898019478
+ignorować	kalkulować	1.1079948961138903
+zgadnąć	odejmować	1.0559170565968685
+zamierzać	wahać się	1.0473955332053129
+przychylać się	zdumiewać	1.154257896287862
+wynikać	zarejestrować	1.2232769946185655
+zaskoczyć	dotyczyć	1.3161092181521394
+przewidzieć	racjonalizować	0.8986125303956364
+czytać	uzasadniać	0.7954655176382841
+wahać się	oceniać	1.2398547556038135
+korygować	wydawać się	1.0452670107497553
+badać	dowiadywać się	0.6841276773407943
+przewidzieć	uzasadniać	1.1124226379114057
+obliczać	wyłaniać	0.9690314027902497
+hipnotyzować	wytłumaczyć	1.1526186547584119
+wydawać się	zgadnąć	0.8473575514585244
+wyjaśniać	udowodnić	0.9236252896388524
+wątpić	wyobrażać sobie	0.9527712674303063
+definiować	dopuszczać	0.9695992576109506
+ignorować	wspominać	1.1723376189664247
+podejrzewać	studiować	0.9082430486977706
+formułować	oceniać	0.9284431758064032
+czekać	podejrzewać	1.2306634783580372
+wątpić	badać	0.8912355215912487
+domniemywać	rozwiązać	1.165241729243324
+poświadczać	obliczać	1.0898192292894529
+wyłaniać	formułować	1.1641721353422076
+pojmować	zgadnąć	1.336652918961657
+studiować	baczyć	1.072262718952552
+wątpić	przypominać	1.1206950914672926
+spekulować	korygować	0.8352997577757826
+uzasadniać	obalać	1.080879428542876
+rozważać	selekcjonować	0.8453595887112335
+obalać	obliczać	1.2447456082677366
+zakładać	wybierać	1.1127994160826782
+zakładać	zgadnąć	1.0683943604245842
+analizować	nie dowierzać	1.127751063457507
+oceniać	hipnotyzować	1.2467861747843574
+obliczać	racjonalizować	0.8055267981946825
+czytać	kojarzyć	0.6469416279459146
+dotyczyć	rozumieć	0.8636830851452147
+domniemywać	spekulować	1.0845989230725623
+literować	uświadomić sobie	1.0852611587270016
+usprawiedliwiać	powtarzać	1.282932324491043
+selekcjonować	definiować	0.886795024119667
+rozważać	myśleć	0.7412366680048801
+czytać	przypominać	0.9888974353137258
+liczyć	mieć coś przeciw	1.1788956744236512
+obliczać	podejrzewać	1.0250137591398456
+wątpić	ignorować	0.6300646899498688
+przychylać się	decydować	1.03075648221669
+liczyć	wyobrażać sobie	1.160259493451456
+wspominać	wybierać	1.1451810283695718
+korygować	sprawdzać	0.7946173274172053
+obliczać	baczyć	1.1638320748464253
+przychylać się	przypuszczać	1.1396338182410053
+liczyć	przewidzieć	1.1371937546408835
+oceniać	mieć nadzieję	1.1876349727218856
+obalać	wytłumaczyć	1.1027259859993528
+hipnotyzować	uzasadniać	1.0093546149930077
+podejrzewać	wątpić	0.9143815366615884
+nie dowierzać	pamiętać	0.9750359966367765
+kształcić	definiować	0.7208949818601199
+hipnotyzować	mieć nadzieję	1.14434644321374
+odejmować	nie dowierzać	1.1515164843911483
+hipnotyzować	domniemywać	0.9571477557704893
+kształcić	przypuszczać	0.8534704261233353
+kalkulować	rozwiązać	0.8291675048499759
+wytłumaczyć	pojmować	0.8663668169905064
+rozwiązać	uwierzyć	1.009681750176047
+pojmować	dezorientować	1.0775407567153632
+powtarzać	wynikać	1.3110229740675656
+ustalać	wiedzieć	0.9048744091647826
+wyjaśniać	definiować	0.8448980027030586
+wytłumaczyć	rozumieć	0.9772090407304734
+znaczyć	obliczać	0.9333774462680965
+podejrzewać	dopuszczać	0.9810671151020615
+koncentrować się	decydować	1.0016345278110586
+studiować	rozważać	0.8067383204623797
+czekać	rozważać	1.0563292102925699
+nie dowierzać	mieć coś przeciw	0.7196683061890015
+zgadnąć	domniemywać	1.0497375223560714
+podejrzewać	formułować	0.9915868325332955
+kojarzyć	usprawiedliwiać	0.9437839036835681
+dotyczyć	dezorientować	1.1495791117991254
+rozumieć	poświadczać	0.9050040746342146
+wydawać się	rozumieć	0.9172400155641853
+spekulować	poświadczać	0.8684391300388841
+liczyć się	wyłaniać	1.0435050851364824
+wymyślić	czekać	1.0466781088987267
+liczyć się	spekulować	1.2773318896446477
+mieć coś przeciw	wyobrażać sobie	0.9136804287846595
+wyłaniać	odejmować	0.8819715167036749
+przypominać	kalkulować	1.013360879928421
+znaczyć	formułować	0.826216088237732
+podejrzewać	odejmować	0.9896917855298221
+uwierzyć	pojmować	1.024538504896244
+poświadczać	usprawiedliwiać	1.2214885077032993
+wiedzieć	kalkulować	0.9503863824186878
+wyjaśniać	wątpić	1.1650192212975277
+dowiadywać się	studiować	0.5574654067765453
+wytłumaczyć	przypuszczać	1.314978947699898
+dezorientować	liczyć się	1.010793589415257
+udowodnić	zdumiewać	1.1032749795900263
+zarejestrować	rozwiązać	0.7504562681327329
+rozważać	rozwiązać	0.9075743099446911
+zgadnąć	selekcjonować	1.0237827851434744
+zdumiewać	uświadomić sobie	1.008442290578618
+dowiadywać się	zakładać	1.1855519731643758
+zamierzać	mieć nadzieję	0.8851703138177914
+pamiętać	rozważać	0.954179706942561
+podejrzewać	zdumiewać	1.1186183211506013
+wiedzieć	decydować	0.8606303840167815
+dotyczyć	rozwiązać	1.2593950873246358
+zastanawiać się	wynikać	0.6461671333431658
+zamierzać	wybierać	1.0089075809717873
+odejmować	zakładać	1.1173484275423273
+zarejestrować	studiować	0.9242170831235882
+studiować	wydawać się	0.8482748885671128
+czekać	wydawać się	1.0736602946618368
+rozwiązać	formułować	0.963815732267568
+dezorientować	mieć coś przeciw	0.7106681382376681
+uzasadniać	decydować	0.969066944708952
+domniemywać	przypuszczać	0.7282002873572039
+baczyć	oceniać	1.236489935041269
+sprawdzać	kojarzyć	0.8765119518829337
+sprawdzać	uzasadniać	0.8027618142603725
+kalkulować	czytać	0.9321653742634981
+wynikać	wyjaśniać	0.8948807530215074
+kojarzyć	zaskoczyć	1.0424635210666873
+literować	ignorować	1.07632828406433
+sprawdzać	obalać	0.8596469689161226
+zapomnieć	potwierdzać	1.0741618979973382
+ustalać	badać	0.9658611119726619
+zdumiewać	pamiętać	0.9544156314250919
+przypominać	pamiętać	0.7635067669216337
+powtarzać	przychylać się	1.1383466769619504
+definiować	kojarzyć	0.8479745748935147
+kalkulować	rozumieć	0.8839978075281312
+odejmować	zdumiewać	0.9971719062980171
+wybierać	rozumieć	0.9352107998798727
+dezorientować	studiować	1.0361598588342382
+wybierać	usprawiedliwiać	0.9030200709683738
+przychylać się	przypominać	1.090129902092001
+selekcjonować	dopuszczać	1.049417409713607
+rozważać	zdumiewać	1.0543737314430797
+nie dowierzać	badać	0.9216176514453871
+wątpić	rozumieć	1.0056738741797746
+spekulować	zaskoczyć	1.2474331592191368
+czytać	przypuszczać	1.1194819145905546
+wahać się	wybierać	1.015486682809799
+studiować	koncentrować się	0.5225957980895255
+wymyślić	zamierzać	0.8643915584969304
+obalać	pojmować	0.917165689358854
+uświadomić sobie	wątpić	0.9854814960579963
+zamierzać	potwierdzać	1.195180443725182
+wybierać	czytać	0.74828475228609
+myśleć	korygować	0.9437596430887657
+zgadnąć	hipnotyzować	1.3774438951734487
+kojarzyć	zdumiewać	1.0771141111704883
+korygować	oceniać	0.8913381281457903
+pamiętać	podejrzewać	1.0644499619549221
+wydawać się	pamiętać	1.003933188240317
+liczyć się	ustalać	1.0813926935549047
+rozważać	czytać	0.8049961680386236
+wiedzieć	znaczyć	0.9724522455685518
+zdumiewać	sprawdzać	1.2841979147998037
+dopuszczać	racjonalizować	1.1548515529792094
+liczyć się	podejrzewać	1.0917847298220253
+uczyć	literować	0.924418574287983
+baczyć	zdumiewać	1.0898207754280795
+zarejestrować	wahać się	1.1628144909437323
+mieć nadzieję	wahać się	0.9166609228828728
+czekać	spekulować	1.3179910220028814
+zgadnąć	mieć nadzieję	0.9050432014630142
+uzasadniać	zarejestrować	1.151950377704075
+wątpić	obalać	0.9963484978167856
+podejrzewać	nie dowierzać	1.0462704792153774
+mieć nadzieję	ustalać	1.2693606916843232
+wyjaśniać	wybierać	0.9169728537310646
+obliczać	wiedzieć	0.9393753412782847
+liczyć	analizować	0.8014281408166936
+uświadomić sobie	odejmować	0.9294781689957151
+sprawdzać	wahać się	1.0262795313164021
+wspominać	znaczyć	1.2852272758323802
+literować	badać	1.1121954179163973
+zakładać	dopuszczać	0.8319280440187055
+badać	zastanawiać się	0.7130211744715843
+ignorować	pamiętać	0.9616494341654233
+hipnotyzować	obalać	1.2108676950889061
+selekcjonować	usprawiedliwiać	1.04069090935377
+analizować	zamierzać	1.0942296359752803
+spekulować	dopuszczać	1.0669130279321097
+wiedzieć	wybierać	0.7595357131945928
+czytać	wspominać	0.8560099906031123
+racjonalizować	potwierdzać	1.162355986465525
+korygować	zgadnąć	1.3112927877679028
+kojarzyć	wybierać	0.865338123337019
+korygować	definiować	1.0013321126131352
+studiować	znaczyć	0.8377344282917014
+definiować	dezorientować	1.143273606841922
+korygować	kształcić	0.9857390070628665
+dezorientować	korygować	1.3488417962769457
+rozwiązać	oceniać	1.074198052707175
+kojarzyć	myśleć	0.6255269075479096
+wymyślić	liczyć się	1.0666104634330487
+myśleć	czytać	0.7517453108556106
+ustalać	wspominać	1.3148342754802875
+badać	potwierdzać	1.0040169409907398
+liczyć się	koncentrować się	0.8423152550210898
+myśleć	rozwiązać	0.7689223553598865
+mieć nadzieję	wyobrażać sobie	1.0187162263303438
+przewidzieć	zarejestrować	1.2729599544463057
+koncentrować się	pojmować	0.862351676991739
+sprawdzać	znaczyć	0.9172146733736642
+dotyczyć	zdumiewać	1.147850364626463
+przypominać	dotyczyć	1.055578889056178
+studiować	zaskoczyć	0.9472731955461042
+uwierzyć	czekać	1.220950679627205
+literować	odejmować	0.7020422291991097
+kojarzyć	odejmować	0.9107244998547672
+wątpić	korygować	0.9710249758085735
+studiować	rozumieć	0.6000283743669901
+zaskoczyć	rozumieć	1.0404737952098715
+wymyślić	dopuszczać	0.8832269674834099
+obalać	formułować	1.1302439979476784
+rozumieć	mieć nadzieję	1.0448119626179304
+wytłumaczyć	formułować	0.9927164439395129
+wiedzieć	kształcić	0.6548304088038107
+formułować	uczyć się	0.7250235027230031
+znaczyć	dopuszczać	1.006137737661133
+uzasadniać	wytłumaczyć	0.6581137536649172
+mieć coś przeciw	wspominać	1.2170177063289755
+wiedzieć	uzasadniać	0.7981990839190839
+wymyślić	wydawać się	0.7309151445303601
+zastanawiać się	wahać się	0.9632449959442885
+wydawać się	odejmować	1.0169201674884718
+udowodnić	zgadnąć	1.1091835970008561
+uświadomić sobie	wybierać	0.8716806891361776
+obalać	analizować	0.899757206911217
+dezorientować	wahać się	0.8201457202359402
+dezorientować	uzasadniać	0.9910013969472505
+wynikać	kalkulować	0.9321880692181292
+kalkulować	pamiętać	0.9666474522689011
+wytłumaczyć	ustalać	0.9620037137388086
+baczyć	nie dowierzać	0.8750230082416056
+obliczać	spekulować	1.1454852624120637
+analizować	uzasadniać	0.5165459701861109
+czekać	pojmować	1.1496031733188592
+poświadczać	analizować	1.1347217433070698
+obliczać	rozumieć	0.9795933790849048
+zgadnąć	wiedzieć	1.059735081096725
+powtarzać	wahać się	0.8459831043290265
+przewidzieć	dowiadywać się	1.0516871880830017
+studiować	sprawdzać	0.7163116630972205
+zdumiewać	uczyć się	0.9832056982016982
+odejmować	wahać się	1.1051686179007947
+wyjaśniać	koncentrować się	0.8238375446424243
+uwierzyć	oceniać	1.2089226602777159
+uzasadniać	liczyć się	1.0235725039076673
+ustalać	wybierać	0.9326351507168005
+formułować	studiować	0.6794452907481365
+wątpić	rozwiązać	1.0353631459127985
+domniemywać	badać	1.0399128955722516
+zgadnąć	poświadczać	1.0877225431623518
+udowodnić	dezorientować	1.1554167738733183
+udowodnić	czytać	0.8786567665630737
+wybierać	zgadnąć	0.9823653483799154
+potwierdzać	wynikać	0.9365050728522614
+ustalać	zaskoczyć	1.28655681903252
+czytać	baczyć	0.9706896865991937
+pamiętać	wybierać	0.9247083039943796
+decydować	zakładać	0.8933280134137828
+potwierdzać	ignorować	1.3088717010847157
+uświadomić sobie	baczyć	0.9996869717129401
+pamiętać	domniemywać	1.0790779841120612
+obliczać	czytać	0.8690050595988158
+przypominać	wahać się	1.0597690085286293
+zamierzać	dopuszczać	1.162786641363367
+nie dowierzać	powtarzać	1.20266165058903
+kształcić	odejmować	0.7686243827518107
+usprawiedliwiać	uczyć się	0.8327122325972545
+kształcić	baczyć	1.0286074812255024
+wspominać	literować	1.1833393332817632
+przychylać się	strzec się	0.9566324626094691
+rozumieć	uwierzyć	1.0818909216890042
+wytłumaczyć	wymyślić	1.017508552132844
+spekulować	znaczyć	1.1023670727282948
+kształcić	spekulować	1.0102426762199612
+sprawdzać	koncentrować się	0.8119895439234286
+mieć nadzieję	zastanawiać się	0.969520912144569
+rozwiązać	spekulować	0.8383913568007882
+dotyczyć	odejmować	1.029837622211604
+przychylać się	uczyć	0.8732708866280152
+zgadnąć	koncentrować się	0.9962374931967625
+hipnotyzować	uświadomić sobie	0.9556444285821489
+zapomnieć	rozważać	1.030849297282257
+pojmować	obliczać	0.8937597541135606
+wynikać	racjonalizować	1.042660594149104
+wahać się	zakładać	1.151250239126476
+wynikać	domniemywać	1.2379860636357638
+racjonalizować	wahać się	0.9863752273995893
+usprawiedliwiać	uwierzyć	1.1186247711849218
+zamierzać	kształcić	0.9838921510914822
+decydować	liczyć	1.0954666740613512
+przychylać się	wspominać	0.9164077157818993
+znaczyć	poświadczać	0.9142640938583138
+uczyć	uświadomić sobie	0.7980541543526256
+rozważać	wahać się	1.0578473854934203
+wytłumaczyć	koncentrować się	0.8633220753150928
+dezorientować	wspominać	1.2897559236700462
+wahać się	dotyczyć	1.263969895874434
+koncentrować się	powtarzać	0.8655903991783012
+domniemywać	analizować	0.9621058671430457
+studiować	definiować	0.6015064249889743
+uwierzyć	analizować	1.0539111467280269
+podejrzewać	poświadczać	1.1666511832735325
+studiować	kształcić	0.3918978568528423
+zaskoczyć	uzasadniać	1.1029124615194181
+przychylać się	zastanawiać się	1.0247867448725734
+wahać się	myśleć	0.9715064968069295
+wydawać się	baczyć	0.8235416207959203
+rozumieć	kojarzyć	0.8429140300323006
+zdumiewać	wyłaniać	1.28493757919021
+usprawiedliwiać	korygować	1.12351068385142
+uzasadniać	ustalać	0.8274898342723979
+uczyć	zgadnąć	1.111012373618629
+dotyczyć	wymyślić	0.7772395583063433
+sprawdzać	uczyć się	0.767167012091373
+zamierzać	strzec się	0.8138028639036187
+wytłumaczyć	przewidzieć	1.190821448956499
+mieć coś przeciw	baczyć	0.6683324756990736
+badać	formułować	0.893803238840618
+obliczać	liczyć się	0.6826688525565343
+mieć nadzieję	analizować	1.1610230961866461
+kojarzyć	obliczać	0.936862627458786
+przychylać się	kojarzyć	0.8638095580946802
+zamierzać	spekulować	0.9419244443269545
+udowodnić	liczyć	1.0347952185632607
+poświadczać	nie dowierzać	1.3326975784453432
+rozważać	strzec się	0.985597147439778
+obliczać	oceniać	0.9414712163917023
+potwierdzać	przychylać się	1.0112358278007292
+korygować	rozumieć	0.9285567011332096
+wahać się	wyłaniać	1.210434646942355
+badać	kalkulować	0.9902972929829187
+wyłaniać	uzasadniać	1.060822968539265
+wiedzieć	rozważać	0.8829587545380502
+uczyć	przypuszczać	1.0374706377660652
+wiedzieć	potwierdzać	0.9908454384786156
+poświadczać	liczyć się	1.2114762335595322
+pojmować	rozważać	0.8322194046176482
+ignorować	dowiadywać się	1.0312819480187336
+poświadczać	wahać się	1.204825451804895
+uświadomić sobie	wymyślić	0.894085653005666
+kojarzyć	wynikać	0.7927154503519696
+koncentrować się	zaskoczyć	0.9345035840738921
+przypuszczać	wahać się	0.9731123532853518
+spekulować	badać	0.9594289468394717
+wiedzieć	wspominać	0.9778318733727305
+pojmować	znaczyć	1.0363190008424972
+liczyć	odejmować	0.2786354720245611
+kalkulować	dotyczyć	0.9893978187826029
+potwierdzać	wybierać	1.0314781002807971
+obalać	wahać się	1.1581174485689383
+obalać	pamiętać	1.034032049811723
+wynikać	analizować	0.9238789112660538
+analizować	kalkulować	0.8132763569221337
+nie dowierzać	obalać	1.0625488496994098
+uzasadniać	przychylać się	1.0740338810334606
+odejmować	ignorować	1.037520201365419
+wytłumaczyć	poświadczać	0.9291989725734726
+podejrzewać	kształcić	0.8374781879418889
+znaczyć	wyobrażać sobie	1.0838463982661408
+liczyć się	zarejestrować	1.17622883586928
+potwierdzać	uświadomić sobie	1.2012416303410949
+dotyczyć	ignorować	1.092033209375536
+czekać	pamiętać	0.9604435163184682
+dezorientować	wynikać	1.1280113348891063
+poświadczać	oceniać	0.8939093643735554
+dopuszczać	przewidzieć	1.0723064434646015
+pojmować	zarejestrować	0.9342756908923868
+dowiadywać się	uczyć się	0.6407737203437942
+myśleć	badać	0.750608789087337
+wahać się	podejrzewać	1.0605473842236517
+wymyślić	wynikać	0.9147203848175555
+zastanawiać się	rozważać	0.7621633927248835
+pojmować	wynikać	0.7690309289319261
+studiować	udowodnić	0.6876122831678321
+kalkulować	wyobrażać sobie	1.219840814424109
+wahać się	baczyć	0.9276600463770153
+formułować	wahać się	1.2868629453698652
+badać	rozwiązać	0.8239305008446843
+formułować	liczyć się	0.8307147085612463
+zapomnieć	podejrzewać	0.9755907891533964
+hipnotyzować	mieć coś przeciw	0.9409937090449462
+spekulować	zdumiewać	1.2924946143777898
+ustalać	przypuszczać	1.139534340454848
+obliczać	analizować	0.7905411911770539
+dotyczyć	obalać	1.0307578010580303
+znaczyć	uzasadniać	0.8100437551682024
+wspominać	studiować	0.9378071427330625
+przypominać	wybierać	1.126027483903526
+dowiadywać się	zastanawiać się	0.7996129050170643
+potwierdzać	podejrzewać	1.2868573227645634
+pamiętać	odejmować	1.0096849958276133
+zapomnieć	przypuszczać	0.928178884504507
+ustalać	hipnotyzować	1.0141013315724385
+czekać	potwierdzać	1.2358038074686997
+uzasadniać	koncentrować się	0.7631015856734238
+powtarzać	uzasadniać	1.1471163039606354
+mieć coś przeciw	dotyczyć	1.1635543356992837
+formułować	przewidzieć	0.8150897490134061
+uświadomić sobie	zamierzać	0.9271660841382926
+decydować	wytłumaczyć	1.0628954444390901
+przychylać się	mieć coś przeciw	1.0082639600512489
+liczyć się	uświadomić sobie	0.9504287938644707
+pamiętać	czytać	0.752122580020141
+wytłumaczyć	przypominać	1.0880514274402358
+odejmować	wyjaśniać	1.0983646317557603
+poświadczać	czytać	0.9348884432422359
+kształcić	ustalać	0.8749801530183562
+przypuszczać	potwierdzać	1.2291489994666653
+obalać	kształcić	1.0073408912487545
+przewidzieć	podejrzewać	1.013260499918776
+zaskoczyć	analizować	1.19797777246711
+rozumieć	zastanawiać się	0.7345278134659057
+dowiadywać się	korygować	1.1140416253560879
+dowiadywać się	znaczyć	1.0036425234932265
+studiować	wątpić	0.962486111022842
+definiować	formułować	0.7706185629395638
+decydować	powtarzać	1.160231878520617
+przychylać się	literować	1.0304270689993398
+czekać	racjonalizować	0.9762116418906162
+domniemywać	czytać	1.0017373261916502
+mieć coś przeciw	zdumiewać	0.8614362454341934
+powtarzać	wymyślić	0.9411203130560848
+uwierzyć	liczyć	1.084564621906094
+dotyczyć	zamierzać	1.091854252555819
+rozważać	mieć coś przeciw	1.028718434291288
+poświadczać	ustalać	1.0842071255938612
+selekcjonować	wspominać	1.1131080489047716
+dopuszczać	uczyć	0.8838977609013018
+selekcjonować	przypuszczać	1.0185083103635633
+badać	uczyć się	0.4360321407263171
+selekcjonować	decydować	0.7807207033148919
+potwierdzać	spekulować	0.9047436040222742
+domniemywać	rozważać	1.0805708262797753
+czekać	uczyć	1.0274792977079004
+zastanawiać się	powtarzać	1.0467400042631554
+zakładać	literować	1.2199925248866361
+uzasadniać	wahać się	1.0311033930615092
+liczyć	pojmować	0.8881506977420585
+strzec się	uświadomić sobie	1.0337841202531541
+przypominać	zarejestrować	0.9249687668804539
+zapomnieć	myśleć	0.9826552593923148
+decydować	myśleć	0.8632569753572388
+domniemywać	rozumieć	1.0600735905062673
+wybierać	spekulować	1.095059281963251
+zarejestrować	badać	0.9542586026382512
+przychylać się	przewidzieć	1.2632729947154104
+dopuszczać	wynikać	1.2163396442271046
+baczyć	rozumieć	1.0205244200178671
+wspominać	uświadomić sobie	1.0986181429104949
+kształcić	hipnotyzować	1.1553305639315536
+definiować	obalać	0.9425334679854721
+uzasadniać	studiować	0.8136942138285977
+wiedzieć	oceniać	1.0609626247212263
+potwierdzać	zarejestrować	0.8792767893832303
+wymyślić	kojarzyć	0.8222090069655018
+ignorować	wytłumaczyć	1.2793201990007748
+rozważać	sprawdzać	0.685168373464848
+zdumiewać	potwierdzać	1.2780969641041433
+uczyć	rozumieć	0.6856852146062296
+czytać	powtarzać	0.8120142309474895
+uświadomić sobie	zarejestrować	1.1442499090544047
+korygować	pojmować	0.8585665980410107
+wyłaniać	dezorientować	1.39649722074173
+wynikać	oceniać	1.082753538308388
+przypuszczać	baczyć	0.9332414989773268
+zastanawiać się	uwierzyć	1.0214896398506366
+zapomnieć	przychylać się	0.9475098465001529
+zapomnieć	selekcjonować	1.0175630981331318
+wiedzieć	nie dowierzać	1.0473579933043164
+selekcjonować	kojarzyć	0.7413351820607555
+kalkulować	potwierdzać	1.134355806083932
+uczyć	znaczyć	0.8198438922837238
+odejmować	domniemywać	1.0858399919446693
+analizować	wymyślić	0.6841053050908211
+udowodnić	wymyślić	0.9910792449381867
+wyjaśniać	oceniać	1.2067254755591743
+domniemywać	wymyślić	0.8150188062144953
+wydawać się	wyobrażać sobie	0.7687123250892297
+racjonalizować	wydawać się	0.8753710925552564
+obliczać	sprawdzać	0.9204047175044122
+wyobrażać sobie	dopuszczać	0.929641094164877
+ignorować	myśleć	0.8916997891966203
+koncentrować się	obalać	0.9745149034521561
+przypominać	ustalać	1.1041715613419087
+pojmować	wyjaśniać	0.8308044037598346
+wyobrażać sobie	formułować	0.9941673670813878
+wytłumaczyć	uświadomić sobie	1.0410034976693956
+dotyczyć	pojmować	1.005784565246254
+uczyć	badać	0.48481268631644914
+dezorientować	racjonalizować	1.1656772586842863
+przypominać	podejrzewać	1.0989384897130186
+zastanawiać się	poświadczać	0.934514281922572
+ustalać	definiować	0.8382633442494062
+strzec się	wytłumaczyć	1.1924881354585437
+hipnotyzować	wybierać	1.0105498227483292
+koncentrować się	potwierdzać	0.9210494914326011
+kojarzyć	zarejestrować	0.8057576222938795
+wyjaśniać	wydawać się	1.0621424328682647
+liczyć się	rozważać	1.150872839197778
+wytłumaczyć	mieć nadzieję	1.4253316074589957
+wymyślić	zastanawiać się	0.8292413619481
+rozumieć	selekcjonować	0.681953960903878
+studiować	decydować	0.8464492758574611
+zapomnieć	wytłumaczyć	1.1722094825759866
+czekać	wyłaniać	1.0032693698794903
+wymyślić	koncentrować się	0.5689750597534557
+obliczać	przychylać się	0.9500736414390563
+hipnotyzować	dowiadywać się	0.8976566513436802
+potwierdzać	rozważać	1.1287436100608061
+liczyć	liczyć się	0.6012396247205016
+powtarzać	obalać	0.9745930450670377
+uczyć się	ustalać	0.9034805132257712
+wątpić	selekcjonować	0.9687406894361786
+racjonalizować	udowodnić	0.79572466376654
+zdumiewać	hipnotyzować	0.8778069243593304
+koncentrować się	rozumieć	0.7176881070392205
+wyobrażać sobie	zdumiewać	1.1373925195704704
+definiować	baczyć	1.08638407060434
+podejrzewać	oceniać	1.1100096986203964
+udowodnić	mieć nadzieję	1.121940355972736
+definiować	liczyć	0.9554500675777245
+wyjaśniać	zarejestrować	1.4030425659757242
+wymyślić	uczyć się	0.6600149103100751
+czekać	studiować	1.0197767935451958
+ustalać	domniemywać	1.0260158054187436
+pojmować	poświadczać	1.122086320965076
+ustalać	dopuszczać	0.9033439872865389
+kojarzyć	zastanawiać się	0.767949198307118
+dopuszczać	uświadomić sobie	1.29807739038275
+przewidzieć	zamierzać	0.8235574052218466
+czekać	odejmować	1.0359201861349385
+udowodnić	uświadomić sobie	1.039011079629525
+wyjaśniać	strzec się	1.0238359763478369
+mieć nadzieję	rozwiązać	1.092534308278534
+wątpić	domniemywać	0.8466652050980086
+badać	przychylać się	0.8046298499912983
+przypominać	liczyć się	1.1651609323442131
+kalkulować	baczyć	1.246816927344051
+potwierdzać	udowodnić	1.0251363146652692
+myśleć	definiować	0.5600386548341966
+obliczać	uwierzyć	0.9955336353917374
+kształcić	rozumieć	0.6077491059762996
+wybierać	liczyć się	1.0991186033438247
+znaczyć	definiować	0.8633597329327705
+kojarzyć	uczyć się	0.8021252673273145
+wyobrażać sobie	wyjaśniać	1.2652747770257704
+wyobrażać sobie	pojmować	1.1376528817005616
+przypominać	myśleć	0.8023151886812441
+usprawiedliwiać	dowiadywać się	0.7657509350564115
+analizować	baczyć	1.0934038974987876
+odejmować	wiedzieć	0.9565295781554497
+wyłaniać	decydować	1.0103076631873398
+hipnotyzować	liczyć	1.1003785609096444
+nie dowierzać	liczyć się	1.2784305274300478
+analizować	podejrzewać	1.0244147980003242
+spekulować	wyjaśniać	0.8148121110896527
+podejrzewać	przypuszczać	0.5788652794135228
+badać	strzec się	0.8158702526095716
+obalać	znaczyć	1.0597775000552134
+dowiadywać się	zgadnąć	1.231258292916192
+zamierzać	wspominać	1.1725490759972146
+wybierać	uczyć się	0.8161218784891691
+myśleć	strzec się	0.9659847565470232
+formułować	uświadomić sobie	0.971297976260118
+koncentrować się	baczyć	0.9092693706651543
+kalkulować	zamierzać	1.029168408014085
+przewidzieć	przypominać	0.976572080527746
+kształcić	wątpić	1.0584577337286827
+koncentrować się	odejmować	0.7378768807963755
+kojarzyć	dotyczyć	0.952800721715141
+strzec się	domniemywać	0.9317404923070511
+zakładać	hipnotyzować	1.281965150496004
+kształcić	liczyć się	0.8580097336214603
+dowiadywać się	rozwiązać	0.8551116143502718
+dowiadywać się	przypuszczać	1.0259349818395165
+uzasadniać	wyobrażać sobie	1.0792802054091193
+domniemywać	uświadomić sobie	1.0584477078029793
+sprawdzać	liczyć się	1.086526133960034
+racjonalizować	definiować	0.7018818324110792
+wyłaniać	zarejestrować	1.0364200760578925
+przypominać	kształcić	0.8006085119295796
+zastanawiać się	domniemywać	0.9146402707193925
+kalkulować	rozważać	0.8891648558879227
+uwierzyć	przychylać się	1.1302677081052568
+przypuszczać	zakładać	1.1546090992027933
+definiować	wynikać	0.9736391244294943
+uzasadniać	wspominać	1.12624575763562
+liczyć	zarejestrować	0.9340611946593909
+nie dowierzać	zapomnieć	0.7312606173673242
+mieć coś przeciw	rozumieć	1.0663954880437463
+strzec się	selekcjonować	0.9256502488840199
+spekulować	udowodnić	1.0605290859076504
+zastanawiać się	baczyć	1.0296258821859083
+wahać się	obliczać	0.9551737009465636
+wyobrażać sobie	usprawiedliwiać	1.2738904268390376
+liczyć się	badać	1.1060754913028608
+powtarzać	podejrzewać	1.1274884456483107
+rozważać	formułować	0.7069096411307396
+zakładać	analizować	0.8729751523415106
+uczyć się	korygować	0.8942933676283359
+przypominać	zastanawiać się	0.8797647642204063
+badać	racjonalizować	0.7441249374976466
+wyobrażać sobie	nie dowierzać	0.8026898988192859
+wyłaniać	podejrzewać	1.067100241995229
+liczyć się	domniemywać	1.071924568996393
+wspominać	uczyć	0.9753756740562085
+dezorientować	ignorować	0.8876132194716673
+potwierdzać	mieć nadzieję	1.1660808540933336
+wątpić	dowiadywać się	1.0966573181285582
+kojarzyć	liczyć się	1.0043111810645489
+wiedzieć	wątpić	0.9160678462326302
+obalać	zarejestrować	0.928989145395261
+selekcjonować	czytać	0.821194419169661
+kalkulować	studiować	0.7783295904042612
+zastanawiać się	definiować	0.7900146693166347
+wahać się	pamiętać	0.9424377433118303
+czytać	uwierzyć	0.8211634042618542
+odejmować	wytłumaczyć	0.8641027257711055
+definiować	wytłumaczyć	0.8477914560424268
+korygować	decydować	0.9871641162613289
+dowiadywać się	pamiętać	0.8303982479003122
+wydawać się	analizować	0.9535208779429467
+wyjaśniać	racjonalizować	0.7817959512615714
+mieć coś przeciw	wynikać	1.2027366065902625
+liczyć	uzasadniać	0.8153191448990389
+wyobrażać sobie	definiować	1.035956437776005
+selekcjonować	rozwiązać	0.7747420466786012
+selekcjonować	kształcić	0.752964573913825
+mieć coś przeciw	zgadnąć	1.0876058632862833
+ustalać	przewidzieć	0.8844717326424908
+domniemywać	nie dowierzać	0.9093464299045738
+przychylać się	wyobrażać sobie	1.201320385306447
+przychylać się	selekcjonować	0.8484507464080043
+liczyć się	dowiadywać się	0.9699453605597578
+zarejestrować	wydawać się	1.1421944958688381
+czytać	hipnotyzować	1.1373590045145023
+nie dowierzać	wyłaniać	1.3913196557752372
+zarejestrować	myśleć	1.0625019769025261
+uczyć się	wyłaniać	0.7830128048555396
+literować	zamierzać	0.8097184319785029
+uświadomić sobie	kalkulować	0.9319135197260228
+uczyć	czytać	0.6360745748153511
+wspominać	analizować	1.0174631678447656
+pamiętać	analizować	0.9712330964231383
+podejrzewać	przychylać się	0.902032978453323
+oceniać	spekulować	1.1398517871074303
+selekcjonować	pojmować	0.7293069156117362
+analizować	wyobrażać sobie	1.0433809505105884
+wynikać	wiedzieć	0.7422106570664081
+zapomnieć	przypominać	0.7869824338977998
+czytać	nie dowierzać	0.9085467207471801
+dopuszczać	kalkulować	1.2391823659840986
+literować	selekcjonować	0.8871841923579248
+przychylać się	rozwiązać	0.8485360245137186
+zamierzać	baczyć	1.036973124734176
+uczyć	wynikać	0.696564790228498
+poświadczać	kształcić	1.036498991261729
+formułować	potwierdzać	1.2265259355800024
+obalać	dopuszczać	0.9695762695721479
+uwierzyć	liczyć się	1.0973010806483308
+poświadczać	przewidzieć	1.0073359823617634
+wybierać	domniemywać	0.8555596282842619
+pamiętać	mieć coś przeciw	0.9940941637573671
+podejrzewać	mieć coś przeciw	0.9244735965550197
+kalkulować	sprawdzać	1.0115681810144064
+domniemywać	zamierzać	0.9678893982518265
+wynikać	dotyczyć	1.1095301876626171
+powtarzać	zgadnąć	1.1865233337217105
+zapomnieć	czekać	1.1002053674107222
+wytłumaczyć	zakładać	1.2778623088230965
+kojarzyć	znaczyć	0.9867207955370032
+wiedzieć	domniemywać	0.9688358192200476
+wspominać	wyłaniać	0.9783865117737571
+udowodnić	domniemywać	0.9536570423124692
+kształcić	analizować	0.6760597453055199
+udowodnić	definiować	0.577481056869125
+kojarzyć	pamiętać	0.6527735035277389
+rozumieć	nie dowierzać	1.0306046579493318
+analizować	ignorować	0.952592212870052
+dowiadywać się	przypominać	0.9414877551340028
+rozumieć	wyłaniać	0.7556445028648601
+uwierzyć	zarejestrować	1.2664274366646946
+zamierzać	wyjaśniać	1.1406204180756923
+podejrzewać	wytłumaczyć	1.322357385889395
+kojarzyć	kalkulować	0.903562025550398
+liczyć	ignorować	1.0622444031163518
+definiować	pamiętać	0.9644774654151842
+wyobrażać sobie	udowodnić	0.994005911858474
+wymyślić	nie dowierzać	0.939870732754656
+kojarzyć	dezorientować	1.1216577799837468
+odejmować	przypuszczać	1.1528626998204765
+obalać	uczyć	1.0791985954159984
+zamierzać	wyłaniać	1.1128658817654016
+znaczyć	powtarzać	0.8958468040306362
+spekulować	kalkulować	1.1627783523709585
+przypuszczać	wydawać się	0.7656786499039043
+strzec się	formułować	1.1385895041586238
+zgadnąć	ustalać	1.1603863232014417
+ustalać	liczyć	1.0419006242546858
+pamiętać	sprawdzać	1.0324765706261865
+sprawdzać	wiedzieć	0.8858491030987783
+zaskoczyć	uczyć	1.01494635898426
+wiedzieć	dotyczyć	0.9274617294242229
+uczyć	pamiętać	0.7354317447388219
+obalać	czekać	1.1357453824953891
+uwierzyć	odejmować	1.0507169986460652
+rozwiązać	znaczyć	0.9891347164065198
+zgadnąć	zamierzać	0.9862510039517296
+czytać	definiować	0.6901861764063079
+wytłumaczyć	liczyć się	1.0416477734319765
+sprawdzać	hipnotyzować	1.0750329313003695
+mieć coś przeciw	liczyć się	1.2512238442968573
+podejrzewać	ustalać	1.218540079561198
+rozwiązać	uświadomić sobie	0.9195846315669377
+czytać	obalać	0.7419821186503781
+wątpić	zamierzać	0.9988241962928458
+uświadomić sobie	pamiętać	0.9706051359144551
+racjonalizować	obalać	1.0192717129720887
+zdumiewać	czekać	1.1065246963510722
+znaczyć	mieć nadzieję	1.1688941440665344
+przewidzieć	korygować	1.183838219302569
+zarejestrować	wątpić	1.1323078624842753
+wynikać	sprawdzać	1.050586226768826
+kalkulować	wybierać	1.0275567837951356
+uzasadniać	kojarzyć	0.8472960945657908
+myśleć	powtarzać	0.9518905964959096
+kalkulować	wspominać	0.9665427030979183
+selekcjonować	dowiadywać się	0.9225451710023432
+uczyć się	uwierzyć	0.9322727191427604
+decydować	dotyczyć	0.9637558266441109
+badać	wahać się	0.7791887482713648
+uwierzyć	wymyślić	0.8713064725400425
+przypominać	oceniać	1.2280675455801922
+mieć coś przeciw	czekać	1.1018338701648507
+zdumiewać	ustalać	1.1924031692420598
+myśleć	dotyczyć	0.828429253413402
+domniemywać	baczyć	0.9636506272337833
+wahać się	dopuszczać	1.0623203500097482
+wymyślić	znaczyć	1.0774766579647974
+odejmować	przypominać	1.0446858282761098
+liczyć się	wynikać	0.9060765516306286
+ustalać	uwierzyć	1.02491390933692
+czytać	rozwiązać	0.8830542658731338
+zamierzać	powtarzać	1.1152001992023803
+koncentrować się	zdumiewać	0.90924267231837
+literować	koncentrować się	0.8528993995820724
+wyjaśniać	powtarzać	1.4341612485180657
+czekać	powtarzać	1.238264643961708
+zgadnąć	wyjaśniać	1.5003423113895928
+oceniać	czekać	0.906319187333226
+zaskoczyć	przypominać	0.9480117709756212
+dezorientować	wytłumaczyć	1.303834008477367
+zgadnąć	potwierdzać	1.2869003284902096
+dotyczyć	potwierdzać	1.1024997528392972
+hipnotyzować	badać	1.059709306022532
+literować	zarejestrować	1.068096270133712
+pojmować	uczyć	0.6781001677031303
+kalkulować	literować	0.7753863984608468
+nie dowierzać	korygować	1.2289763072048678
+dotyczyć	uzasadniać	0.8516438483322122
+pojmować	potwierdzać	1.039071362220365
+wspominać	potwierdzać	0.9933999338715913
+liczyć	zakładać	1.1757230256073123
+dotyczyć	przypuszczać	0.9967733920033685
+pamiętać	poświadczać	1.031728507960117
+oceniać	koncentrować się	0.7809075860985499
+obliczać	uczyć się	0.7597312338609539
+dezorientować	zamierzać	0.7971113283857844
+zaskoczyć	poświadczać	1.2632630431308505
+zaskoczyć	wspominać	1.011255342779504
+liczyć	zastanawiać się	0.8474756851623698
+poświadczać	definiować	0.9634259117335846
+domniemywać	wyłaniać	1.3704357659352753
+oceniać	uczyć się	0.942351956524104
+zapomnieć	strzec się	0.9116772644807131
+przypuszczać	strzec się	0.9562902095087589
+definiować	analizować	0.5869544318115879
+zarejestrować	definiować	1.2242616294965325
+rozwiązać	zamierzać	1.0014312735720476
+korygować	strzec się	1.0607813938807416
+ustalać	koncentrować się	0.8504183893607965
+kalkulować	mieć nadzieję	1.0532122360912455
+badać	uświadomić sobie	0.8816157133581798
+ignorować	racjonalizować	1.046940992514408
+mieć nadzieję	literować	1.113101160965662
+uczyć	zdumiewać	1.1063506296295895
+decydować	baczyć	0.9294627400517146
+podejrzewać	wyobrażać sobie	0.9527760616548794
+zastanawiać się	wiedzieć	0.7657454703925405
+wymyślić	przewidzieć	0.7810200525796486
+liczyć	korygować	0.9064690575364767
+ignorować	oceniać	1.1017863828893062
+selekcjonować	analizować	0.655332956206725
+dowiadywać się	spekulować	1.2067686256127923
+zamierzać	wydawać się	0.8367974512470984
+uświadomić sobie	wynikać	0.835202918016355
+dopuszczać	baczyć	1.0195031393783447
+wyłaniać	uświadomić sobie	1.0398583424303791
+przypuszczać	rozumieć	0.9160047347868969
+definiować	domniemywać	0.9922395704058548
+usprawiedliwiać	ignorować	0.9315625673158154
+wydawać się	kojarzyć	0.8709310768284821
+mieć coś przeciw	przypuszczać	0.8898392296448187
+kojarzyć	uwierzyć	0.7486301508447468
+znaczyć	strzec się	0.9536953677046844
+kalkulować	usprawiedliwiać	1.1345193446917918
+rozważać	dowiadywać się	0.7187932937163446
+uczyć	formułować	0.7154366769935483
+rozwiązać	studiować	0.7431875277161543
+sprawdzać	rozumieć	0.803044780420855
+zarejestrować	baczyć	1.0768859766884125
+spekulować	przewidzieć	1.0426063554497103
+dowiadywać się	racjonalizować	0.7783653600851388
+kojarzyć	studiować	0.7816728294190156
+sprawdzać	dotyczyć	0.7869661922524894
+poświadczać	wyobrażać sobie	0.9686717147616971
+decydować	spekulować	0.9630344596025998
+odejmować	pojmować	0.908691538745297
+odejmować	wspominać	0.9978537830129939
+dotyczyć	uwierzyć	1.0993282835890854
+badać	sprawdzać	0.46834127628460887
+zakładać	kształcić	1.0796467377492547
+formułować	wspominać	1.2700071421583774
+podejrzewać	liczyć	1.0258867159516651
+wymyślić	przychylać się	1.1091596832902575
+kojarzyć	formułować	0.8613903469322144
+uczyć	wątpić	0.9511055971501057
+liczyć się	rozwiązać	0.9702979226456818
+oceniać	zaskoczyć	1.2110171725988372
+hipnotyzować	dezorientować	0.8074785072377391
+wydawać się	spekulować	0.9560687050063067
+wydawać się	znaczyć	1.0355161162694326
+rozważać	udowodnić	0.7089064876605551
+zakładać	uświadomić sobie	1.1601779950354147
+decydować	zgadnąć	0.8659308435520616
+strzec się	zgadnąć	1.0726835023937988
+pojmować	wyłaniać	0.9787498289322696
+poświadczać	kojarzyć	0.8650417904089257
+wahać się	decydować	1.1178773261504182
+przypominać	wiedzieć	1.0181731895618251
+czekać	dotyczyć	1.1690025075924704
+podejrzewać	sprawdzać	0.8755988887104247
+pamiętać	dopuszczać	1.2012843098912478
+dotyczyć	wyłaniać	1.132625380831665
+kalkulować	uczyć	0.8472705368309954
+zapomnieć	ustalać	1.1719410806590937
+zapomnieć	baczyć	0.9043711629189939
+spekulować	usprawiedliwiać	1.009651129694122
+wątpić	wymyślić	0.9056669890528383
+zarejestrować	czekać	1.2461734082192484
+kalkulować	pojmować	0.9722503120605215
+ustalać	wahać się	1.2035386352669604
+podejrzewać	badać	0.8730923370319601
+kalkulować	udowodnić	0.9764788858667113
+decydować	wspominać	1.1791421088318468
+kształcić	uczyć się	0.3842361499318964
+uczyć się	uzasadniać	0.8363101345555215
+wybierać	selekcjonować	0.7763310450469358
+wybierać	racjonalizować	0.8722784299839226
+dopuszczać	kojarzyć	0.8790416413327199
+ustalać	dotyczyć	0.9319974794628432
+zakładać	pamiętać	1.1723721729816199
+kojarzyć	powtarzać	0.8315053737167986
+rozwiązać	podejrzewać	1.050745415955881
+zaskoczyć	obliczać	1.044207110927192
+obalać	myśleć	1.099736429749632
+poświadczać	uczyć się	1.0854294356579872
+baczyć	ignorować	0.7270127962984354
+sprawdzać	przypuszczać	0.9014597417651604
+decydować	kalkulować	1.0581550144851883
+kształcić	zastanawiać się	0.6508748212952578
+wybierać	kształcić	0.8881245483408392
+wspominać	obalać	1.050032319196072
+dowiadywać się	zapomnieć	0.917968216223507
+dotyczyć	formułować	0.8629299717752023
+dowiadywać się	udowodnić	0.6745841153823339
+decydować	oceniać	0.961576589865374
+badać	oceniać	1.0545687966846802
+analizować	racjonalizować	0.6557647402259261
+definiować	rozumieć	0.778173774610667
+wiedzieć	definiować	0.709915312437607
+wątpić	baczyć	1.0645676424748405
+wahać się	zdumiewać	0.9339619233413845
+rozważać	definiować	0.6511547295203733
+strzec się	liczyć	1.1300793312154378
+korygować	wybierać	0.9907980870799789
+kalkulować	uwierzyć	1.1296581743484637
+studiować	wahać się	0.9187240444859222
+dotyczyć	hipnotyzować	1.124243057880758
+rozważać	wynikać	0.954527966674471
+zakładać	przypominać	1.2624348452404361
+dowiadywać się	wyobrażać sobie	1.0559306295340105
+wybierać	oceniać	0.940067777261953
+badać	wybierać	0.7722181714520229
+uświadomić sobie	dezorientować	1.0763384023250808
+selekcjonować	wahać się	1.050053682041342
+zapomnieć	zdumiewać	0.9277383516733386
+sprawdzać	pojmować	0.6669490242212243
+liczyć	domniemywać	1.1722388142873335
+usprawiedliwiać	pojmować	0.7570962737897393
+wyobrażać sobie	zarejestrować	1.1194240862623925
+formułować	zakładać	1.0686308223301457
+kalkulować	odejmować	0.3138604806470544
+obliczać	pamiętać	1.0278876423805285
+nie dowierzać	uczyć	0.7783711980102022
+wiedzieć	usprawiedliwiać	0.9005273050759252
+czytać	spekulować	0.9836904826260593
+racjonalizować	przypominać	1.0876677933835823
+literować	przewidzieć	0.9959410966848089
+powtarzać	dopuszczać	1.1190413761466043
+czytać	dezorientować	1.0078029016716654
+baczyć	selekcjonować	1.0897113393147706
+wytłumaczyć	dopuszczać	1.2535340482119153
+rozumieć	hipnotyzować	1.0789968981206346
+zaskoczyć	wymyślić	0.9502792954435209
+pamiętać	znaczyć	1.2081512716297071
+mieć coś przeciw	uświadomić sobie	0.9921787574389167
+analizować	strzec się	1.0051814094987288
+analizować	korygować	0.8022443110080814
+decydować	analizować	0.8936143472836166
+wynikać	usprawiedliwiać	0.973327218007527
+ustalać	sprawdzać	0.8159947284616491
+literować	liczyć się	1.0384161733428852
+wspominać	zapomnieć	1.0865314977653262
+wyobrażać sobie	decydować	1.1633295433368966
+selekcjonować	studiować	0.7225718911829054
+wyłaniać	wymyślić	1.0365632516270988
+wymyślić	wahać się	0.9403997334783065
+kształcić	oceniać	0.9565643648454077
+zdumiewać	usprawiedliwiać	1.047501926586377
+czekać	zaskoczyć	1.167952898146858
+mieć nadzieję	dotyczyć	1.1790071075371458
+zamierzać	czytać	1.0529589685182905
+udowodnić	pojmować	0.9566947142356237
+literować	racjonalizować	0.7801008536260683
+rozwiązać	wyobrażać sobie	1.267463600644667
+hipnotyzować	zamierzać	0.9624319171499569
+decydować	pamiętać	1.0969296078540085
+kojarzyć	baczyć	1.0005539228182645
+wątpić	wahać się	0.7941933017553803
+rozwiązać	zdumiewać	0.9525837559367152
+wiedzieć	wyjaśniać	0.808671808345587
+literować	zastanawiać się	0.9740430069553198
+strzec się	odejmować	1.0885386311171
+korygować	uświadomić sobie	0.9458449095160852
+mieć nadzieję	obalać	1.129863396365111
+zapomnieć	ignorować	0.8268353837558997
+przypuszczać	nie dowierzać	1.0059583987295218
+nie dowierzać	kalkulować	1.2524635407275941
+wahać się	wiedzieć	1.061816497548254
+czekać	rozumieć	0.9906475618621058
+myśleć	zakładać	1.0346936038143537
+ustalać	kalkulować	0.8717225852007314
+wahać się	uczyć	0.8319716111133347
+hipnotyzować	zastanawiać się	1.1509436241900366
+liczyć się	zapomnieć	1.0401804955148322
+podejrzewać	usprawiedliwiać	1.1270090649219107
+hipnotyzować	wahać się	0.9743994886865834
+przychylać się	usprawiedliwiać	1.1668608154570017
+usprawiedliwiać	ustalać	1.039476278738019
+studiować	wyjaśniać	0.8234684238069165
+kształcić	zdumiewać	1.070182009963295
+racjonalizować	rozumieć	0.8761372683691911
+dowiadywać się	podejrzewać	1.1666549868321374
+baczyć	zaskoczyć	1.1784389576925143
+zamierzać	oceniać	0.9141648525572273
+sprawdzać	liczyć	0.9523494515043173
+nie dowierzać	definiować	1.1597670801831548
+ignorować	wydawać się	1.0152349704892978
+kalkulować	wahać się	1.0841436924795234
+wymyślić	obliczać	0.9409775347618015
+przewidzieć	potwierdzać	1.1981454607133584
+rozumieć	wspominać	0.9929746007934539
+dezorientować	badać	1.03309100931787
+zarejestrować	wytłumaczyć	1.125780108576851
+obalać	odejmować	1.134347155666537
+potwierdzać	korygować	1.1867193766228203
+usprawiedliwiać	literować	1.1297122630200243
+ustalać	zakładać	0.9909725867286604
+wymyślić	dezorientować	0.8871922061305392
+sprawdzać	zamierzać	0.9514835023407859
+wyłaniać	ustalać	1.02943574692537
+poświadczać	hipnotyzować	1.1702102047822283
+wynikać	rozumieć	0.7508417903879862
+dotyczyć	zgadnąć	1.0222919750341968
+nie dowierzać	znaczyć	1.3178312752403338
+przypominać	wynikać	0.9173648355350511
+rozumieć	wiedzieć	0.6891377738775529
+hipnotyzować	pojmować	1.0079403888474319
+przypuszczać	wybierać	0.969219497492514
+koncentrować się	racjonalizować	0.8703751656215565
+zamierzać	czekać	1.0890886371514479
+dowiadywać się	wiedzieć	0.8776136385457871
+definiować	literować	0.7481473579738144
+zastanawiać się	dotyczyć	0.9780143674874018
+zastanawiać się	ignorować	1.1423758594724545
+rozumieć	analizować	0.8107010904148302
+pamiętać	racjonalizować	1.0523966268830287
+zamierzać	zakładać	1.1223338714742843
+zapomnieć	wydawać się	0.9650543074737912
+hipnotyzować	spekulować	1.1726616030389416
+czytać	mieć nadzieję	0.9552297726928605
+strzec się	uczyć	0.9531213474564552
+podejrzewać	mieć nadzieję	0.9348305841760859
+uzasadniać	baczyć	1.115685088770563
+selekcjonować	wyobrażać sobie	1.0324190098908235
+decydować	liczyć się	1.0968830814308554
+czekać	korygować	1.0917340446887243
+racjonalizować	przychylać się	1.0601675336604945
+liczyć się	zamierzać	0.9127390379978632
+rozumieć	literować	0.8103696845649632
+zastanawiać się	wyobrażać sobie	0.9128821469649784
+korygować	dopuszczać	1.2380041943305202

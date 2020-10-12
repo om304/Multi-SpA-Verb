@@ -1,0 +1,407 @@
+Word1	Word2	Score
+kończyć	przerwać	0.39296026201941053
+duplikować	stymulować	0.7315497709045942
+rosnąć	maleć	1.19447695805556
+przekraczać	zdarzyć się	1.0128291369912386
+przerwać	przelewać się	1.1732818240511387
+zapoczątkować	akumulować	1.0105991523966673
+wynikać	redukować	1.0383634296495976
+zaczynać	obniżać się	1.1810878080477436
+redukować	rozpoczynać	1.226196487684597
+rozpoczynać	wynikać	1.0569328533086626
+przeważać	przekraczać	0.5640699049355056
+przeważać	zaczynać	0.7918728883409757
+zmniejszać	stymulować	1.062412228527115
+zaczynać	opóźniać	1.3297149475045467
+zaczynać	wzrastać	0.9675187584842322
+przekraczać	rozpoczynać	1.068073274891649
+akumulować	duplikować	0.572794008368113
+przyśpieszyć	przeważać	0.8122940884257082
+wzrastać	wynikać	1.1325707615478804
+wynikać	przestawać	0.9814006314806466
+akumulować	maleć	0.9130657371995113
+kurczyć się	podnieść	1.0957415343880468
+przewyższać	rosnąć	0.6871741549100195
+zmniejszać	redukować	0.40354391401419204
+mnożyć	wzrastać	0.5907881785214022
+przewyższać	maleć	0.9506099991346454
+zdarzyć się	stymulować	0.9254345790637343
+obniżać	przelewać się	1.2420063362643614
+zmniejszać	przewyższać	1.079931249264423
+wzrastać	rozpoczynać	0.9251858715235571
+przewyższać	przestawać	1.1566290804601174
+zwiększać	przyśpieszyć	0.7534029396192442
+przerwać	zwiększać	1.385017399894678
+przestawać	podnieść	1.4411578421698439
+opóźniać	maleć	0.7958635115205
+kończyć	stymulować	1.344208706441634
+akumulować	przerwać	1.2989355419898436
+powiększać	akumulować	0.6297491929727261
+zapoczątkować	przerwać	1.2505746717633868
+zmniejszać	wynikać	1.1035609263588537
+wzrastać	rosnąć	0.2716736933243129
+zmniejszać	przelewać się	1.2328490959533243
+maleć	stymulować	1.0687646973747564
+kurczyć się	akumulować	1.0629581285066116
+rozpoczynać	przestawać	1.18864978796552
+zaczynać	powiększać	0.9691469335339603
+zapoczątkować	zdarzyć się	0.7200743487368838
+wynikać	przerwać	1.0353131691827677
+maleć	mnożyć	1.0392589068539644
+opóźniać	zapoczątkować	1.3087661404065345
+opóźniać	stymulować	1.1177971505305206
+wynikać	mnożyć	1.0428724571984238
+powiększać	przestawać	1.3356378364482304
+stymulować	przerwać	1.3497719903570928
+rosnąć	zapoczątkować	0.963253337659268
+zdarzyć się	przelewać się	1.0858190737433286
+zwiększać	obniżać się	1.0323245526180005
+przelewać się	kończyć	1.1959992299235476
+zwiększać	wynikać	1.1255914422446318
+zaczynać	maleć	1.3095094997876862
+kurczyć się	obniżać	0.47521868722135474
+powiększać	rosnąć	0.5560016000666878
+zaczynać	przerwać	1.2455957534136568
+mnożyć	zmniejszać	1.076254263368606
+mnożyć	przyśpieszyć	0.7478154369643739
+przeważać	wzrastać	0.6543067695828079
+opóźniać	przyśpieszyć	1.3234134981592456
+obniżać się	akumulować	0.880462146805339
+zaczynać	duplikować	0.8630124787464648
+przelewać się	rozpoczynać	1.0668080330128706
+opóźniać	duplikować	1.0770082311858076
+podnieść	obniżać	0.9711349793299356
+rosnąć	rozpoczynać	0.8937618263984396
+zmniejszać	powiększać	1.0815267637486576
+zdarzyć się	rosnąć	1.089384092024426
+zmniejszać	akumulować	0.9907943770639936
+kończyć	zmniejszać	0.922438674145071
+kończyć	przyśpieszyć	1.2707676671186525
+kończyć	przewyższać	1.2371855727375762
+mnożyć	przestawać	1.3179212403976224
+powiększać	przelewać się	1.0609429591230735
+kończyć	przeważać	1.256819484559814
+zaczynać	rozpoczynać	0.14918086215603646
+zwiększać	przeważać	0.8344348669743051
+akumulować	kończyć	1.3755721553434141
+powiększać	wynikać	0.9703389951834179
+maleć	zmniejszać	0.15823176015866772
+zapoczątkować	podnieść	1.0300330025029543
+rozpoczynać	obniżać	1.1825060671496241
+duplikować	przyśpieszyć	0.5632058784714177
+kurczyć się	przestawać	0.8444957132022054
+obniżać	zaczynać	1.190390380419405
+zmniejszać	zwiększać	1.0429667126341862
+przerwać	obniżać	0.8778481397703256
+powiększać	przyśpieszyć	0.7081746562879851
+redukować	mnożyć	1.1166747998567574
+zapoczątkować	kończyć	1.2840241901569065
+redukować	przyśpieszyć	0.9963824892873313
+akumulować	przelewać się	1.1163323819911084
+obniżać się	wynikać	0.9455132522348416
+podnieść	opóźniać	1.1696186123060366
+zwiększać	redukować	1.1100490915842778
+przekraczać	obniżać się	1.0259323607177768
+podnieść	rosnąć	0.6725151248733494
+powiększać	podnieść	0.6428705232010005
+kurczyć się	zmniejszać	0.22156771976197062
+stymulować	wynikać	1.2765859460530158
+stymulować	przekraczać	0.7514474126950773
+stymulować	kurczyć się	1.0259602232280547
+przerwać	zmniejszać	0.99036028574275
+obniżać się	powiększać	1.0880234685253674
+podnieść	rozpoczynać	0.9563314354822082
+stymulować	wzrastać	0.6880358149406828
+przekraczać	maleć	1.060140282357701
+kończyć	redukować	0.8976497179492602
+przewyższać	przeważać	0.6444918781204539
+przewyższać	przyśpieszyć	0.642840540738007
+maleć	kończyć	0.9096447726647475
+akumulować	podnieść	0.6555204157645347
+obniżać się	rosnąć	1.0941100672463326
+przewyższać	powiększać	0.6026887656140979
+rosnąć	stymulować	0.7242963987327744
+przyśpieszyć	przelewać się	1.056830751378864
+stymulować	obniżać się	1.0286632023709676
+kończyć	powiększać	1.3880373913128317
+akumulować	przekraczać	0.7761405753746236
+przerwać	przewyższać	1.1627606893885831
+przewyższać	zdarzyć się	0.9515242910900682
+maleć	powiększać	1.0921810136354262
+podnieść	wzrastać	0.5283756761304692
+przeważać	przestawać	1.096056005221444
+maleć	duplikować	0.9679032459723607
+maleć	wzrastać	1.097367837421677
+zdarzyć się	kończyć	1.2728046024479658
+stymulować	przelewać się	0.8951363093588032
+podnieść	maleć	1.1255543880868848
+kurczyć się	przyśpieszyć	1.0875461738613652
+kończyć	rozpoczynać	1.263985658124878
+wynikać	kończyć	1.004287804521929
+duplikować	przeważać	0.7753887276250753
+przelewać się	przestawać	1.1237616542675943
+podnieść	zmniejszać	1.1150055522213969
+mnożyć	opóźniać	1.221213039284792
+kończyć	obniżać się	0.8582876016186356
+kurczyć się	redukować	0.38757186385498077
+zdarzyć się	duplikować	0.8998227930563266
+przerwać	redukować	0.9207664984925467
+kurczyć się	przewyższać	1.1085652662638579
+redukować	przeważać	1.1877614281477933
+obniżać się	podnieść	0.905906314852459
+wynikać	podnieść	1.065627818510003
+przestawać	zapoczątkować	1.2284512977762303
+zmniejszać	zapoczątkować	1.3810885214417008
+mnożyć	rozpoczynać	1.1296643684928107
+stymulować	redukować	1.099599637090287
+zapoczątkować	zaczynać	0.2035760726514431
+wynikać	przewyższać	1.0366469865270167
+mnożyć	przerwać	1.2788622559879879
+kończyć	wzrastać	1.3860253192939167
+kończyć	opóźniać	0.9935098406546413
+wzrastać	przelewać się	0.9274742629735414
+mnożyć	przeważać	0.7484342279212837
+przeważać	przerwać	1.0871222956901516
+przekraczać	wzrastać	0.7317692314156917
+przeważać	obniżać	1.1185398284850296
+duplikować	przewyższać	0.4463639173111664
+zwiększać	zaczynać	0.9080032932828822
+duplikować	kończyć	1.3581399974968937
+przerwać	zdarzyć się	1.258850698581631
+opóźniać	przerwać	0.9564322960506009
+zwiększać	podnieść	0.5213747434754314
+stymulować	zwiększać	0.646918709862257
+przelewać się	wynikać	1.3101357492220285
+akumulować	rozpoczynać	0.9099215924748114
+zapoczątkować	wynikać	1.0676800999414402
+duplikować	mnożyć	0.3789793503247553
+wzrastać	duplikować	0.697895289263192
+podnieść	mnożyć	0.6111766572462355
+zmniejszać	przekraczać	1.0628026513809699
+przekraczać	przestawać	1.2073272765430614
+przestawać	przerwać	0.1772415104498674
+rozpoczynać	zwiększać	0.9558152925371363
+kończyć	zwiększać	1.3852964858016874
+przekraczać	kurczyć się	1.1852318851012285
+przyśpieszyć	przekraczać	0.7346439406345793
+maleć	zwiększać	1.098745215523671
+przelewać się	redukować	1.3113806682596794
+zwiększać	przestawać	1.3198089665767667
+kurczyć się	obniżać się	0.48941104887508435
+mnożyć	powiększać	0.45519841731816596
+obniżać	przyśpieszyć	0.9782043013074305
+przewyższać	rozpoczynać	1.022086847799752
+powiększać	stymulować	0.5647597460140453
+opóźniać	zwiększać	1.177578566869645
+obniżać	rosnąć	1.0787430873563275
+podnieść	przeważać	0.9395060711404443
+stymulować	zaczynać	0.6228710460728648
+maleć	zdarzyć się	1.1237847999184285
+wynikać	rosnąć	1.2402816717759417
+rosnąć	przelewać się	1.1702704055755708
+redukować	obniżać	0.4574491385905596
+przelewać się	podnieść	1.1475605260431099
+zaczynać	przekraczać	0.9825293116876119
+przeważać	powiększać	0.867306117227467
+zwiększać	duplikować	0.466423072563154
+kurczyć się	zaczynać	1.3053901743117888
+opóźniać	przeważać	1.2324867479196875
+kończyć	przestawać	0.4547331677880766
+obniżać się	maleć	0.3647231695249854
+powiększać	duplikować	0.379055854191199
+obniżać	akumulować	0.7867772780589339
+wzrastać	zmniejszać	1.071704232575807
+rosnąć	przyśpieszyć	0.9745659564055318
+obniżać	zapoczątkować	1.3221532351433845
+wzrastać	redukować	0.9874261306782831
+przekraczać	zwiększać	0.6872577710188947
+mnożyć	zapoczątkować	1.0753924937780301
+obniżać	opóźniać	0.8543755631178949
+rosnąć	zwiększać	0.5264118031100551
+przerwać	rozpoczynać	1.1907694898486803
+przeważać	zdarzyć się	1.0463602040046562
+zapoczątkować	maleć	1.3796412482781244
+wzrastać	zwiększać	0.44043811232516095
+mnożyć	kończyć	1.3672396502873427
+kurczyć się	przeważać	1.2243734723697295
+przelewać się	kurczyć się	1.1587821193841283
+przestawać	obniżać	0.8614356054969815
+przyśpieszyć	podnieść	0.5893752296419248
+zaczynać	przewyższać	0.9861640839417325
+przekraczać	redukować	1.1557348313036173
+maleć	redukować	0.392386064269794
+wzrastać	obniżać się	1.112734149174321
+przewyższać	przekraczać	0.4627669062174736
+redukować	akumulować	1.0494444717358644
+zdarzyć się	wzrastać	0.9282547245723852
+zapoczątkować	stymulować	0.6336025441566635
+zaczynać	mnożyć	1.0154238825814257
+akumulować	przestawać	1.2375976383592089
+podnieść	przerwać	1.4453955526364972
+przeważać	rosnąć	0.6756231741435269
+duplikować	przerwać	1.375785201762361
+przestawać	duplikować	1.3193267394693284
+zaczynać	przelewać się	1.04388220029516
+rosnąć	opóźniać	1.355382391386785
+rosnąć	zmniejszać	1.1753749668211815
+akumulować	przyśpieszyć	0.6953736832599787
+przewyższać	obniżać się	0.8717129167808995
+powiększać	przekraczać	0.682269599689923
+przewyższać	akumulować	0.5089896165477606
+rozpoczynać	przeważać	0.7943872328178184
+rosnąć	przekraczać	0.7290994920385746
+rosnąć	zaczynać	0.9986450680472154
+zdarzyć się	zwiększać	1.0617044646482245
+kurczyć się	kończyć	0.8794938988857086
+przeważać	wynikać	1.090793325357303
+rosnąć	mnożyć	0.7200322628079063
+zapoczątkować	wzrastać	0.9604133374205633
+przeważać	zapoczątkować	0.8332847149728102
+zmniejszać	opóźniać	0.7815770468646427
+zdarzyć się	obniżać się	1.054449223888915
+obniżać	stymulować	1.0060599947849307
+duplikować	obniżać	0.9864027302566516
+podnieść	zdarzyć się	0.9301326342493533
+zmniejszać	przeważać	1.1734650943932148
+obniżać się	obniżać	0.14974861744148446
+zmniejszać	zdarzyć się	1.1083973348063219
+akumulować	przeważać	0.856112435907423
+zdarzyć się	opóźniać	0.9826694606314421
+redukować	zaczynać	1.2822707736697423
+zwiększać	mnożyć	0.42321118248797124
+wzrastać	przyśpieszyć	0.7994475620167159
+mnożyć	kurczyć się	1.0622099355288614
+maleć	przelewać się	1.1839287050232947
+podnieść	przewyższać	0.5275533089062254
+obniżać się	zmniejszać	0.4006901925994072
+obniżać się	przyśpieszyć	0.9758854011464843
+zapoczątkować	przekraczać	1.0325201613853199
+mnożyć	akumulować	0.5480232003181055
+zdarzyć się	kurczyć się	1.1794236408288739
+kurczyć się	wynikać	1.0911575571790328
+przestawać	zdarzyć się	1.1968457449105947
+redukować	zdarzyć się	1.133909946853118
+zmniejszać	przyśpieszyć	1.0611878267342225
+powiększać	przerwać	1.399513518220036
+rozpoczynać	zdarzyć się	0.6837555928302147
+stymulować	przestawać	1.2861128659525127
+powiększać	wzrastać	0.562122577910253
+powiększać	opóźniać	1.2558647729344723
+duplikować	kurczyć się	0.9862573035140682
+zapoczątkować	obniżać się	1.305597216647594
+zdarzyć się	powiększać	0.9185905183095767
+zwiększać	kurczyć się	1.0980331295834687
+zmniejszać	duplikować	1.0616257361515617
+przestawać	zmniejszać	0.9460957417731409
+kurczyć się	maleć	0.2612068100124291
+maleć	przerwać	0.9462041350208332
+maleć	rozpoczynać	1.2868768531534596
+zdarzyć się	przyśpieszyć	0.8360881841845874
+przestawać	zaczynać	1.1725033482983678
+zmniejszać	obniżać	0.37651499378751757
+zwiększać	powiększać	0.22008060769907017
+opóźniać	rozpoczynać	1.236948062583386
+wynikać	duplikować	0.9421677482251494
+kończyć	zaczynać	1.2798965276219718
+przewyższać	przelewać się	0.9598704213501599
+przyśpieszyć	zaczynać	0.7951638178136156
+redukować	obniżać się	0.4284034311122759
+stymulować	przewyższać	0.8535946775530528
+akumulować	opóźniać	1.0560929382826743
+zdarzyć się	obniżać	1.1017851827688618
+przekraczać	mnożyć	0.720754323643428
+duplikować	rosnąć	0.7791673004059275
+duplikować	redukować	0.9801375086198038
+zapoczątkować	przyśpieszyć	0.8362297841738326
+przekraczać	duplikować	0.6524168218634258
+akumulować	zdarzyć się	0.9406810809408548
+zapoczątkować	duplikować	0.8877925776106389
+zapoczątkować	rozpoczynać	0.2072682151227512
+przelewać się	przekraczać	0.907291921233421
+przewyższać	redukować	0.9645735285447059
+przerwać	kurczyć się	0.9212180624669507
+przelewać się	przeważać	0.604600630467147
+rozpoczynać	duplikować	0.9438584944446345
+przekraczać	kończyć	1.223383416905844
+stymulować	przeważać	0.6155650539888791
+rozpoczynać	przyśpieszyć	0.7732208994830069
+rozpoczynać	obniżać się	1.1632146849289087
+duplikować	przelewać się	0.978035070690229
+przewyższać	zapoczątkować	1.0244502977348406
+przyśpieszyć	przerwać	1.2473471465191874
+zapoczątkować	przelewać się	1.1428310921537952
+akumulować	zwiększać	0.5049574076118543
+przestawać	obniżać się	0.9090611092610373
+akumulować	zaczynać	0.9870584818504157
+wynikać	maleć	1.1272858536870158
+przelewać się	obniżać się	1.2913813332717055
+kurczyć się	wzrastać	1.1367831241961395
+obniżać się	opóźniać	0.8326609270886555
+wzrastać	obniżać	1.123540596288856
+kurczyć się	powiększać	1.0945128883969026
+przestawać	opóźniać	0.9647841137684713
+przestawać	wzrastać	1.2891931788828028
+stymulować	podnieść	0.8062906200541067
+przeważać	maleć	1.156097614633173
+kończyć	rosnąć	1.3393214335115562
+wynikać	zaczynać	1.0580726359873662
+mnożyć	przelewać się	0.9994641224383831
+zapoczątkować	redukować	1.3301306813617213
+podnieść	kończyć	1.399766061755448
+wzrastać	akumulować	0.6178615756408055
+przewyższać	obniżać	0.7678144914167514
+zmniejszać	rozpoczynać	1.2777602015634022
+rosnąć	akumulować	0.7268893894378228
+zwiększać	zapoczątkować	1.0359876697292745
+przerwać	wzrastać	1.3110768948975082
+obniżać się	przeważać	1.1645319176471607
+wynikać	zdarzyć się	1.282207766536545
+podnieść	przekraczać	0.7461376914641796
+przewyższać	zwiększać	0.43165260260740307
+zwiększać	obniżać	1.0059345653577545
+kurczyć się	rozpoczynać	1.3065968413227906
+obniżać	kończyć	0.80282644593634
+zdarzyć się	mnożyć	0.988621636465867
+duplikować	podnieść	0.6737201908968845
+przelewać się	opóźniać	1.2947515353793972
+mnożyć	stymulować	0.8264409837184534
+rosnąć	przerwać	1.3617514712951437
+opóźniać	wynikać	1.1498886448611336
+redukować	przestawać	0.8748924058588821
+rosnąć	kurczyć się	1.2469370067462608
+duplikować	obniżać się	0.957060305676461
+maleć	obniżać	0.31392120395491613
+rozpoczynać	powiększać	0.9802585314044894
+przestawać	maleć	0.9766203348177783
+zmniejszać	zaczynać	1.2964178642713955
+akumulować	wynikać	0.9582691392233046
+przerwać	przekraczać	1.3486192820874916
+redukować	rosnąć	1.1794582308990078
+akumulować	stymulować	0.931207930644251
+opóźniać	przewyższać	1.1253180080273935
+zaczynać	zdarzyć się	0.7131536635817737
+opóźniać	redukować	0.7456598680700596
+maleć	przyśpieszyć	1.0753334615522558
+obniżać	mnożyć	1.0873812743980291
+wynikać	obniżać	0.9215969301452511
+przelewać się	zwiększać	1.0490544302180589
+obniżać	powiększać	1.0428782799833634
+przestawać	rosnąć	1.3412037304234574
+zapoczątkować	kurczyć się	1.4030650418428134
+przekraczać	wynikać	1.0157532818379396
+opóźniać	przekraczać	1.3149176648222016
+przerwać	obniżać się	0.9234276641187995
+redukować	powiększać	1.130922189221055
+stymulować	rozpoczynać	0.5980272104628837
+wzrastać	opóźniać	1.1437141323593794
+wynikać	przyśpieszyć	0.9550444402686759
+przekraczać	obniżać	0.9605785573934718
+zapoczątkować	powiększać	0.9680514489214519
+stymulować	przyśpieszyć	0.7705242053507986
+przyśpieszyć	przestawać	1.224814218116766
+przewyższać	wzrastać	0.5850534060901349
+mnożyć	przewyższać	0.48170200423614157
+podnieść	zaczynać	0.9859085803687463
+obniżać się	mnożyć	1.085279170473139
+opóźniać	kurczyć się	0.9195852386922347
+redukować	podnieść	0.9786515131621618

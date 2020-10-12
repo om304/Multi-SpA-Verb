@@ -1,0 +1,1226 @@
+Word1	Word2	Score
+obrazić	przeklinać	0.7976581038253832
+nie lubić	gardzić	0.6198625596990159
+ignorować	urazić	1.02163728777377
+prześladować	kłamać	0.9714997525935556
+kłamać	oszukiwać	0.5013368092511643
+krytykować	przejmować	1.262268211997258
+zadrzeć	denerwować	0.9257899496370021
+tęsknić	urazić	1.161519660786709
+zdradzać	nienawidzić	0.8591326053164643
+zdenerwować	gardzić	0.7817017222880771
+odrzucać	zdradzać	0.7217155871106672
+deprecjonować	denerwować	0.7674306578235891
+frustrować	irytować	0.5940763774802545
+krytykować	blefować	0.9697397791425933
+irytować	rozczarować	0.928778695481033
+oszukiwać	frustrować	0.8412817993850924
+obrazić	zawstydzić	0.6432263020734872
+rozpaczać	zawstydzić	1.1630575811019939
+gardzić	zniechęcać	0.8844438017116233
+frustrować	skonsternować	0.745569551002265
+skonsternować	krytykować	1.0080520919135099
+obrzydzać	urazić	0.8203506569572924
+lekceważyć	drażnić	0.7746347505982599
+rozpaczać	irytować	1.0908828299048778
+przeklinać	kpić	1.074698251251933
+martwić	urazić	1.0526988734799902
+pozwać	przytłaczać	1.3415785420648976
+odmawiać	besztać	0.8976167442965138
+utrudniać	dokuczać	0.9174797167977302
+zdradzać	oszukiwać	0.7284996692832806
+prześladować	krytykować	1.000824132811397
+kłócić się	zdenerwować	0.9596877535861931
+obrazić	rozwścieczać	0.6991254862824899
+denerwować	rozczarować	1.0783253132077653
+kłamać	przejmować	1.4297388757595986
+przestraszyć	besztać	0.8186899296768979
+lekceważyć	dokuczać	0.842112748804507
+poniżać	frustrować	0.7160333597996659
+deprecjonować	frustrować	0.8546971351752743
+poniżać	odrzucać	0.841920817987298
+zawstydzić	poniżać	1.0977636737683236
+odmawiać	nie lubić	0.888793424152367
+zdradzać	pozwać	1.065450895643875
+obrazić	krytykować	0.7000144373221733
+kłamać	przytłaczać	1.0762326301681135
+zdenerwować	obrzydzać	0.9204071939126811
+ignorować	wystrzegać się	0.7329192139952142
+kpić	odrzucać	0.8293537083185627
+zawstydzić	odrzucać	0.9734082202518223
+przestraszyć	zwodzić	1.3841864999451967
+zdenerwować	fatygować	1.245017258596976
+utrudniać	prześladować	0.8811052065457783
+skonsternować	kpić	0.8164967135076029
+urazić	kłamać	1.115206284617745
+rozczarować	blefować	1.17350994226368
+dokuczać	krytykować	0.8813483226937249
+irytować	gardzić	0.8094643329149125
+kpić	wyrzekać się	0.7280457769273192
+kłamać	obrzydzać	1.2440780547180037
+tęsknić	martwić	0.6969618396643734
+tęsknić	przerazić	1.0108107741869774
+denerwować	zdenerwować	0.4009731427989341
+rozczarować	urazić	1.11861554747265
+kłócić się	nienawidzić	1.1768583092238132
+nienawidzić	deprecjonować	0.9522840586458452
+rozwścieczać	żałować	1.2011554156347357
+przerazić	pozwać	0.955001897601501
+ignorować	denerwować	0.9297552406334052
+pozwać	żałować	1.3169620553033135
+przerazić	odrzucać	1.0424877174531324
+obrazić	utrudniać	1.0578360943062466
+zawstydzić	gardzić	1.0989862637601757
+besztać	skarcić	0.6926347173849229
+tęsknić	besztać	1.2039833589926883
+przytłaczać	deprecjonować	0.9437550950712339
+przeszkadzać	obrazić	0.7811881288781172
+odmawiać	przytłaczać	0.9544180283283079
+nienawidzić	blefować	0.9712209642959599
+frustrować	denerwować	0.6625547548545214
+besztać	drażnić	0.7876128357933869
+ignorować	przytłaczać	1.0394104632659635
+blefować	kpić	0.6739062400920731
+rozpaczać	martwić	0.7276216938856448
+wystrzegać się	blefować	1.0851388598336802
+zniechęcać	przejmować	1.318754274240529
+poniżać	rozpaczać	1.2366384531339325
+obrzydzać	gardzić	0.7955533290490711
+lekceważyć	obrzydzać	1.158662220038952
+zdenerwować	oszukiwać	0.9282544046658032
+obrzydzać	nie lubić	1.1010558212842634
+kłócić się	przestraszyć	1.1385187395146312
+obrazić	odrzucać	0.8260991640276295
+rozczarować	drażnić	0.8330957106171873
+kłócić się	deprecjonować	0.7689877395956957
+prześladować	lekceważyć	0.9942499331727526
+irytować	prześladować	0.9213513905692698
+zadrzeć	dokuczać	0.7536454471405145
+zdenerwować	kłamać	0.9802626701374284
+frustrować	skarcić	0.9991659405279519
+zdenerwować	rozczarować	1.2810279313474524
+nie lubić	pozwać	1.274795611880163
+skonsternować	odmawiać	1.071969664910901
+zdenerwować	lekceważyć	0.8998461341132606
+odrzucać	kłamać	0.7769837246200122
+nie lubić	zniechęcać	1.1585809551269417
+skonsternować	martwić	1.18379353664914
+drażnić	zwodzić	0.9633841711037775
+przeszkadzać	dokuczać	0.6848795014358151
+martwić	żałować	0.5330361726265767
+rozwścieczać	nienawidzić	1.0459138702581938
+tęsknić	zwodzić	1.213483623778333
+urazić	drażnić	0.8303737748613265
+nienawidzić	żałować	1.3122779729259944
+lekceważyć	urazić	1.0320873278366958
+przerazić	przeszkadzać	0.9074521713107773
+nienawidzić	poniżać	0.8378625811418476
+lekceważyć	rozpaczać	1.1997743843315793
+przeklinać	skonsternować	1.0141339114293333
+fatygować	kpić	1.110844870892215
+przeszkadzać	gardzić	0.7970640699801432
+frustrować	żałować	1.1451062228306925
+rozpaczać	utrudniać	1.1222875683944062
+gardzić	kłócić się	1.0689929978986923
+przytłaczać	urazić	1.024787862626556
+prześladować	fatygować	0.8959095591825326
+przerazić	odmawiać	1.0265597465800305
+obrzydzać	przeklinać	1.16045214637956
+deprecjonować	wyrzekać się	0.8978339569113589
+zniechęcać	zawstydzić	1.146139167767666
+obrazić	zadrzeć	0.8316551522890215
+utrudniać	kłócić się	1.0785989279412365
+ignorować	lekceważyć	0.5128863194864507
+oszukiwać	nienawidzić	1.0708044676538662
+kłamać	skarcić	1.2792089410152094
+pozwać	krytykować	1.0109517555780847
+przeklinać	zadrzeć	0.869529108430922
+drażnić	rozwścieczać	0.6821665422816726
+wystrzegać się	prześladować	1.1422056900397526
+skarcić	przeklinać	0.9466942391803331
+gardzić	odrzucać	1.0007975879949762
+zdradzać	zdenerwować	1.040958785581482
+skonsternować	obrazić	0.8218777918245486
+przerazić	frustrować	0.8357715333273976
+drażnić	przejmować	1.0030218301009424
+lekceważyć	zniechęcać	0.9704616757643392
+prześladować	zadrzeć	0.8790151693604942
+przytłaczać	poniżać	1.052094359810487
+obrzydzać	rozczarować	1.0104567951185075
+przeklinać	tęsknić	1.3122283942257658
+oszukiwać	poniżać	0.9542131951863829
+przerazić	gardzić	0.9515877978374458
+zniechęcać	oszukiwać	0.9262159934817056
+przeklinać	frustrować	0.9556383340177856
+besztać	obrzydzać	0.9942756663687254
+pozwać	skarcić	0.6730895947341373
+obrazić	besztać	0.6225208386803286
+kłamać	ignorować	0.5806445136887042
+obrzydzać	oszukiwać	1.1887157401205788
+dokuczać	rozwścieczać	0.673483350350676
+żałować	kłamać	1.0480589029835792
+fatygować	zdradzać	1.331831443845887
+nie lubić	wystrzegać się	1.120004654029678
+zawstydzić	nie lubić	1.4281242955798252
+żałować	przeszkadzać	0.9510747168342415
+krytykować	martwić	1.2331607156937021
+krytykować	denerwować	0.768997413200901
+besztać	lekceważyć	0.6911161370834195
+przeklinać	zdenerwować	1.14679416416171
+przeklinać	deprecjonować	0.8083982979555732
+poniżać	nie lubić	0.9239478260140609
+zwodzić	besztać	1.0215515664634751
+kłócić się	przerazić	1.1677616557016224
+zdenerwować	drażnić	0.7397463042424605
+przeklinać	irytować	1.1862776087763274
+kłamać	fatygować	1.1507924690022837
+rozwścieczać	skonsternować	0.9906474385563409
+zdenerwować	wystrzegać się	1.1634041798577088
+kłamać	kpić	0.6707162281046176
+kłócić się	odrzucać	1.003232026075244
+przytłaczać	zawstydzić	1.0619746410755704
+ignorować	fatygować	1.0829742721702154
+zadrzeć	blefować	1.2061722942039226
+fatygować	frustrować	0.9796978954929295
+zawstydzić	martwić	1.1700217799579478
+deprecjonować	fatygować	1.1835482563977315
+skarcić	denerwować	0.8349761556878379
+wystrzegać się	besztać	0.8960690584012402
+przestraszyć	prześladować	0.6809510508925072
+oszukiwać	blefować	0.49479101243819457
+skarcić	skonsternować	0.9993228779637724
+poniżać	skarcić	0.7759791662727834
+tęsknić	obrazić	1.2173417496182677
+żałować	odmawiać	0.8561787989392793
+oszukiwać	kłócić się	1.0089005434472733
+obrzydzać	ignorować	1.2398988666638582
+besztać	denerwować	0.7273579292780532
+odrzucać	lekceważyć	0.6731204888536886
+nienawidzić	dokuczać	0.8096619979810196
+blefować	nie lubić	1.125170370389961
+żałować	nie lubić	1.347404380304624
+odrzucać	przestraszyć	1.3908239533378373
+nienawidzić	przerazić	1.194492760991982
+przytłaczać	wyrzekać się	1.040163658336791
+utrudniać	zawstydzić	1.0788570006575309
+wystrzegać się	tęsknić	1.4532901292708424
+nie lubić	fatygować	1.2519179579381097
+przestraszyć	żałować	0.9974142354232468
+urazić	zwodzić	1.1247186562732223
+kpić	nie lubić	0.8474564692295644
+kłócić się	wystrzegać się	1.1533675738213323
+denerwować	odmawiać	0.9930782398683653
+zdradzać	obrzydzać	1.246318320651753
+zdradzać	przeklinać	1.3060240564088188
+martwić	kłócić się	1.367326680996238
+zniechęcać	rozczarować	0.8186725557328605
+ignorować	odmawiać	0.6117809856297964
+odmawiać	oszukiwać	0.7847066022956631
+blefować	martwić	1.1815096920531964
+zadrzeć	krytykować	1.1441025094970478
+lekceważyć	poniżać	0.7665485148881572
+kpić	przeszkadzać	0.8854127715330208
+kłócić się	rozpaczać	1.3007070769194053
+tęsknić	kłócić się	1.4439373742247166
+rozwścieczać	zwodzić	1.1267129148336104
+kpić	rozpaczać	1.1963873922720474
+blefować	zdradzać	0.937621118481767
+przeszkadzać	kłamać	0.884542580574815
+utrudniać	wystrzegać się	1.2107569071272224
+poniżać	kpić	0.6029563970365703
+zwodzić	wystrzegać się	0.9359057552538712
+zniechęcać	zdenerwować	1.1469190823370097
+fatygować	blefować	1.1371080425978257
+pozwać	zwodzić	1.0170315199953797
+kłócić się	nie lubić	1.2013080655195036
+urazić	rozwścieczać	0.8454052547738271
+zniechęcać	przerazić	0.9711948289305987
+ignorować	kłócić się	1.0089165437469305
+kpić	zniechęcać	0.9179856226960817
+rozczarować	dokuczać	1.0206893935293277
+zwodzić	nienawidzić	1.0360631859559948
+lekceważyć	denerwować	0.851858966478643
+zwodzić	skonsternować	1.1679575730687841
+ignorować	pozwać	0.8980984117075799
+deprecjonować	ignorować	0.7778866116138918
+utrudniać	wyrzekać się	1.225374620864013
+gardzić	ignorować	0.9396417052710438
+wystrzegać się	przejmować	1.4723670110942761
+przejmować	frustrować	1.153749996435329
+żałować	obrazić	1.1281346437607478
+poniżać	zdradzać	0.8506835238317162
+skonsternować	zniechęcać	0.9963491581588297
+frustrować	tęsknić	1.1764781213234219
+przeszkadzać	zawstydzić	1.0013775026917133
+żałować	ignorować	0.9434122609842814
+zniechęcać	wyrzekać się	1.127458471010366
+przejmować	tęsknić	0.505560657320566
+przejmować	nienawidzić	1.2022760508515213
+frustrować	krytykować	0.8579088521589788
+pozwać	zniechęcać	1.1995573124150953
+rozpaczać	przeklinać	1.1066241847894127
+skonsternować	nienawidzić	1.1322260367874697
+kpić	zdenerwować	0.6413420928605644
+zniechęcać	nienawidzić	1.0155472161680956
+odrzucać	zdenerwować	1.1003000814771997
+odrzucać	obrzydzać	1.4387407492666613
+zwodzić	przerazić	1.2370716104833441
+zawstydzić	obrzydzać	1.0545622740314373
+rozpaczać	rozczarować	1.0556516136876912
+gardzić	przeklinać	1.1451491937257277
+wystrzegać się	obrzydzać	1.335415627021974
+martwić	oszukiwać	0.9039751951304591
+martwić	zwodzić	0.7902646739876283
+krytykować	przerazić	1.1980376348036905
+zawstydzić	oszukiwać	1.1839143422345817
+kłamać	rozpaczać	1.4168717453156678
+zdradzać	kpić	0.8218576955467033
+zdenerwować	odmawiać	1.0759267663649912
+irytować	krytykować	0.8185582297669486
+odmawiać	rozwścieczać	0.9989511973545112
+besztać	ignorować	0.8206103826679485
+dokuczać	besztać	0.8702016131082139
+denerwować	utrudniać	1.1764751673078178
+kłócić się	rozczarować	1.3685517874600002
+utrudniać	przytłaczać	0.808170717682604
+zwodzić	rozczarować	1.0884662956099038
+przejmować	przerazić	0.9007039724700605
+lekceważyć	obrazić	0.9459043768990104
+odrzucać	dokuczać	0.9419101871421078
+dokuczać	zniechęcać	0.8862571482960002
+zdradzać	zawstydzić	1.2109206960351178
+przeszkadzać	tęsknić	1.1882290138477083
+kpić	zadrzeć	0.9259124984656996
+zniechęcać	przestraszyć	1.019365223854524
+blefować	zawstydzić	1.2959875537984369
+zdenerwować	blefować	1.0531208642975618
+wyrzekać się	przeklinać	1.0213770606517734
+ignorować	rozczarować	0.9552344492857888
+poniżać	kłamać	0.9268594895311189
+przytłaczać	fatygować	0.8650125742302367
+martwić	rozwścieczać	1.060936274999434
+deprecjonować	kłamać	0.8899195078219267
+zadrzeć	tęsknić	1.2488989874785332
+żałować	utrudniać	1.2303600965518087
+żałować	zadrzeć	1.1552473194623085
+poniżać	prześladować	0.8795394478142274
+drażnić	frustrować	0.49496278315656506
+przytłaczać	zadrzeć	0.8377506100096793
+frustrować	rozpaczać	1.216576237165613
+zdradzać	obrazić	0.9858360203611071
+blefować	gardzić	0.8960001676851189
+deprecjonować	zawstydzić	0.7871009973460721
+martwić	denerwować	0.9636452614485845
+oszukiwać	irytować	0.8812788662593629
+blefować	denerwować	1.0148308656571008
+urazić	żałować	1.0244690233905456
+irytować	fatygować	1.1710264401071935
+pozwać	wystrzegać się	1.1660763199336683
+fatygować	przejmować	1.3378962528441658
+ignorować	prześladować	0.9039700901262828
+przytłaczać	dokuczać	0.8235205981288296
+prześladować	żałować	0.8446631451703654
+zdenerwować	pozwać	0.8146072042916253
+ignorować	przeklinać	1.040490548268445
+denerwować	nienawidzić	0.8540955729416924
+besztać	zdenerwować	0.7289861212544292
+ignorować	kpić	0.8636301487130745
+gardzić	przestraszyć	0.6715271984375475
+zniechęcać	krytykować	0.9080525299782765
+nie lubić	wyrzekać się	1.0648395160445356
+tęsknić	żałować	0.8594139256027366
+skarcić	prześladować	0.8500952429873055
+skonsternować	przestraszyć	0.9178283233371024
+nie lubić	prześladować	1.010518976863446
+obrzydzać	przytłaczać	0.6999746950010183
+poniżać	fatygować	1.1948396435520603
+rozczarować	zdradzać	1.116718832676706
+blefować	przeszkadzać	0.9299817540561588
+besztać	deprecjonować	0.6536880485643689
+lekceważyć	przestraszyć	1.0640081938328811
+przeszkadzać	oszukiwać	0.9195756637089382
+poniżać	zadrzeć	1.002686490068332
+ignorować	skarcić	0.9859187594621304
+tęsknić	przytłaczać	1.2032918671055637
+zdradzać	denerwować	0.990749481367001
+poniżać	wystrzegać się	0.995490063595274
+gardzić	deprecjonować	0.8454395011227535
+blefować	obrazić	0.9946685318721616
+przeszkadzać	obrzydzać	0.8089993087219829
+prześladować	odmawiać	0.9236663713895323
+obrazić	prześladować	0.7928939742599795
+odmawiać	gardzić	1.0075507864979862
+obrazić	zwodzić	0.9534943038519136
+kłamać	martwić	1.0931774341968918
+rozczarować	martwić	1.0970119403510852
+lekceważyć	pozwać	0.8957741062684799
+deprecjonować	skonsternować	0.7172227997105649
+nie lubić	rozpaczać	1.415674940649066
+blefować	rozwścieczać	1.0117084604787037
+obrzydzać	skonsternować	0.7921472154106494
+zniechęcać	blefować	0.959426424517934
+dokuczać	fatygować	1.026097033695847
+nienawidzić	besztać	1.00938903372375
+lekceważyć	frustrować	0.7226499974432604
+rozpaczać	wyrzekać się	1.3134034710680156
+przeklinać	drażnić	0.8725771055129791
+denerwować	nie lubić	0.9136909163100488
+irytować	zdenerwować	0.7677132549475071
+przejmować	blefować	1.5123334345095223
+odmawiać	zadrzeć	0.9426479718903322
+wystrzegać się	skonsternować	1.2218323090869416
+wyrzekać się	zdradzać	0.7938800504814536
+przeszkadzać	nie lubić	0.813488255022904
+przeszkadzać	prześladować	0.8478487333705063
+obrazić	zdenerwować	0.9551976591151717
+frustrować	zawstydzić	1.0437044622446505
+fatygować	martwić	1.5068344942870429
+krytykować	zdradzać	0.8922128056559712
+odmawiać	przeszkadzać	0.9167278778773538
+utrudniać	blefować	1.0715194672382886
+wystrzegać się	wyrzekać się	0.45452721218710557
+przejmować	odmawiać	1.0736437163805428
+krytykować	skarcić	0.835375541809927
+besztać	przytłaczać	1.0424911370645138
+zdradzać	rozpaczać	1.2881250576257193
+zadrzeć	zawstydzić	0.9502558347037523
+zdradzać	ignorować	0.8286098012971662
+rozpaczać	blefować	1.5192588204278783
+tęsknić	przestraszyć	0.9541918119538081
+odmawiać	obrazić	1.0577471696599279
+przytłaczać	irytować	0.8955484764527266
+przerazić	irytować	0.9710616186054781
+zawstydzić	nienawidzić	1.3231946174500566
+wyrzekać się	pozwać	1.1178942513964822
+besztać	zadrzeć	0.9721930985130695
+zawstydzić	skarcić	1.1401360583832874
+odmawiać	deprecjonować	0.8111697924544992
+skarcić	kłócić się	0.84115174733967
+przestraszyć	przeklinać	1.1111025975035624
+krytykować	nie lubić	1.1107720749963852
+kłócić się	zdradzać	1.3283683094586205
+nie lubić	nienawidzić	0.5907592791712869
+przeszkadzać	przestraszyć	0.8783259918429732
+krytykować	gardzić	1.0730781305368235
+przytłaczać	blefować	1.149706954949574
+wyrzekać się	odrzucać	0.7290815003737011
+zawstydzić	skonsternować	0.8587358724735311
+fatygować	obrazić	1.0400362458332704
+rozwścieczać	frustrować	0.702153481844469
+skonsternować	utrudniać	0.9411483115679308
+odrzucać	skonsternować	1.1304549095458596
+zadrzeć	zdradzać	1.228941088238781
+odrzucać	fatygować	1.0087902089708374
+przejmować	utrudniać	1.313428048589802
+przytłaczać	lekceważyć	0.9585587869162965
+rozczarować	frustrować	0.9571330168075161
+przerazić	besztać	0.9262405219816784
+obrzydzać	rozpaczać	1.0719446528511425
+kłamać	zwodzić	0.6523040360047007
+wyrzekać się	skonsternować	1.18155360561725
+lekceważyć	zawstydzić	1.1742502428898964
+żałować	denerwować	0.9928117107852477
+drażnić	wystrzegać się	0.842471779191863
+rozwścieczać	deprecjonować	0.6427468880857033
+drażnić	kłócić się	0.9032033868465507
+kłócić się	prześladować	1.054146403701776
+gardzić	zadrzeć	0.907566892493463
+skarcić	lekceważyć	0.8863499964203834
+utrudniać	drażnić	0.8149321997531489
+zwodzić	obrzydzać	1.2267414548047506
+denerwować	gardzić	0.7308707545690664
+poniżać	skonsternować	0.7166976542685322
+obrzydzać	martwić	1.0793055652523265
+odrzucać	blefować	1.0096575414353468
+urazić	irytować	0.9117592119389349
+oszukiwać	przerazić	1.0502694663870569
+przeszkadzać	wyrzekać się	0.9763226705795729
+nie lubić	zwodzić	0.8183143695042947
+odmawiać	zawstydzić	1.092135266100246
+rozpaczać	skarcić	1.0555850872758437
+rozczarować	żałować	1.0170840402608332
+urazić	przerazić	0.9050465416036315
+żałować	skarcić	1.2912115423262214
+przeszkadzać	besztać	0.8814306863249236
+utrudniać	tęsknić	1.2166005988032138
+gardzić	urazić	0.7873485178682854
+pozwać	oszukiwać	1.253263111378424
+odrzucać	prześladować	0.9998426300044939
+skarcić	nie lubić	1.2973798699724575
+odrzucać	odmawiać	0.7014063525811443
+przejmować	obrazić	1.1424790519593218
+tęsknić	rozwścieczać	1.1228591977020852
+przerazić	zdenerwować	0.8512928302488518
+martwić	frustrować	1.0292616506848047
+ignorować	przejmować	1.1487756749443092
+przytłaczać	martwić	1.2116288608227859
+denerwować	zawstydzić	0.9345660970070258
+wyrzekać się	fatygować	1.1143436697334126
+martwić	przeszkadzać	1.1195391806871908
+poniżać	pozwać	0.763872947656466
+kłócić się	poniżać	0.9955072866606423
+zdenerwować	rozwścieczać	0.683354769126636
+urazić	zniechęcać	1.0076561701739748
+zadrzeć	rozpaczać	1.1075661126374652
+deprecjonować	irytować	0.8508677830260133
+irytować	zdradzać	0.9522448913940591
+zwodzić	żałować	1.0691537641438862
+rozpaczać	denerwować	1.1434345631233922
+poniżać	drażnić	0.805638779586305
+irytować	lekceważyć	0.9389602871334278
+rozpaczać	tęsknić	0.5911120412895748
+obrzydzać	żałować	1.1401542869039494
+przerazić	fatygować	0.9177431779365101
+skarcić	zwodzić	1.0405833980486228
+odmawiać	kpić	1.1057707803489696
+przeszkadzać	rozpaczać	1.181570756814463
+zawstydzić	drażnić	0.9443488895771343
+rozpaczać	skonsternować	1.1546665978379211
+fatygować	nienawidzić	1.0651391098156653
+przytłaczać	krytykować	1.3222267152278206
+krytykować	rozwścieczać	0.8320420688557463
+pozwać	odmawiać	0.9938206234562822
+kłócić się	denerwować	0.9341011506633132
+przestraszyć	wystrzegać się	1.3071617003396692
+przejmować	kłócić się	1.358575239937424
+ignorować	zdenerwować	0.9972520426603443
+urazić	blefować	1.2352648013513547
+skarcić	drażnić	0.9107608411753956
+deprecjonować	zdenerwować	0.8666266056443402
+zniechęcać	prześladować	0.978518104405193
+rozwścieczać	przeklinać	0.9707059641208506
+rozwścieczać	zadrzeć	0.8466198574246551
+ignorować	nie lubić	0.9696918416259087
+przestraszyć	poniżać	1.0215222543618292
+denerwować	oszukiwać	0.8878321573866021
+przeszkadzać	rozczarować	0.8577646700062241
+lekceważyć	krytykować	0.8205308907619457
+lekceważyć	fatygować	1.1108212516386085
+przejmować	zdenerwować	1.0976837234599657
+obrazić	dokuczać	0.8055256761300151
+utrudniać	przeszkadzać	0.6692896540688665
+urazić	odmawiać	1.0220806382817114
+obrazić	przerazić	0.7817615106318134
+skarcić	dokuczać	0.9384428595095737
+odrzucać	ignorować	0.6037017223461285
+obrazić	ignorować	0.8827212834372287
+prześladować	urazić	0.7426746436048143
+zawstydzić	przeklinać	0.9623801964717444
+besztać	przejmować	1.214169522056698
+besztać	nie lubić	0.9987958332549012
+oszukiwać	przestraszyć	0.9774414330128229
+tęsknić	dokuczać	1.0209801061869719
+odmawiać	poniżać	1.0413110947948367
+lekceważyć	odmawiać	0.6961947822251141
+skonsternować	denerwować	0.8334727542312641
+fatygować	żałować	1.5590679606244087
+fatygować	rozczarować	1.118116559671388
+rozwścieczać	zdradzać	0.943975038212843
+obrazić	wyrzekać się	0.9480397431293189
+kłamać	zdradzać	0.7885376454690388
+gardzić	prześladować	0.7588043579652629
+wyrzekać się	tęsknić	1.3427164210498521
+obrazić	obrzydzać	1.114218422867686
+obrzydzać	zniechęcać	0.7953063310383194
+odmawiać	tęsknić	1.1622725203386497
+rozwścieczać	gardzić	0.7883003056632569
+dokuczać	urazić	0.9339192725485944
+skarcić	wystrzegać się	1.2193337677640308
+oszukiwać	utrudniać	0.9843919723715212
+fatygować	pozwać	1.231180134766516
+besztać	kpić	0.5924138225055137
+drażnić	deprecjonować	0.8090233072224824
+przytłaczać	kpić	1.090078991641332
+przeszkadzać	nienawidzić	0.8783047803064874
+dokuczać	denerwować	0.5621646218851128
+żałować	dokuczać	0.8829292695527852
+zawstydzić	tęsknić	1.1724493820280113
+irytować	blefować	1.0326989385597756
+urazić	besztać	0.8331565957073244
+kłócić się	przytłaczać	0.9609700332813254
+gardzić	dokuczać	0.846451684556135
+przestraszyć	zawstydzić	1.1037086691864735
+deprecjonować	dokuczać	0.700548535463753
+pozwać	rozczarować	1.1098474225366284
+nienawidzić	kpić	0.89530722732524
+oszukiwać	skarcić	1.075780616009975
+odrzucać	utrudniać	1.0839563196114728
+zniechęcać	kłamać	0.9547644440237161
+irytować	przeszkadzać	0.8896548204868436
+przeszkadzać	zwodzić	0.9910401794786864
+nienawidzić	rozpaczać	1.1528441397893383
+gardzić	drażnić	0.7574720475705867
+kpić	deprecjonować	0.7036651009096713
+deprecjonować	przestraszyć	1.2473640995949193
+przestraszyć	krytykować	1.2751335521813416
+martwić	zdradzać	0.9624957119633845
+skarcić	odmawiać	0.9570487853672773
+tęsknić	denerwować	1.032091684919238
+besztać	frustrować	0.6823304194747827
+drażnić	zadrzeć	0.7983454441698484
+nie lubić	przejmować	1.4029114856474119
+oszukiwać	nie lubić	0.9197201637977079
+przestraszyć	kpić	0.9520200358609158
+urazić	rozpaczać	1.0221405687761753
+odmawiać	martwić	0.8503047197832017
+rozwścieczać	rozpaczać	0.9628304200327075
+oszukiwać	gardzić	0.8712572205381237
+irytować	drażnić	0.623463628921241
+drażnić	skonsternować	0.7494085848545997
+przejmować	kpić	1.1174348682370803
+rozczarować	prześladować	0.9105699391003234
+skonsternować	blefować	1.2471758838019231
+skonsternować	rozczarować	1.3167205186950808
+skonsternować	prześladować	0.777530641908757
+ignorować	utrudniać	0.9306369565135559
+zdradzać	prześladować	1.0162178546910259
+deprecjonować	pozwać	1.0039083228703392
+blefować	żałować	1.1533107415074346
+obrazić	irytować	0.8786021744405854
+przejmować	żałować	0.9801709998448167
+prześladować	wyrzekać się	1.154229135585426
+przestraszyć	przejmować	0.9474725161497995
+besztać	przeklinać	0.8122921904271952
+zadrzeć	skonsternować	0.9332161771803659
+ignorować	irytować	0.8932387089378206
+wyrzekać się	blefować	0.859898238742683
+pozwać	kłócić się	0.9351960544337129
+deprecjonować	zniechęcać	0.8847505546840979
+zdenerwować	żałować	0.920186246310236
+przestraszyć	przytłaczać	0.960702729728634
+kpić	rozwścieczać	0.7927331065492436
+deprecjonować	lekceważyć	0.8387683031191949
+lekceważyć	żałować	1.224829232824461
+blefować	pozwać	1.1890209223240646
+urazić	wystrzegać się	1.1661650066079443
+wystrzegać się	przeklinać	0.981634953834923
+nie lubić	kłamać	1.0264398894570326
+prześladować	przerazić	0.8398690726490861
+obrzydzać	poniżać	1.0905649786028795
+zdradzać	żałować	1.0310526115385068
+blefować	prześladować	1.0348529086800153
+rozpaczać	przestraszyć	1.048605659148166
+zadrzeć	zniechęcać	1.110837746091827
+przytłaczać	frustrować	0.6759821927227609
+dokuczać	wyrzekać się	0.8452449249829095
+zdradzać	zniechęcać	0.7944373189592185
+kłócić się	przeklinać	0.7373987573916082
+zadrzeć	przeszkadzać	0.7207479108344881
+oszukiwać	przeklinać	1.046294964384554
+nie lubić	rozczarować	1.418869111969012
+zdenerwować	skonsternować	0.7646604461330885
+odrzucać	irytować	1.1892794494354375
+krytykować	kpić	0.6332955720235345
+gardzić	skarcić	0.9785591720587126
+krytykować	wyrzekać się	0.9442985790596726
+drażnić	nienawidzić	0.720813210498954
+oszukiwać	drażnić	0.8206777424085551
+wyrzekać się	oszukiwać	0.7228580339866135
+dokuczać	przerazić	0.7815359440424042
+besztać	gardzić	0.8196569669233305
+denerwować	urazić	0.8434700773407412
+tęsknić	blefować	1.4110888380170061
+rozwścieczać	kłamać	0.9443819722035169
+przeklinać	fatygować	1.0296007015053168
+rozczarować	zawstydzić	1.0005395246118725
+rozwścieczać	rozczarować	1.1489512627601381
+kłamać	dokuczać	0.8798579419221795
+poniżać	irytować	0.8600119893217811
+utrudniać	frustrować	0.9103061672726958
+frustrować	zadrzeć	0.7664594023055753
+prześladować	przytłaczać	0.8284847706541699
+zadrzeć	odrzucać	1.0257258625714543
+przestraszyć	skarcić	1.2688959901695733
+wystrzegać się	gardzić	1.0043504327146198
+fatygować	zniechęcać	1.1401369168539266
+obrzydzać	blefować	1.1869245999651528
+dokuczać	kłócić się	0.964137335031453
+irytować	skonsternować	0.9111052813542241
+odrzucać	zniechęcać	1.156684678127304
+dokuczać	rozpaczać	0.9520809492522474
+irytować	przestraszyć	0.8638119749716586
+gardzić	wyrzekać się	1.0889826293010505
+przeszkadzać	odrzucać	1.0606203607579274
+nienawidzić	martwić	1.1680689798176656
+wyrzekać się	przerazić	1.2072371486463411
+dokuczać	martwić	0.9275153153837313
+kłócić się	lekceważyć	1.0187105579390192
+drażnić	przytłaczać	0.7278724328758608
+zniechęcać	frustrować	0.917732961185921
+zniechęcać	poniżać	1.1100153367636054
+zdradzać	dokuczać	1.0038073205547424
+zdenerwować	zawstydzić	1.0552193954305251
+fatygować	zadrzeć	0.8670551810609599
+zwodzić	dokuczać	1.122260378844606
+dokuczać	prześladować	0.8300788157912564
+zdradzać	besztać	0.9610323675211523
+urazić	obrazić	0.5900122759684042
+lekceważyć	oszukiwać	0.7623243835308414
+utrudniać	rozczarować	1.098912565446429
+drażnić	rozpaczać	0.9335301108102289
+ignorować	przerazić	0.920194258341504
+nie lubić	frustrować	0.9547314731646742
+wystrzegać się	martwić	1.3099344078319888
+fatygować	obrzydzać	0.9497611678276898
+ignorować	dokuczać	0.8734104917274166
+kpić	żałować	1.1060463293197682
+poniżać	krytykować	0.8691972752733661
+drażnić	kpić	0.8510503642601313
+rozpaczać	oszukiwać	1.1986843855768756
+krytykować	deprecjonować	0.6035451788701098
+kłamać	przestraszyć	1.1954908862267515
+oszukiwać	przytłaczać	1.0097410321721498
+martwić	obrazić	1.0184504369458107
+blefować	kłócić się	1.1179791079455106
+irytować	kłamać	0.8628232208210261
+prześladować	nienawidzić	1.0046292967775146
+pozwać	zadrzeć	1.0990188152769358
+zadrzeć	ignorować	1.0619975380390738
+urazić	kłócić się	1.0777711120565037
+skarcić	zdradzać	1.1578023068391263
+przytłaczać	nie lubić	0.9347842615430954
+frustrować	odrzucać	0.9807208412456319
+besztać	poniżać	0.4635496341067568
+zniechęcać	obrazić	0.9724313892956742
+urazić	przejmować	1.1766592852746547
+utrudniać	zdradzać	1.0018509792645294
+rozpaczać	przerazić	0.8994829354931033
+utrudniać	lekceważyć	0.8526486495026819
+utrudniać	fatygować	0.7369882138966849
+przeszkadzać	przytłaczać	0.7414560246467649
+nie lubić	skonsternować	1.137287453927249
+gardzić	utrudniać	1.0424468630900843
+deprecjonować	wystrzegać się	1.0425472434844503
+drażnić	wyrzekać się	0.92058773482864
+przeszkadzać	przejmować	1.2714057260988152
+przytłaczać	przerazić	0.9797718845200839
+rozwścieczać	pozwać	1.0281214558894536
+martwić	zniechęcać	1.0028999790690447
+kłamać	frustrować	0.8493026890654577
+krytykować	zwodzić	0.9013627612662642
+zwodzić	fatygować	1.0753585437206963
+zniechęcać	odmawiać	1.016615431854726
+przejmować	rozwścieczać	1.134083782981937
+wyrzekać się	skarcić	1.1224696570150017
+utrudniać	nie lubić	1.0891883457706704
+denerwować	kłamać	0.903325838986728
+denerwować	wyrzekać się	0.954990735619154
+nienawidzić	pozwać	1.322125207590851
+oszukiwać	skonsternować	0.9924209531852607
+kpić	obrzydzać	1.12586353035908
+zadrzeć	zdenerwować	0.9748557459160727
+deprecjonować	skarcić	1.0075104272751778
+zadrzeć	oszukiwać	1.1698210430370302
+zawstydzić	kpić	0.9887968978929845
+ignorować	martwić	0.9003367754418967
+rozpaczać	zniechęcać	1.2415322054947884
+przeklinać	pozwać	1.0326382991604568
+lekceważyć	skonsternować	0.9407331367647724
+denerwować	pozwać	0.9327359007613176
+zdenerwować	przytłaczać	1.0262987200836229
+drażnić	pozwać	0.9035772412125196
+utrudniać	martwić	1.0644968838402882
+zawstydzić	pozwać	1.1934412320973262
+denerwować	przerazić	0.9069313162230692
+przejmować	zwodzić	1.2280151478726016
+żałować	wyrzekać się	1.1444436137601817
+zadrzeć	rozczarować	0.9416747871635215
+wyrzekać się	obrzydzać	1.427394264433477
+zwodzić	ignorować	0.6907635450245049
+skonsternować	żałować	1.0925881799414352
+blefować	skarcić	1.3552083113212456
+zawstydzić	fatygować	1.0955874201855915
+martwić	poniżać	1.10181789812905
+blefować	frustrować	0.9818856139343057
+nienawidzić	odmawiać	1.0695973784011716
+kłócić się	kłamać	1.1126205400288427
+lekceważyć	zwodzić	0.7734489906029246
+żałować	przerazić	1.057070053544288
+wyrzekać się	urazić	1.1673909433271334
+zdradzać	zwodzić	0.5371324950063123
+rozpaczać	pozwać	1.1345885003686869
+zdenerwować	rozpaczać	1.0726871932741688
+skarcić	zniechęcać	1.3097106148811446
+drażnić	krytykować	0.8624008532418186
+przeklinać	przeszkadzać	0.8081778385935011
+skonsternować	kłamać	1.2066048328794732
+denerwować	przejmować	1.0621997790753421
+rozpaczać	odrzucać	1.1474004521732166
+zdenerwować	prześladować	0.7205100933359274
+kpić	kłócić się	1.065329497490721
+zwodzić	przytłaczać	1.1923319195516795
+przejmować	zdradzać	1.190475116652463
+zawstydzić	krytykować	0.9439094252917337
+ignorować	wyrzekać się	0.6795879300491041
+przeklinać	przerazić	0.9172221426219842
+poniżać	gardzić	0.7449412226487228
+obrzydzać	dokuczać	0.8408969517256825
+lekceważyć	przerazić	1.041354198681576
+odrzucać	besztać	0.9162638322918665
+przeklinać	nie lubić	1.295894093755666
+przeklinać	odrzucać	0.9866064116095998
+rozwścieczać	poniżać	0.8154917467092669
+żałować	przytłaczać	1.154434525529663
+rozczarować	odmawiać	1.0344277912657107
+martwić	besztać	1.0517904076931917
+utrudniać	przestraszyć	1.1805455930441506
+przeszkadzać	zniechęcać	0.8010344522266234
+wystrzegać się	żałować	1.1545520518899166
+ignorować	rozwścieczać	1.0092065294867447
+drażnić	przestraszyć	0.7835296881316814
+oszukiwać	obrazić	0.9389792227597881
+prześladować	martwić	0.8367842616882811
+tęsknić	skonsternować	1.2972699815564814
+obrzydzać	drażnić	0.7675071330570312
+zdradzać	wystrzegać się	0.7555523133994745
+dokuczać	zdenerwować	0.6921421709696917
+odrzucać	skarcić	0.9040315766799921
+drażnić	ignorować	0.8188887257342339
+przestraszyć	urazić	0.9107148126336433
+zwodzić	zniechęcać	1.0019036520845825
+kpić	martwić	1.0515413530273294
+fatygować	skarcić	1.1931960716849566
+irytować	nie lubić	0.92302001458015
+przerazić	deprecjonować	1.0251951235624646
+zadrzeć	wystrzegać się	1.1322283068815069
+odmawiać	wyrzekać się	0.868307534767337
+tęsknić	rozczarować	1.211021643768127
+skonsternować	fatygować	1.2658638349579414
+tęsknić	kłamać	1.3482894817819817
+odmawiać	zwodzić	0.6370228967013111
+rozwścieczać	przestraszyć	0.8667410697376362
+odmawiać	utrudniać	0.8421312101481784
+obrzydzać	utrudniać	0.8592784697233427
+ignorować	krytykować	0.7507975577651547
+rozpaczać	fatygować	1.272841883382427
+oszukiwać	fatygować	1.1318611508554774
+rozczarować	wyrzekać się	1.0564576624720001
+przejmować	rozpaczać	0.6127473654605937
+przeklinać	krytykować	1.114264694473354
+przestraszyć	obrazić	0.8830673951123502
+besztać	rozwścieczać	0.7938124209881015
+przeszkadzać	deprecjonować	0.7432348425887496
+zadrzeć	lekceważyć	1.0635673250657738
+urazić	oszukiwać	1.0775905732352538
+rozczarować	przerazić	1.027078161414251
+blefować	dokuczać	0.9981233830977979
+denerwować	przeklinać	1.0270668952813127
+lekceważyć	tęsknić	1.174177105086595
+zwodzić	przeklinać	1.0841599489402547
+przytłaczać	skonsternować	0.9115480964865572
+krytykować	wystrzegać się	1.0807454520665163
+nienawidzić	ignorować	0.8877111577370717
+zwodzić	prześladować	0.9161429053118502
+rozczarować	gardzić	0.8758671784662531
+przeklinać	odmawiać	0.8306679283479282
+rozpaczać	krytykować	1.246911208302861
+kpić	tęsknić	1.1834560742551867
+kpić	prześladować	0.8826842314884765
+tęsknić	prześladować	0.8958678530859064
+rozwścieczać	skarcić	0.8311366728853016
+żałować	odrzucać	1.1626575063055515
+urazić	skarcić	0.8699957360788775
+deprecjonować	zdradzać	0.8526458771477599
+obrazić	nie lubić	1.1417292713371474
+zawstydzić	wystrzegać się	1.3101637675248805
+skonsternować	gardzić	0.7298992562900926
+tęsknić	fatygować	1.3831204504861452
+frustrować	zdradzać	0.8405760252676161
+wystrzegać się	rozwścieczać	1.0964093431352844
+prześladować	zawstydzić	0.7456661976479341
+krytykować	żałować	1.213188785445473
+nienawidzić	skarcić	1.2118499972145438
+wystrzegać się	lekceważyć	0.8573953110302185
+urazić	zdradzać	1.0617078953944021
+rozwścieczać	denerwować	0.5062217768313046
+przerazić	zadrzeć	0.8354678134123784
+żałować	irytować	1.0646350409781045
+prześladować	obrzydzać	0.853912824526053
+obrazić	przytłaczać	0.9261222709863904
+frustrować	dokuczać	0.590051586723069
+oszukiwać	besztać	0.8763880485428603
+oszukiwać	zwodzić	0.7238716783017742
+przejmować	zawstydzić	1.1217528509839922
+kłócić się	zadrzeć	0.9651613701151425
+przerazić	kpić	1.0612611031268464
+prześladować	oszukiwać	0.877525931402056
+nienawidzić	zdenerwować	1.0292449240141035
+przeszkadzać	poniżać	0.9555993810243787
+kłócić się	przeszkadzać	0.9812321573456654
+nienawidzić	gardzić	0.6086584268351466
+irytować	besztać	0.8352641362248845
+utrudniać	przeklinać	0.9282253365106675
+gardzić	pozwać	0.9692253556477802
+denerwować	irytować	0.5838567537789812
+odrzucać	rozwścieczać	1.034879706300795
+krytykować	kłócić się	0.9588247602006937
+krytykować	przeszkadzać	0.9643926459745746
+zdenerwować	urazić	0.8475466019670578
+obrzydzać	przerazić	0.7936265270137034
+irytować	skarcić	0.9997123853598024
+żałować	deprecjonować	1.0415693616088462
+przestraszyć	pozwać	1.1551029962760344
+tęsknić	gardzić	1.0454618949274637
+rozwścieczać	kłócić się	0.9967809891673356
+deprecjonować	zwodzić	1.0328951047672674
+tęsknić	odrzucać	1.3077949855428157
+tęsknić	nie lubić	1.4004392886191184
+lekceważyć	nie lubić	0.7935195224488872
+kłamać	blefować	0.39226517894498364
+lekceważyć	gardzić	0.8762722272785676
+kłócić się	irytować	1.134629126484851
+rozczarować	nienawidzić	1.2142230628680437
+poniżać	dokuczać	0.9633106782607617
+gardzić	przytłaczać	0.7830172869380682
+zawstydzić	irytować	1.0546343442375847
+przeszkadzać	denerwować	0.8490466913004128
+martwić	przejmować	0.6918086913996553
+obrazić	frustrować	0.7377499386192129
+rozpaczać	przytłaczać	1.1854372418003694
+zawstydzić	żałować	1.1746562856537601
+zdenerwować	tęsknić	1.1313207979323991
+pozwać	dokuczać	1.0568153394557716
+kłócić się	żałować	1.3953754549774713
+wyrzekać się	kłamać	0.6666484120784569
+wyrzekać się	nienawidzić	1.0759221738713585
+zdenerwować	frustrować	0.7940065871336901
+odrzucać	denerwować	0.941044605131665
+dokuczać	przeklinać	1.0925397265710521
+wyrzekać się	lekceważyć	0.7997331994782787
+nie lubić	drażnić	0.8212063686248321
+urazić	nie lubić	1.247352344881428
+żałować	drażnić	0.947842454549066
+przejmować	skarcić	1.1956638281178384
+rozwścieczać	lekceważyć	1.0777544393302727
+zdenerwować	krytykować	0.7588777268428746
+denerwować	poniżać	0.8334943710956383
+przestraszyć	zdradzać	1.2655560005088038
+wystrzegać się	oszukiwać	0.7281155807603236
+skarcić	obrzydzać	1.0982823823595969
+blefować	drażnić	0.7931170114995201
+rozczarować	krytykować	0.980841320668069
+ignorować	przeszkadzać	0.8868392716677009
+utrudniać	skarcić	1.1423785044172237
+tęsknić	ignorować	0.9965749894685331
+nienawidzić	urazić	1.290249971409457
+fatygować	wystrzegać się	1.0468412089944958
+frustrować	przestraszyć	0.9605994647847482
+zadrzeć	skarcić	1.114038291841943
+skarcić	przytłaczać	1.2349917262832422
+utrudniać	nienawidzić	0.9580405234060829
+zwodzić	wyrzekać się	0.8995014048492517
+przerazić	rozwścieczać	0.7825625335480788
+wyrzekać się	przestraszyć	1.122462118703966
+gardzić	żałować	1.0508906642129894
+poniżać	blefować	0.9396595886118089
+kpić	denerwować	0.6445290684737228
+gardzić	kłamać	0.8742617547030855
+odmawiać	kłamać	0.8206618484007893
+wyrzekać się	przejmować	1.3605894289367169
+lekceważyć	nienawidzić	0.9259039954884482
+utrudniać	zadrzeć	0.7711698434301766
+fatygować	kłócić się	1.0060180078383991
+fatygować	przeszkadzać	0.8621911064837374
+poniżać	przerazić	0.9800389441121217
+przestraszyć	rozczarować	1.0545335636885071
+irytować	nienawidzić	0.9138724728365215
+wystrzegać się	denerwować	1.0305867940832374
+obrazić	gardzić	0.794331318274985
+besztać	zniechęcać	1.0326063257452767
+urazić	frustrować	0.9186007119962686
+kpić	obrazić	0.7341888420901683
+pozwać	martwić	1.0656411278184434
+rozwścieczać	prześladować	0.7310390996666308
+rozwścieczać	obrzydzać	1.0073191014157383
+pozwać	odrzucać	0.9120641744866316
+poniżać	zdenerwować	0.7302465787063611
+zawstydzić	besztać	0.9751227628953257
+poniżać	wyrzekać się	0.8901687151094501
+skarcić	przerazić	0.9165150173816566
+zwodzić	irytować	1.1189976238215467
+tęsknić	irytować	1.1315977465306037
+zawstydzić	kłamać	1.181744940658085
+rozczarować	lekceważyć	1.1854240998591221
+żałować	zniechęcać	0.9951167876721676
+zawstydzić	dokuczać	0.9224851960142753
+kłamać	zadrzeć	1.1404262314275035
+denerwować	obrazić	0.7454714424286148
+zawstydzić	rozwścieczać	0.916967032729015
+przejmować	poniżać	1.0840584143475607
+besztać	kłócić się	0.9599407096905461
+martwić	nie lubić	1.164414896517946
+zadrzeć	przestraszyć	0.9962047678662413
+utrudniać	kłamać	1.1358053785519062
+frustrować	pozwać	0.9194015943534878
+przerazić	kłamać	1.1620447420265814
+besztać	skonsternować	0.8250521986304985
+odrzucać	oszukiwać	0.9110907359631265
+gardzić	rozpaczać	1.0230207929683692
+frustrować	wyrzekać się	0.9551730494717092
+odrzucać	martwić	1.0963829849043971
+drażnić	odrzucać	0.8255317021784686
+wyrzekać się	irytować	0.8883847106956179
+urazić	zawstydzić	0.9620976060164153
+prześladować	deprecjonować	0.9236403509470796
+drażnić	przerazić	0.7664599844423906
+rozczarować	odrzucać	1.0608313410864862
+kłamać	wystrzegać się	0.7434328985258405
+rozczarować	wystrzegać się	1.0104852987040298
+kłamać	drażnić	0.7298158139914531
+wystrzegać się	dokuczać	0.965173536075068
+wystrzegać się	odrzucać	0.7636353116681514
+krytykować	utrudniać	1.2236975459305792
+zadrzeć	nienawidzić	1.0459664798523318
+odmawiać	kłócić się	0.9898844331863146
+odmawiać	zdradzać	0.757572037232335
+przeszkadzać	urazić	0.847407680875508
+żałować	besztać	1.1407720515705282
+zwodzić	odrzucać	0.6822989543020667
+irytować	obrzydzać	1.0505009520689075
+zadrzeć	wyrzekać się	1.0959930706716527
+deprecjonować	zadrzeć	0.9853885206283758
+nie lubić	zdradzać	0.8322936225283566
+lekceważyć	kpić	0.8048260849175649
+denerwować	przestraszyć	0.9235253990565698
+utrudniać	rozwścieczać	1.088836183878824
+urazić	odrzucać	1.0701478717730775
+przeszkadzać	frustrować	0.631050270184238
+obrzydzać	pozwać	1.14939632360831
+wystrzegać się	przytłaczać	1.1988911550255856
+rozczarować	obrazić	1.0397461453667598
+kpić	pozwać	0.9223366645561545
+przejmować	deprecjonować	1.1771599607475167
+tęsknić	oszukiwać	1.1080130557459373
+poniżać	żałować	1.3279557235895696
+ignorować	skonsternować	0.9543068629736177
+martwić	zadrzeć	1.2367378459144143
+przestraszyć	odmawiać	1.0841370403039958
+urazić	kpić	0.7876531007039683
+obrazić	poniżać	0.632641458429655
+lekceważyć	martwić	0.9425559357275661
+przejmować	lekceważyć	1.1677785461108574
+deprecjonować	obrazić	0.7656491037512285
+przeszkadzać	drażnić	0.5443659257966262
+krytykować	tęsknić	1.3276921029447215
+besztać	utrudniać	1.0682080525045965
+przytłaczać	przejmować	1.3044223298756037
+przytłaczać	rozwścieczać	0.8429214771462176
+rozczarować	przytłaczać	1.0185592771944558
+dokuczać	kpić	0.8322829969706325
+deprecjonować	odrzucać	0.8616017153115553
+irytować	zadrzeć	0.9451184398840425
+przeklinać	blefować	1.0460066249629656
+kłócić się	zwodzić	1.2605981154905497
+przejmować	pozwać	1.1056638161667087
+rozczarować	przejmować	1.1035848217881594
+poniżać	rozczarować	1.1938659517496826
+ignorować	frustrować	0.8653324366692374
+pozwać	kłamać	1.1530791508799447
+zniechęcać	kłócić się	1.3373075639493144
+kłócić się	wyrzekać się	0.8053758829892382
+nienawidzić	odrzucać	1.2455562926317276
+rozpaczać	ignorować	1.0359937333282976
+denerwować	zniechęcać	1.103001517573203
+wystrzegać się	przeszkadzać	0.9862087782036106
+urazić	skonsternować	1.0435475794862268
+rozczarować	kpić	1.068108545708134
+drażnić	martwić	0.786889844278175
+obrzydzać	denerwować	1.0406585717655688
+wystrzegać się	kpić	0.8122180889854961
+odmawiać	blefować	0.7885130522506486
+frustrować	kłócić się	0.9151139839748561
+przerazić	wystrzegać się	1.2682203982977198
+deprecjonować	nie lubić	1.049777122340887
+zdenerwować	przestraszyć	0.8360736275823581
+oszukiwać	krytykować	0.8925473711134162
+zdradzać	tęsknić	1.3053626288333169
+rozczarować	oszukiwać	1.1424688408033914
+pozwać	skonsternować	0.7975023088453085
+rozwścieczać	oszukiwać	0.9314958323299541
+gardzić	zwodzić	0.9013341883619074
+martwić	deprecjonować	0.9562912166302865
+pozwać	obrazić	0.6467440078249668
+irytować	martwić	1.0416708615466364
+irytować	utrudniać	1.2307901297515484
+urazić	pozwać	0.9006721663464424
+urazić	poniżać	0.838061910812077
+rozczarować	kłamać	1.157479313205939
+wystrzegać się	frustrować	0.9413338016644469
+krytykować	obrzydzać	1.3339947969940176
+skarcić	tęsknić	1.22098567627863
+rozwścieczać	zniechęcać	1.0274600322063954
+zadrzeć	obrzydzać	0.8074621625347077
+nienawidzić	frustrować	0.7849539459877259
+martwić	skarcić	1.2560392606268895
+krytykować	kłamać	0.832857259821341
+pozwać	przeszkadzać	1.1614897802281678
+skarcić	rozczarować	1.2342945662804048
+zawstydzić	ignorować	1.0813530448281408
+odmawiać	irytować	1.0867260764217912
+przeklinać	przejmować	1.3003529205938091
+utrudniać	deprecjonować	1.0545072145258252
+prześladować	besztać	0.8378427370524348
+przerazić	skonsternować	0.8028815288380847
+irytować	przejmować	1.148938574582911
+drażnić	obrazić	0.7503858389697559
+frustrować	obrzydzać	0.817180548485786
+gardzić	kpić	0.8048466309331046
+rozwścieczać	wyrzekać się	1.0538370507249348
+przerazić	zdradzać	1.0903065776879144
+zdenerwować	martwić	1.063430699440199
+poniżać	przeklinać	0.9909514541512572
+lekceważyć	przeklinać	0.996455537406214
+zwodzić	zadrzeć	1.1620176492774765
+zniechęcać	utrudniać	0.9200201233722833
+obrazić	kłócić się	0.7682175622543596
+rozczarować	besztać	1.20764815896124
+nienawidzić	przestraszyć	1.1268725759755134
+urazić	przeklinać	0.9037251931158862
+obrzydzać	przestraszyć	0.7841514093642928
+deprecjonować	oszukiwać	0.6783111720209745
+przytłaczać	przeklinać	0.955522520696813
+przejmować	gardzić	0.9419754167023494
+nienawidzić	tęsknić	1.269342037130963
+zniechęcać	irytować	1.0061973775219903
+kpić	skarcić	0.884316867734811
+przestraszyć	przerazić	0.6217620399488102
+dokuczać	skonsternować	0.8385403906150217
+drażnić	fatygować	0.9217704409371903
+ignorować	blefować	0.6796987440256465
+irytować	pozwać	1.0496665501145388
+blefować	przerazić	1.2027099318900702
+przestraszyć	nie lubić	1.1198605777925323
+martwić	przerazić	0.8177714768229323
+urazić	deprecjonować	0.8690465152274289
+przejmować	dokuczać	1.004252987253487
+przeklinać	nienawidzić	1.169396695669287
+besztać	blefować	0.7305514344509747
+fatygować	odmawiać	0.8815636555880356
+odmawiać	obrzydzać	1.119484602157476
+zdradzać	gardzić	0.8720824209102576
+pozwać	prześladować	0.923075784317147
+poniżać	tęsknić	1.2851913190728286
+rozwścieczać	fatygować	1.0605572657270264
+przeklinać	zniechęcać	1.2706775204818213
+oszukiwać	przejmować	1.208889351221918
+martwić	wyrzekać się	1.2793906019756176
+przeszkadzać	zdradzać	0.9794466438386941
+lekceważyć	blefować	0.7913340674189944
+zawstydzić	wyrzekać się	1.116400929847851
+obrzydzać	tęsknić	1.088160691505405
+nie lubić	rozwścieczać	0.9024121579227085
+utrudniać	urazić	1.1315707044857832
+fatygować	urazić	1.17872223552141
+obrzydzać	nienawidzić	1.0045997487402323
+zwodzić	zawstydzić	1.194184750063475
+irytować	kpić	0.7963165024590204
+zdenerwować	przeszkadzać	0.9629937549284643
+deprecjonować	tęsknić	1.09114934834429
+zniechęcać	ignorować	0.8407386560869531
+wyrzekać się	zdenerwować	1.0512640729744935
+odmawiać	frustrować	0.9077832836624453
+irytować	dokuczać	0.6034887207502948
+poniżać	zwodzić	1.06701459372772
+krytykować	odrzucać	0.925278143184895
+zawstydzić	przerazić	0.991709566966443
+prześladować	drażnić	0.6468975878404724
+rozpaczać	obrazić	1.0738980937854659
+zdradzać	lekceważyć	0.9174999574037831
+zwodzić	utrudniać	0.9223712241938541
+rozpaczać	deprecjonować	1.1020891902985699
+zwodzić	denerwować	1.1136526949671282
+odmawiać	dokuczać	0.9836259642303664
+fatygować	gardzić	1.020497425740963
+rozpaczać	prześladować	0.8270831025137833
+kłamać	nienawidzić	1.079124250445311
+poniżać	utrudniać	1.12800467280829
+nie lubić	zadrzeć	1.0883347224039213
+krytykować	besztać	0.8218873205763841
+obrazić	skarcić	0.7247843389162433
+drażnić	tęsknić	1.0231256884418192
+przeklinać	rozczarować	1.0122729295627622
+przejmować	prześladować	0.8393240397318485
+dokuczać	drażnić	0.4941430541808543
+kłócić się	skonsternować	0.9876055598950189
+frustrować	prześladować	0.6628317584077412
+przytłaczać	nienawidzić	0.8908185025006036
+urazić	zadrzeć	0.9373075972977714
+dokuczać	nie lubić	0.821734696096325
+utrudniać	pozwać	1.141567782451795
+przeklinać	martwić	1.2043445934514194
+przytłaczać	zniechęcać	0.87835951827373
+zniechęcać	drażnić	0.8645040133740778
+dokuczać	przestraszyć	0.8044671132004483
+rozwścieczać	przeszkadzać	0.8589173671858907
+wystrzegać się	zniechęcać	1.188767653440863
+besztać	kłamać	0.8012263093916493
+odrzucać	przejmować	1.1851793788867966
+ignorować	poniżać	0.8770179936030221
+odmawiać	krytykować	0.950969100486894
+zdradzać	skonsternować	1.1177283852602011
+utrudniać	przerazić	0.9609829985498132
+krytykować	fatygować	1.1741233154156592
+zwodzić	kpić	0.8798597963123073
+żałować	przeklinać	1.3188230606054168
+rozwścieczać	irytować	0.6642884242062292
+deprecjonować	rozczarować	0.988516877743536
+kłamać	lekceważyć	0.8138775227759992
+kłócić się	obrzydzać	1.1007355087686703
+besztać	rozpaczać	1.166246618262191
+utrudniać	zdenerwować	1.2252314398129225
+rozpaczać	zwodzić	1.2174044226047445
+zwodzić	blefować	0.7835635922804116
+wystrzegać się	odmawiać	0.7546870037140057
+martwić	przestraszyć	0.9515887163023358
+blefować	przestraszyć	1.2237939458633176
+besztać	pozwać	0.8658697226539579
+wystrzegać się	irytować	0.910244547325965
+ignorować	oszukiwać	0.6875343819243874
+kłócić się	zawstydzić	1.012287427075943
+przytłaczać	denerwować	0.8551117992862634
+blefować	deprecjonować	1.00930099866324
+przejmować	zadrzeć	1.2834975279660432
+denerwować	prześladować	0.6156233082325335
+gardzić	frustrować	0.7504666729918271
+besztać	wyrzekać się	0.8974433901382314
+przejmować	skonsternować	1.07100355073597
+rozpaczać	żałować	0.8984460877011147
+oszukiwać	kpić	0.7190575650979042
+zwodzić	zdenerwować	1.1719688040055836
+żałować	oszukiwać	0.8138471472932757
+martwić	gardzić	0.9939073434526365
+oszukiwać	dokuczać	0.8398550701685152
+nienawidzić	obrazić	1.1132027336297685
+skarcić	zdenerwować	0.8932735268297692
+poniżać	deprecjonować	0.7521814671545098
+kpić	utrudniać	1.1108661958705295
+krytykować	nienawidzić	1.0751292237372112
+nienawidzić	wystrzegać się	1.0650514434593514
+frustrować	zwodzić	0.8901421434242114
+przeszkadzać	lekceważyć	0.953585019019005
+denerwować	fatygować	1.2116686735443543
+deprecjonować	obrzydzać	0.9574571480637987
+odmawiać	drażnić	0.8080337803578755
+drażnić	zdradzać	0.7785378736587878
+denerwować	drażnić	0.6107301924202226
+kłamać	przeklinać	1.0221016417912792
+przerazić	nie lubić	0.9609241265964839
+obrzydzać	przejmować	1.046812190129415
+przeszkadzać	skonsternować	0.7739419035494208
+urazić	krytykować	0.8714912239790586
+przytłaczać	zdradzać	1.0950710681346103
+przeklinać	prześladować	0.884616680986718
+tęsknić	zniechęcać	1.283031319212333
+tęsknić	pozwać	1.2230177679629477
+skarcić	przeszkadzać	1.1381189740147148
+przestraszyć	ignorować	1.065200114114535
+nie lubić	zdenerwować	1.0481400020350193
+obrazić	kłamać	0.9139379545706297
+besztać	fatygować	1.1836010589695383
+fatygować	przestraszyć	1.2554181812181966
+odmawiać	rozpaczać	1.0751746672575038
+wystrzegać się	rozpaczać	1.3386276165015172
+frustrować	kpić	0.6537959432320882
+przytłaczać	odrzucać	1.1693078246983337
+wystrzegać się	obrazić	1.0011407966297017
+nie lubić	odrzucać	0.9602870765527227

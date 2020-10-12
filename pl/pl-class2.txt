@@ -1,0 +1,2279 @@
+Word1	Word2	Score
+maltretować	narzucać	0.880203287835729
+egzekwować	stronić	1.0806375632465322
+odurzyć	limitować	1.130602370170588
+zaskarżyć	eksmitować	0.802037215736026
+uwalniać	nie uznawać	1.2044540281075247
+powstrzymywać się	oddziaływać	0.8639754898143474
+uznać	zeznawać	0.8309334221441649
+uznać	napadać	1.2011050713741036
+ograniczać	dopuszczać	1.082187456678847
+uwalniać	zaskarżyć	1.1652967925010989
+narzucać	wzbraniać	0.7291632755520902
+zrzekać się	zabić	1.1540472983481798
+eksmitować	zakazać	1.0511780946220661
+obrabować	popełnić	0.8071795051423601
+unikać	oswobadzać	1.1139721561481444
+zabić	uniewinnić	1.3249649961066452
+eksmitować	aresztować	0.9424616912400823
+ograniczać	unikać	0.8894350674354209
+wystrzegać się	tłumić	1.0273840728495547
+pozwać	blokować	0.9090841113773412
+zaskarżyć	zatrzymywać	0.94359195534521
+stronić	anulować	0.8323930180211285
+unikać	spiskować	1.0483163524298207
+ustąpić	aresztować	1.2905239793463708
+oskarżać	bronić	0.8304744071649058
+blokować	wystrzegać się	0.9937460385817247
+zezwalać	oswobadzać	0.7836317536561033
+pozwolić	przestrzegać	1.0110975897275538
+uzurpować	ukarać	0.9756095340328728
+zrzekać się	kraść	1.0855745735763789
+prześladować	sprzeciwiać się	0.9598997623860892
+uniewinnić	sprzeciwiać się	0.8006034567460666
+udusić	wystrzegać się	1.27348111328323
+usprawiedliwiać	wystrzegać się	0.8357224364968854
+stronić	unieważnić	0.8715105638088524
+wstrzymać się	ustąpić	1.0052834752998765
+bronić	unieważnić	1.032218729285927
+potępiać	uniewinnić	0.9147384939592286
+zezwalać	egzekwować	0.999602109819231
+obrabować	zabraniać	1.002367912909996
+usprawiedliwiać	udaremnić	1.1189969835681426
+wzbraniać	dopuszczać	1.2265562529758205
+uzurpować	uwalniać	1.264396910811155
+anulować	ukarać	1.0472285938086174
+oskarżać	uznać	0.8992319922744014
+popełnić	winić	0.9674234666275207
+poddać się	pozwać	0.96584636447005
+porwać	napadać	0.5243952306218188
+udaremnić	buntować się	1.1524743295760933
+udusić	strzec się	1.1319622217229606
+oszczędzić	aresztować	1.234275846734221
+zdradzać	unieważnić	1.1331966536483078
+usprawiedliwiać	oszczędzić	0.8259815173962122
+bronić	wystrzegać się	1.0372062092429517
+buntować się	zaskarżyć	0.9992782888746764
+ewakuować	nadużywać	0.9837144196263444
+wystrzegać się	zakazać	1.0688460017062487
+nie uznawać	udzielać	1.097439263662571
+zatrzymywać	uniewinnić	0.8598857023009581
+eksmitować	spiskować	0.9099652137460229
+zatrzymywać	uprowadzić	1.0531708161347562
+anulować	narzucać	0.9348175011050667
+wstrzymać się	osądzać	0.9324874008040515
+osądzać	napadać	0.8522895105357639
+tłumić	odrzucać	0.7939693961591484
+limitować	zatrzymywać	0.750302361369354
+uniewinnić	pozwać	1.0434253756447245
+egzekwować	potępiać	0.9979301890722658
+nadużywać	stronić	1.1166905793733053
+uzurpować	udzielać	1.1925866191221706
+maltretować	dopuszczać	1.1768783717249824
+maltretować	tłumić	0.9638258150263167
+obrabować	uzurpować	0.906825005146196
+maltretować	uzurpować	0.8800456196635557
+spiskować	korumpować	0.6728654688463667
+buntować się	pozwolić	1.0476306258909591
+maltretować	usprawiedliwiać	1.2318120970086637
+wstrzymać się	odrzucać	0.9755105859047992
+udaremnić	udzielać	1.2315001384890678
+uniewinnić	kraść	1.2842435312897365
+strzec się	dopuszczać	0.9561658179363339
+korumpować	oskarżać	0.9332890910811655
+nie uznawać	potępiać	0.9187966969384866
+odurzyć	ukarać	0.9724027672273762
+poddać się	tłumić	1.124549440752708
+odurzyć	pozwolić	1.1006282143830555
+unikać	uznać	1.055523785226445
+eksmitować	oswobadzać	0.963126273855379
+unikać	oddziaływać	1.0419579522677582
+napadać	ewakuować	1.1083921903099287
+zabić	poddać się	1.0216426789050428
+udusić	ukarać	0.7957935063866697
+ustąpić	potępiać	1.1928068181694804
+egzekwować	usprawiedliwiać	0.9741877916503879
+wzbraniać	tłumić	0.6231345605810784
+obrabować	osądzać	0.783269477741934
+potępiać	zeznawać	0.9686219431018986
+odurzyć	wstrzymać się	1.0820667414227993
+buntować się	maltretować	1.0404578781906075
+popełnić	egzekwować	0.7189187496032272
+uzurpować	eksmitować	0.8788024020803503
+zabić	porwać	0.7585650199325776
+kraść	wystrzegać się	1.1890135698442974
+odrzucać	limitować	0.701654707420224
+zdradzać	udaremnić	1.197866142882411
+wystrzegać się	oddziaływać	0.9088497117025623
+narzucać	limitować	0.7281541963594382
+ukarać	nie uznawać	0.9315687325949901
+bronić	nie uznawać	1.1451226523773939
+powstrzymywać się	uznać	1.148404265296296
+narzucać	nadużywać	0.8262408126531586
+udaremnić	wyrzekać się	0.9995091956558917
+uznać	zrzekać się	0.8467264099743282
+kraść	pozwać	1.02686196307862
+udzielać	wyrzekać się	1.1269600599802054
+odrzucać	nadużywać	0.9289806594690602
+zabraniać	oddziaływać	0.9276235161549007
+protestować	udusić	1.1600467681692328
+ustąpić	uwalniać	1.0021447456002055
+dopuszczać	zaskarżyć	1.0525234934719303
+wstrzymać się	popełnić	0.9210558052386668
+tłumić	protestować	1.1172054490282444
+porwać	oswobadzać	1.3523844901599729
+zdradzać	usprawiedliwiać	1.0357929969596413
+spiskować	odrzucać	0.9516923184021995
+zrzekać się	uprowadzić	1.1666957944811183
+pozwać	stronić	0.8925926004009029
+spiskować	zezwalać	0.9692752311974376
+zakazać	zrzekać się	0.9392601150893741
+udaremnić	zabraniać	0.8684377220803887
+nie uznawać	porwać	0.9625987528330824
+usprawiedliwiać	nie uznawać	1.0877536560871017
+zdradzać	ograniczać	1.1295058786951897
+ograniczać	stronić	0.8322870635914966
+pozwolić	blokować	1.1015877410497248
+zeznawać	kraść	1.0776249034421976
+maltretować	przestrzegać	1.2032374038811733
+uwalniać	zezwalać	0.8496114714505426
+uwalniać	unieważnić	1.079554669718559
+unieważnić	zabraniać	0.9645172448907086
+zeznawać	korumpować	1.05333707278931
+protestować	nadużywać	0.9979613942839841
+ograniczać	ewakuować	1.121533160108484
+sprzeciwiać się	oswobadzać	1.0432507976856542
+wystrzegać się	zrzekać się	0.8867596942076668
+ograniczać	wystrzegać się	0.87541796914982
+osądzać	wyrzekać się	0.866993628179475
+napadać	eksmitować	1.064364397300712
+unieważnić	limitować	0.7803279020741796
+korumpować	ukarać	0.9385028280827239
+zezwalać	tłumić	1.1242365250131108
+zaskarżyć	stronić	0.9475660265421374
+oddziaływać	uprowadzić	0.9725694279141407
+zaskarżyć	uprowadzić	0.882948072544271
+zeznawać	porwać	1.0090956071834234
+uprowadzić	udusić	0.7164265504462559
+porwać	prześladować	0.8418528221231713
+udzielać	nadużywać	1.2508570518920459
+wyrzekać się	zakazać	0.9060505634159117
+tłumić	zaskarżyć	0.8933924352739645
+zabić	prześladować	0.6925292744711166
+kraść	bronić	1.2562959602251251
+udusić	narzucać	0.9397883268855503
+powstrzymywać się	ukarać	0.9174791676525862
+oskarżać	pozwać	0.46672126816621423
+stronić	zabić	1.103513657820113
+zakazać	nadużywać	0.8744072640277311
+obrabować	udzielać	1.1103839031623972
+zatrzymywać	strzec się	0.9799112312188102
+poddać się	prześladować	1.1591411154320765
+osądzać	strzec się	0.83874059721806
+zabić	eksmitować	0.992598661354932
+blokować	uniewinnić	0.9403057877112376
+napadać	poddać się	1.1631388942381573
+protestować	poddać się	1.0052958964565628
+zabić	protestować	1.2573050114575206
+ukarać	zrzekać się	0.8250056707743678
+dopuszczać	udusić	1.1305000022135807
+unieważnić	narzucać	0.8824766935703385
+zaskarżyć	uzurpować	0.8661035231695513
+stronić	dopuszczać	1.059074715210812
+oswobadzać	ustąpić	1.1052755350319485
+udzielać	eksmitować	1.077036331454653
+ograniczać	uznać	1.1317579232387833
+winić	ewakuować	1.1669029814090595
+poddać się	popełnić	1.0164186953005923
+blokować	unikać	0.8468993483130902
+udzielać	limitować	1.1283813621016021
+udaremnić	kraść	1.0535153493078493
+obrabować	ograniczać	0.9651347481773135
+egzekwować	wzbraniać	1.0648564679960988
+wystrzegać się	winić	1.1183076640638636
+zabić	ukarać	0.7893843931098653
+wystrzegać się	odurzyć	1.058262375880542
+uzurpować	uniewinnić	1.2138037351811783
+bronić	potępiać	1.035150183268061
+oskarżać	protestować	0.7778848446881036
+obrabować	winić	1.1058176353694
+zdradzać	dopuszczać	0.9468956379408406
+strzec się	udaremnić	0.9060023116738783
+blokować	zabić	1.052074940548037
+osądzać	ukarać	0.7296030452215507
+stronić	oszczędzić	1.2331529817409304
+buntować się	odrzucać	0.9754255913115139
+tłumić	dopuszczać	1.220904754119537
+strzec się	oswobadzać	1.0346122771809931
+wzbraniać	oskarżać	0.7589790718854729
+zdradzać	unikać	1.0988623503674089
+eksmitować	udusić	1.0381628940126881
+ustąpić	odrzucać	1.2260178288539083
+ograniczać	porwać	0.9910099216711188
+tłumić	potępiać	0.7140226180453593
+aresztować	porwać	0.9496755692828559
+limitować	zabraniać	0.942862864495509
+zatrzymywać	udusić	1.169216465822256
+ustąpić	przestrzegać	1.045628985339703
+potępiać	udusić	1.0313398223164336
+limitować	napadać	1.0889796522012467
+wzbraniać	oswobadzać	0.9955672587352354
+unieważnić	buntować się	0.9171072051787865
+dopuszczać	sprzeciwiać się	0.9920843058487795
+ustąpić	tłumić	1.1277160845375092
+uznać	bronić	0.8391014555756872
+wystrzegać się	anulować	0.8941361757860888
+limitować	maltretować	1.0067981032661522
+bronić	uniewinnić	1.0833795501486847
+udusić	zabraniać	1.056522417250735
+napadać	aresztować	0.9520225768196935
+odrzucać	aresztować	0.8151656483912757
+zabić	zatrzymywać	1.198348890557407
+napadać	bronić	1.3332114561654207
+ustąpić	bronić	1.0978870879986409
+tłumić	powstrzymywać się	0.8220983394419804
+porwać	zrzekać się	1.1968007017101892
+wystrzegać się	unieważnić	0.9770589506421457
+udzielać	uprowadzić	1.1282733005249252
+usprawiedliwiać	zrzekać się	0.7668440162283328
+kraść	zabić	0.7019564343935794
+prześladować	ustąpić	1.1982383422894203
+zdradzać	udusić	0.957217871681979
+nie uznawać	uniewinnić	0.908395346158652
+aresztować	powstrzymywać się	0.9428625001125319
+usprawiedliwiać	odurzyć	1.2147503531268875
+porwać	anulować	0.9746625833576085
+wystrzegać się	osądzać	1.017545013427386
+napadać	zabić	0.6905450244854032
+blokować	obrabować	0.9074169112819233
+bronić	pozwolić	0.6888268170278894
+narzucać	sprzeciwiać się	0.807639336600995
+nie uznawać	blokować	0.6012605587251273
+obrabować	anulować	1.1399263921917542
+dopuszczać	potępiać	1.184734797089949
+uprowadzić	strzec się	1.0360661661631247
+zatrzymywać	uzurpować	0.8109381364437334
+winić	nadużywać	0.9403128446242244
+zatrzymywać	zakazać	0.8142753430580532
+stronić	oddziaływać	1.0082786453848849
+narzucać	obrabować	0.93540956991609
+maltretować	ograniczać	0.9291598149760026
+oddziaływać	zdradzać	1.181834998748965
+zabraniać	nie uznawać	0.8661155739063383
+kraść	unikać	1.067440318076582
+uzurpować	uprowadzić	0.97135158183568
+bronić	winić	0.9791801646517077
+zatrzymywać	wstrzymać się	0.4519293419554789
+osądzać	nie uznawać	0.7650456762142567
+odurzyć	unikać	0.880446412904589
+zezwalać	obrabować	1.2937444560450977
+zeznawać	dopuszczać	0.9642389178244899
+pozwać	eksmitować	0.9552561040545499
+buntować się	pozwać	0.8249130264288227
+ograniczać	zaskarżyć	0.9198809500231487
+popełnić	zezwalać	0.9651135904259964
+pozwolić	ograniczać	1.1383499816140705
+usprawiedliwiać	ustąpić	0.7498107021967939
+wstrzymać się	zdradzać	1.0987199594530122
+zakazać	zaskarżyć	0.9176848906525641
+przestrzegać	napadać	1.2295191664666438
+zeznawać	obrabować	1.0500762180874545
+zrzekać się	udaremnić	1.120260489500018
+zabić	oddziaływać	1.2442736049558856
+wzbraniać	pozwolić	1.0983818325148755
+ewakuować	wstrzymać się	1.052759658659628
+udzielać	przestrzegać	1.0519415651288477
+uwalniać	odurzyć	1.0553953875383164
+oszczędzić	pozwać	1.1162501708004517
+unikać	prześladować	0.9409709011068461
+strzec się	oskarżać	1.0119120090397724
+blokować	potępiać	0.7872452440337158
+limitować	blokować	0.5346654248304995
+zakazać	anulować	0.6618859660242181
+zatrzymywać	poddać się	0.9687911611147859
+tłumić	uznać	1.2369094235632512
+aresztować	sprzeciwiać się	0.918440062508385
+pozwać	wystrzegać się	1.0031976069211843
+spiskować	egzekwować	0.9089947346586347
+strzec się	usprawiedliwiać	0.9966391381935209
+eksmitować	blokować	0.9705990665899236
+wzbraniać	zaskarżyć	0.9340941765569053
+powstrzymywać się	anulować	0.8275051421660088
+napadać	zdradzać	0.9562265354446632
+zrzekać się	zeznawać	0.9831104975525188
+wyrzekać się	oszczędzić	1.2541649192604176
+tłumić	unikać	0.9938126912076836
+uwalniać	egzekwować	1.0120228658229933
+uniewinnić	unikać	0.9738952145661046
+oddziaływać	wzbraniać	0.8666707026895258
+pozwolić	prześladować	1.1134762995256056
+uwalniać	unikać	0.9450241534675435
+blokować	oddziaływać	0.8686043226805293
+korumpować	nie uznawać	0.9242944706424643
+pozwać	przestrzegać	1.1316603178015507
+odrzucać	zatrzymywać	0.8150510434955602
+limitować	uwalniać	0.9887387648566756
+korumpować	uniewinnić	1.3579190709109605
+aresztować	zeznawać	1.1248598146661064
+obrabować	kraść	0.36725479328890953
+ustąpić	zabraniać	1.164020327296622
+zeznawać	pozwać	0.8721491898276877
+obrabować	ukarać	0.6816957280648144
+tłumić	przestrzegać	0.9700830119294068
+nadużywać	spiskować	0.7962236842176771
+strzec się	tłumić	1.0895271073208064
+spiskować	zrzekać się	0.8012937700124726
+tłumić	napadać	0.8687454139693117
+korumpować	uwalniać	1.1829631319443314
+oszczędzić	uznać	0.9268262920651583
+uniewinnić	zakazać	0.9575188735237684
+zeznawać	pozwolić	0.8061982012968197
+anulować	aresztować	0.7282627558390616
+prześladować	nadużywać	0.8557788959854506
+oswobadzać	nadużywać	1.2836590229979334
+ograniczać	blokować	0.4388492433864781
+wzbraniać	udzielać	1.1729577772873585
+aresztować	blokować	0.6570659017794318
+stronić	prześladować	1.044327382854109
+eksmitować	zezwalać	1.0792071823400489
+anulować	odurzyć	1.051624926210517
+osądzać	eksmitować	0.9628541757900405
+stronić	oskarżać	0.7805115203098922
+usprawiedliwiać	dopuszczać	0.6791694408629609
+udaremnić	oszczędzić	1.271017112006923
+eksmitować	oskarżać	0.7991840776987698
+zatrzymywać	oszczędzić	1.178381896509621
+anulować	spiskować	0.9364507335644453
+egzekwować	dopuszczać	0.9362546321845818
+pozwać	zakazać	0.8166281354566919
+wyrzekać się	ewakuować	1.052296850081747
+powstrzymywać się	poddać się	1.10760056693041
+ograniczać	uprowadzić	0.9216142702963006
+popełnić	zeznawać	0.7596929233418057
+oszczędzić	oswobadzać	1.1239792068468286
+udzielać	ukarać	1.0165041943251611
+sprzeciwiać się	wstrzymać się	0.6826082163587646
+uznać	buntować się	0.9449852369419727
+egzekwować	limitować	0.9916176464109918
+napadać	kraść	0.512849602661528
+ustąpić	spiskować	1.1262547019672586
+nie uznawać	przestrzegać	1.2226277843345608
+blokować	wyrzekać się	0.9125176707487146
+przestrzegać	egzekwować	1.1578903886829375
+maltretować	udzielać	1.0394248451095598
+uwalniać	oddziaływać	1.1949786570386076
+kraść	egzekwować	1.0544573931539842
+uprowadzić	ewakuować	1.091600686044425
+wzbraniać	buntować się	1.098994161259351
+korumpować	poddać się	0.8965249794006325
+uwalniać	winić	1.2578775272131735
+blokować	uzurpować	0.6767041855860492
+spiskować	prześladować	1.0081774889122275
+winić	spiskować	0.854644751556178
+spiskować	oddziaływać	0.9816157846834513
+obrabować	buntować się	1.0397842402711919
+pozwolić	maltretować	1.1551503790132882
+udaremnić	wzbraniać	0.8007570376764406
+zabraniać	uniewinnić	1.0239286832857124
+maltretować	unieważnić	1.1438543231231615
+blokować	maltretować	0.8129943987567197
+prześladować	nie uznawać	0.8039990441800245
+zatrzymywać	nie uznawać	0.8294221587719072
+dopuszczać	ustąpić	0.8233261008508669
+zakazać	korumpować	1.0791616600513525
+zrzekać się	eksmitować	1.3016115570041338
+korumpować	eksmitować	0.9990539671695519
+strzec się	poddać się	1.1665838177130223
+zezwalać	udaremnić	1.185742154834252
+obrabować	stronić	1.171936625887094
+korumpować	limitować	1.0064304073912
+eksmitować	powstrzymywać się	1.1682465134264337
+stronić	odurzyć	1.047827625039975
+sprzeciwiać się	potępiać	0.8578640375975332
+wzbraniać	uzurpować	0.8959472226643934
+sprzeciwiać się	buntować się	0.8357390959768201
+udusić	wstrzymać się	1.267437444301968
+nadużywać	sprzeciwiać się	1.0022844553225445
+obrabować	maltretować	0.5292067432581004
+wzbraniać	udusić	1.032016777539037
+zrzekać się	zatrzymywać	0.9363949860913281
+wzbraniać	usprawiedliwiać	1.1270087849841899
+dopuszczać	zabraniać	1.3068097328456545
+aresztować	maltretować	0.9399576462908833
+uprowadzić	usprawiedliwiać	1.133193751331341
+winić	anulować	0.8599147915589702
+strzec się	zezwalać	0.9850218521271091
+zdradzać	ustąpić	1.1298493145575697
+zezwalać	unieważnić	1.0833991416742454
+obrabować	porwać	0.47087302234735917
+unieważnić	odrzucać	0.7773371740619786
+odrzucać	zaskarżyć	0.9154236332290108
+maltretować	wystrzegać się	1.1298910498654815
+stronić	protestować	0.9014295898803037
+oskarżać	wstrzymać się	0.9529902909676877
+ustąpić	unieważnić	0.8296800512079131
+zeznawać	oddziaływać	0.8912657852732541
+udusić	zabić	0.26668657833443893
+udaremnić	uniewinnić	1.029180271046686
+oszczędzić	zabić	1.1811822008159114
+oskarżać	unikać	1.0813633330143018
+udaremnić	odrzucać	0.961225081899147
+pozwać	potępiać	0.7365287626168716
+oswobadzać	uznać	1.0854413874358022
+nie uznawać	wstrzymać się	0.904254613825996
+wzbraniać	anulować	0.8431026263847489
+uznać	uprowadzić	1.0873736878482985
+eksmitować	narzucać	0.8169902453168578
+ograniczać	uzurpować	0.8090099652764681
+porwać	strzec się	1.1475028931747369
+uznać	zdradzać	0.9666029693612506
+uprowadzić	zabić	0.7715363558965621
+ograniczać	udusić	1.2160220750829893
+strzec się	unikać	0.39915893715202044
+maltretować	odurzyć	0.7797603571182442
+zatrzymywać	nadużywać	0.9602739414891039
+buntować się	osądzać	0.9374345313069725
+blokować	poddać się	0.8550546625035395
+uzurpować	narzucać	0.5401028379048352
+zdradzać	zakazać	1.0549822297027582
+eksmitować	wyrzekać się	1.2926653690422358
+zatrzymywać	narzucać	0.7596547855129037
+wystrzegać się	porwać	1.1401102657460531
+ograniczać	przestrzegać	1.0153612519193034
+osądzać	limitować	0.8684521174905319
+korumpować	stronić	1.2613529995321104
+maltretować	popełnić	0.9553349354733385
+pozwać	zaskarżyć	0.5537126636377644
+wstrzymać się	uwalniać	1.1762566416916385
+zatrzymywać	unieważnić	0.8070474425608944
+oszczędzić	oddziaływać	0.9395729571624859
+udusić	spiskować	0.8054529535936058
+stronić	osądzać	0.8317651137150325
+maltretować	egzekwować	0.9281698524476149
+ograniczać	anulować	0.7562871108364045
+eksmitować	uznać	1.0604833030211633
+pozwać	oswobadzać	0.9957853035683004
+tłumić	nadużywać	0.9881035194220394
+blokować	zrzekać się	0.8915525568521581
+prześladować	oswobadzać	1.0908059971676145
+obrabować	dopuszczać	1.268578565441467
+aresztować	odurzyć	0.9092039256423535
+uniewinnić	winić	0.8851756377215944
+ewakuować	potępiać	0.8164621891210642
+ukarać	zabraniać	1.0050993953622902
+przestrzegać	wstrzymać się	0.8464576570562046
+napadać	spiskować	0.7201588391288608
+wystrzegać się	uznać	1.1816486536097393
+odurzyć	napadać	0.6484821425627911
+potępiać	osądzać	0.8280357928082335
+egzekwować	udusić	1.0341410403590126
+unikać	usprawiedliwiać	1.0484879544126922
+zatrzymywać	wyrzekać się	0.9442805480145119
+sprzeciwiać się	ustąpić	1.1459884738291513
+zaskarżyć	usprawiedliwiać	1.0135631509379948
+egzekwować	oswobadzać	1.3186295057726287
+oswobadzać	pozwolić	0.864505018710363
+powstrzymywać się	obrabować	1.0878226771226
+nie uznawać	narzucać	0.890016364975985
+maltretować	zrzekać się	1.057653295501969
+ograniczać	eksmitować	1.250092760254496
+blokować	egzekwować	0.9544263390112484
+unikać	wstrzymać się	0.8248758503797259
+nie uznawać	uzurpować	0.9405735413559847
+nie uznawać	unieważnić	0.6722904914239706
+dopuszczać	powstrzymywać się	1.0910719912287667
+pozwolić	zabić	1.2144632212436024
+ustąpić	narzucać	0.9161593480350235
+oswobadzać	unieważnić	1.0812522565122333
+unikać	powstrzymywać się	0.8791005235009006
+wstrzymać się	spiskować	0.928508544325493
+potępiać	wyrzekać się	0.9845832389258461
+unieważnić	wzbraniać	0.9089524833978591
+buntować się	popełnić	0.9143000800325501
+eksmitować	ewakuować	0.7523199063631024
+limitować	popełnić	1.1048583418193338
+usprawiedliwiać	porwać	1.2694272242169524
+dopuszczać	zrzekać się	0.8560816781034164
+porwać	kraść	0.652328247040291
+unieważnić	uzurpować	0.9141813711765593
+napadać	protestować	1.1643097701948806
+uprowadzić	wzbraniać	0.8367090564408818
+unieważnić	sprzeciwiać się	0.7377355395385863
+udusić	ewakuować	1.1539658823280126
+aresztować	zrzekać się	0.9540301422402292
+korumpować	potępiać	1.1668003780222236
+napadać	sprzeciwiać się	1.1841864452178947
+oswobadzać	uzurpować	1.3824598562425996
+egzekwować	oddziaływać	0.6862588625337598
+nie uznawać	udusić	1.0067939083336743
+odurzyć	zaskarżyć	1.1187422443490143
+zabić	unieważnić	1.0290563448422942
+wystrzegać się	limitować	0.9893933943134178
+uzurpować	limitować	0.8267549004467287
+unieważnić	ograniczać	0.7197383736146982
+ukarać	poddać się	1.071813079015454
+uwalniać	wyrzekać się	1.0391432693894311
+dopuszczać	prześladować	1.1881845081307505
+zatrzymywać	zezwalać	1.2316768001162544
+stronić	blokować	0.9201420653308434
+udzielać	unikać	1.0246344606623938
+pozwać	anulować	0.9663021419152039
+sprzeciwiać się	wzbraniać	0.8237289292839306
+wyrzekać się	sprzeciwiać się	1.02667997031602
+usprawiedliwiać	udusić	1.273182596050536
+zakazać	unikać	1.091970356808278
+pozwolić	zaskarżyć	1.049891855191558
+udaremnić	blokować	0.8154464636387272
+uznać	dopuszczać	0.6105137265756616
+uznać	ustąpić	0.6702126022592801
+blokować	napadać	0.8754177299004462
+przestrzegać	oszczędzić	1.0561357383246261
+anulować	oszczędzić	1.104042257058946
+zeznawać	zaskarżyć	0.9418757944632908
+kraść	korumpować	0.7392271583732262
+zabraniać	odurzyć	0.9563474908172529
+obrabować	napadać	0.4757600799382651
+tłumić	oswobadzać	1.071072418696928
+udaremnić	potępiać	0.808528145392456
+limitować	udaremnić	1.0387772358375236
+tłumić	zatrzymywać	0.6745609865527216
+ukarać	nadużywać	0.7904668758412999
+zabić	udzielać	1.313688093588945
+tłumić	udusić	0.9650181706920031
+uprowadzić	nie uznawać	1.061728195594964
+spiskować	protestować	0.903870155622285
+ukarać	zatrzymywać	0.8407494165104501
+wyrzekać się	stronić	0.5651904732387214
+wstrzymać się	maltretować	1.0296479288703888
+ewakuować	odurzyć	0.9839081585800825
+oddziaływać	odrzucać	1.0655926138453353
+ukarać	unikać	0.9366962055170023
+przestrzegać	poddać się	1.0233077278634708
+zabraniać	protestować	0.9880392489747265
+odrzucać	zdradzać	1.080450924948952
+zabraniać	egzekwować	1.0974484928508437
+wyrzekać się	maltretować	1.0789340022534986
+zabraniać	poddać się	1.1003785913335513
+unieważnić	wyrzekać się	0.7876016675490652
+narzucać	zdradzać	0.9973777120602187
+oddziaływać	wstrzymać się	0.8463868780225491
+uznać	odurzyć	1.1285054600729698
+nie uznawać	ograniczać	0.640531135313775
+spiskować	aresztować	0.9323149273227063
+uznać	winić	0.8964086017858969
+wyrzekać się	narzucać	1.0276308006086672
+poddać się	oskarżać	0.8860627372355447
+limitować	protestować	0.9363471479407447
+kraść	tłumić	0.9610414821014839
+unieważnić	potępiać	0.9348915363095864
+zaskarżyć	nie uznawać	0.8821835970645551
+odrzucać	uwalniać	1.1950150798969714
+przestrzegać	wyrzekać się	0.9999715362441897
+zrzekać się	napadać	1.2502204879924848
+strzec się	wzbraniać	1.0963092470426437
+spiskować	zaskarżyć	0.9355426513083831
+uniewinnić	nadużywać	1.2513863335490694
+strzec się	ukarać	1.0065411714956327
+nadużywać	usprawiedliwiać	1.2193267812489104
+prześladować	tłumić	0.9576642258986477
+oswobadzać	potępiać	0.9713263904328555
+winić	napadać	1.1593879393651012
+powstrzymywać się	wystrzegać się	0.6697307989661981
+uniewinnić	oddziaływać	0.7794664950736429
+aresztować	winić	0.8419404487273174
+maltretować	zezwalać	1.2543216368311108
+uwalniać	buntować się	0.8600852843806196
+osądzać	ustąpić	1.0344876598624306
+zaskarżyć	oswobadzać	1.1718498410945783
+popełnić	uznać	0.910863353289012
+nadużywać	aresztować	0.8787177423235717
+nadużywać	przestrzegać	1.2624204417183995
+uzurpować	pozwać	0.8340542494009027
+pozwolić	osądzać	1.057656437371599
+unieważnić	udzielać	1.076874585463105
+porwać	potępiać	0.9831870661488127
+unieważnić	protestować	0.8439831871465379
+egzekwować	tłumić	1.0455711772783978
+zakazać	egzekwować	0.9048569262548009
+protestować	odurzyć	1.2430378633369534
+ukarać	prześladować	0.7855137980028353
+zatrzymywać	udzielać	1.0577750872087883
+ewakuować	poddać się	1.2449142382595941
+uprowadzić	dopuszczać	1.17620527421864
+egzekwować	uniewinnić	1.0144235193657338
+uprowadzić	oskarżać	0.9694689743558629
+eksmitować	obrabować	0.982789134626559
+poddać się	wstrzymać się	1.131327746585522
+tłumić	limitować	0.7899408033146569
+korumpować	popełnić	0.8508586409264001
+korumpować	zabraniać	1.0573743936914817
+napadać	zezwalać	1.3780622087042744
+egzekwować	zaskarżyć	0.8886091225515029
+spiskować	pozwolić	0.88745097678618
+przestrzegać	ukarać	1.05098474561105
+wystrzegać się	protestować	0.995969177736274
+nadużywać	uzurpować	0.7353741283780942
+zrzekać się	winić	0.8272243252295246
+winić	zdradzać	0.9854961305676713
+udaremnić	tłumić	0.9069988862116114
+powstrzymywać się	oswobadzać	0.9150481629078545
+zabraniać	wzbraniać	0.4428557334025865
+osądzać	prześladować	0.8875414783873036
+aresztować	uniewinnić	0.984719919451368
+prześladować	eksmitować	0.8788292984361208
+nie uznawać	obrabować	1.0552077983229944
+winić	wyrzekać się	0.9547430864188473
+narzucać	pozwać	0.6095723162969199
+odurzyć	nadużywać	0.8359644296243909
+egzekwować	uzurpować	0.824049017406948
+protestować	zeznawać	1.1693830801206129
+korumpować	buntować się	1.0072245466196779
+potępiać	obrabować	1.083385322509696
+obrabować	uprowadzić	0.6123220673985712
+nie uznawać	sprzeciwiać się	0.751052956522204
+zeznawać	wzbraniać	1.1942907237451594
+odurzyć	uprowadzić	0.7225026896754703
+blokować	powstrzymywać się	0.6023211916876914
+uwalniać	wystrzegać się	1.122105127979768
+uniewinnić	zezwalać	0.8143594207198293
+aresztować	udzielać	1.339699400775628
+potępiać	stronić	0.7667074238808513
+zrzekać się	zaskarżyć	1.0305019839376988
+eksmitować	bronić	0.9886686433418687
+limitować	zezwalać	1.3603393172058118
+korumpować	uprowadzić	0.8512240346624333
+zabić	buntować się	1.0067451840943475
+egzekwować	winić	0.9207087718491451
+osądzać	narzucać	0.855142688521341
+powstrzymywać się	buntować się	1.076036604589788
+zeznawać	maltretować	0.8971051208420826
+nie uznawać	stronić	0.7126976117307391
+ukarać	egzekwować	0.9209507552768668
+odrzucać	popełnić	0.9649450562157996
+uprowadzić	pozwać	0.8806353819484961
+oszczędzić	porwać	1.1378341181571479
+narzucać	blokować	0.7510110987764442
+obrabować	odrzucać	1.07777893120897
+wzbraniać	unikać	0.9584766532173634
+prześladować	zabraniać	0.9480405360382012
+wzbraniać	ewakuować	1.1758514932906328
+bronić	nadużywać	1.1491358345278408
+tłumić	unieważnić	0.9351644681301506
+unieważnić	pozwać	0.8787964993477348
+odurzyć	odrzucać	1.1375496836927015
+przestrzegać	aresztować	1.0131763502612035
+protestować	zezwalać	1.2439866806682596
+tłumić	obrabować	0.8145906345412349
+prześladować	korumpować	0.8603551769657075
+anulować	bronić	1.0552016830609943
+wstrzymać się	pozwolić	1.0244901462518459
+uwalniać	eksmitować	1.0176785497741183
+zakazać	ograniczać	0.5390485242483434
+narzucać	ograniczać	0.6827217405704876
+wzbraniać	limitować	0.7730891707583342
+maltretować	poddać się	0.8912609649066847
+potępiać	powstrzymywać się	0.9249587864011987
+przestrzegać	zaskarżyć	1.2619292945525962
+porwać	eksmitować	1.08049541603837
+pozwolić	eksmitować	0.9616069472930594
+udzielać	pozwać	1.0258644758408642
+popełnić	wystrzegać się	1.136906012889938
+prześladować	maltretować	0.6731726455749735
+poddać się	wzbraniać	0.9672369017095236
+ograniczać	oddziaływać	0.8957758634456512
+oddziaływać	uzurpować	1.0663214880090461
+potępiać	ograniczać	0.8649136548275623
+uprowadzić	protestować	1.0361523099131564
+oddziaływać	ustąpić	0.8899110564810166
+oskarżać	nadużywać	0.7640086756841183
+udusić	powstrzymywać się	1.2129844931325986
+protestować	obrabować	1.2428446806753854
+udaremnić	poddać się	0.9370571083978011
+kraść	zezwalać	1.2943008722441893
+zdradzać	buntować się	0.9326936965422027
+osądzać	udaremnić	1.0275129251166857
+osądzać	uprowadzić	0.8014617899436659
+zatrzymywać	anulować	0.842842034746717
+nie uznawać	zeznawać	1.1256621975810166
+oszczędzić	udusić	1.1216162642327554
+nie uznawać	eksmitować	0.9938185070728839
+odrzucać	kraść	1.0705160796227184
+kraść	oswobadzać	1.3137544196255118
+ograniczać	limitować	0.7291379645380485
+kraść	anulować	1.1828787947774821
+pozwać	usprawiedliwiać	0.8477652115924961
+zeznawać	unieważnić	0.9007130768753189
+zakazać	blokować	0.5520159734143548
+wstrzymać się	stronić	0.6476983215622063
+udzielać	uwalniać	0.8857788903073981
+ustąpić	zezwalać	0.8532072277403803
+uwalniać	bronić	1.0133086954949773
+popełnić	odurzyć	0.8036888712243574
+unieważnić	zrzekać się	0.8463208259119777
+wystrzegać się	obrabować	1.129664562270631
+sprzeciwiać się	uznać	1.1400768511048363
+wyrzekać się	ukarać	0.8919621944858055
+egzekwować	uznać	0.8976933359221316
+oskarżać	zrzekać się	0.832608456841696
+przestrzegać	prześladować	1.270369978568499
+zaskarżyć	uznać	1.058145966882457
+egzekwować	odurzyć	1.0398226897681648
+zeznawać	winić	1.0238203773184882
+zabić	zabraniać	1.0952694522633168
+zabić	udaremnić	1.1833082661681706
+oswobadzać	poddać się	1.2432456155466343
+zatrzymywać	spiskować	0.8865300475951122
+oszczędzić	buntować się	0.8689031654227644
+anulować	wstrzymać się	0.8130472406991097
+ustąpić	udzielać	0.6535066608386312
+porwać	wyrzekać się	1.1427255701763104
+maltretować	spiskować	0.706131985907236
+zdradzać	porwać	0.948560691868524
+egzekwować	bronić	0.980925152257474
+dopuszczać	oszczędzić	0.8984898052739528
+zezwalać	udusić	1.2585726966212876
+uniewinnić	odrzucać	0.8914981550019073
+oskarżać	zeznawać	0.871927204851376
+potępiać	kraść	1.1916722920875629
+uniewinnić	udusić	1.2975210629587903
+zrzekać się	wstrzymać się	0.9521737928853224
+popełnić	eksmitować	0.9654754660406127
+anulować	zabić	1.12380835666043
+oskarżać	egzekwować	0.8742492841522812
+uwalniać	zrzekać się	1.2027614587908644
+korumpować	sprzeciwiać się	1.1022365399261393
+korumpować	przestrzegać	1.279755930268082
+spiskować	unieważnić	1.018311141753688
+uwalniać	oswobadzać	0.8112042475056152
+oswobadzać	oskarżać	1.016704945090636
+zezwalać	osądzać	1.1038781130610265
+zabić	narzucać	1.0145646667037433
+usprawiedliwiać	bronić	0.7820727328671884
+blokować	unieważnić	0.7339895140610073
+ukarać	zdradzać	0.8088888107167592
+protestować	ograniczać	0.850691758081899
+wyrzekać się	obrabować	1.1958696823621935
+strzec się	korumpować	1.3090976502672036
+zaskarżyć	ewakuować	1.0817296394696527
+zatrzymywać	kraść	1.0599564606404122
+egzekwować	odrzucać	1.0626232276481253
+egzekwować	korumpować	0.8873593498245925
+prześladować	napadać	0.7318440828108075
+oskarżać	odurzyć	1.0500643595022203
+prześladować	wyrzekać się	1.013590991317266
+zezwalać	porwać	1.30105610981875
+anulować	unikać	0.9801403269376429
+wzbraniać	zabić	1.1074208838382094
+protestować	ukarać	0.9499756957478924
+tłumić	odurzyć	0.9435088496226516
+aresztować	oskarżać	0.783301037535752
+przestrzegać	zezwalać	1.095183943739349
+usprawiedliwiać	uznać	0.69487815661545
+zabraniać	maltretować	0.9749362176440822
+unikać	buntować się	1.1803763296042955
+zabraniać	uzurpować	0.955103282455554
+winić	eksmitować	0.9909456230619931
+maltretować	uwalniać	1.1559260590563842
+zaskarżyć	napadać	1.0656245471194905
+zdradzać	spiskować	0.5271094670618617
+odrzucać	pozwolić	1.0046598811087624
+prześladować	zdradzać	0.8263731111593429
+egzekwować	obrabować	1.0247049064757379
+stronić	zatrzymywać	0.8901692729455546
+unieważnić	winić	0.941483915532139
+osądzać	maltretować	0.7640813007983337
+stronić	unikać	0.736170993165519
+uprowadzić	pozwolić	1.0779522963679284
+uznać	obrabować	1.1169629713494391
+uniewinnić	zeznawać	0.9871683441294324
+osądzać	sprzeciwiać się	0.9280939905400122
+sprzeciwiać się	unikać	1.0971446602844168
+oddziaływać	obrabować	1.1872186186106441
+uznać	unieważnić	0.9130413171131334
+tłumić	uzurpować	0.9725796969211291
+odurzyć	dopuszczać	1.1635900212230197
+aresztować	wystrzegać się	1.1119754043897427
+protestować	strzec się	1.2233073497760385
+popełnić	uwalniać	1.0114789145893628
+zakazać	udusić	0.9800425228846099
+zabić	oskarżać	1.0562195963074998
+winić	ukarać	0.8791145473284551
+winić	narzucać	0.7033085713575091
+przestrzegać	zakazać	1.1916393527762805
+ograniczać	poddać się	0.8936597971810399
+maltretować	potępiać	1.1151696513032423
+obrabować	uwalniać	1.1545603873565957
+zrzekać się	oszczędzić	1.0975258423879024
+uprowadzić	sprzeciwiać się	0.9571056997887067
+zatrzymywać	powstrzymywać się	0.51174284882748
+wstrzymać się	wystrzegać się	0.5518740535846021
+zakazać	poddać się	0.9477216267536775
+sprzeciwiać się	eksmitować	1.0016452106410023
+zabić	ustąpić	1.1804206297487487
+przestrzegać	udusić	1.1929593217841705
+dopuszczać	uniewinnić	0.9047413840079889
+anulować	dopuszczać	1.013113101850873
+udzielać	poddać się	0.8060771620906442
+udaremnić	ustąpić	1.06767290498986
+bronić	zeznawać	0.7569817078783623
+stronić	usprawiedliwiać	0.8619334756506845
+spiskować	ograniczać	0.9756905011534501
+aresztować	nie uznawać	0.877745686795799
+wstrzymać się	ukarać	0.8329632544558657
+porwać	pozwolić	1.1450184248436375
+sprzeciwiać się	zatrzymywać	0.872962582414484
+narzucać	prześladować	0.796494098686665
+osądzać	zaskarżyć	0.6821518860927399
+napadać	narzucać	0.8591229593061402
+sprzeciwiać się	pozwać	0.6883121955371835
+prześladować	wzbraniać	0.9875925428971865
+limitować	obrabować	1.0812959838519596
+unieważnić	poddać się	0.9164265524998754
+kraść	odurzyć	0.6008859503227808
+zezwalać	ograniczać	1.234431627706583
+nie uznawać	ustąpić	1.0681371120742453
+zrzekać się	obrabować	1.2299163928153456
+bronić	zrzekać się	0.8581863590017201
+popełnić	wyrzekać się	1.0960242764538886
+ukarać	odrzucać	0.8625846630126753
+zaskarżyć	protestować	0.8146537222857246
+bronić	udaremnić	1.304126240758626
+zrzekać się	prześladować	1.0940722685549216
+wystrzegać się	pozwolić	0.9748374359611224
+zatrzymywać	unikać	0.9241743154347275
+anulować	strzec się	0.9857014646709166
+uwalniać	ewakuować	0.9547217989871192
+pozwać	ograniczać	0.8285348056728011
+blokować	usprawiedliwiać	1.0833510270257203
+nadużywać	ustąpić	1.1385923833191212
+buntować się	spiskować	0.8586793136003411
+sprzeciwiać się	protestować	0.4021927485681832
+zaskarżyć	oszczędzić	1.0810642763851268
+protestować	oddziaływać	0.8699592279096181
+ewakuować	usprawiedliwiać	1.1590396084719352
+narzucać	usprawiedliwiać	0.9581280606601505
+pozwać	egzekwować	0.9368609446564868
+ukarać	bronić	1.0171568084686367
+oswobadzać	blokować	1.1806355064331506
+protestować	maltretować	0.9980024210751706
+obrabować	aresztować	1.0594477130220834
+kraść	dopuszczać	1.1787726214971666
+porwać	nadużywać	0.7596182925428572
+strzec się	przestrzegać	0.8859330625352051
+ograniczać	prześladować	1.0156600706595331
+zrzekać się	powstrzymywać się	0.8535261827726833
+pozwolić	udaremnić	1.2288124979848147
+udaremnić	dopuszczać	1.2369786767576434
+kraść	zakazać	0.9795660838822915
+uzurpować	potępiać	1.0270317578338926
+zakazać	prześladować	0.961274436613632
+pozwać	pozwolić	0.9145939255669574
+ewakuować	przestrzegać	1.038092460194607
+pozwolić	usprawiedliwiać	0.5760417640212526
+udusić	oswobadzać	1.315226678059615
+przestrzegać	zabić	1.2729015523334035
+wstrzymać się	strzec się	0.8431716090900758
+maltretować	zatrzymywać	0.9973788425013733
+oswobadzać	zatrzymywać	1.0686802560566326
+zabić	oswobadzać	1.3315803629754472
+pozwolić	kraść	1.143889940157667
+narzucać	zabraniać	0.9132542410015805
+zatrzymywać	dopuszczać	1.1468739931934755
+oszczędzić	korumpować	1.1457682149869166
+wstrzymać się	wyrzekać się	0.7659685481449692
+zeznawać	blokować	1.0368041620399053
+powstrzymywać się	maltretować	0.9877995302375671
+ewakuować	ustąpić	1.2296518384030402
+wyrzekać się	nadużywać	1.2223818846967112
+zeznawać	uwalniać	0.9836055837194332
+zrzekać się	nadużywać	1.0470735627215286
+zezwalać	wyrzekać się	1.101842180507421
+udaremnić	popełnić	0.9350356226245383
+unieważnić	usprawiedliwiać	0.937448050621937
+zakazać	odurzyć	0.982187756477556
+zaskarżyć	potępiać	0.7057159058091145
+zakazać	pozwolić	1.225284924987287
+popełnić	wzbraniać	1.026992359363161
+zatrzymywać	ewakuować	1.023170408088451
+powstrzymywać się	zakazać	0.8970374417203762
+poddać się	sprzeciwiać się	1.1196677274204458
+oskarżać	usprawiedliwiać	0.9424499172070354
+spiskować	osądzać	0.7835939289948057
+prześladować	uzurpować	0.7659782431093168
+anulować	maltretować	1.1448618030831477
+zeznawać	ukarać	1.0329373215057067
+odurzyć	eksmitować	0.9583371081110023
+dopuszczać	popełnić	0.9406745401855463
+popełnić	aresztować	1.1625186483895922
+obrabować	wzbraniać	0.8976876620777973
+aresztować	udaremnić	0.8771109152924199
+przestrzegać	spiskować	1.1332356186157155
+udzielać	spiskować	0.888149228649219
+pozwać	ewakuować	1.0752442501351722
+uniewinnić	osądzać	0.9254431910014858
+zabraniać	zatrzymywać	0.6286251417318631
+obrabować	sprzeciwiać się	1.1990113506899602
+zabraniać	pozwać	0.8918717473531905
+odurzyć	zatrzymywać	1.1315597932979633
+aresztować	egzekwować	1.0997570093778704
+ograniczać	strzec się	1.0044685789504644
+odrzucać	udzielać	1.1781126749592414
+zabić	odrzucać	1.0802144670760276
+winić	ograniczać	0.8292078224463294
+uniewinnić	zdradzać	1.1059821480482155
+osądzać	kraść	0.9044550776971273
+prześladować	popełnić	0.9404624594067104
+zakazać	strzec się	1.0275730357383228
+nie uznawać	protestować	0.8795002064118222
+zezwalać	ewakuować	0.9209273138393609
+protestować	uwalniać	1.2735905504651446
+uniewinnić	ewakuować	0.9937197634059739
+zatrzymywać	pozwać	0.8520258139020724
+zezwalać	oddziaływać	0.7936427310639997
+oswobadzać	udaremnić	1.3144752198191205
+ukarać	kraść	0.6694459817016629
+buntować się	potępiać	0.8954646589787724
+limitować	buntować się	1.022932483550269
+powstrzymywać się	oskarżać	0.9140484421933677
+powstrzymywać się	zdradzać	1.110365101270631
+odrzucać	ewakuować	1.0180155555159374
+uprowadzić	eksmitować	0.856597676603907
+prześladować	aresztować	0.8337731170866745
+uniewinnić	przestrzegać	0.8335928869343499
+zaskarżyć	wstrzymać się	1.0677393814681344
+zrzekać się	tłumić	1.147365563113763
+udzielać	potępiać	1.1681178218978245
+sprzeciwiać się	udusić	1.2066997761667542
+winić	tłumić	1.1257171284269045
+uprowadzić	bronić	1.1173362864649206
+usprawiedliwiać	napadać	1.3703033483248201
+spiskować	wystrzegać się	1.0183706302517774
+odrzucać	ograniczać	0.6899263837514346
+oskarżać	spiskować	0.8034458083917313
+dopuszczać	odrzucać	1.0288964474845086
+prześladować	protestować	0.9788396230059543
+oskarżać	porwać	0.9701644114948437
+pozwolić	zezwalać	0.6698707036244511
+winić	prześladować	0.9373193498504399
+eksmitować	oszczędzić	0.986527598206504
+zrzekać się	ewakuować	1.165947231624852
+stronić	strzec się	0.7522388462367616
+odrzucać	zakazać	0.9327076069984932
+popełnić	przestrzegać	0.9841750661644242
+zabić	spiskować	0.930276024219875
+popełnić	powstrzymywać się	0.9148682259940243
+oddziaływać	bronić	0.7354057019135601
+zeznawać	uprowadzić	0.9472807146556914
+oszczędzić	zdradzać	1.069224955086231
+porwać	spiskować	0.70954537122393
+anulować	protestować	0.8746426717181135
+maltretować	wzbraniać	0.8343036161241664
+egzekwować	protestować	0.9877702218021285
+wystrzegać się	unikać	0.7616291023660668
+obrabować	uniewinnić	1.2302217811760396
+spiskować	obrabować	0.8733926948494944
+dopuszczać	oswobadzać	0.7918375813857289
+nie uznawać	anulować	0.7703540117526376
+zdradzać	zabić	0.8947752170213402
+napadać	uprowadzić	0.6440459619575869
+zaskarżyć	poddać się	1.0941709278261766
+poddać się	wystrzegać się	1.1478729408029051
+spiskować	uznać	0.9822624005308618
+nie uznawać	winić	0.6766953088667976
+dopuszczać	zezwalać	0.5134305459128947
+powstrzymywać się	ustąpić	1.0676938393182445
+strzec się	blokować	0.9681816084205128
+egzekwować	prześladować	1.042054046693978
+protestować	buntować się	0.9286364876613346
+blokować	uznać	1.0707012749771345
+ukarać	uznać	1.131095737421209
+dopuszczać	oskarżać	0.9378919389638093
+osądzać	anulować	0.8027249262372138
+udaremnić	protestować	1.1925956736407706
+popełnić	oddziaływać	0.9859437862341303
+kraść	narzucać	0.8936429493803071
+tłumić	narzucać	0.8671019594865865
+zakazać	unieważnić	0.7837875920725269
+uniewinnić	narzucać	0.9003198187444807
+zakazać	osądzać	0.8119365717019376
+zakazać	zeznawać	1.143523668120412
+udaremnić	stronić	0.8855412473757586
+uwalniać	narzucać	1.1516433508973327
+oddziaływać	eksmitować	0.990240238367577
+buntować się	wyrzekać się	0.9521493387279799
+wystrzegać się	napadać	1.2694928793194538
+przestrzegać	buntować się	1.1191031209995819
+ustąpić	uniewinnić	0.9575495604393948
+spiskować	narzucać	0.9502827940322792
+pozwać	powstrzymywać się	0.9308848377435476
+uzurpować	sprzeciwiać się	1.0080517650079814
+buntować się	uzurpować	0.9482918524803303
+oswobadzać	obrabować	1.3169594080194549
+uznać	osądzać	0.9654122367107977
+maltretować	oddziaływać	1.1195807599185121
+uprowadzić	egzekwować	0.9933426605666642
+winić	odrzucać	0.8872800875564227
+uwalniać	porwać	1.1515423280371107
+oddziaływać	zatrzymywać	0.8181997989751059
+winić	uprowadzić	1.020399536781612
+ograniczać	wstrzymać się	0.7851560051754057
+oddziaływać	oskarżać	0.8395249129686494
+popełnić	unikać	0.8777667769404258
+oddziaływać	pozwać	0.7642202125525157
+wzbraniać	aresztować	0.8665535075006654
+oswobadzać	popełnić	1.1915612466730279
+zezwalać	powstrzymywać się	1.1595583148776671
+zaskarżyć	udzielać	1.215749929467649
+zakazać	uznać	1.181008199968561
+uniewinnić	powstrzymywać się	0.8710068140323429
+uniewinnić	maltretować	1.1673306535205432
+maltretować	eksmitować	0.9415844047893154
+korumpować	obrabować	0.7504096634257751
+oszczędzić	limitować	1.1676968006770991
+uprowadzić	unikać	1.1313371845073152
+sprzeciwiać się	popełnić	1.1654267311871636
+uwalniać	stronić	1.1434919298436865
+porwać	poddać się	1.0762319591754224
+aresztować	poddać się	1.2385793409299546
+zezwalać	zrzekać się	0.915663524797307
+sprzeciwiać się	blokować	0.8238791355359031
+wzbraniać	zatrzymywać	0.5513770683747518
+zeznawać	udaremnić	1.041303351258733
+oswobadzać	bronić	1.0335588545027024
+narzucać	zrzekać się	0.9517947722067253
+potępiać	pozwolić	1.1536746046163189
+zaskarżyć	zezwalać	1.1398869563196772
+ograniczać	aresztować	0.8519448960800308
+potępiać	anulować	0.7963276826229091
+odrzucać	strzec się	0.9510439235209942
+prześladować	udzielać	1.2144650104640293
+pozwać	korumpować	0.936753161882307
+napadać	oskarżać	1.0514066032714098
+udzielać	sprzeciwiać się	1.0781700056159105
+anulować	udzielać	0.999809809752236
+usprawiedliwiać	kraść	1.2442050695749916
+ewakuować	powstrzymywać się	1.0104964064201274
+nadużywać	udaremnić	1.0140354083795111
+anulować	zezwalać	1.017849849022436
+ograniczać	uniewinnić	0.9875414687073317
+zrzekać się	oswobadzać	1.013758565782969
+powstrzymywać się	limitować	1.022983351038059
+odurzyć	bronić	1.2512580787650995
+udusić	aresztować	0.8949486269452981
+prześladować	zezwalać	1.335719377457152
+nadużywać	powstrzymywać się	1.0611159447703844
+zatrzymywać	pozwolić	1.1041089154578572
+nadużywać	strzec się	1.1366916487293548
+obrabować	bronić	1.2847599352011687
+potępiać	eksmitować	0.9746295517690788
+prześladować	zeznawać	1.1065520924761538
+zatrzymywać	porwać	1.0377453110784618
+zeznawać	wyrzekać się	1.1162748944120395
+ukarać	zezwalać	1.0479461305349471
+ewakuować	stronić	0.9142561263074994
+kraść	maltretować	0.5689587810198629
+sprzeciwiać się	pozwolić	1.0098829017482132
+udzielać	popełnić	0.6520636177803297
+osądzać	pozwać	0.608522765479794
+napadać	ukarać	0.8738781366675985
+napadać	anulować	1.1429399736391161
+usprawiedliwiać	powstrzymywać się	1.0018426823402529
+powstrzymywać się	zaskarżyć	1.0320537406114727
+oswobadzać	osądzać	1.1006739887007317
+ustąpić	buntować się	1.1418750812091507
+potępiać	zatrzymywać	0.7560776433933307
+egzekwować	ograniczać	1.0351379959068352
+limitować	ewakuować	1.0844458868120286
+uwalniać	zabić	1.2401474778022086
+ewakuować	prześladować	0.9192872369146847
+oswobadzać	uprowadzić	1.2253505265019582
+sprzeciwiać się	zabić	1.2243331052450832
+uzurpować	udaremnić	1.0613481427855644
+spiskować	uprowadzić	0.7274085629920632
+ewakuować	porwać	1.063475449125834
+tłumić	porwać	0.7675743162034172
+maltretować	zaskarżyć	0.8920853350513636
+odurzyć	obrabować	0.6195888401039719
+uzurpować	strzec się	1.2115366718513194
+zezwalać	unikać	1.0081176557323364
+ustąpić	maltretować	1.0264657712707037
+uniewinnić	pozwolić	0.9109285684868671
+anulować	ustąpić	0.9101366579450569
+nadużywać	unieważnić	1.0562025988886774
+anulować	zaskarżyć	0.763378018114549
+strzec się	zdradzać	1.2298924196862904
+spiskować	tłumić	0.9974800489734382
+napadać	uzurpować	0.8038510134557711
+zabraniać	popełnić	1.067174725535877
+eksmitować	unikać	1.0531935726516506
+zabić	nie uznawać	1.0337680662833633
+ukarać	oddziaływać	0.9373035582207371
+stronić	udzielać	1.094485919660909
+korumpować	napadać	0.73349310275796
+bronić	porwać	1.196751039451189
+poddać się	dopuszczać	0.8134114474493916
+nie uznawać	poddać się	0.8472572196188976
+wystrzegać się	potępiać	1.1578591110960281
+odurzyć	pozwać	1.0936898720292716
+zezwalać	zakazać	1.3581179846403875
+protestować	odrzucać	0.8666295572890534
+zezwalać	uzurpować	1.3903640019634615
+limitować	wyrzekać się	0.9050263798799386
+wstrzymać się	usprawiedliwiać	0.9459984988978507
+maltretować	udusić	0.628027605475089
+napadać	pozwolić	1.2176615858268014
+oszczędzić	sprzeciwiać się	1.250664054972467
+uniewinnić	wyrzekać się	0.7175388565587836
+przestrzegać	powstrzymywać się	0.9021605463542318
+wstrzymać się	uzurpować	1.050226052121467
+porwać	zakazać	0.9649102564951199
+tłumić	korumpować	1.1655556552416462
+udusić	bronić	1.1652870552929864
+zabraniać	blokować	0.5424338934451703
+dopuszczać	eksmitować	1.0012259983287441
+limitować	potępiać	0.9838526104032369
+odurzyć	potępiać	1.1235492968382625
+wystrzegać się	egzekwować	1.1336024103850584
+potępiać	aresztować	0.8931592684810817
+porwać	udzielać	1.1250890773021502
+oddziaływać	uznać	1.0091812866506595
+tłumić	popełnić	1.0246599200163076
+nadużywać	nie uznawać	0.8897873179797295
+ustąpić	eksmitować	1.2551266688210467
+odurzyć	strzec się	0.912271871534214
+zabraniać	aresztować	0.8305015955109102
+napadać	zabraniać	0.8946287661498322
+blokować	porwać	0.9489991316332205
+stronić	wzbraniać	0.8474294398035488
+zezwalać	narzucać	1.1879309586475368
+sprzeciwiać się	porwać	1.0427893482632038
+protestować	kraść	1.2291493270513072
+kraść	uwalniać	1.2897157231942586
+winić	zaskarżyć	0.6521807794547289
+egzekwować	unieważnić	0.9088909403091993
+udzielać	korumpować	1.2791484201793115
+wyrzekać się	spiskować	0.9156594410499178
+udaremnić	prześladować	1.1725428418792518
+sprzeciwiać się	bronić	0.926957849476275
+usprawiedliwiać	uwalniać	0.9867163960745927
+osądzać	uzurpować	0.7933038841140589
+oswobadzać	ograniczać	1.2091082411857605
+anulować	oswobadzać	0.9368720886049098
+uznać	zatrzymywać	1.2679281706556147
+wyrzekać się	nie uznawać	0.8308321387272397
+buntować się	ukarać	0.9802969240045856
+prześladować	strzec się	0.9814378529423259
+ustąpić	wystrzegać się	1.2431269883437872
+wyrzekać się	anulować	0.8136133026012599
+nadużywać	obrabować	0.7079303106521381
+kraść	aresztować	1.084857435216611
+unieważnić	oddziaływać	1.1112838061606516
+protestować	unikać	1.2052945453618562
+popełnić	zakazać	1.029533198455931
+odrzucać	potępiać	0.7786705439388469
+popełnić	ustąpić	0.9657629070821948
+kraść	blokować	0.9816538697831245
+anulować	oskarżać	0.6844525148923379
+stronić	odrzucać	0.8007158279136122
+wystrzegać się	zdradzać	1.0561428291042378
+przestrzegać	uznać	1.0165397154299554
+ukarać	ustąpić	1.0673291954098898
+obrabować	zaskarżyć	1.1004856186708956
+protestować	blokować	0.9095866990241044
+zezwalać	potępiać	1.0927239787753178
+porwać	zaskarżyć	0.9214905464086071
+aresztować	stronić	0.8866071295201848
+maltretować	winić	0.8623559667413924
+udzielać	bronić	0.8815028240079602
+ograniczać	korumpować	1.037509307713619
+stronić	napadać	1.1207638300125782
+zeznawać	udzielać	0.8362868803686293
+zdradzać	pozwolić	0.8816384249833179
+zeznawać	wystrzegać się	1.0353514929049952
+winić	uzurpować	0.8634676883182256
+winić	stronić	0.8261579057879936
+zakazać	bronić	1.136799939436537
+ograniczać	zatrzymywać	0.5577195476754923
+powstrzymywać się	zabić	1.1983321846524497
+tłumić	uprowadzić	0.8778153888293004
+limitować	zakazać	0.8594908515583014
+zakazać	zabić	1.118684671342044
+egzekwować	zabić	1.040265543243095
+uprowadzić	popełnić	0.90413631287471
+zdradzać	protestować	1.1245390064442542
+sprzeciwiać się	powstrzymywać się	0.9803196463199162
+udzielać	zezwalać	0.7092094115943928
+aresztować	zatrzymywać	0.7212875934872658
+udusić	oskarżać	0.9051655341706469
+stronić	uprowadzić	0.9788547938425957
+strzec się	zabraniać	1.1681016149789678
+sprzeciwiać się	wystrzegać się	0.8391353101928647
+przestrzegać	oddziaływać	1.0251124546672867
+popełnić	spiskować	0.80582645712956
+ewakuować	dopuszczać	1.008156645886168
+poddać się	zeznawać	0.8841198532706566
+nadużywać	oszczędzić	1.1873047713448353
+usprawiedliwiać	aresztować	1.0642475250736003
+zeznawać	buntować się	0.8236259492253892
+powstrzymywać się	spiskować	1.003845978297516
+zdradzać	aresztować	0.9655900436252661
+poddać się	oszczędzić	1.0221297786009855
+bronić	blokować	1.149550356278744
+unikać	dopuszczać	1.0362337432433308
+ewakuować	narzucać	1.072182312562081
+sprzeciwiać się	oddziaływać	0.7203011748140024
+strzec się	spiskować	1.0958811748126414
+usprawiedliwiać	spiskować	0.9540938239122875
+egzekwować	eksmitować	0.9872634527615319
+przestrzegać	odurzyć	1.026979059533655
+oddziaływać	strzec się	0.984780562312769
+poddać się	kraść	0.9743554856672255
+udaremnić	korumpować	1.1366917500653937
+zabraniać	udzielać	1.2632799310153278
+stronić	eksmitować	0.9702223132168563
+wyrzekać się	aresztować	0.9217166266865391
+oszczędzić	zeznawać	0.7224347126465237
+usprawiedliwiać	obrabować	1.3124990353553554
+zabraniać	porwać	1.0161178823815336
+zeznawać	ustąpić	0.8717722665667424
+popełnić	anulować	0.9551719644481207
+zeznawać	uzurpować	1.2021634783043327
+porwać	odurzyć	0.7065854509789857
+zrzekać się	potępiać	0.9239706718885183
+zeznawać	udusić	1.0965232720843379
+przestrzegać	zdradzać	1.1307534957467422
+uprowadzić	aresztować	0.9553045566595122
+nie uznawać	powstrzymywać się	1.0730805632313758
+uwalniać	oszczędzić	0.890286224447331
+popełnić	ukarać	0.8642371492202401
+zezwalać	poddać się	1.2265966091182503
+unieważnić	aresztować	0.9912905244166091
+anulować	ewakuować	0.9209793232027985
+odurzyć	poddać się	0.9856063837836865
+uzurpować	bronić	1.1999421887099504
+uznać	anulować	0.9906424300365848
+winić	oddziaływać	1.0063153712048527
+zezwalać	winić	1.2010932575107434
+anulować	oddziaływać	0.74755554121599
+zabić	aresztować	0.9315593461620253
+unikać	porwać	1.0942523031207188
+aresztować	uzurpować	0.8483666329998533
+zatrzymywać	obrabować	1.1103798097944144
+zeznawać	anulować	0.932687275997721
+wyrzekać się	odurzyć	1.1361235766485878
+oszczędzić	narzucać	1.094963271172147
+strzec się	maltretować	0.9753979722079913
+strzec się	powstrzymywać się	0.8790598418090785
+uzurpować	odurzyć	1.0255930195662282
+anulować	tłumić	0.7553978480928988
+ograniczać	bronić	1.1946992191990946
+porwać	maltretować	0.5980087477185517
+zeznawać	zatrzymywać	0.996232982952994
+zatrzymywać	przestrzegać	1.0447092077373572
+uznać	stronić	1.1330850091107594
+unikać	udusić	1.087890250916224
+uzurpować	odrzucać	0.9025475974778977
+unikać	przestrzegać	0.9508533356987292
+udaremnić	wstrzymać się	0.9492671063579874
+pozwolić	winić	1.0995551476049399
+nadużywać	eksmitować	0.9234675284102944
+napadać	ustąpić	1.1743025111075573
+uznać	maltretować	1.0988910078211067
+winić	zabraniać	0.8732500067299521
+buntować się	ograniczać	1.0825998598943412
+aresztować	dopuszczać	1.3521446897519955
+wystrzegać się	udzielać	0.9711823623396584
+ewakuować	oddziaływać	0.8931194342000627
+strzec się	ustąpić	1.1742644197407432
+udzielać	napadać	1.208512864618407
+uprowadzić	poddać się	1.036365860587834
+wstrzymać się	powstrzymywać się	0.31205538354565726
+protestować	porwać	1.0902125756519057
+aresztować	unikać	1.048641162644414
+porwać	buntować się	1.132495386922043
+udzielać	zakazać	1.091483542848816
+zdradzać	blokować	1.193560745138664
+wyrzekać się	ustąpić	1.1517769887649927
+obrabować	oszczędzić	1.1637625094149062
+strzec się	zeznawać	0.8546416001154983
+zakazać	maltretować	0.9315470214325213
+zeznawać	spiskować	0.922121612825193
+prześladować	anulować	1.0551819816971426
+limitować	zdradzać	1.2966179919491485
+stronić	zezwalać	1.167673565823747
+protestować	uniewinnić	0.956141569423145
+obrabować	udaremnić	1.0271008568986175
+popełnić	nadużywać	0.8988977067973651
+wyrzekać się	zrzekać się	0.44357704097186
+blokować	anulować	0.7817570223548668
+przestrzegać	obrabować	1.169060869075331
+obrabować	zdradzać	0.8815206108055827
+zabraniać	anulować	0.9192683498178483
+wystrzegać się	oskarżać	1.09761879707036
+zdradzać	pozwać	0.8657655818974551
+unikać	zabić	1.174446820699658
+wstrzymać się	porwać	1.1163113559389677
+buntować się	eksmitować	0.8762644690815982
+oddziaływać	wyrzekać się	0.9080176015898112
+unikać	zeznawać	0.809878840159134
+oskarżać	kraść	1.04788112863047
+blokować	spiskować	0.9219477514878742
+maltretować	bronić	1.2178980530728256
+bronić	prześladować	1.1761178217309864
+eksmitować	zatrzymywać	1.1773472937526135
+uprowadzić	blokować	0.918162043068652
+oswobadzać	narzucać	1.1183684423824916
+aresztować	pozwać	1.0020228956467114
+oddziaływać	porwać	1.0997278942241862
+limitować	pozwać	0.8584123849312298
+ewakuować	spiskować	0.9595585494381096
+korumpować	zatrzymywać	1.0787446775013065
+limitować	udusić	1.2064658823067371
+bronić	oszczędzić	0.8669777730176325
+udzielać	odurzyć	1.0122578442926842
+zaskarżyć	bronić	0.8407192664208331
+powstrzymywać się	wzbraniać	0.6991725254456026
+tłumić	pozwać	1.0083560221949972
+popełnić	uniewinnić	0.9610593663694812
+zeznawać	zezwalać	0.822875043539474
+unieważnić	zaskarżyć	0.9275719422524866
+ukarać	uniewinnić	0.9588247891221433
+uwalniać	potępiać	1.170753893144158
+stronić	zdradzać	0.9374617256641846
+udzielać	protestować	1.2284186010326983
+napadać	popełnić	0.813355982003316
+udzielać	egzekwować	0.9584597181719909
+zrzekać się	pozwać	0.8338512234220451
+winić	udusić	1.0176091708166097
+popełnić	stronić	1.0865181523658511
+oskarżać	pozwolić	0.9690211243334225
+unikać	unieważnić	0.836461111090652
+winić	ustąpić	0.9554902822618042
+obrabować	prześladować	0.7530976642369657
+udusić	obrabować	0.7236689035083989
+uznać	udaremnić	1.3139061311101736
+odurzyć	oddziaływać	1.1489417209003294
+oskarżać	tłumić	0.937801828347598
+unieważnić	osądzać	0.8391765235020465
+tłumić	bronić	1.0741950973236853
+prześladować	wystrzegać się	1.2713758221004954
+spiskować	zakazać	0.9300329685559573
+ustąpić	unikać	1.2592634690802817
+udzielać	zrzekać się	0.9210159166217641
+limitować	dopuszczać	1.1462842335383552
+udzielać	strzec się	0.9376064981325323
+uniewinnić	tłumić	1.0980504188601954
+korumpować	zezwalać	1.3213386843355666
+ewakuować	kraść	1.1100238320287614
+uprowadzić	zabraniać	0.9609227048501779
+wzbraniać	nie uznawać	0.7816327064460271
+anulować	buntować się	0.8546589292333827
+uniewinnić	strzec się	0.9709477263843974
+winić	buntować się	0.9772740096856432
+wystrzegać się	nie uznawać	0.9067086837141768
+egzekwować	oszczędzić	0.9844119601482835
+protestować	ustąpić	1.168420291436554
+buntować się	wystrzegać się	1.1408208967338813
+pozwolić	poddać się	1.0500831426759667
+zdradzać	zezwalać	1.021283762756511
+tłumić	sprzeciwiać się	0.8872089400543895
+usprawiedliwiać	zeznawać	0.7067016390217954
+pozwolić	ukarać	1.003133062152889
+protestować	powstrzymywać się	0.8306719677424261
+udaremnić	oskarżać	0.9894193126711639
+ukarać	stronić	0.7962248880858654
+udusić	odurzyć	0.8055289038534007
+obrabować	unikać	0.961378675122117
+wystrzegać się	uniewinnić	0.7702777506979498
+spiskować	wzbraniać	0.9635968561663826
+potępiać	narzucać	0.7550504832503684
+unieważnić	eksmitować	0.9500785073133236
+stronić	bronić	0.9265774865132465
+sprzeciwiać się	strzec się	1.0988053999570253
+wzbraniać	odurzyć	0.985274996059802
+zabić	wystrzegać się	1.2971842215436156
+sprzeciwiać się	udaremnić	1.0634504202490265
+uprowadzić	anulować	0.9713221861582143
+zabić	tłumić	1.0134665168564032
+korumpować	wystrzegać się	1.4133245374481394
+uniewinnić	wzbraniać	1.0050226084705938
+nadużywać	pozwolić	1.1281775415831574
+nadużywać	potępiać	0.9047240202644076
+zeznawać	odrzucać	0.9480242267012061
+unikać	zaskarżyć	1.1646596390891315
+narzucać	przestrzegać	1.172557437188424
+wstrzymać się	blokować	0.622120375807765
+wstrzymać się	eksmitować	1.1320364864648036
+uprowadzić	unieważnić	0.8358933158407982
+zaskarżyć	wyrzekać się	1.2105480148433443
+obrabować	oskarżać	1.0386110161653708
+nie uznawać	buntować się	0.9363049420936694
+zabraniać	zezwalać	1.3310589288950374
+zrzekać się	korumpować	1.1070362016429283
+udaremnić	odurzyć	1.043847168931581
+pozwać	spiskować	0.7248465137246113
+zezwalać	odurzyć	1.164969955971206
+kraść	sprzeciwiać się	1.1946941321011677
+wyrzekać się	uzurpować	1.165361204772091
+wzbraniać	ustąpić	1.1349812199616165
+wystrzegać się	zabraniać	0.9542149872841603
+anulować	egzekwować	0.8264426056821906
+ustąpić	udusić	1.1853503666848628
+udusić	uwalniać	1.204878647633921
+buntować się	usprawiedliwiać	0.8433460379206915
+buntować się	udusić	0.9890150671070534
+stronić	powstrzymywać się	0.7729616353056101
+osądzać	zeznawać	0.812046994668901
+wyrzekać się	korumpować	1.2486861581675248
+uznać	ewakuować	1.1428324943902568
+ewakuować	pozwolić	0.8995756435946245
+eksmitować	usprawiedliwiać	1.1150404132102238
+strzec się	obrabować	0.975818432182326
+usprawiedliwiać	uniewinnić	0.7346095851334398
+oswobadzać	buntować się	0.913730156165156
+limitować	pozwolić	1.3031339320152022
+napadać	unikać	1.0946806765227985
+zabić	zezwalać	1.305711671807548
+eksmitować	strzec się	0.9652508480439572
+zakazać	dopuszczać	1.1678142473226771
+zakazać	ustąpić	1.0088327736021256
+oswobadzać	ukarać	1.024411175661389
+winić	udaremnić	1.048877955185973
+unieważnić	odurzyć	1.0282303857318622
+napadać	buntować się	1.0553926492244476
+udaremnić	nie uznawać	0.9615768311342612
+zabraniać	oszczędzić	1.3333635940208401
+napadać	dopuszczać	1.2987876617564376
+unikać	potępiać	0.8681770156673347
+powstrzymywać się	odurzyć	1.057137878010467
+winić	usprawiedliwiać	0.9692103825264909
+porwać	osądzać	0.7317044506196643
+powstrzymywać się	narzucać	0.8239519214182075
+uniewinnić	stronić	0.7725605774067889
+limitować	stronić	0.8151507042353678
+popełnić	usprawiedliwiać	0.8367711144533021
+udzielać	kraść	1.1520952773722835
+ukarać	eksmitować	1.1353206776201887
+oskarżać	potępiać	0.6543373066157451
+bronić	odrzucać	0.996520242175765
+oddziaływać	prześladować	1.013847298979079
+wzbraniać	nadużywać	0.9042254180757477
+eksmitować	protestować	0.7909905882294714
+uzurpować	porwać	0.9593226698567384
+odrzucać	przestrzegać	1.097991917552777
+strzec się	potępiać	1.0614853963710988
+zakazać	winić	0.8670314549663062
+winić	zabić	1.0445809432678765
+obrabować	unieważnić	0.9711572174002729
+odrzucać	maltretować	1.1348242938940036
+ewakuować	aresztować	0.9155796023596606
+oszczędzić	osądzać	1.0329102196715352
+uwalniać	aresztować	1.3560377503707726
+zrzekać się	osądzać	0.7033064924141277
+dopuszczać	ukarać	1.1670996181114324
+prześladować	uprowadzić	0.8415158951442152
+zeznawać	narzucać	0.9600187316750854
+udzielać	osądzać	1.1386930468181815
+korumpować	blokować	0.933848593911349
+wstrzymać się	nadużywać	1.1331240279852022
+zabić	limitować	1.1415853063859496
+osądzać	dopuszczać	1.0566574002886828
+zdradzać	eksmitować	1.0304155640537909
+osądzać	oskarżać	0.5029410291622888
+zabraniać	unikać	1.0004057133552873
+zrzekać się	odrzucać	0.7427649010593321
+udusić	zaskarżyć	0.8657965401301417
+obrabować	ewakuować	1.0587397267470002
+zezwalać	nie uznawać	1.3515571449782995
+kraść	stronić	1.1568556738995848
+unikać	zrzekać się	1.1219820146201012
+odrzucać	narzucać	0.9316421947086803
+zabraniać	uznać	1.2410117917283288
+uzurpować	wystrzegać się	1.2349580917273364
+uprowadzić	ustąpić	1.011181886444393
+udaremnić	ukarać	0.9540629063255842
+udaremnić	anulować	0.9808060067454113
+bronić	zabić	1.2339123378445451
+potępiać	napadać	1.0757966375843881
+zakazać	oswobadzać	1.1315587072353412
+zrzekać się	poddać się	1.0394443221256993
+buntować się	blokować	1.016512443816639
+udusić	uznać	1.077229621116138
+dopuszczać	protestować	1.0873551495293348
+oswobadzać	usprawiedliwiać	0.8464286984130782
+unikać	osądzać	1.0487505516172126
+udzielać	oswobadzać	1.0640897137964733
+udaremnić	wystrzegać się	0.9602642799791136
+tłumić	osądzać	0.9322388699518394
+aresztować	uznać	1.3023826431199252
+uniewinnić	limitować	1.0364313193207768
+udusić	kraść	0.7131932072378343
+oskarżać	zdradzać	0.9399329926687462
+protestować	oswobadzać	0.936616265382315
+korumpować	dopuszczać	1.2965845454963152
+nadużywać	wystrzegać się	1.1596706133244625
+usprawiedliwiać	zabraniać	1.144256742155616
+ograniczać	napadać	1.0568702189959311
+ustąpić	porwać	1.0815984954221447
+limitować	zrzekać się	1.009022066474762
+limitować	usprawiedliwiać	1.1260281921279445
+uznać	odrzucać	1.130794804031103
+korumpować	unikać	1.27043726120302
+zakazać	napadać	0.9199841770018747
+poddać się	ustąpić	0.37282012080274796
+unikać	poddać się	1.256527234792381
+aresztować	ukarać	0.6459343148860006
+zdradzać	ewakuować	0.9950844998064362
+uwalniać	uniewinnić	0.9497146432441793
+unieważnić	kraść	1.131617159214832
+odrzucać	wystrzegać się	0.9255956908338516
+protestować	osądzać	0.8803754226447289
+dopuszczać	buntować się	0.8252974911689271
+narzucać	wystrzegać się	1.002178933550656
+uprowadzić	nadużywać	0.9050787975816877
+wstrzymać się	uprowadzić	1.054576306140481
+ukarać	limitować	0.9481371962798513
+nie uznawać	pozwolić	1.2627007173206346
+pozwać	nie uznawać	0.9270939789854269
+obrabować	zabić	0.7131383858963138
+oszczędzić	zakazać	1.3098190460174504
+oskarżać	uniewinnić	1.1228366738109192
+ewakuować	oszczędzić	0.834711364339396
+dopuszczać	zabić	1.2074584046381223
+spiskować	odurzyć	0.840610110239962
+oszczędzić	ograniczać	1.2177017776792878
+zabić	maltretować	0.5330286649702862
+oskarżać	limitować	0.8658669493572453
+wzbraniać	oszczędzić	1.3509470555549965
+zabraniać	wyrzekać się	0.9020293410231365
+uniewinnić	poddać się	1.0096597194669368
+uprowadzić	limitować	1.087231416728256
+pozwolić	uwalniać	0.97774169567925
+uwalniać	poddać się	1.1019534780992102
+ustąpić	korumpować	1.0966760890468772
+osądzać	zabraniać	0.8471179004604253
+ewakuować	udzielać	1.0696565695839373
+unikać	winić	1.2092113108765585
+odurzyć	zdradzać	0.8654346070882827
+spiskować	poddać się	1.0081219359623044
+uniewinnić	anulować	0.6452392595375502
+winić	korumpować	1.1216284165388308
+korumpować	oddziaływać	1.068509311717001
+udzielać	oskarżać	1.1513382772332064
+nadużywać	uwalniać	1.2928512605372875
+maltretować	unikać	1.0691286117998873
+usprawiedliwiać	tłumić	1.0834632376917432
+zezwalać	oszczędzić	0.8653332988686115
+usprawiedliwiać	ukarać	1.0811426705663847
+limitować	eksmitować	1.0742762961615888
+prześladować	potępiać	0.8102751754942252
+powstrzymywać się	prześladować	1.0231704585366157
+limitować	zaskarżyć	0.8802163145345289
+ukarać	zakazać	0.8819167251553092
+zeznawać	zdradzać	1.0300693769432818
+powstrzymywać się	udaremnić	0.9355105917688461
+zaskarżyć	narzucać	0.7614114991250888
+winić	odurzyć	1.1335008353396938
+spiskować	limitować	1.1099281323837855
+osądzać	popełnić	0.8051000921124964
+protestować	winić	0.8461744899775809
+stronić	zabraniać	0.9219485836991205
+pozwać	napadać	1.0796486122131759
+oskarżać	popełnić	0.9610917646507252
+prześladować	uznać	1.0781050231608582
+odurzyć	nie uznawać	1.0104773578808706
+pozwać	unikać	1.0745831517515139
+uzurpować	kraść	0.9408132233088935
+oszczędzić	wystrzegać się	1.2367998980266117
+oszczędzić	unikać	0.873022087907245
+udzielać	pozwolić	0.7562570633705492
+maltretować	korumpować	0.6996210929955563
+zdradzać	wyrzekać się	1.0426941346544245
+powstrzymywać się	porwać	1.113443366720505
+uprowadzić	kraść	0.7387081547269737
+ukarać	narzucać	0.9199148851488329
+usprawiedliwiać	zakazać	1.139163044399637
+dopuszczać	wstrzymać się	1.0951300699989581
+pozwolić	protestować	1.1377254728127049
+zabić	osądzać	0.841230670222653
+zabić	zeznawać	1.1221935998292487
+zakazać	tłumić	0.7871885043529061
+stronić	zeznawać	1.1310746856420255
+nadużywać	limitować	1.010525864310777
+osądzać	oddziaływać	0.966164889590741
+uzurpować	zabić	1.0261692906161075
+zaskarżyć	oddziaływać	0.8052773476118196
+udzielać	tłumić	1.220696072000773
+strzec się	uwalniać	0.8590482040987992
+zdradzać	uzurpować	0.9448114188140782
+oskarżać	zabraniać	0.8744925306577718
+protestować	wzbraniać	0.7857693185330497
+sprzeciwiać się	ukarać	0.9368535271913677
+wyrzekać się	usprawiedliwiać	0.874017586626189
+wystrzegać się	wzbraniać	0.7752238528933532
+popełnić	oszczędzić	0.898396411893746
+unieważnić	napadać	1.024361502103212
+oswobadzać	nie uznawać	1.1584230049956035
+powstrzymywać się	zeznawać	1.0229058888335423
+ustąpić	blokować	1.007841584321036
+egzekwować	napadać	0.9905860321428769
+zabić	uznać	1.2178029497210747
+stronić	maltretować	0.9766954963326608
+wyrzekać się	powstrzymywać się	0.8290912029482821
+oszczędzić	nie uznawać	1.192640994779909
+aresztować	oswobadzać	1.0863612708480321
+uwalniać	zdradzać	1.1988847998797427
+zakazać	sprzeciwiać się	0.9635511515707371
+pozwolić	dopuszczać	0.5958229039985156
+bronić	poddać się	1.1289341335200953
+pozwolić	popełnić	1.0111817014535458
+uprowadzić	udaremnić	1.1429958096364075
+zezwalać	pozwać	1.0582349749038682
+narzucać	stronić	0.9380249005564892
+ewakuować	bronić	1.187821099432785
+porwać	unieważnić	0.9264585117296132
+przestrzegać	zeznawać	0.7716825065222576
+zaskarżyć	zdradzać	1.1283117139738559
+uprowadzić	powstrzymywać się	1.068246814311714
+unieważnić	udaremnić	0.9011617165981959
+przestrzegać	usprawiedliwiać	0.9489077294869799
+udaremnić	zaskarżyć	1.1403815458407636
+nie uznawać	tłumić	0.91658729846194
+ograniczać	popełnić	0.9882291274145846
+oszczędzić	potępiać	1.1703841329432547
+nadużywać	zezwalać	1.2157776716667559
+wstrzymać się	protestować	0.8327461147261953
+zatrzymywać	udaremnić	0.6709837056450789
+kraść	ustąpić	1.067283821155848
+narzucać	dopuszczać	1.0016410700344172
+zezwalać	bronić	0.6289466322018314
+winić	oszczędzić	1.2747481425107936
+ukarać	zaskarżyć	0.9151224436680641
+odrzucać	nie uznawać	0.6124598301201751
+osądzać	zdradzać	0.8988230489370858
+uwalniać	udaremnić	1.2916633966861117
+udusić	pozwolić	1.1438115557334176
+zabić	wstrzymać się	1.2218567344903282
+narzucać	pozwolić	1.1050449841077148
+uwalniać	spiskować	1.1345627269769192
+popełnić	zaskarżyć	1.04983155408597
+zrzekać się	udusić	1.0954537639487256
+zabić	ewakuować	1.1860785065802844
+porwać	uznać	1.1569737817843375
+strzec się	aresztować	1.0715269959488796
+zrzekać się	zdradzać	0.9590952927971466
+uznać	udzielać	0.6912009912428722
+uznać	poddać się	0.8158588536731669
+strzec się	zrzekać się	1.01633715669227
+oswobadzać	odurzyć	1.2233006926887535
+uwalniać	anulować	0.9943755618625051
+spiskować	potępiać	0.9489015270276395
+unieważnić	wstrzymać się	0.9762925785411386
+osądzać	udusić	0.7019334121150993
+osądzać	nadużywać	0.7033923799099926
+udaremnić	maltretować	1.0081756299835878
+maltretować	nadużywać	0.7121674701507951
+osądzać	aresztować	0.841029100347377
+zaskarżyć	oskarżać	0.38662757463840997
+kraść	oszczędzić	1.1427270017126878
+napadać	udaremnić	1.1372025490498845
+popełnić	zabić	0.9098818085808249
+strzec się	egzekwować	0.9515015676744581
+uznać	wyrzekać się	0.9403849300216698
+udaremnić	egzekwować	1.1245369678558197
+zabić	usprawiedliwiać	1.3142933256661953
+eksmitować	uniewinnić	0.9936551698466733
+zakazać	nie uznawać	0.7744625068701874
+potępiać	wstrzymać się	0.8261107200024926
+odrzucać	prześladować	0.9700158456046597
+blokować	ukarać	0.8403863111625145
+blokować	winić	0.861164633502671
+uniewinnić	oswobadzać	0.799116834661649
+buntować się	zabraniać	1.164273250132856
+zrzekać się	wzbraniać	0.984956793336715
+spiskować	dopuszczać	0.9431946229407465
+dopuszczać	wyrzekać się	1.0647656075542575
+korumpować	protestować	1.1165545368312584
+odrzucać	anulować	0.808656218919188
+oswobadzać	wyrzekać się	0.8223257856113062
+odrzucać	oswobadzać	1.048473554088133
+egzekwować	osądzać	0.7660049557097008
+oskarżać	buntować się	0.8470279378032316
+zatrzymywać	buntować się	1.0414563247880415
+unieważnić	dopuszczać	0.9648980103404106
+sprzeciwiać się	zrzekać się	1.1005455803552935
+prześladować	buntować się	0.6705931491405203
+zdradzać	nadużywać	0.7678516268611484
+porwać	pozwać	0.9236904814545529
+korumpować	aresztować	1.1783878219042279
+narzucać	udaremnić	0.9163221403271428
+wzbraniać	kraść	1.0421594516802488
+ukarać	unieważnić	1.0327571094153805
+pozwolić	stronić	1.0999187660014098
+aresztować	limitować	0.9609703270485854
+przestrzegać	bronić	0.9330156316452821
+sprzeciwiać się	ograniczać	0.7953252741181267
+popełnić	unieważnić	0.9290806890497669
+popełnić	blokować	0.9430236607392496
+zezwalać	sprzeciwiać się	1.0786364828932553
+udzielać	oddziaływać	0.9851949195970275
+korumpować	zaskarżyć	1.0184612642338806
+zakazać	wzbraniać	0.51074704304673
+tłumić	buntować się	0.8435695962600963
+strzec się	winić	1.203728165268545
+wstrzymać się	limitować	0.9821040186179142
+ukarać	uprowadzić	0.7018634356622461
+zatrzymywać	ustąpić	1.1415893360254994
+odrzucać	osądzać	0.8729335335366113
+bronić	korumpować	1.3041067434808178
+oskarżać	ewakuować	1.0284710708347429
+wzbraniać	osądzać	0.8244046289503402
+kraść	wstrzymać się	1.0795053739556537
+dopuszczać	oddziaływać	0.7953739271661604
+ewakuować	maltretować	1.1601486023250953
+unikać	bronić	1.115734631784834
+uznać	wzbraniać	1.2380889292553463
+osądzać	zatrzymywać	0.9712832232314093
+uwalniać	dopuszczać	0.6825933204677118
+uznać	uniewinnić	1.115020051277165
+wyrzekać się	strzec się	0.83971714518212
+udzielać	powstrzymywać się	1.0389232382884388
+buntować się	uprowadzić	1.0561603645431363
+strzec się	zabić	1.1460266031092305
+spiskować	zabraniać	1.0359179443327104
+udaremnić	udusić	1.196138294957825
+zrzekać się	zabraniać	0.9438963129286708
+zakazać	aresztować	0.8319284014542491
+korumpować	pozwolić	1.2207404746345367
+poddać się	odrzucać	1.0292805002976968
+tłumić	ograniczać	0.6487401825631948
+osądzać	poddać się	0.8943641491660589
+udzielać	ograniczać	1.05720290681022
+napadać	strzec się	1.1894092596108372
+uwalniać	zabraniać	1.3771353819022838
+aresztować	bronić	1.135533083148916
+zabraniać	nadużywać	0.866783590691808
+narzucać	uznać	0.9276933950919123
+zdradzać	egzekwować	1.0515259842650835
+tłumić	zabraniać	0.7517413872254014
+narzucać	oddziaływać	0.7694413725663776
+oddziaływać	udaremnić	1.0413681567629522
+uniewinnić	napadać	1.3336491138823077
+wstrzymać się	napadać	1.2122275019454338
+uznać	strzec się	1.020878299639944
+powstrzymywać się	kraść	1.103280257296177
+wzbraniać	bronić	1.1621388653902107
+protestować	bronić	0.9822446105248339
+uwalniać	uprowadzić	1.127921163404013
+ograniczać	wyrzekać się	0.7722764906077045
+wyrzekać się	tłumić	1.0063106067220216
+powstrzymywać się	napadać	1.1066481735290794
+zrzekać się	przestrzegać	1.0402219413616085
+wstrzymać się	zezwalać	1.1919598354238545
+kraść	uznać	1.050816173897299
+udzielać	zdradzać	0.9727989896631359
+bronić	wstrzymać się	1.141294923797804
+odurzyć	narzucać	0.9836319354328982
+pozwać	wstrzymać się	0.9532810959657703
+usprawiedliwiać	zezwalać	0.5384064417557695
+zrzekać się	oddziaływać	0.8551609246383736
+pozwolić	oddziaływać	0.8252463136597853
+ewakuować	unikać	0.7329284203013116
+narzucać	porwać	0.9256902392731379
+unikać	limitować	0.7412076224529656
+egzekwować	nadużywać	0.8784450549429331
+unikać	nadużywać	1.093444659168527
+wyrzekać się	pozwolić	0.9583865924550544
+blokować	ewakuować	0.9719089647035631
+usprawiedliwiać	odrzucać	1.0216227760199743
+sprzeciwiać się	przestrzegać	1.047006742707438
+ewakuować	wystrzegać się	1.0655852119438987
+zrzekać się	uniewinnić	0.8665670890384702
+wstrzymać się	zakazać	0.89392382765775
+unieważnić	udusić	1.0095891640130845
+nadużywać	dopuszczać	1.135303712324262
+wzbraniać	wyrzekać się	0.8388429573343726
+porwać	wzbraniać	0.8309031673163448
+odurzyć	zrzekać się	1.143974223571094
+strzec się	kraść	1.084789464571307
+winić	zatrzymywać	0.9512908780922018
+buntować się	odurzyć	1.039540991091508
+uzurpować	protestować	1.05292757449514
+oskarżać	zatrzymywać	1.0208465975320575
+oszczędzić	unieważnić	1.0613770737988537
+pozwolić	zabraniać	1.0665637777895922
+aresztować	oddziaływać	0.9514232229055474
+maltretować	napadać	0.5481051076106787
+zaskarżyć	ustąpić	1.1345376269506444
+uprowadzić	narzucać	0.8147343270699425
+ukarać	maltretować	0.7591307335850275
+wystrzegać się	ukarać	0.9931091687505139
+wzbraniać	pozwać	0.8851623175544502
+oszczędzić	odurzyć	1.0672852085997497
+anulować	przestrzegać	0.9274749460444254
+winić	przestrzegać	1.2802301852161384
+uwalniać	uznać	0.9126507382123222
+uzurpować	dopuszczać	1.2558816527706003
+tłumić	oszczędzić	1.009982345477587
+strzec się	buntować się	0.9904879108487608
+oszczędzić	odrzucać	0.9113457422062076
+udzielać	blokować	1.0574613140927038
+winić	udzielać	1.12645979171116
+nie uznawać	spiskować	0.9435554094171383
+obrabować	pozwolić	1.1565354833679369
+poddać się	zdradzać	1.1300774886577203
+popełnić	porwać	0.8629146815766718
+limitować	oswobadzać	1.281843114826225
+uniewinnić	buntować się	0.9248434900970144
+kraść	popełnić	0.8163279512618582
+udaremnić	zakazać	1.0274735553979517
+egzekwować	sprzeciwiać się	0.9587392350459668
+prześladować	kraść	0.8138191347360333
+wyrzekać się	napadać	1.3308640755083971
+unikać	egzekwować	1.104225712562407
+ograniczać	ukarać	1.0032083221282897
+narzucać	unikać	1.017572448920961
+wyrzekać się	zabić	1.1830371628184861
+blokować	zaskarżyć	0.8191479895788281
+oswobadzać	oddziaływać	0.9569204938647863
+napadać	uwalniać	1.2697844615754124
+tłumić	uwalniać	1.1134413657902575
+nie uznawać	uznać	1.0774956569023422
+udaremnić	unikać	1.0754842846812669
+oskarżać	nie uznawać	0.894408473701196
+blokować	zatrzymywać	0.4488610338344919
+porwać	stronić	1.0173233049790285
+potępiać	uznać	1.2045257481750502
+napadać	nie uznawać	0.9728163885154284
+przestrzegać	limitować	1.0926074536375245
+powstrzymywać się	unieważnić	1.1097603233579167
+unieważnić	uniewinnić	0.6423877658309597
+uwalniać	sprzeciwiać się	1.2422634876000416
+zabraniać	sprzeciwiać się	0.8788459867048807
+ewakuować	sprzeciwiać się	1.0355961810781018
+strzec się	bronić	1.097994190246386
+maltretować	oszczędzić	1.14751872162637
+zakazać	uprowadzić	0.9358853270605044
+napadać	zeznawać	1.1915817729149063
+poddać się	narzucać	0.9724858340281612
+spiskować	sprzeciwiać się	0.9650155741464425
+oswobadzać	winić	0.9062947147755778
+udusić	poddać się	1.0981131440950078
+korumpować	unieważnić	1.0665660606888252
+egzekwować	zeznawać	0.9367339682361003
+powstrzymywać się	zabraniać	0.7199788192944994
+oswobadzać	zabraniać	1.1141838732586569
+wystrzegać się	stronić	0.7172158150636081
+powstrzymywać się	winić	0.9907460101909139
+zabraniać	przestrzegać	1.1168298118908395
+nie uznawać	zrzekać się	0.8683179243857845
+potępiać	wzbraniać	0.7691079181471162
+narzucać	oskarżać	0.7416126678530222
+korumpować	oswobadzać	1.341794952826326
+sprzeciwiać się	usprawiedliwiać	1.0273553198763257
+korumpować	anulować	1.1984839347375995
+uzurpować	stronić	1.1198196083676506
+zabraniać	bronić	1.221228484736554
+nie uznawać	ewakuować	1.067884638811232
+zdradzać	anulować	1.1251964800542762
+zabić	nadużywać	0.9176002245961288
+pozwolić	ustąpić	0.9543516981117476
+zatrzymywać	bronić	1.1941014743023115
+odrzucać	wyrzekać się	0.6312238577888413
+udusić	blokować	0.9792541853372726
+prześladować	usprawiedliwiać	1.2036355106114747
+wstrzymać się	egzekwować	0.9867477868327063
+popełnić	protestować	1.139065875034416
+poddać się	nadużywać	1.0065839380914554
+limitować	prześladować	0.9591099547734783
+oddziaływać	nadużywać	1.0240525191335355
+ukarać	potępiać	0.9033748437619126
+zabić	potępiać	1.0817087172163684
+eksmitować	wzbraniać	1.0268033685189921
+kraść	nie uznawać	0.9682299153636524
+zabraniać	wstrzymać się	0.7403037095199454
+bronić	pozwać	0.9209382860799944
+zeznawać	sprzeciwiać się	1.0623021561470714
+osądzać	usprawiedliwiać	0.9477713948146547
+ograniczać	odurzyć	1.1117654488748598
+popełnić	narzucać	1.0245624942499054
+udzielać	udusić	1.1607320612386332
+strzec się	wystrzegać się	0.6247377250523493
+pozwolić	unieważnić	1.1952854164368687
+popełnić	udusić	0.8759817344096147
+korumpować	zabić	0.9001869987878967
+pozwać	wyrzekać się	1.0419479318121838
+przestrzegać	kraść	1.1989645291716773
+winić	poddać się	1.032565828203677
+wzbraniać	uwalniać	1.2875858538504663
+oszczędzić	napadać	1.2651783717714407
+anulować	unieważnić	0.514275216079124
+ukarać	uwalniać	1.294190601561675
+ukarać	oskarżać	0.7901273784566836
+narzucać	korumpować	0.8432229991950215
+odurzyć	sprzeciwiać się	1.2745606385605572
+pozwać	winić	0.5203670083236823
+odrzucać	korumpować	1.0246680254708544
+potępiać	poddać się	1.1752492645978634
+ukarać	spiskować	0.7194934614575145
+aresztować	zezwalać	1.3428761620078902
+sprzeciwiać się	zaskarżyć	0.7780215848997877
+pozwolić	tłumić	1.107010469198405
+korumpować	uzurpować	0.8364756862516574
+zdradzać	korumpować	0.7662062262693613
+wyrzekać się	kraść	1.1677527812581845
+zrzekać się	popełnić	1.1364274921376576
+oddziaływać	nie uznawać	1.0415139496528538
+usprawiedliwiać	anulować	0.8691337456932605
+porwać	uprowadzić	0.3129285876694678
+udaremnić	porwać	1.0621181543260219
+ograniczać	zrzekać się	0.9579910877845331
+poddać się	egzekwować	0.8295082029135872
+ograniczać	uwalniać	1.2070172045030487
+przestrzegać	blokować	1.0820404162400343
+korumpować	nadużywać	0.5070975859236222
+pozwać	udusić	0.9231679148005376
+aresztować	pozwolić	1.1468457036392625
+protestować	przestrzegać	1.3601252297566897
+popełnić	bronić	0.994495006597878
+oszczędzić	uniewinnić	1.1235494354079663
+pozwać	nadużywać	0.8014798337805145
+zrzekać się	uzurpować	1.0794370556464177
+nie uznawać	popełnić	1.044502648188558
+ukarać	pozwać	0.9795105135000379
+uniewinnić	spiskować	0.9975833288944321
+protestować	zakazać	0.9650212025828084
+powstrzymywać się	egzekwować	0.9462933053628435
+zdradzać	sprzeciwiać się	1.0398692387355928
+blokować	odrzucać	0.6472206459216749
+uznać	korumpować	1.1142217341178118
+blokować	nadużywać	0.8532718669628653
+zdradzać	nie uznawać	1.0847319879849942
+dopuszczać	bronić	0.7498041614046778
+ewakuować	zabraniać	1.094692362988809
+limitować	winić	0.8959515221664139
+ustąpić	oszczędzić	1.0473283093141268
+ograniczać	wzbraniać	0.6098721574887456
+odrzucać	udusić	1.057403847159629
+ewakuować	oswobadzać	1.0018175763098551
+uniewinnić	uprowadzić	1.0815240399192498
+zaskarżyć	uniewinnić	1.1116225572885041
+blokować	tłumić	0.6211256007740039
+korumpować	wzbraniać	0.9977228435869805
+potępiać	protestować	0.9671584739898518
+napadać	oddziaływać	1.1861842404990584
+stronić	sprzeciwiać się	0.7879030229948949
+maltretować	nie uznawać	0.9329116135703093
+powstrzymywać się	ograniczać	0.5801215816649028
+popełnić	ewakuować	1.0956045315802572
+zabraniać	zakazać	0.47767385023803716
+zakazać	oddziaływać	1.076105103434116
+zrzekać się	stronić	0.7819391320377587
+maltretować	uprowadzić	0.6772197104912712
+ograniczać	zeznawać	1.117760345465439
+udusić	anulować	1.068222762678202
+udusić	porwać	0.6969428500984968
+ograniczać	oskarżać	0.837766765120748
+wystrzegać się	eksmitować	1.1501819481611142
+oszczędzić	spiskować	1.1402146101640616
+obrabować	zakazać	0.980127129888272
+wyrzekać się	udusić	1.162790882060161
+ewakuować	uzurpować	1.0217973521369743
+oskarżać	prześladować	0.8901728794565886
+udaremnić	ewakuować	1.1933447712564678
+nadużywać	udusić	0.8289369341586557
+zezwalać	oskarżać	1.02531858020421
+powstrzymywać się	korumpować	1.1680400995923865
+obrabować	wstrzymać się	1.1043339000542531
+limitować	anulować	0.9681107914765203
+ukarać	tłumić	0.8819908183033173
+nadużywać	anulować	1.11390297108887
+osądzać	ewakuować	1.1114753722610886
+udusić	stronić	1.079935890992426
+ograniczać	zabraniać	0.6403389678575218
+korumpować	osądzać	0.9129651183907076
+protestować	oszczędzić	1.3283625541212136
+oskarżać	odrzucać	0.9129382970385294
+winić	porwać	1.0475774097758563
+uznać	zezwalać	0.6053678618718908
+poddać się	obrabować	0.910623411521254
+odrzucać	pozwać	0.98906455869997
+zakazać	uwalniać	1.0752048475967906
+oskarżać	wyrzekać się	1.0507261808244164
+tłumić	zeznawać	1.0978834603025447
+prześladować	zaskarżyć	0.9558024492996131
+pozwać	uwalniać	1.1480567467208669
+narzucać	udzielać	0.986967145804444
+tłumić	stronić	0.9450664280063213
+anulować	sprzeciwiać się	0.9112937664052706
+porwać	egzekwować	1.129772991129031
+usprawiedliwiać	zatrzymywać	1.087199771311368
+uprowadzić	wystrzegać się	0.9496879899422721
+korumpować	wstrzymać się	1.2071267527918677
+kraść	eksmitować	1.186493856811987
+pozwać	maltretować	0.8735936529047312
+pozwolić	powstrzymywać się	1.0445185244800514
+dopuszczać	winić	1.0529468417771959
+wzbraniać	ukarać	0.9017792553602395
+maltretować	oskarżać	0.8606474152316846
+zakazać	potępiać	0.9525037041507348
+egzekwować	zatrzymywać	1.0523066924265312
+wstrzymać się	uniewinnić	0.847940036077086
+wyrzekać się	uprowadzić	1.1312303466401938
+oswobadzać	spiskować	0.9422875367770571
+nadużywać	napadać	0.7414741242839621
+przestrzegać	porwać	1.094597652336648
+wyrzekać się	egzekwować	1.2188961760721695
+oddziaływać	usprawiedliwiać	0.7442491950727971
+wyrzekać się	protestować	1.000330412828499
+buntować się	aresztować	0.9494019114483928
+buntować się	bronić	0.7957504534852077
+zrzekać się	egzekwować	0.9762881882410447
+zaskarżyć	zabraniać	1.0779718325978882
+buntować się	udzielać	0.9711054311311
+zezwalać	wzbraniać	1.32608789480562
+usprawiedliwiać	poddać się	0.8786217281500823
+aresztować	zaskarżyć	0.9288938281377693
+zabraniać	zeznawać	1.1641990509372993
+buntować się	oddziaływać	0.8760859595120616
+przestrzegać	stronić	0.7360124788092016
+limitować	oddziaływać	1.1758737956593537
+uwalniać	zatrzymywać	1.1699932469808758
+uwalniać	przestrzegać	0.968740394323286
+blokować	uwalniać	1.1301554559356077
+odrzucać	unikać	0.8397276251413377
+eksmitować	udaremnić	1.3075198757633928
+porwać	korumpować	0.7384992409679715
+prześladować	wstrzymać się	1.07139669611028
+pozwać	zabić	1.000872786743459
+egzekwować	narzucać	0.6825606551393075
+uniewinnić	odurzyć	1.2072381250438429
+osądzać	przestrzegać	1.0842781595797382
+dopuszczać	blokować	1.1619868057545373
+ewakuować	tłumić	0.9724230334915333
+strzec się	zaskarżyć	1.1571306885857808
+unieważnić	prześladować	0.8798645890856455
+uzurpować	oszczędzić	1.1727779795741995
+anulować	pozwolić	1.081843367133764
+powstrzymywać się	uwalniać	1.1622736541102336
+pozwać	dopuszczać	0.8746452626837903
+zdradzać	popełnić	0.7881562921323834
+pozwolić	uznać	0.6806215700886893
+wstrzymać się	buntować się	1.0006508481084622
+zezwalać	wystrzegać się	1.0977681275771625
+poddać się	anulować	0.9661568108519965
+osądzać	powstrzymywać się	0.9744239441161263
+usprawiedliwiać	potępiać	0.944146529821843
+wstrzymać się	zeznawać	0.9700046296944221
+spiskować	bronić	0.9855558127756248
+uzurpować	spiskować	0.9427449627097317
+oszczędzić	ukarać	1.1573495462140178
+sprzeciwiać się	limitować	0.9308817816719999
+unikać	pozwolić	1.0175728879948163
+zatrzymywać	protestować	0.8613265694917442
+eksmitować	tłumić	1.0364925438636894
+osądzać	winić	0.6937082183643744
+wzbraniać	blokować	0.5100846267259509
+poddać się	eksmitować	1.2149642085157113
+zrzekać się	buntować się	0.9598856270435109
+uznać	wstrzymać się	1.1531137315435787
+buntować się	zakazać	1.0121180541459567
+ustąpić	ograniczać	0.9631256071848615
+zabić	ograniczać	1.2306960844539363
+zatrzymywać	prześladować	1.0252857685727983
+potępiać	popełnić	1.107824873786008
+eksmitować	przestrzegać	1.0998983014259827
+protestować	narzucać	0.7442879823518385
+ustąpić	egzekwować	0.8886805156554084
+winić	wzbraniać	0.8063320608170208
+limitować	strzec się	0.8315206595600818
+zeznawać	odurzyć	1.0853467099940293
+ewakuować	strzec się	0.76259363921891
+strzec się	narzucać	1.0829914142824024
+popełnić	zatrzymywać	0.9235739974489222
+narzucać	aresztować	0.8031295466450917
+zrzekać się	ustąpić	0.9048928930471125
+odrzucać	powstrzymywać się	0.9609226539871385
+wzbraniać	odrzucać	0.7131133405616644
+uzurpować	zakazać	0.8408454542772938
+tłumić	aresztować	0.8267557282021176
+ustąpić	odurzyć	1.078259027546282
+wystrzegać się	zaskarżyć	1.2915731071472656
+pozwolić	strzec się	1.0024026796217775
+unieważnić	przestrzegać	0.9132017906865811
+uzurpować	usprawiedliwiać	1.266785757732769
+odrzucać	sprzeciwiać się	0.8349963053542122
+uprowadzić	potępiać	1.0373730000186066
+spiskować	kraść	0.8379925811801496
+oskarżać	oszczędzić	1.035041589026007
+udzielać	oszczędzić	0.9726842204813123
+porwać	limitować	1.062960525032554
+buntować się	nadużywać	0.9592403759475999
+ewakuować	korumpować	1.1716311342236274
+przestrzegać	udaremnić	0.8947423995657101
+nie uznawać	dopuszczać	1.0830822984322834
+zrzekać się	protestować	0.9449435255848202
+pozwać	uznać	0.9442983577040656
+tłumić	oddziaływać	0.8273637011452054
+odrzucać	napadać	1.1039828619164083
+osądzać	bronić	0.8809605727202711
+potępiać	winić	0.8213582845559763
+uwalniać	oskarżać	1.106966927931957
+popełnić	pozwać	0.9218773391859466
+pozwolić	uzurpować	1.256420504808863
+pozwać	udaremnić	0.978397688002142
+nie uznawać	unikać	0.9384149754725247
+limitować	poddać się	0.9010044022310171
+wyrzekać się	wystrzegać się	0.6851141328191164
+osądzać	blokować	0.9239188145264453
+nadużywać	zeznawać	1.0927620537483596
+pozwać	strzec się	1.0153143433742842
+odurzyć	korumpować	0.9397882711539389
+oskarżać	unieważnić	0.8186940041702399
+spiskować	udaremnić	1.108474864466315
+uznać	limitować	1.141845908384113
+udusić	uzurpować	0.9847728172968057
+wstrzymać się	aresztować	0.9480426780838921
+oszczędzić	wstrzymać się	1.2059625073638074
+uzurpować	uznać	1.044903637046236
+bronić	narzucać	0.9563468177918338
+sprzeciwiać się	oskarżać	0.7799404401442048
+poddać się	stronić	1.2493257112293612
+oskarżać	uzurpować	0.7838929599963332
+napadać	udusić	0.7096046921617665
+nie uznawać	egzekwować	0.9978651233249275
+nadużywać	kraść	0.7689540477916317
+limitować	nie uznawać	0.6908782821931506
+bronić	powstrzymywać się	1.1191645268492627
+oskarżać	ustąpić	1.007469540481998
+wzbraniać	przestrzegać	1.1803682735986445
+tłumić	zdradzać	1.2300684115498974
+blokować	oszczędzić	1.0392440732915218
+maltretować	zdradzać	0.9928344819274755
+kraść	oddziaływać	1.204544618749058
+pozwolić	oszczędzić	0.8524720705654503
+blokować	odurzyć	0.9751146153506721
+przestrzegać	potępiać	1.1898390062649802
+eksmitować	zeznawać	0.9792393305582889
+popełnić	strzec się	1.029860352231905
+nadużywać	uznać	1.0311038819442462
+zatrzymywać	napadać	1.0491735371181896
+wstrzymać się	tłumić	0.7947724810010397
+limitować	kraść	1.0867446206731264
+poddać się	buntować się	1.1805415519899303
+wstrzymać się	wzbraniać	0.6910749100432753
+odrzucać	zezwalać	1.0980497971854053
+pozwać	prześladować	0.9049979017063426
+oszczędzić	prześladować	1.1476506550367598
+kraść	zabraniać	0.8751456863395407
+odurzyć	osądzać	0.9266905353346988
+ewakuować	zeznawać	0.9844331765338591
+przestrzegać	dopuszczać	1.0851385159649474
+blokować	zezwalać	1.2526695500817837
+stronić	zakazać	0.9681648199187142
+zabić	odurzyć	0.8478978274643681
+stronić	buntować się	0.8969244905430531
+odrzucać	uprowadzić	1.1616872749939406
+uzurpować	powstrzymywać się	1.0178307164219818
+napadać	wzbraniać	0.9384581964154911
+wstrzymać się	udzielać	1.0102963540247631
+wyrzekać się	unikać	0.9240534336081977
+odrzucać	zabraniać	0.8047802408799096
+protestować	uznać	1.0918219829380575
+prześladować	uwalniać	1.0850426880169781
+ograniczać	kraść	1.037272661114934
+potępiać	zdradzać	1.093845672630498
+egzekwować	buntować się	1.0178312251192179
+poddać się	uzurpować	0.991109817003246
+ukarać	porwać	0.8126234386092576
+popełnić	uzurpować	0.9490754929164702
+udaremnić	ograniczać	0.8225404251187212
+zakazać	ewakuować	1.1613704545079164
+stronić	ustąpić	1.219996607510432
+oskarżać	blokować	0.8457243468739312
+uprowadzić	zezwalać	1.2222935334030456
+wystrzegać się	oswobadzać	0.9988706319256832
+usprawiedliwiać	protestować	1.0434646253288085
+nadużywać	zaskarżyć	0.8725868801918302
+ustąpić	obrabować	1.1377079152198153
+narzucać	buntować się	0.9324765160395506
+uwalniać	osądzać	1.105931841623915
+zdradzać	zabraniać	1.1182307081445952
+prześladować	blokować	0.9813212993665488
+odrzucać	eksmitować	1.0105248946114094
+bronić	wyrzekać się	0.995642398137637
+wystrzegać się	przestrzegać	0.9915927970906055
+wyrzekać się	poddać się	1.249860129736624
+odurzyć	prześladować	0.9153341915194166
+protestować	ewakuować	1.092699801747944
+porwać	odrzucać	1.1492649086414244
+strzec się	nie uznawać	0.9183651436140692
+sprzeciwiać się	maltretować	1.0499707913953873
+ograniczać	nadużywać	0.9829671758249566
+zatrzymywać	wystrzegać się	0.8274583900823388
+udzielać	uniewinnić	1.0223677200384917
+pozwać	protestować	0.8801035817698217
+oskarżać	winić	0.40979422784846226
+uniewinnić	porwać	1.2322725781666104
+buntować się	ewakuować	0.8400462814333693
+zabraniać	eksmitować	1.2508485548300128
+korumpować	udusić	0.8160023424637313
+unieważnić	ewakuować	0.9660092853682385
+osądzać	ograniczać	0.8818168281837612
+udusić	oddziaływać	1.221220245246929
+ograniczać	usprawiedliwiać	1.089218539030217
+pozwać	ustąpić	0.9915400125480184
+oszczędzić	uprowadzić	1.271038283650884
+winić	kraść	1.0942768495865383
+pozwać	obrabować	1.0409861518878953
+oswobadzać	zdradzać	1.024831114377194
+potępiać	oddziaływać	0.868114461114681
+limitować	bronić	1.1190706185394446
+ustąpić	limitować	0.9355987877499784
+dopuszczać	udzielać	0.6163343987178409
+maltretować	oswobadzać	1.2573387062419765
+narzucać	wstrzymać się	0.8429757435081299
+usprawiedliwiać	korumpować	1.314395776898752
+zeznawać	limitować	1.0883488311243927
+ukarać	ewakuować	0.9636037564854772
+sprzeciwiać się	winić	0.8882794886903691
+oswobadzać	przestrzegać	0.8738431643637723
+zdradzać	zatrzymywać	1.1115263618214486
+narzucać	zakazać	0.8427066693049061
+oswobadzać	napadać	1.426758758656908
+wzbraniać	zdradzać	1.0950781392077258
+wstrzymać się	oswobadzać	0.9963060365976677
+oszczędzić	powstrzymywać się	1.1822051186702316
+prześladować	uniewinnić	1.1244890143104154
+buntować się	kraść	1.0784767336497847
+egzekwować	ewakuować	1.192474673337908
+uzurpować	przestrzegać	1.4079222628723278
+poddać się	oddziaływać	1.0508182513023592
+pozwolić	zrzekać się	0.8395566527440904
+zrzekać się	anulować	1.0178837420739304
+kraść	zdradzać	0.8485907244774608
+bronić	zdradzać	1.1420321324636646
+usprawiedliwiać	udzielać	0.6856308304243172
+uprowadzić	przestrzegać	1.0120865333300728
+zabić	zaskarżyć	0.9317331303711921
+oszczędzić	strzec się	0.9929267941023342
+wystrzegać się	dopuszczać	1.0790537740856045
+anulować	uzurpować	1.066479539015892
+zezwalać	buntować się	0.9333939210158573
+zakazać	oskarżać	0.7499717596400424
+egzekwować	pozwolić	0.9537317150667307
+oswobadzać	stronić	0.833567486222572
+strzec się	unieważnić	0.7565607195802709
+zdradzać	uprowadzić	0.8555313362888813
+zeznawać	oswobadzać	1.0070281676088126
+udusić	prześladować	0.7252777691042813
+eksmitować	anulować	0.8766326683178358
+potępiać	zabraniać	0.9290270307010298
+unikać	uzurpować	1.186028104035671
+stronić	spiskować	1.0100229391069708
+porwać	dopuszczać	1.1970717455454867
+oskarżać	przestrzegać	1.1669770719979407
+ustąpić	uzurpować	1.1292757412778909
+wstrzymać się	winić	1.0480325738224776
+protestować	aresztować	0.8984922694991501
+zaskarżyć	kraść	1.1667763515530276
