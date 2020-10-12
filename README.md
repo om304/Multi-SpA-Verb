@@ -1,11 +1,16 @@
 # Multi-SpA-Verb
-Multilingual semantic similarity evaluation resource for verbs in Finnish, Italian, Japanese, Polish, and Mandarin Chinese
+Multilingual semantic similarity evaluation resource for verbs in English, Finnish, Italian, Japanese, Polish, and Mandarin Chinese
 
-This repository contains the Supplementary Material for the COLING 2020 submission: “Manual Clustering and Spatial Arrangement of Verbs for Multilingual Evaluation and Typology Analysis”.
+This repository unifies the datasets introduced in the following papers: 
+
+Olga Majewska, Diana McCarthy, Ivan Vulić, and Anna Korhonen. 2020. “Manual Clustering and Spatial Arrangement of Verbs for Multilingual Evaluation and Typology Analysis”. In Proceedings of COLING 2020.
+
+Olga Majewska, Diana McCarthy, Jasper van den Bosch, Nikolaus Kriegeskorte, Ivan Vulić, and Anna Korhonen. 2020.  [__Spatial Multi-Arrangement for Clustering and Multi-way Similarity Dataset Construction__](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.705.pdf). In Proceedings of LREC 2020.
+
 
 ## Dataset structure
 
-The dataset includes the following languages: Finnish (fi), Italian (it), Japanese (ja), Polish (pl), and Mandarin Chinese (zh). In each language-specific folder, included are the following files (each file name starts with a corresponding language ID prefix: zh-, ja-, fi-, it-, pl-):
+The dataset includes the following languages: English (en), Finnish (fi), Italian (it), Japanese (ja), Polish (pl), and Mandarin Chinese (zh). In each language-specific folder, included are the following files (each file name starts with a corresponding language ID prefix: en-, fi-, it-, ja-, pl-, zh-):
 
 - verb-classes.txt : the semantic verb classes (Phase 1)
 
