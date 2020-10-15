@@ -27,7 +27,7 @@ Note that the number of classes, as well as their size and underlying semantics,
 
 - classid-map.txt : mappings of language-specific class IDs (langID) to the cross-lingually aligned class IDs (xlingID) in Table 3 in the paper (note that the cross-lingual alignment is based on overlap in class members, rather than perfect one-to-one mapping between class members in different languages, and English labels used in Table 3 are purely descriptive)
 
-- en-map.txt : word-level mappings between the source language (English) and the target language. Note that the mapping is not perfectly one-to-one: in order to account for different patterns of ambiguity, as well as the different distributions of lexical items in the source and target language, a single source word could be translated to multiple target words, and vice versa. 
+- en-map.txt : word-level mappings between the source language (English) and the target language. Note that the mapping is not perfectly one-to-one: in order to account for the different verb inventories and patterns of ambiguity in the source and target language, a single source word could be translated to multiple target words, and vice versa. For each English word recognised as polysemous, the individual senses identified are numbered (e.g., 1,2...) and mapped to their target language translation.
 
 
 ## Data format
