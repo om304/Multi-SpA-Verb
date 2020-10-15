@@ -23,9 +23,11 @@ And for each Phase 1 class:
 
 - class#.txt : pairwise similarity scores collected in Phase 2 for verbs in a given class (# - class ID)
 
-Note that the number of classes, as well as their size and underlying semantics, differ across languages (see Tables 1 and 3 in the manuscript), therefore class IDs are language-specific. To facilitate cross-lingual comparisons on similar semantic domains (e.g., verbs of emotion), we provide the following auxiliary file:
+Note that the number of classes, as well as their size and underlying semantics, differ across languages (see Tables 1 and 3 in the manuscript), therefore class IDs are language-specific. To facilitate cross-lingual comparisons on similar semantic domains (e.g., verbs of emotion), we provide the following auxiliary files:
 
 - classid-map.txt : mappings of language-specific class IDs (langID) to the cross-lingually aligned class IDs (xlingID) in Table 3 in the paper (note that the cross-lingual alignment is based on overlap in class members, rather than perfect one-to-one mapping between class members in different languages, and English labels used in Table 3 are purely descriptive)
+
+- en-map.txt : word-level mappings between the source language (English) and the target language. Note that the mapping is not perfectly one-to-one: in order to account for different patterns of ambiguity, as well as the different distributions of lexical items in the source and target language, a single source word could be translated to multiple target words, and vice versa. 
 
 
 ## Data format
