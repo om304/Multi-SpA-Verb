@@ -3,7 +3,7 @@ Multilingual semantic similarity evaluation resource for verbs in English, Finni
 
 This repository unifies the datasets introduced in the following papers: 
 
-Olga Majewska, Diana McCarthy, Ivan Vulić, and Anna Korhonen. 2020. “Manual Clustering and Spatial Arrangement of Verbs for Multilingual Evaluation and Typology Analysis”. In Proceedings of COLING 2020 [to appear].
+Olga Majewska, Diana McCarthy, Ivan Vulić, and Anna Korhonen. 2020. __Manual Clustering and Spatial Arrangement of Verbs for Multilingual Evaluation and Typology Analysis__. In Proceedings of COLING 2020 [to appear].
 
 Olga Majewska, Diana McCarthy, Jasper van den Bosch, Nikolaus Kriegeskorte, Ivan Vulić, and Anna Korhonen. 2020.  [__Spatial Multi-Arrangement for Clustering and Multi-way Similarity Dataset Construction__](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.705.pdf). In Proceedings of LREC 2020.
 
