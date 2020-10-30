@@ -29,6 +29,8 @@ Note that the number of classes, as well as their size and underlying semantics,
 
 - en-map.txt : word-level mappings (manual translations) between the source language (English) and the target language. Note that the mapping is not perfectly one-to-one: in order to account for the different verb inventories and patterns of ambiguity in the source and target language, a single source word could be translated to multiple target words, and vice versa, multiple source words could be translated to a single target word. For each English word recognised as polysemous, the individual senses identified are numbered (e.g., 1,2...) and mapped to their target language translation.
 
+- en/en-verb-sample.txt : the starting sample of 825 English verbs, translated into each of the languages
+
 
 ## Data format
 
