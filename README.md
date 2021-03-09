@@ -5,6 +5,8 @@ This repository unifies the datasets introduced in the following papers:
 
 Olga Majewska, Diana McCarthy, Ivan Vulić, and Anna Korhonen. 2020. [__Manual Clustering and Spatial Arrangement of Verbs for Multilingual Evaluation and Typology Analysis__](https://www.aclweb.org/anthology/2020.coling-main.423.pdf). In Proceedings of COLING 2020. [CITE](#Cite)
 
+Olga Majewska, Diana McCarthy, Jasper van den Bosch, Nikolaus Kriegeskorte, Ivan Vulić, and Anna Korhonen. 2021.  [__Semantic Data Set Construction from Human Clustering and Spatial Arrangement__](https://www.mitpressjournals.org/doi/abs/10.1162/coli_a_00396). In Computational Linguistics. [CITE](#Cite)
+
 Olga Majewska, Diana McCarthy, Jasper van den Bosch, Nikolaus Kriegeskorte, Ivan Vulić, and Anna Korhonen. 2020.  [__Spatial Multi-Arrangement for Clustering and Multi-way Similarity Dataset Construction__](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.705.pdf). In Proceedings of LREC 2020. [CITE](#Cite)
 
 
@@ -63,6 +65,17 @@ score : the similarity score for the pair; note that scores are scaled Euclidean
     url = "https://www.aclweb.org/anthology/2020.coling-main.423",
     pages = "4810--4824",
     abstract = "We present the first evaluation of the applicability of a spatial arrangement method (SpAM) to a typologically diverse language sample, and its potential to produce semantic evaluation resources to support multilingual NLP, with a focus on verb semantics. We demonstrate SpAM{'}s utility in allowing for quick bottom-up creation of large-scale evaluation datasets that balance cross-lingual alignment with language specificity. Starting from a shared sample of 825 English verbs, translated into Chinese, Japanese, Finnish, Polish, and Italian, we apply a two-phase annotation process which produces (i) semantic verb classes and (ii) fine-grained similarity scores for nearly 130 thousand verb pairs. We use the two types of verb data to (a) examine cross-lingual similarities and variation, and (b) evaluate the capacity of static and contextualised representation models to accurately reflect verb semantics, contrasting the performance of large language specific pretraining models with their multilingual equivalent on semantic clustering and lexical similarity, across different domains of verb meaning. We release the data from both phases as a large-scale multilingual resource, comprising 85 verb classes and nearly 130k pairwise similarity scores, offering a wealth of possibilities for further evaluation and research on multilingual verb semantics.",
+}
+```
+
+```
+@article{majewska2020semantic,
+  title={Semantic Data Set Construction from Human Clustering and Spatial Arrangement},
+  author={Majewska, Olga and McCarthy, Diana and van den Bosch, Jasper JF and Kriegeskorte, Nikolaus and Vuli{\'c}, Ivan and Korhonen, Anna},
+  journal={Computational Linguistics},
+  pages={1--48},
+  year={2020},
+  publisher={MIT Press}
 }
 ```
  
